@@ -15,7 +15,7 @@ ses = boto3.client("ses", region_name="us-east-1")
 SENDER_EMAIL = os.environ.get("SENDER_EMAIL", "lf.elgueta@gmail.com")
 RECIPIENT_EMAIL = os.environ.get("RECIPIENT_EMAIL", "lf.elgueta@gmail.com")
 GITHUB_PAT = os.environ.get("GITHUB_PAT", "")
-GITHUB_REPO = "lfelgueta/Daily_Stock_Signals"
+GITHUB_REPO = "lfelguetac/Daily_Stock_Signals"
 
 SIGNAL_COLORS = {
     "Momentum Breakout": "#10b981",
