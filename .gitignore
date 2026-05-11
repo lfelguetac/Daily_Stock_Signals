@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.so
+
+# Terraform
+.terraform/
+*.tfstate
+*.tfstate.backup
+terraform.tfvars
+
+# Build artifacts
+functions/*.zip
+infra/*.zip
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
