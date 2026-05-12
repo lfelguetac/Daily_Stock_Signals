@@ -1,4 +1,4 @@
-# Intraday Signals — 2026-05-12 | 🌤️ Afternoon | 19:22 UTC
+# Intraday Signals — 2026-05-12 | ⚡ Power Hour / Close | 21:00 UTC
 
 > ⚠️ **No es asesoria financiera.** Tradea con gestion de riesgo. Maximo 2% de riesgo por operacion.
 
@@ -9,77 +9,97 @@
 | Metrica | Valor |
 |---------|-------|
 | Tickers analizados | 23 |
-| Setups LONG | 7 |
-| Setups SHORT | 9 |
-| Sin senal | 7 |
+| Setups LONG | 12 |
+| Setups SHORT | 6 |
+| Sin senal | 5 |
 
-**Sesgo:** 🔴 **Sesgo BAJISTA** — Muchos tickers bajo VWAP con presion de venta. Cuidado con los LONGs, considerar SHORTs o cash.
+**Sesgo:** 🟢 **Sesgo ALCISTA** — La mayoria de tickers estan sobre VWAP con volumen. Priorizar LONGs.
 
-**Sector mas fuerte:** Unknown (score 47) | **Sector mas debil:** Unknown (score 47)
+**Sector mas fuerte:** Unknown (score 58) | **Sector mas debil:** Unknown (score 58)
 
 ---
 
 
 ## 🎯 Mejores Setups del Momento
 
-### 🟢 AAPL — $294.51 (+0.6%) | Score: 88/100
-**Direccion:** LONG | **VWAP:** $291.67 | **RSI:** 51 | **ATR:** $0.66 | **Vol:** 2.2x
-**Entrada:** $295.85 | **Stop:** $294.86 (riesgo $0.99)
-**Targets:** T1: $296.84 | T2: $297.83 | T3: $298.82 | R:R 1:2.0
-**Por que:** Precio sobre VWAP (+0.97%); EMA9 > EMA20 (alcista); RSI 51 neutral; Volumen diario 2.2x (muy alto)
+### 🟢 AAPL — $294.87 (+0.8%) | Score: 88/100
+**Direccion:** LONG | **VWAP:** $291.73 | **RSI:** 63 | **ATR:** $0.65 | **Vol:** 2.2x
+**Entrada:** $296.03 | **Stop:** $295.05 (riesgo $0.98)
+**Targets:** T1: $297.01 | T2: $297.99 | T3: $298.97 | R:R 1:2.0
+**Por que:** Precio sobre VWAP (+1.08%); EMA9 > EMA20 (alcista); RSI 63; Volumen diario 2.2x (muy alto)
 
-### 🟢 NVDA — $220.45 (+0.5%) | Score: 77/100
-**Direccion:** LONG | **VWAP:** $214.25 | **RSI:** 70 | **ATR:** $1.20 | **Vol:** 2.2x
-**Entrada:** $220.41 | **Stop:** $218.71 (riesgo $1.70)
-**Targets:** T1: $222.11 | T2: $223.81 | T3: $225.51 | R:R 1:2.0
-**Por que:** Precio sobre VWAP (+2.89%); EMA9 > EMA20 (alcista); RSI 70 zona alta; Volumen diario 2.2x (muy alto)
+### 🟢 IONQ — $55.87 (-1.8%) | Score: 85/100
+**Direccion:** LONG | **VWAP:** $53.39 | **RSI:** 64 | **ATR:** $0.81 | **Vol:** 2.3x
+**Entrada:** $55.59 | **Stop:** $54.56 (riesgo $1.03)
+**Targets:** T1: $56.62 | T2: $57.65 | T3: $58.68 | R:R 1:2.0
+**Por que:** Precio sobre VWAP (+4.65%); EMA9 > EMA20 (alcista); RSI 64; Volumen diario 2.3x (muy alto)
 
-### 🟢 SPY — $736.74 (-0.3%) | Score: 70/100
-**Direccion:** LONG | **VWAP:** $734.73 | **RSI:** 77 | **ATR:** $1.01 | **Vol:** 2.9x
-**Entrada:** $739.46 | **Stop:** $737.95 (riesgo $1.51)
-**Targets:** T1: $740.97 | T2: $742.48 | T3: $743.99 | R:R 1:2.0
-**Por que:** Precio sobre VWAP (+0.27%); EMA9 > EMA20 (alcista); RSI 77 sobrecomprado (correccion probable); Volumen diario 2.9x (muy alto)
+### 🟢 MU — $765.77 (-3.7%) | Score: 80/100
+**Direccion:** LONG | **VWAP:** $729.73 | **RSI:** 78 | **ATR:** $10.46 | **Vol:** 2.6x
+**Entrada:** $761.94 | **Stop:** $746.25 (riesgo $15.69)
+**Targets:** T1: $777.63 | T2: $793.32 | T3: $809.01 | R:R 1:2.0
+**Por que:** Precio sobre VWAP (+4.94%); EMA9 > EMA20 (alcista); Cruce EMA alcista HOY; RSI 78 sobrecomprado (correccion probable)
 
-### 🟢 RKLB — $119.14 (+1.5%) | Score: 67/100
-**Direccion:** LONG | **VWAP:** $103.19 | **RSI:** 68 | **ATR:** $1.68 | **Vol:** 1.1x
-**Entrada:** $118.54 | **Stop:** $117.09 (riesgo $1.45)
-**Targets:** T1: $119.99 | T2: $121.44 | T3: $122.89 | R:R 1:2.0
-**Por que:** Precio sobre VWAP (+15.46%); EMA9 > EMA20 (alcista); RSI 68 zona alta
+### 🟢 QQQ — $707.20 (-0.8%) | Score: 80/100
+**Direccion:** LONG | **VWAP:** $701.43 | **RSI:** 78 | **ATR:** $1.62 | **Vol:** 2.9x
+**Entrada:** $707.44 | **Stop:** $705.01 (riesgo $2.43)
+**Targets:** T1: $709.87 | T2: $712.30 | T3: $714.73 | R:R 1:2.0
+**Por que:** Precio sobre VWAP (+0.82%); EMA9 > EMA20 (alcista); Cruce EMA alcista HOY; RSI 78 sobrecomprado (correccion probable)
 
-### 🟢 NVDL — $113.11 (+0.9%) | Score: 67/100
-**Direccion:** LONG | **VWAP:** $105.65 | **RSI:** 69 | **ATR:** $1.18 | **Vol:** 0.7x
-**Entrada:** $112.54 | **Stop:** $111.34 (riesgo $1.20)
-**Targets:** T1: $113.74 | T2: $114.94 | T3: $116.14 | R:R 1:2.0
-**Por que:** Precio sobre VWAP (+7.06%); EMA9 > EMA20 (alcista); RSI 69 zona alta
+### 🟢 NVDA — $220.87 (+0.7%) | Score: 77/100
+**Direccion:** LONG | **VWAP:** $214.33 | **RSI:** 71 | **ATR:** $1.16 | **Vol:** 2.2x
+**Entrada:** $221.07 | **Stop:** $219.39 (riesgo $1.68)
+**Targets:** T1: $222.75 | T2: $224.43 | T3: $226.11 | R:R 1:2.0
+**Por que:** Precio sobre VWAP (+3.05%); EMA9 > EMA20 (alcista); RSI 71 zona alta; Volumen diario 2.2x (muy alto)
 
-### 🟢 AMD — $439.48 (-4.2%) | Score: 65/100
-**Direccion:** LONG | **VWAP:** $433.17 | **RSI:** 60 | **ATR:** $4.05 | **Vol:** 2.0x
-**Entrada:** $440.20 | **Stop:** $435.99 (riesgo $4.21)
-**Targets:** T1: $444.41 | T2: $448.62 | T3: $452.83 | R:R 1:2.0
-**Por que:** Precio sobre VWAP (+1.46%); EMA9 < EMA20 (bajista); RSI 60; Volumen diario 2.0x (muy alto)
+### 🟢 TSLA — $433.45 (-2.6%) | Score: 77/100
+**Direccion:** LONG | **VWAP:** $425.69 | **RSI:** 73 | **ATR:** $2.36 | **Vol:** 2.8x
+**Entrada:** $433.73 | **Stop:** $430.39 (riesgo $3.34)
+**Targets:** T1: $437.07 | T2: $440.41 | T3: $443.75 | R:R 1:2.0
+**Por que:** Precio sobre VWAP (+1.82%); EMA9 > EMA20 (alcista); RSI 73 zona alta; Volumen diario 2.8x (muy alto)
 
-### 🟢 IONQ — $54.90 (-3.5%) | Score: 65/100
-**Direccion:** LONG | **VWAP:** $53.37 | **RSI:** 61 | **ATR:** $0.81 | **Vol:** 2.3x
-**Entrada:** $54.85 | **Stop:** $54.17 (riesgo $0.68)
-**Targets:** T1: $55.53 | T2: $56.21 | T3: $56.89 | R:R 1:2.0
-**Por que:** Precio sobre VWAP (+2.87%); EMA9 < EMA20 (bajista); RSI 61; Volumen diario 2.3x (muy alto)
+### 🟢 SOXL — $172.54 (-9.4%) | Score: 75/100
+**Direccion:** LONG | **VWAP:** $165.05 | **RSI:** 79 | **ATR:** $3.62 | **Vol:** 2.1x
+**Entrada:** $171.68 | **Stop:** $166.25 (riesgo $5.43)
+**Targets:** T1: $177.11 | T2: $182.54 | T3: $187.97 | R:R 1:2.0
+**Por que:** Precio sobre VWAP (+4.54%); EMA9 > EMA20 (alcista); Cruce EMA alcista HOY; RSI 79 sobrecomprado (correccion probable)
 
-### 🔴 AVGO — $415.14 (-3.1%) | Score: 35/100
-**Direccion:** SHORT | **VWAP:** $419.92 | **RSI:** 58 | **ATR:** $2.25 | **Vol:** 2.3x
-**Entrada:** $413.52 | **Stop:** $416.73 (riesgo $3.21)
-**Targets:** T1: $410.31 | T2: $407.10 | T3: $403.89 | R:R 1:2.0
-**Por que:** Precio bajo VWAP (-1.14%); EMA9 < EMA20 (bajista); RSI 58; Volumen diario 2.3x (muy alto)
+### 🟢 TQQQ — $74.94 (-2.6%) | Score: 75/100
+**Direccion:** LONG | **VWAP:** $73.03 | **RSI:** 78 | **ATR:** $0.52 | **Vol:** 1.7x
+**Entrada:** $74.57 | **Stop:** $73.79 (riesgo $0.78)
+**Targets:** T1: $75.35 | T2: $76.13 | T3: $76.91 | R:R 1:2.0
+**Por que:** Precio sobre VWAP (+2.62%); EMA9 > EMA20 (alcista); Cruce EMA alcista HOY; RSI 78 sobrecomprado (correccion probable)
 
 
 ## 📊 Gappers — Acciones con Gap > 2%
 
 Los gaps de apertura son las mejores oportunidades de intraday. Un gap up con volumen confirma fuerza. Un gap down con volumen confirma debilidad.
 
-### 🟢 RKLB — $119.14 (+1.5%) | Score: 67/100
-**Direccion:** LONG | **VWAP:** $103.19 | **RSI:** 68 | **ATR:** $1.68 | **Vol:** 1.1x
-**Entrada:** $118.54 | **Stop:** $117.09 (riesgo $1.45)
-**Targets:** T1: $119.99 | T2: $121.44 | T3: $122.89 | R:R 1:2.0
-**Por que:** Precio sobre VWAP (+15.46%); EMA9 > EMA20 (alcista); RSI 68 zona alta
+### ⚪ SOXS — $8.97 (+9.4%) | Score: 45/100
+**Direccion:** WATCH | **VWAP:** $9.52 | **RSI:** 22 | **ATR:** $0.16 | **Vol:** 2.2x
+**Por que:** Precio bajo VWAP (-5.78%); EMA9 < EMA20 (bajista); Cruce EMA bajista HOY; RSI 22 sobrevendido (rebote probable)
+
+### 🟢 SOXL — $172.54 (-9.4%) | Score: 75/100
+**Direccion:** LONG | **VWAP:** $165.05 | **RSI:** 79 | **ATR:** $3.62 | **Vol:** 2.1x
+**Entrada:** $171.68 | **Stop:** $166.25 (riesgo $5.43)
+**Targets:** T1: $177.11 | T2: $182.54 | T3: $187.97 | R:R 1:2.0
+**Por que:** Precio sobre VWAP (+4.54%); EMA9 > EMA20 (alcista); Cruce EMA alcista HOY; RSI 79 sobrecomprado (correccion probable)
+
+### ⚪ MARA — $12.72 (-5.0%) | Score: 58/100
+**Direccion:** WATCH | **VWAP:** $12.69 | **RSI:** 77 | **ATR:** $0.14 | **Vol:** 1.4x
+**Por que:** Precio sobre VWAP (+0.24%); EMA9 > EMA20 (alcista); RSI 77 sobrecomprado (correccion probable); Gap down -4.78% (debilidad)
+
+### 🟢 NVDL — $113.49 (+1.2%) | Score: 72/100
+**Direccion:** LONG | **VWAP:** $105.74 | **RSI:** 71 | **ATR:** $1.14 | **Vol:** 0.8x
+**Entrada:** $113.16 | **Stop:** $112.03 (riesgo $1.13)
+**Targets:** T1: $114.29 | T2: $115.42 | T3: $116.55 | R:R 1:2.0
+**Por que:** Precio sobre VWAP (+7.33%); EMA9 > EMA20 (alcista); RSI 71 zona alta; Gap up +3.83% (fuerza)
+
+### 🔴 OKLO — $73.64 (-5.8%) | Score: 25/100
+**Direccion:** SHORT | **VWAP:** $74.87 | **RSI:** 63 | **ATR:** $0.82 | **Vol:** 0.8x
+**Entrada:** $74.01 | **Stop:** $75.24 (riesgo $1.23)
+**Targets:** T1: $72.78 | T2: $71.55 | T3: $70.32 | R:R 1:2.0
+**Por que:** Precio bajo VWAP (-1.64%); EMA9 < EMA20 (bajista); RSI 63; Ultima vela 2.4x volumen (spike)
 
 
 ## 🔥 Alto Volumen (Vol Ratio > 1.5x)
@@ -88,92 +108,92 @@ Donde esta el dinero hoy. Volumen anormal = movimiento institucional.
 
 | Ticker | Precio | Cambio | Gap | Score | Direccion | Entrada | Stop | Target | Vol | RSI |
 |--------|--------|--------|-----|-------|-----------|---------|------|--------|-----|-----|
-| 🟢 AAPL | $294.51 | +0.6% | +-0.2% | 88 | LONG | $295.85 | $294.86 | $297.83 | 2.2x | 51 |
-| 🟢 NVDA | $220.45 | +0.5% | +-0.1% | 77 | LONG | $220.41 | $218.71 | $223.81 | 2.2x | 70 |
-| 🟢 SPY | $736.74 | -0.3% | -0.1% | 70 | LONG | $739.46 | $737.95 | $742.48 | 2.9x | 77 |
-| 🟢 AMD | $439.48 | -4.2% | -0.3% | 65 | LONG | $440.20 | $435.99 | $448.62 | 2.0x | 60 |
-| 🟢 IONQ | $54.90 | -3.5% | 0.6% | 65 | LONG | $54.85 | $54.17 | $56.21 | 2.3x | 61 |
-| ⚪ SOXS | $9.30 | +13.4% | +1.5% | 63 | WATCH | — | — | — | 2.2x | 35 |
-| ⚪ TSLA | $431.95 | -2.9% | 0.2% | 57 | WATCH | — | — | — | 2.8x | 69 |
-| ⚪ MU | $748.28 | -5.9% | -0.3% | 57 | WATCH | — | — | — | 2.6x | 65 |
+| 🟢 AAPL | $294.87 | +0.8% | +0.3% | 88 | LONG | $296.03 | $295.05 | $297.99 | 2.2x | 63 |
+| 🟢 IONQ | $55.87 | -1.8% | 2.3% | 85 | LONG | $55.59 | $54.56 | $57.65 | 2.3x | 64 |
+| 🟢 MU | $765.77 | -3.7% | -2.2% | 80 | LONG | $761.94 | $746.25 | $793.32 | 2.6x | 78 |
+| 🟢 QQQ | $707.20 | -0.8% | -0.5% | 80 | LONG | $707.44 | $705.01 | $712.30 | 2.9x | 78 |
+| 🟢 NVDA | $220.87 | +0.7% | +1.9% | 77 | LONG | $221.07 | $219.39 | $224.43 | 2.2x | 71 |
+| 🟢 TSLA | $433.45 | -2.6% | 0.1% | 77 | LONG | $433.73 | $430.39 | $440.41 | 2.8x | 73 |
+| 🟢 SOXL | $172.54 | -9.4% | -5.1% | 75 | LONG | $171.68 | $166.25 | $182.54 | 2.1x | 79 |
+| 🟢 TQQQ | $74.94 | -2.6% | -1.4% | 75 | LONG | $74.57 | $73.79 | $76.13 | 1.7x | 78 |
 
 
-## 🟢 Setups LONG (7)
+## 🟢 Setups LONG (12)
 
-### 🟢 AAPL — $294.51 (+0.6%) | Score: 88/100
-**Direccion:** LONG | **VWAP:** $291.67 | **RSI:** 51 | **ATR:** $0.66 | **Vol:** 2.2x
-**Entrada:** $295.85 | **Stop:** $294.86 (riesgo $0.99)
-**Targets:** T1: $296.84 | T2: $297.83 | T3: $298.82 | R:R 1:2.0
-**Por que:** Precio sobre VWAP (+0.97%); EMA9 > EMA20 (alcista); RSI 51 neutral; Volumen diario 2.2x (muy alto)
+### 🟢 AAPL — $294.87 (+0.8%) | Score: 88/100
+**Direccion:** LONG | **VWAP:** $291.73 | **RSI:** 63 | **ATR:** $0.65 | **Vol:** 2.2x
+**Entrada:** $296.03 | **Stop:** $295.05 (riesgo $0.98)
+**Targets:** T1: $297.01 | T2: $297.99 | T3: $298.97 | R:R 1:2.0
+**Por que:** Precio sobre VWAP (+1.08%); EMA9 > EMA20 (alcista); RSI 63; Volumen diario 2.2x (muy alto)
 
-### 🟢 NVDA — $220.45 (+0.5%) | Score: 77/100
-**Direccion:** LONG | **VWAP:** $214.25 | **RSI:** 70 | **ATR:** $1.20 | **Vol:** 2.2x
-**Entrada:** $220.41 | **Stop:** $218.71 (riesgo $1.70)
-**Targets:** T1: $222.11 | T2: $223.81 | T3: $225.51 | R:R 1:2.0
-**Por que:** Precio sobre VWAP (+2.89%); EMA9 > EMA20 (alcista); RSI 70 zona alta; Volumen diario 2.2x (muy alto)
+### 🟢 IONQ — $55.87 (-1.8%) | Score: 85/100
+**Direccion:** LONG | **VWAP:** $53.39 | **RSI:** 64 | **ATR:** $0.81 | **Vol:** 2.3x
+**Entrada:** $55.59 | **Stop:** $54.56 (riesgo $1.03)
+**Targets:** T1: $56.62 | T2: $57.65 | T3: $58.68 | R:R 1:2.0
+**Por que:** Precio sobre VWAP (+4.65%); EMA9 > EMA20 (alcista); RSI 64; Volumen diario 2.3x (muy alto)
 
-### 🟢 SPY — $736.74 (-0.3%) | Score: 70/100
-**Direccion:** LONG | **VWAP:** $734.73 | **RSI:** 77 | **ATR:** $1.01 | **Vol:** 2.9x
-**Entrada:** $739.46 | **Stop:** $737.95 (riesgo $1.51)
-**Targets:** T1: $740.97 | T2: $742.48 | T3: $743.99 | R:R 1:2.0
-**Por que:** Precio sobre VWAP (+0.27%); EMA9 > EMA20 (alcista); RSI 77 sobrecomprado (correccion probable); Volumen diario 2.9x (muy alto)
+### 🟢 MU — $765.77 (-3.7%) | Score: 80/100
+**Direccion:** LONG | **VWAP:** $729.73 | **RSI:** 78 | **ATR:** $10.46 | **Vol:** 2.6x
+**Entrada:** $761.94 | **Stop:** $746.25 (riesgo $15.69)
+**Targets:** T1: $777.63 | T2: $793.32 | T3: $809.01 | R:R 1:2.0
+**Por que:** Precio sobre VWAP (+4.94%); EMA9 > EMA20 (alcista); Cruce EMA alcista HOY; RSI 78 sobrecomprado (correccion probable)
 
-### 🟢 RKLB — $119.14 (+1.5%) | Score: 67/100
-**Direccion:** LONG | **VWAP:** $103.19 | **RSI:** 68 | **ATR:** $1.68 | **Vol:** 1.1x
-**Entrada:** $118.54 | **Stop:** $117.09 (riesgo $1.45)
-**Targets:** T1: $119.99 | T2: $121.44 | T3: $122.89 | R:R 1:2.0
-**Por que:** Precio sobre VWAP (+15.46%); EMA9 > EMA20 (alcista); RSI 68 zona alta
+### 🟢 QQQ — $707.20 (-0.8%) | Score: 80/100
+**Direccion:** LONG | **VWAP:** $701.43 | **RSI:** 78 | **ATR:** $1.62 | **Vol:** 2.9x
+**Entrada:** $707.44 | **Stop:** $705.01 (riesgo $2.43)
+**Targets:** T1: $709.87 | T2: $712.30 | T3: $714.73 | R:R 1:2.0
+**Por que:** Precio sobre VWAP (+0.82%); EMA9 > EMA20 (alcista); Cruce EMA alcista HOY; RSI 78 sobrecomprado (correccion probable)
 
-### 🟢 NVDL — $113.11 (+0.9%) | Score: 67/100
-**Direccion:** LONG | **VWAP:** $105.65 | **RSI:** 69 | **ATR:** $1.18 | **Vol:** 0.7x
-**Entrada:** $112.54 | **Stop:** $111.34 (riesgo $1.20)
-**Targets:** T1: $113.74 | T2: $114.94 | T3: $116.14 | R:R 1:2.0
-**Por que:** Precio sobre VWAP (+7.06%); EMA9 > EMA20 (alcista); RSI 69 zona alta
+### 🟢 NVDA — $220.87 (+0.7%) | Score: 77/100
+**Direccion:** LONG | **VWAP:** $214.33 | **RSI:** 71 | **ATR:** $1.16 | **Vol:** 2.2x
+**Entrada:** $221.07 | **Stop:** $219.39 (riesgo $1.68)
+**Targets:** T1: $222.75 | T2: $224.43 | T3: $226.11 | R:R 1:2.0
+**Por que:** Precio sobre VWAP (+3.05%); EMA9 > EMA20 (alcista); RSI 71 zona alta; Volumen diario 2.2x (muy alto)
 
-### 🟢 AMD — $439.48 (-4.2%) | Score: 65/100
-**Direccion:** LONG | **VWAP:** $433.17 | **RSI:** 60 | **ATR:** $4.05 | **Vol:** 2.0x
-**Entrada:** $440.20 | **Stop:** $435.99 (riesgo $4.21)
-**Targets:** T1: $444.41 | T2: $448.62 | T3: $452.83 | R:R 1:2.0
-**Por que:** Precio sobre VWAP (+1.46%); EMA9 < EMA20 (bajista); RSI 60; Volumen diario 2.0x (muy alto)
+### 🟢 TSLA — $433.45 (-2.6%) | Score: 77/100
+**Direccion:** LONG | **VWAP:** $425.69 | **RSI:** 73 | **ATR:** $2.36 | **Vol:** 2.8x
+**Entrada:** $433.73 | **Stop:** $430.39 (riesgo $3.34)
+**Targets:** T1: $437.07 | T2: $440.41 | T3: $443.75 | R:R 1:2.0
+**Por que:** Precio sobre VWAP (+1.82%); EMA9 > EMA20 (alcista); RSI 73 zona alta; Volumen diario 2.8x (muy alto)
 
 
-## 🔴 Setups SHORT (9)
+## 🔴 Setups SHORT (6)
 
-### 🔴 AVGO — $415.14 (-3.1%) | Score: 35/100
-**Direccion:** SHORT | **VWAP:** $419.92 | **RSI:** 58 | **ATR:** $2.25 | **Vol:** 2.3x
-**Entrada:** $413.52 | **Stop:** $416.73 (riesgo $3.21)
-**Targets:** T1: $410.31 | T2: $407.10 | T3: $403.89 | R:R 1:2.0
-**Por que:** Precio bajo VWAP (-1.14%); EMA9 < EMA20 (bajista); RSI 58; Volumen diario 2.3x (muy alto)
+### 🔴 AVGO — $419.47 (-2.1%) | Score: 20/100
+**Direccion:** SHORT | **VWAP:** $419.90 | **RSI:** 79 | **ATR:** $2.24 | **Vol:** 2.3x
+**Entrada:** $417.80 | **Stop:** $421.02 (riesgo $3.22)
+**Targets:** T1: $414.58 | T2: $411.36 | T3: $408.14 | R:R 1:2.0
+**Por que:** Precio bajo VWAP (-0.1%); EMA9 < EMA20 (bajista); RSI 79 sobrecomprado (correccion probable); Volumen diario 2.3x (muy alto)
 
-### 🔴 SOXL — $164.65 (-13.5%) | Score: 27/100
-**Direccion:** SHORT | **VWAP:** $164.93 | **RSI:** 66 | **ATR:** $3.58 | **Vol:** 2.0x
-**Entrada:** $164.11 | **Stop:** $166.72 (riesgo $2.61)
-**Targets:** T1: $161.50 | T2: $158.89 | T3: $156.28 | R:R 1:2.0
-**Por que:** Precio bajo VWAP (-0.17%); EMA9 < EMA20 (bajista); RSI 66 zona alta; Volumen diario 2.0x (muy alto)
+### 🔴 SQQQ — $43.32 (+2.6%) | Score: 30/100
+**Direccion:** SHORT | **VWAP:** $44.46 | **RSI:** 22 | **ATR:** $0.29 | **Vol:** 1.2x
+**Entrada:** $43.54 | **Stop:** $43.98 (riesgo $0.44)
+**Targets:** T1: $43.10 | T2: $42.66 | T3: $42.22 | R:R 1:2.0
+**Por que:** Precio bajo VWAP (-2.56%); EMA9 < EMA20 (bajista); Cruce EMA bajista HOY; RSI 22 sobrevendido (rebote probable)
 
-### 🔴 MSTR — $183.24 (-6.5%) | Score: 25/100
-**Direccion:** SHORT | **VWAP:** $185.11 | **RSI:** 52 | **ATR:** $1.59 | **Vol:** 1.0x
-**Entrada:** $182.38 | **Stop:** $184.09 (riesgo $1.71)
-**Targets:** T1: $180.67 | T2: $178.96 | T3: $177.25 | R:R 1:2.0
-**Por que:** Precio bajo VWAP (-1.01%); EMA9 < EMA20 (bajista); RSI 52 neutral
+### 🔴 OKLO — $73.64 (-5.8%) | Score: 25/100
+**Direccion:** SHORT | **VWAP:** $74.87 | **RSI:** 63 | **ATR:** $0.82 | **Vol:** 0.8x
+**Entrada:** $74.01 | **Stop:** $75.24 (riesgo $1.23)
+**Targets:** T1: $72.78 | T2: $71.55 | T3: $70.32 | R:R 1:2.0
+**Por que:** Precio bajo VWAP (-1.64%); EMA9 < EMA20 (bajista); RSI 63; Ultima vela 2.4x volumen (spike)
 
-### 🔴 ARM — $204.98 (-3.6%) | Score: 25/100
-**Direccion:** SHORT | **VWAP:** $219.34 | **RSI:** 57 | **ATR:** $1.60 | **Vol:** 0.6x
-**Entrada:** $204.08 | **Stop:** $205.91 (riesgo $1.83)
-**Targets:** T1: $202.25 | T2: $200.42 | T3: $198.59 | R:R 1:2.0
-**Por que:** Precio bajo VWAP (-6.55%); EMA9 < EMA20 (bajista); RSI 57
+### 🔴 MSTR — $184.41 (-5.9%) | Score: 25/100
+**Direccion:** SHORT | **VWAP:** $185.10 | **RSI:** 52 | **ATR:** $1.57 | **Vol:** 1.0x
+**Entrada:** $183.60 | **Stop:** $185.31 (riesgo $1.71)
+**Targets:** T1: $181.89 | T2: $180.18 | T3: $178.47 | R:R 1:2.0
+**Por que:** Precio bajo VWAP (-0.37%); EMA9 < EMA20 (bajista); RSI 52 neutral; Ultima vela 2.4x volumen (spike)
 
-### 🔴 SOFI — $15.77 (-3.0%) | Score: 25/100
-**Direccion:** SHORT | **VWAP:** $15.99 | **RSI:** 57 | **ATR:** $0.09 | **Vol:** 1.1x
-**Entrada:** $15.71 | **Stop:** $15.83 (riesgo $0.12)
-**Targets:** T1: $15.59 | T2: $15.47 | T3: $15.35 | R:R 1:2.0
-**Por que:** Precio bajo VWAP (-1.38%); EMA9 < EMA20 (bajista); RSI 57
+### 🔴 SOFI — $15.90 (-2.2%) | Score: 25/100
+**Direccion:** SHORT | **VWAP:** $15.99 | **RSI:** 62 | **ATR:** $0.09 | **Vol:** 1.0x
+**Entrada:** $15.91 | **Stop:** $16.04 (riesgo $0.13)
+**Targets:** T1: $15.78 | T2: $15.65 | T3: $15.52 | R:R 1:2.0
+**Por que:** Precio bajo VWAP (-0.56%); EMA9 < EMA20 (bajista); RSI 62
 
-### 🔴 PLTR — $134.02 (-2.1%) | Score: 22/100
-**Direccion:** SHORT | **VWAP:** $135.19 | **RSI:** 51 | **ATR:** $0.55 | **Vol:** 1.3x
-**Entrada:** $133.42 | **Stop:** $134.24 (riesgo $0.82)
-**Targets:** T1: $132.60 | T2: $131.78 | T3: $130.96 | R:R 1:2.0
-**Por que:** Precio bajo VWAP (-0.87%); EMA9 < EMA20 (bajista); RSI 51 neutral; Cerca del low del dia (14%)
+### 🔴 ARM — $207.86 (-2.2%) | Score: 17/100
+**Direccion:** SHORT | **VWAP:** $219.16 | **RSI:** 66 | **ATR:** $1.61 | **Vol:** 0.6x
+**Entrada:** $208.90 | **Stop:** $211.31 (riesgo $2.41)
+**Targets:** T1: $206.49 | T2: $204.08 | T3: $201.67 | R:R 1:2.0
+**Por que:** Precio bajo VWAP (-5.16%); EMA9 < EMA20 (bajista); RSI 66 zona alta
 
 
 ## ⚪ Watch List — Preparando Setup
@@ -182,13 +202,9 @@ Estos tickers no tienen senal clara todavia pero merecen atencion.
 
 | Ticker | Precio | Cambio | Gap | Score | Direccion | Entrada | Stop | Target | Vol | RSI |
 |--------|--------|--------|-----|-------|-----------|---------|------|--------|-----|-----|
-| ⚪ SOXS | $9.30 | +13.4% | +1.5% | 63 | WATCH | — | — | — | 2.2x | 35 |
-| ⚪ TSLA | $431.95 | -2.9% | 0.2% | 57 | WATCH | — | — | — | 2.8x | 69 |
-| ⚪ MU | $748.28 | -5.9% | -0.3% | 57 | WATCH | — | — | — | 2.6x | 65 |
-| ⚪ QQQ | $703.57 | -1.4% | -0.1% | 57 | WATCH | — | — | — | 2.8x | 65 |
-| ⚪ COIN | $204.57 | -5.5% | -1.0% | 55 | WATCH | — | — | — | 1.0x | 52 |
-| ⚪ TQQQ | $73.78 | -4.1% | -0.5% | 52 | WATCH | — | — | — | 1.6x | 65 |
-| ⚪ SQQQ | $43.97 | +4.1% | +0.5% | 45 | WATCH | — | — | — | 1.2x | 35 |
+| ⚪ COIN | $207.68 | -4.1% | -1.1% | 60 | WATCH | — | — | — | 0.9x | 56 |
+| ⚪ MARA | $12.72 | -5.0% | -4.8% | 58 | WATCH | — | — | — | 1.4x | 77 |
+| ⚪ AMD | $448.21 | -2.3% | -0.2% | 57 | WATCH | — | — | — | 2.0x | 73 |
 
 
 ---
@@ -199,29 +215,29 @@ Estos tickers no tienen senal clara todavia pero merecen atencion.
 
 | Ticker | Precio | Cambio | Gap | Score | Direccion | Entrada | Stop | Target | Vol | RSI |
 |--------|--------|--------|-----|-------|-----------|---------|------|--------|-----|-----|
-| 🟢 AAPL | $294.51 | +0.6% | +-0.2% | 88 | LONG | $295.85 | $294.86 | $297.83 | 2.2x | 51 |
-| 🟢 NVDA | $220.45 | +0.5% | +-0.1% | 77 | LONG | $220.41 | $218.71 | $223.81 | 2.2x | 70 |
-| 🟢 SPY | $736.74 | -0.3% | -0.1% | 70 | LONG | $739.46 | $737.95 | $742.48 | 2.9x | 77 |
-| 🟢 RKLB | $119.14 | +1.5% | +2.0% | 67 | LONG | $118.54 | $117.09 | $121.44 | 1.1x | 68 |
-| 🟢 NVDL | $113.11 | +0.9% | +-0.3% | 67 | LONG | $112.54 | $111.34 | $114.94 | 0.7x | 69 |
-| 🟢 AMD | $439.48 | -4.2% | -0.3% | 65 | LONG | $440.20 | $435.99 | $448.62 | 2.0x | 60 |
-| 🟢 IONQ | $54.90 | -3.5% | 0.6% | 65 | LONG | $54.85 | $54.17 | $56.21 | 2.3x | 61 |
-| ⚪ SOXS | $9.30 | +13.4% | +1.5% | 63 | WATCH | — | — | — | 2.2x | 35 |
-| ⚪ TSLA | $431.95 | -2.9% | 0.2% | 57 | WATCH | — | — | — | 2.8x | 69 |
-| ⚪ MU | $748.28 | -5.9% | -0.3% | 57 | WATCH | — | — | — | 2.6x | 65 |
-| ⚪ QQQ | $703.57 | -1.4% | -0.1% | 57 | WATCH | — | — | — | 2.8x | 65 |
-| ⚪ COIN | $204.57 | -5.5% | -1.0% | 55 | WATCH | — | — | — | 1.0x | 52 |
-| ⚪ TQQQ | $73.78 | -4.1% | -0.5% | 52 | WATCH | — | — | — | 1.6x | 65 |
-| ⚪ SQQQ | $43.97 | +4.1% | +0.5% | 45 | WATCH | — | — | — | 1.2x | 35 |
-| 🔴 AVGO | $415.14 | -3.1% | -0.2% | 35 | SHORT | $413.52 | $416.73 | $407.10 | 2.3x | 58 |
-| 🔴 SOXL | $164.65 | -13.5% | -1.3% | 27 | SHORT | $164.11 | $166.72 | $158.89 | 2.0x | 66 |
-| 🔴 MSTR | $183.24 | -6.5% | -0.1% | 25 | SHORT | $182.38 | $184.09 | $178.96 | 1.0x | 52 |
-| 🔴 ARM | $204.98 | -3.6% | 0.1% | 25 | SHORT | $204.08 | $205.91 | $200.42 | 0.6x | 57 |
-| 🔴 SOFI | $15.77 | -3.0% | — | 25 | SHORT | $15.71 | $15.83 | $15.47 | 1.1x | 57 |
-| 🔴 PLTR | $134.02 | -2.1% | -0.4% | 22 | SHORT | $133.42 | $134.24 | $131.78 | 1.3x | 51 |
-| 🔴 OKLO | $73.37 | -6.1% | -0.7% | 17 | SHORT | $73.74 | $74.95 | $71.32 | 0.8x | 68 |
-| 🔴 SMCI | $32.44 | -3.2% | 0.7% | 10 | SHORT | $32.60 | $32.99 | $31.82 | 0.6x | 77 |
-| 🔴 MARA | $12.49 | -6.7% | 0.9% | 10 | SHORT | $12.55 | $12.75 | $12.15 | 1.4x | 80 |
+| 🟢 AAPL | $294.87 | +0.8% | +0.3% | 88 | LONG | $296.03 | $295.05 | $297.99 | 2.2x | 63 |
+| 🟢 IONQ | $55.87 | -1.8% | 2.3% | 85 | LONG | $55.59 | $54.56 | $57.65 | 2.3x | 64 |
+| 🟢 PLTR | $136.03 | -0.6% | -0.1% | 85 | LONG | $135.88 | $134.98 | $137.68 | 1.4x | 64 |
+| 🟢 MU | $765.77 | -3.7% | -2.2% | 80 | LONG | $761.94 | $746.25 | $793.32 | 2.6x | 78 |
+| 🟢 QQQ | $707.20 | -0.8% | -0.5% | 80 | LONG | $707.44 | $705.01 | $712.30 | 2.9x | 78 |
+| 🟢 NVDA | $220.87 | +0.7% | +1.9% | 77 | LONG | $221.07 | $219.39 | $224.43 | 2.2x | 71 |
+| 🟢 TSLA | $433.45 | -2.6% | 0.1% | 77 | LONG | $433.73 | $430.39 | $440.41 | 2.8x | 73 |
+| 🟢 RKLB | $117.56 | +0.2% | +1.3% | 75 | LONG | $118.12 | $116.78 | $120.80 | 1.1x | 54 |
+| 🟢 SOXL | $172.54 | -9.4% | -5.1% | 75 | LONG | $171.68 | $166.25 | $182.54 | 2.1x | 79 |
+| 🟢 TQQQ | $74.94 | -2.6% | -1.4% | 75 | LONG | $74.57 | $73.79 | $76.13 | 1.7x | 78 |
+| 🟢 SPY | $738.20 | -0.1% | -0.3% | 73 | LONG | $740.33 | $738.82 | $743.35 | 2.9x | 88 |
+| 🟢 NVDL | $113.49 | +1.2% | +3.8% | 72 | LONG | $113.16 | $112.03 | $115.42 | 0.8x | 71 |
+| ⚪ COIN | $207.68 | -4.1% | -1.1% | 60 | WATCH | — | — | — | 0.9x | 56 |
+| ⚪ MARA | $12.72 | -5.0% | -4.8% | 58 | WATCH | — | — | — | 1.4x | 77 |
+| ⚪ AMD | $448.21 | -2.3% | -0.2% | 57 | WATCH | — | — | — | 2.0x | 73 |
+| ⚪ SOXS | $8.97 | +9.4% | +5.1% | 45 | WATCH | — | — | — | 2.2x | 22 |
+| ⚪ SMCI | $32.81 | -2.1% | -0.5% | 40 | WATCH | — | — | — | 0.5x | 83 |
+| 🔴 SQQQ | $43.32 | +2.6% | +1.5% | 30 | SHORT | $43.54 | $43.98 | $42.66 | 1.2x | 22 |
+| 🔴 OKLO | $73.64 | -5.8% | -3.6% | 25 | SHORT | $74.01 | $75.24 | $71.55 | 0.8x | 63 |
+| 🔴 MSTR | $184.41 | -5.9% | -3.0% | 25 | SHORT | $183.60 | $185.31 | $180.18 | 1.0x | 52 |
+| 🔴 SOFI | $15.90 | -2.2% | -0.7% | 25 | SHORT | $15.91 | $16.04 | $15.65 | 1.0x | 62 |
+| 🔴 AVGO | $419.47 | -2.1% | -0.3% | 20 | SHORT | $417.80 | $421.02 | $411.36 | 2.3x | 79 |
+| 🔴 ARM | $207.86 | -2.2% | 0.9% | 17 | SHORT | $208.90 | $211.31 | $204.08 | 0.6x | 66 |
 
 </details>
 
@@ -272,4 +288,4 @@ Estos tickers no tienen senal clara todavia pero merecen atencion.
 
 ---
 *Intraday 15m | VWAP + EMA 9/20 + RSI + Volume | Datos: yfinance*
-*Ultima actualizacion: 2026-05-12 19:22 UTC*
+*Ultima actualizacion: 2026-05-12 21:00 UTC*
