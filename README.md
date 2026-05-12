@@ -1,4 +1,4 @@
-# Intraday Signals — 2026-05-12 | 📈 Morning Session | 15:45 UTC
+# Intraday Signals — 2026-05-12 | ☀️ Midday | 17:00 UTC
 
 > ⚠️ **No es asesoria financiera.** Tradea con gestion de riesgo. Maximo 2% de riesgo por operacion.
 
@@ -8,14 +8,14 @@
 
 | Metrica | Valor |
 |---------|-------|
-| Tickers analizados | 24 |
+| Tickers analizados | 0 |
 | Setups LONG | 0 |
 | Setups SHORT | 0 |
-| Sin senal | 24 |
+| Sin senal | 0 |
 
 **Sesgo:** ⚪ **Mercado MIXTO** — Senales divididas. Operar solo los setups mas claros (A+).
 
-**Sector mas fuerte:** None (score 50) | **Sector mas debil:** None (score 50)
+**Sector mas fuerte:** N/A (score 0) | **Sector mas debil:** N/A (score 0)
 
 ---
 
@@ -30,34 +30,11 @@
 
 
 <details>
-<summary><b>Ver los 24 tickers (tabla completa)</b></summary>
+<summary><b>Ver los 0 tickers (tabla completa)</b></summary>
 
 | Ticker | Precio | Cambio | Gap | Score | Direccion | Entrada | Stop | Target | Vol | RSI |
 |--------|--------|--------|-----|-------|-----------|---------|------|--------|-----|-----|
-| ⚪ None | $0.00 | +0.0% | — | 50 | WATCH | — | — | — | 1.0x | 0 |
-| ⚪ None | $0.00 | +0.0% | — | 50 | WATCH | — | — | — | 1.0x | 0 |
-| ⚪ None | $0.00 | +0.0% | — | 50 | WATCH | — | — | — | 1.0x | 0 |
-| ⚪ None | $0.00 | +0.0% | — | 50 | WATCH | — | — | — | 1.0x | 0 |
-| ⚪ None | $0.00 | +0.0% | — | 50 | WATCH | — | — | — | 1.0x | 0 |
-| ⚪ None | $0.00 | +0.0% | — | 50 | WATCH | — | — | — | 1.0x | 0 |
-| ⚪ None | $0.00 | +0.0% | — | 50 | WATCH | — | — | — | 1.0x | 0 |
-| ⚪ None | $0.00 | +0.0% | — | 50 | WATCH | — | — | — | 1.0x | 0 |
-| ⚪ None | $0.00 | +0.0% | — | 50 | WATCH | — | — | — | 1.0x | 0 |
-| ⚪ None | $0.00 | +0.0% | — | 50 | WATCH | — | — | — | 1.0x | 0 |
-| ⚪ None | $0.00 | +0.0% | — | 50 | WATCH | — | — | — | 1.0x | 0 |
-| ⚪ None | $0.00 | +0.0% | — | 50 | WATCH | — | — | — | 1.0x | 0 |
-| ⚪ None | $0.00 | +0.0% | — | 50 | WATCH | — | — | — | 1.0x | 0 |
-| ⚪ None | $0.00 | +0.0% | — | 50 | WATCH | — | — | — | 1.0x | 0 |
-| ⚪ None | $0.00 | +0.0% | — | 50 | WATCH | — | — | — | 1.0x | 0 |
-| ⚪ None | $0.00 | +0.0% | — | 50 | WATCH | — | — | — | 1.0x | 0 |
-| ⚪ None | $0.00 | +0.0% | — | 50 | WATCH | — | — | — | 1.0x | 0 |
-| ⚪ None | $0.00 | +0.0% | — | 50 | WATCH | — | — | — | 1.0x | 0 |
-| ⚪ None | $0.00 | +0.0% | — | 50 | WATCH | — | — | — | 1.0x | 0 |
-| ⚪ None | $0.00 | +0.0% | — | 50 | WATCH | — | — | — | 1.0x | 0 |
-| ⚪ None | $0.00 | +0.0% | — | 50 | WATCH | — | — | — | 1.0x | 0 |
-| ⚪ None | $0.00 | +0.0% | — | 50 | WATCH | — | — | — | 1.0x | 0 |
-| ⚪ None | $0.00 | +0.0% | — | 50 | WATCH | — | — | — | 1.0x | 0 |
-| ⚪ None | $0.00 | +0.0% | — | 50 | WATCH | — | — | — | 1.0x | 0 |
+
 
 </details>
 
@@ -108,4 +85,4 @@
 
 ---
 *Intraday 15m | VWAP + EMA 9/20 + RSI + Volume | Datos: yfinance*
-*Ultima actualizacion: 2026-05-12 15:45 UTC*
+*Ultima actualizacion: 2026-05-12 17:00 UTC*
