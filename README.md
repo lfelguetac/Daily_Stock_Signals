@@ -1,4 +1,4 @@
-# Intraday Signals — 2026-05-12 | 22:28 UTC
+# Intraday Signals — 2026-05-12 | 22:49 UTC
 
 > 23 tickers · 12 LONG · 6 SHORT · Sesgo: ALCISTA — Mayoría sobre VWAP con volumen. Priorizar LONGs.
 
@@ -77,6 +77,34 @@ Precio bajo VWAP (-0.37%) · EMA9 < EMA20 (bajista)
 | 🔴 ARM | $207.86 | -2.2% | 17 | SHORT | $208.90 | $211.31 | $204.08 | 0.6x | 66 |
 
 ---
+
+
+## 📦 Portafolio — Medio Plazo (3-12 meses)
+
+Holdings con mejor combinación de fundamentales, narrativa y momentum.
+
+| Ticker | Score | Narrativa | Rev Growth | Margin | Fwd P/E | Beta | Mom 6m |
+|--------|-------|-----------|------------|--------|---------|------|--------|
+| **MU** | 96 | HBM Memory for AI (Critical Supplier) | +196% | 42% | 8 | 1.9 | +236% |
+| | | Revenue growth +196% (excepcional) · Earnings growth +756% | | | | | |
+| **NVDA** | 90 | AI Infrastructure Dominance | +73% | 56% | 20 | 2.2 | +22% |
+| | | Revenue growth +73% (excepcional) · Earnings growth +96% | | | | | |
+| **AVGO** | 82 | AI Networking + VMware Synergy | +30% | 37% | 23 | 1.4 | +24% |
+| | | Revenue growth +30% (fuerte) · Earnings growth +32% | | | | | |
+| **AMD** | 67 | AI Chip Challenger + Data Center Growth | +38% | 13% | 35 | 2.4 | +95% |
+| | | Revenue growth +38% (fuerte) · Earnings growth +91% | | | | | |
+| **SMCI** | 66 | AI Server Infrastructure | +123% | 4% | 10 | 1.7 | -6% |
+| | | Revenue growth +123% (excepcional) · Earnings growth +326% | | | | | |
+| **SOFI** | 58 | Digital Banking + Fintech | +42% | 15% | 20 | 2.1 | -39% |
+| | | Revenue growth +42% (fuerte) · Earnings growth +101% | | | | | |
+| **PLTR** | 53 | AI Government/Enterprise Platform | +85% | 44% | 66 | 1.5 | -19% |
+| | | Revenue growth +85% (excepcional) · Earnings growth +325% | | | | | |
+
+
+**Score Portafolio:** Crecimiento (25%) + Rentabilidad (20%) + Valoración (20%) + Balance (15%) + Momentum (20%) + Narrativa
+
+---
+
 
 ## Métricas
 
