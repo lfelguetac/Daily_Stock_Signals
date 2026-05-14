@@ -1,50 +1,50 @@
-# Intraday Signals — 2026-05-14 | 17:01 UTC
+# Intraday Signals — 2026-05-14 | 21:01 UTC
 
-> 23 tickers · 12 LONG · 3 SHORT · Sesgo: ALCISTA — Mayoría sobre VWAP con volumen. Priorizar LONGs.
+> 23 tickers · 16 LONG · 4 SHORT · Sesgo: ALCISTA — Mayoría sobre VWAP con volumen. Priorizar LONGs.
 
 ---
 
 ## Top Setups
 
-### 🟢 **NVDA** $235.66 (+4.3%) · Score 78
-VWAP $222.55 · RSI 63 · Vol 1.1x
-Entrada $235.99 · Stop $234.05 · Target $239.87 · R:R 1:2.0
-Precio sobre VWAP (+5.89%) · EMA9 > EMA20 (alcista)
+### 🟢 **COIN** $211.97 (+5.0%) · Score 83
+VWAP $205.41 · RSI 32 · Vol 1.4x
+Entrada $210.91 · Stop $206.41 · Target $219.91 · R:R 1:2.0
+Precio sobre VWAP (+3.19%) · EMA9 > EMA20 (alcista)
 
-### 🟢 **AMD** $449.82 (+1.0%) · Score 78
-VWAP $447.22 · RSI 60 · Vol 0.6x
-Entrada $451.50 · Stop $447.39 · Target $459.72 · R:R 1:2.0
-Precio sobre VWAP (+0.58%) · EMA9 > EMA20 (alcista)
+### 🟢 **NVDL** $128.98 (+8.7%) · Score 83
+VWAP $116.46 · RSI 58 · Vol 1.2x
+Entrada $129.28 · Stop $128.12 · Target $131.60 · R:R 1:2.0
+Precio sobre VWAP (+10.75%) · EMA9 > EMA20 (alcista)
 
-### 🟢 **IONQ** $57.29 (+3.7%) · Score 78
-VWAP $54.26 · RSI 60 · Vol 0.6x
-Entrada $57.15 · Stop $56.39 · Target $58.67 · R:R 1:2.0
-Precio sobre VWAP (+5.58%) · EMA9 > EMA20 (alcista)
+### 🟢 **AAPL** $298.17 (-0.2%) · Score 80
+VWAP $295.05 · RSI 48 · Vol 0.8x
+Entrada $296.86 · Stop $295.80 · Target $298.98 · R:R 1:2.0
+Precio sobre VWAP (+1.06%) · EMA9 > EMA20 (alcista)
 
-### 🟢 **NVDL** $128.88 (+8.6%) · Score 78
-VWAP $115.76 · RSI 64 · Vol 1.2x
-Entrada $128.64 · Stop $127.20 · Target $131.52 · R:R 1:2.0
-Precio sobre VWAP (+11.33%) · EMA9 > EMA20 (alcista)
+### 🟢 **AVGO** $439.46 (+5.4%) · Score 80
+VWAP $424.66 · RSI 71 · Vol 1.1x
+Entrada $440.67 · Stop $437.67 · Target $446.67 · R:R 1:2.0
+Precio sobre VWAP (+3.49%) · EMA9 > EMA20 (alcista)
 
-### 🟢 **SOXL** $188.10 (+2.1%) · Score 78
-VWAP $175.54 · RSI 57 · Vol 0.7x
-Entrada $188.34 · Stop $186.05 · Target $192.92 · R:R 1:2.0
-Precio sobre VWAP (+7.16%) · EMA9 > EMA20 (alcista)
+### 🟢 **SPY** $748.08 (+0.8%) · Score 80
+VWAP $739.69 · RSI 51 · Vol 0.9x
+Entrada $751.80 · Stop $750.46 · Target $754.48 · R:R 1:2.0
+Precio sobre VWAP (+1.13%) · EMA9 > EMA20 (alcista)
 
-### 🔴 **OKLO** $67.06 (-3.7%) · Score 25
-VWAP $72.16 · RSI 60 · Vol 1.0x
-Entrada $67.00 · Stop $67.81 · Target $65.38 · R:R 1:2.0
-Precio bajo VWAP (-7.07%) · EMA9 < EMA20 (bajista)
+### 🔴 **OKLO** $67.21 (-3.5%) · Score 28
+VWAP $71.77 · RSI 50 · Vol 1.0x
+Entrada $67.36 · Stop $68.15 · Target $65.78 · R:R 1:2.0
+Precio bajo VWAP (-6.35%) · EMA9 < EMA20 (bajista)
 
-### 🔴 **SOXS** $8.18 (-2.0%) · Score 22
-VWAP $8.86 · RSI 43 · Vol 0.7x
-Entrada $8.18 · Stop $8.29 · Target $7.96 · R:R 1:2.0
-Precio bajo VWAP (-7.67%) · EMA9 < EMA20 (bajista)
+### 🔴 **SMCI** $33.03 (+3.2%) · Score 25
+VWAP $33.64 · RSI 46 · Vol 0.9x
+Entrada $33.20 · Stop $33.62 · Target $32.36 · R:R 1:2.0
+Precio bajo VWAP (-1.81%) · EMA9 < EMA20 (bajista)
 
-### 🔴 **SQQQ** $40.84 (-2.7%) · Score 22
-VWAP $42.95 · RSI 35 · Vol 0.8x
-Entrada $40.75 · Stop $41.08 · Target $40.09 · R:R 1:2.0
-Precio bajo VWAP (-4.91%) · EMA9 < EMA20 (bajista)
+### 🔴 **SOXS** $8.27 (-1.0%) · Score 25
+VWAP $8.83 · RSI 52 · Vol 0.7x
+Entrada $8.31 · Stop $8.49 · Target $7.95 · R:R 1:2.0
+Precio bajo VWAP (-6.34%) · EMA9 < EMA20 (bajista)
 
 ---
 
@@ -52,29 +52,29 @@ Precio bajo VWAP (-4.91%) · EMA9 < EMA20 (bajista)
 
 | Ticker | Precio | Cambio | Score | Dirección | Entrada | Stop | Target | Vol | RSI |
 |--------|--------|--------|-------|-----------|---------|------|--------|-----|-----|
-| 🟢 NVDA | $235.66 | +4.3% | 78 | LONG | $235.99 | $234.05 | $239.87 | 1.1x | 63 |
-| 🟢 AMD | $449.82 | +1.0% | 78 | LONG | $451.50 | $447.39 | $459.72 | 0.6x | 60 |
-| 🟢 IONQ | $57.29 | +3.7% | 78 | LONG | $57.15 | $56.39 | $58.67 | 0.6x | 60 |
-| 🟢 NVDL | $128.88 | +8.6% | 78 | LONG | $128.64 | $127.20 | $131.52 | 1.2x | 64 |
-| 🟢 SOXL | $188.10 | +2.1% | 78 | LONG | $188.34 | $186.05 | $192.92 | 0.7x | 57 |
-| 🟢 TSLA | $447.61 | +0.5% | 75 | LONG | $449.00 | $445.39 | $456.22 | 0.8x | 63 |
-| 🟢 AVGO | $433.27 | +4.0% | 75 | LONG | $432.27 | $428.60 | $439.61 | 1.0x | 56 |
-| 🟢 RKLB | $131.45 | +5.9% | 70 | LONG | $130.97 | $129.20 | $134.51 | 0.5x | 71 |
-| 🟢 ARM | $223.38 | +1.0% | 70 | LONG | $223.39 | $221.04 | $228.09 | 0.8x | 72 |
-| 🟢 QQQ | $721.09 | +0.9% | 70 | LONG | $724.11 | $721.90 | $728.53 | 0.9x | 65 |
-| 🟢 SPY | $748.10 | +0.8% | 70 | LONG | $751.58 | $750.19 | $754.36 | 0.9x | 68 |
-| 🟢 TQQQ | $79.38 | +2.8% | 70 | LONG | $79.60 | $78.97 | $80.86 | 0.8x | 65 |
-| ⚪ MSTR | $191.82 | +7.8% | 63 | WATCH | — | — | — | 0.9x | 92 |
-| ⚪ COIN | $220.38 | +9.2% | 63 | WATCH | — | — | — | 1.1x | 94 |
-| ⚪ MARA | $13.49 | +5.8% | 63 | WATCH | — | — | — | 0.9x | 84 |
-| ⚪ AAPL | $297.90 | -0.3% | 55 | WATCH | — | — | — | 0.9x | 53 |
-| ⚪ MU | $794.29 | -1.2% | 55 | WATCH | — | — | — | 0.7x | 43 |
-| ⚪ SMCI | $33.04 | +3.2% | 45 | WATCH | — | — | — | 0.8x | 64 |
-| ⚪ PLTR | $133.29 | +2.5% | 37 | WATCH | — | — | — | 1.1x | 69 |
-| ⚪ SOFI | $15.72 | +2.7% | 37 | WATCH | — | — | — | 0.9x | 75 |
-| 🔴 OKLO | $67.06 | -3.7% | 25 | SHORT | $67.00 | $67.81 | $65.38 | 1.0x | 60 |
-| 🔴 SOXS | $8.18 | -2.0% | 22 | SHORT | $8.18 | $8.29 | $7.96 | 0.7x | 43 |
-| 🔴 SQQQ | $40.84 | -2.7% | 22 | SHORT | $40.75 | $41.08 | $40.09 | 0.8x | 35 |
+| 🟢 COIN | $211.97 | +5.0% | 83 | LONG | $210.91 | $206.41 | $219.91 | 1.4x | 32 |
+| 🟢 NVDL | $128.98 | +8.7% | 83 | LONG | $129.28 | $128.12 | $131.60 | 1.2x | 58 |
+| 🟢 AAPL | $298.17 | -0.2% | 80 | LONG | $296.86 | $295.80 | $298.98 | 0.8x | 48 |
+| 🟢 AVGO | $439.46 | +5.4% | 80 | LONG | $440.67 | $437.67 | $446.67 | 1.1x | 71 |
+| 🟢 SPY | $748.08 | +0.8% | 80 | LONG | $751.80 | $750.46 | $754.48 | 0.9x | 51 |
+| 🟢 NVDA | $235.74 | +4.4% | 78 | LONG | $236.60 | $235.07 | $239.66 | 1.2x | 58 |
+| 🟢 IONQ | $57.49 | +4.0% | 78 | LONG | $57.59 | $56.92 | $58.93 | 0.7x | 56 |
+| 🟢 RKLB | $132.56 | +6.8% | 78 | LONG | $132.13 | $130.60 | $135.19 | 0.6x | 55 |
+| 🟢 PLTR | $133.74 | +2.8% | 78 | LONG | $134.33 | $133.46 | $136.07 | 0.9x | 55 |
+| 🟢 AMD | $449.63 | +0.9% | 75 | LONG | $450.61 | $446.84 | $458.15 | 0.7x | 53 |
+| 🟢 MSTR | $186.93 | +5.0% | 75 | LONG | $186.10 | $184.12 | $190.06 | 1.1x | 39 |
+| 🟢 SOFI | $16.02 | +4.6% | 75 | LONG | $15.98 | $15.84 | $16.26 | 1.0x | 67 |
+| 🟢 QQQ | $719.72 | +0.7% | 75 | LONG | $723.14 | $721.10 | $727.22 | 0.8x | 44 |
+| 🟢 SOXL | $186.10 | +1.0% | 75 | LONG | $185.17 | $181.38 | $192.75 | 0.7x | 48 |
+| 🟢 TQQQ | $78.94 | +2.2% | 75 | LONG | $79.27 | $78.66 | $80.49 | 0.8x | 44 |
+| 🟢 MARA | $13.27 | +4.1% | 75 | LONG | $13.30 | $13.13 | $13.64 | 1.1x | 41 |
+| ⚪ ARM | $228.55 | +3.3% | 63 | WATCH | — | — | — | 0.9x | 77 |
+| ⚪ TSLA | $443.18 | -0.5% | 60 | WATCH | — | — | — | 0.7x | 28 |
+| ⚪ MU | $775.92 | -3.5% | 52 | WATCH | — | — | — | 0.7x | 37 |
+| 🔴 OKLO | $67.21 | -3.5% | 28 | SHORT | $67.36 | $68.15 | $65.78 | 1.0x | 50 |
+| 🔴 SMCI | $33.03 | +3.2% | 25 | SHORT | $33.20 | $33.62 | $32.36 | 0.9x | 46 |
+| 🔴 SOXS | $8.27 | -1.0% | 25 | SHORT | $8.31 | $8.49 | $7.95 | 0.7x | 52 |
+| 🔴 SQQQ | $41.08 | -2.2% | 25 | SHORT | $40.91 | $41.24 | $40.25 | 0.9x | 56 |
 
 ---
 
@@ -85,19 +85,19 @@ Holdings con mejor combinación de fundamentales, narrativa y momentum.
 
 | Ticker | Score | Narrativa | Rev Growth | Margin | Fwd P/E | Beta | Mom 6m |
 |--------|-------|-----------|------------|--------|---------|------|--------|
-| **MU** | 96 | HBM Memory for AI (Critical Supplier) | +196% | 42% | 8 | 1.9 | +294% |
+| **MU** | 96 | HBM Memory for AI (Critical Supplier) | +196% | 42% | 8 | 1.9 | +286% |
 | | | Revenue growth +196% (excepcional) · Earnings growth +756% | | | | | |
 | **NVDA** | 93 | AI Infrastructure Dominance | +73% | 56% | 21 | 2.2 | +30% |
 | | | Revenue growth +73% (excepcional) · Earnings growth +96% | | | | | |
-| **AVGO** | 82 | AI Networking + VMware Synergy | +30% | 37% | 24 | 1.4 | +25% |
+| **AVGO** | 82 | AI Networking + VMware Synergy | +30% | 37% | 24 | 1.4 | +27% |
 | | | Revenue growth +30% (fuerte) · Earnings growth +32% | | | | | |
 | **AMD** | 67 | AI Chip Challenger + Data Center Growth | +38% | 13% | 35 | 2.4 | +118% |
 | | | Revenue growth +38% (fuerte) · Earnings growth +91% | | | | | |
 | **SMCI** | 66 | AI Server Infrastructure | +123% | 4% | 10 | 1.7 | +5% |
 | | | Revenue growth +123% (excepcional) · Earnings growth +326% | | | | | |
-| **SOFI** | 58 | Digital Banking + Fintech | +42% | 15% | 20 | 2.1 | -37% |
+| **SOFI** | 58 | Digital Banking + Fintech | +42% | 15% | 20 | 2.1 | -36% |
 | | | Revenue growth +42% (fuerte) · Earnings growth +101% | | | | | |
-| **ARM** | 55 | AI Chip Architecture Monopoly | +20% | 17% | 73 | 3.4 | +69% |
+| **ARM** | 55 | AI Chip Architecture Monopoly | +20% | 17% | 75 | 3.4 | +72% |
 | | | Revenue growth +20% (fuerte) · Earnings growth +46% | | | | | |
 | **PLTR** | 53 | AI Government/Enterprise Platform | +85% | 44% | 65 | 1.5 | -14% |
 | | | Revenue growth +85% (excepcional) · Earnings growth +325% | | | | | |
