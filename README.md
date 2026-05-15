@@ -1,4 +1,4 @@
-# Intraday Signals — 2026-05-14 | 21:01 UTC
+# Intraday Signals — 2026-05-15 | 13:01 UTC
 
 > 23 tickers · 16 LONG · 4 SHORT · Sesgo: ALCISTA — Mayoría sobre VWAP con volumen. Priorizar LONGs.
 
@@ -95,12 +95,10 @@ Holdings con mejor combinación de fundamentales, narrativa y momentum.
 | | | Revenue growth +38% (fuerte) · Earnings growth +91% | | | | | |
 | **SMCI** | 66 | AI Server Infrastructure | +123% | 4% | 10 | 1.7 | +5% |
 | | | Revenue growth +123% (excepcional) · Earnings growth +326% | | | | | |
-| **SOFI** | 58 | Digital Banking + Fintech | +42% | 15% | 20 | 2.1 | -36% |
-| | | Revenue growth +42% (fuerte) · Earnings growth +101% | | | | | |
-| **ARM** | 55 | AI Chip Architecture Monopoly | +20% | 17% | 75 | 3.4 | +72% |
-| | | Revenue growth +20% (fuerte) · Earnings growth +46% | | | | | |
-| **PLTR** | 53 | AI Government/Enterprise Platform | +85% | 44% | 65 | 1.5 | -14% |
+| **PLTR** | 60 | AI Government/Enterprise Platform | +85% | 44% | 65 | 1.5 | -14% |
 | | | Revenue growth +85% (excepcional) · Earnings growth +325% | | | | | |
+| **SOFI** | 53 | Digital Banking + Fintech | +42% | 15% | 20 | 2.1 | -36% |
+| | | Revenue growth +42% (fuerte) · Earnings growth +101% | | | | | |
 
 
 **Score Portafolio:** Crecimiento (25%) + Rentabilidad (20%) + Valoración (20%) + Balance (15%) + Momentum (20%) + Narrativa
