@@ -1,9 +1,30 @@
-# Intraday Signals — 2026-05-18 | 16:13 -04 (Hora Chile, UTC-04:00)
+# Intraday Signals — 2026-05-18 | 16:17 -04 (Hora Chile, UTC-04:00)
 
-> 🌎 Hora local Santiago de Chile. Para visitantes de otros países: 20:13 UTC.
+> 🌎 Hora local Santiago de Chile. Para visitantes de otros países: 20:17 UTC.
 >
 > 23 tickers · 5 LONG · 16 SHORT · Sesgo: BAJISTA — Muchos bajo VWAP. Cuidado con LONGs.
 
+
+## 📰 Noticias del Mercado
+
+- [Trump says holding off on Iran attack planned for Tuesday - Reuters](https://news.google.com/rss/articles/CBMilwFBVV95cUxPTlJPVXZwaUVRaEJoNm40S0hBTWlFbGJoX2JnSEVOallUcm94NWdLUUQ0WW1vRjktMHNDNGlqUEFoMVlwOG14UGNnNUs4bURmZWRWaEdkMHJYOENORmRISnRMd0FmcmpLZUpoU1hhV0QtOWN5MmFrR2ZZM1hDREhmaXhsSTRnYWpvYTd1aTJVNjNNLW9pcFVv?oc=5)
+  _Reuters — Trump says holding off on Iran attack planned for Tuesday  Reuters_
+- [We're raising price targets on 2 cyber stocks after their hard-fought recovery](https://www.cnbc.com/2026/05/18/were-raising-price-targets-on-two-cyber-stocks-after-their-hard-fought-recovery.html)
+  _CNBC — Every weekday, the Investing Club releases the Homestretch; an actionable afternoon update just in time for the last hour of trading._
+- [32-year-old left her dream job in the NFL to make a career pivot—how she knew it was 'time to take a risk'](https://www.cnbc.com/2026/05/18/32-year-old-left-her-dream-job-in-the-nfl-to-make-a-career-pivot-it-was-time-to-take-a-risk.html)
+  _CNBC — Melissa Menta left her managerial role in player operations in the NFL, a dream employer for her, to begin law school._
+- [Pakistan sends new Iranian peace proposal to US - Reuters](https://news.google.com/rss/articles/CBMirAFBVV95cUxNcDZKdU5Cb2tFNmNsTnFKeWlKRFJnZ3lHdGVMRnVBOUR5NnlLaW01eldjcG1YcHZjbndUamVLbV9QWlRhczB6TEt2cDY2bkJqdXB4QlhkQV9nd3dvamF2NnpDU0ptdUZxQXdOQlF5ODB2M0VKbmc4U0xFMVFuWW5Cb0VOeGVYaVA2amRzZ3JGejBGenBGUzh5dlcwM252T2R0cFY0U0U3MEc3Q2t3?oc=5)
+  _Reuters — Pakistan sends new Iranian peace proposal to US  Reuters_
+- [Trump administration ends civil, criminal cases against Adani after $10 billion investment promise - Reuters](https://news.google.com/rss/articles/CBMivwFBVV95cUxNeXdpUzV6UWQwQmtDdWlWMGlJVnppWFNzR1Jzc2Z5N0F4dTFUM2kwbnNhcGU4YUgybTZCa1hka1hmNEFSZUhmbDZoRmw2dnpRdkxVNjliYjJHaGFMSXhRcmdFelpSYmxEdXRpazJia1lXWFdxVzYxT0FQRnRlRFhCVWRHQmJCMjJobEYtRHhuRzJvLXBrLWwwLVI1RE8zbnY5M0V2cnJKdGxKV1V4U1l4RlRxUWRDNGlJN1RYUjJ2OA?oc=5)
+  _Reuters — Trump administration ends civil, criminal cases against Adani after $10 billion investment promise  Reuters_
+- [It's not too late to buy Nvidia. Here are the reasons we say 'own it, don't trade it'](https://www.cnbc.com/2026/05/18/its-not-too-late-to-buy-nvidia-here-are-the-reasons-we-say-own-it-dont-trade-it.html)
+  _CNBC — "If you wanted to buy some here, I totally endorse it. I just feel that we own it, we don't wanna trade it," Jim Cramer said Monday._
+- [No deal, no exit: How US-Iran standoff risks fresh conflict - Reuters](https://news.google.com/rss/articles/CBMisAFBVV95cUxNUjJEMS1FUWxyVzZxazdHM3N2REYtTXJMdHpHWEsySk4xWXdSejNKMFlMVnI0TUhPZzhxSTUwWG92Yk9JaDF4OXltM0JNbGo3VkUyWGtvSy1Zc1JuTzQwVm5TOFU2ZVJjNFhTRmd2QkpnaW5iS1o5a2duN1VJYThMek5WUFNEVExXcTBxaldUeHJ4cG9tVDQ0UmtNSUF3NnBDa0FnajBpWHp1cmJXSGxXMQ?oc=5)
+  _Reuters — No deal, no exit: How US-Iran standoff risks fresh conflict  Reuters_
+- [We're calling up a Bullpen stock, buying small to give us room to build](https://www.cnbc.com/2026/05/18/were-calling-up-a-bullpen-stock-buying-small-to-give-us-room-to-build.html)
+  _CNBC — A stock decline of 9% on something that will impact less than 2% of sales was an overreaction._
+
+---
 
 
 ## 📅 Earnings Clave de la Semana
@@ -90,7 +111,7 @@ Precio bajo VWAP (-3.03%) · EMA9 > EMA20 (alcista)
 | 🔴 AMD | $421.02 | -0.7% | 25 | SHORT | $423.13 | $428.71 | $411.97 | 0.9x | 64 |
 | 🔴 SMCI | $30.86 | -0.6% | 25 | SHORT | $31.01 | $31.43 | $30.17 | 0.9x | 80 |
 | 🔴 NVDL | $114.27 | -2.7% | 25 | SHORT | $114.84 | $116.82 | $110.88 | 1.1x | 61 |
-| 🔴 SOXL | $151.68 | -7.6% | 25 | SHORT | $152.44 | $157.15 | $143.02 | 1.1x | 62 |
+| 🔴 SOXL | $151.66 | -7.6% | 25 | SHORT | $152.42 | $157.13 | $143.00 | 1.1x | 62 |
 | 🔴 MU | $681.70 | -5.9% | 22 | SHORT | $681.13 | $688.68 | $666.03 | 1.1x | 49 |
 | 🔴 OKLO | $58.60 | -5.9% | 17 | SHORT | $58.89 | $59.72 | $57.23 | 1.0x | 71 |
 | 🔴 MSTR | $166.73 | -6.0% | 17 | SHORT | $167.56 | $169.71 | $163.26 | 1.1x | 71 |
