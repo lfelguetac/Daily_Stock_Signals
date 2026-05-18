@@ -1,6 +1,6 @@
-# Intraday Signals — 2026-05-18 | 16:37 CLT (Hora Chile, UTC-04:00)
+# Intraday Signals — 2026-05-18 | 17:01 CLT (Hora Chile, UTC-04:00)
 
-> 🌎 Hora local Santiago de Chile. Para visitantes de otros países: 20:37 UTC.
+> 🌎 Hora local Santiago de Chile. Para visitantes de otros países: 21:01 UTC.
 >
 > 23 tickers · 5 LONG · 16 SHORT · Sesgo: BAJISTA — Muchos bajo VWAP. Cuidado con LONGs.
 
