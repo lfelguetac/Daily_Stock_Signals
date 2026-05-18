@@ -1,4 +1,4 @@
-# Intraday Signals — 2026-05-15 | 21:01 UTC
+# Intraday Signals — 2026-05-18 | 13:01 UTC
 
 > 23 tickers · 3 LONG · 17 SHORT · Sesgo: BAJISTA — Muchos bajo VWAP. Cuidado con LONGs.
 
@@ -32,8 +32,8 @@ Entrada $707.39 · Stop $709.62 · Target $702.93 · R:R 1:2.0
 Precio bajo VWAP (-0.29%) · EMA9 < EMA20 (bajista)
 
 ### 🔴 **SPY** $739.08 (-1.2%) · Score 30
-VWAP $740.42 · RSI 35 · Vol 1.2x
-Entrada $736.72 · Stop $738.40 · Target $733.36 · R:R 1:2.0
+VWAP $740.43 · RSI 35 · Vol 1.2x
+Entrada $736.73 · Stop $738.41 · Target $733.37 · R:R 1:2.0
 Precio bajo VWAP (-0.18%) · EMA9 < EMA20 (bajista)
 
 ### 🔴 **MSTR** $177.41 (-5.1%) · Score 25
@@ -60,7 +60,7 @@ Precio bajo VWAP (-5.71%) · EMA9 < EMA20 (bajista)
 | ⚪ RKLB | $124.73 | -5.9% | 45 | WATCH | — | — | — | 0.7x | 58 |
 | 🔴 AMD | $423.73 | -5.8% | 30 | SHORT | $425.85 | $429.69 | $418.17 | 0.8x | 29 |
 | 🔴 QQQ | $708.88 | -1.5% | 30 | SHORT | $707.39 | $709.62 | $702.93 | 1.2x | 39 |
-| 🔴 SPY | $739.08 | -1.2% | 30 | SHORT | $736.72 | $738.40 | $733.36 | 1.2x | 35 |
+| 🔴 SPY | $739.08 | -1.2% | 30 | SHORT | $736.73 | $738.41 | $733.37 | 1.2x | 35 |
 | 🔴 MSTR | $177.41 | -5.1% | 25 | SHORT | $176.83 | $178.45 | $173.59 | 1.2x | 60 |
 | 🔴 SMCI | $31.03 | -6.1% | 25 | SHORT | $30.97 | $31.24 | $30.43 | 0.8x | 51 |
 | 🔴 SOXL | $164.23 | -11.8% | 25 | SHORT | $165.05 | $168.67 | $157.81 | 1.0x | 38 |
@@ -97,8 +97,10 @@ Holdings con mejor combinación de fundamentales, narrativa y momentum.
 | | | Revenue growth +38% (fuerte) · Earnings growth +91% | | | | | |
 | **PLTR** | 60 | AI Government/Enterprise Platform | +85% | 44% | 65 | 1.5 | -14% |
 | | | Revenue growth +85% (excepcional) · Earnings growth +325% | | | | | |
-| **SOFI** | 53 | Digital Banking + Fintech | +42% | 15% | 20 | 2.1 | -38% |
+| **SOFI** | 58 | Digital Banking + Fintech | +42% | 15% | 20 | 2.1 | -38% |
 | | | Revenue growth +42% (fuerte) · Earnings growth +101% | | | | | |
+| **ARM** | 55 | AI Chip Architecture Monopoly | +20% | 17% | 68 | 3.4 | +59% |
+| | | Revenue growth +20% (fuerte) · Earnings growth +46% | | | | | |
 
 
 **Score Portafolio:** Crecimiento (25%) + Rentabilidad (20%) + Valoración (20%) + Balance (15%) + Momentum (20%) + Narrativa
