@@ -1,28 +1,28 @@
-# Intraday Signals — 2026-05-18 | 17:01 CLT (Hora Chile, UTC-04:00)
+# Intraday Signals — 2026-05-19 | 21:00 CLT (Hora Chile, UTC-04:00)
 
-> 🌎 Hora local Santiago de Chile. Para visitantes de otros países: 21:01 UTC.
+> 🌎 Hora local Santiago de Chile. Para visitantes de otros países: 01:00 UTC.
 >
 > 23 tickers · 5 LONG · 16 SHORT · Sesgo: BAJISTA — Muchos bajo VWAP. Cuidado con LONGs.
 
 
 ## 📰 Noticias del Mercado
 
+- [Los inversores apuestan por la estabilidad tras la cumbre Trump-Xi mientras persisten las preocupaciones sobre la guerra en Irán - Reuters](https://news.google.com/rss/articles/CBMiwwFBVV95cUxOV3hPV2RDUHJZZlNpUEtXZWZUeXQ2YUpQNXU1aHJicDBNRXVUb2loUXBDSGxYeURtd19ON3dLekFvNVJoenpJSTNHRjVtMWNua29NYXZkeTdxYjc1azZ6WjY0UjR1aktKSWRyUGZ3eXoxTDRNb2lGaHg0Q1dnUGVvalpRQWpsdjF3aFNES1RmU1ZhOTFEVC12STdZd2VYSGt2VkdRTlRUQWJURnFqcmh2a0hLcWdTVGowUnMzSW1CMHpOZXc?oc=5)
+  _Reuters — Los inversores apuestan por la estabilidad tras la cumbre Trump-Xi mientras persisten las preocupaciones sobre la guerra en Irán Reuters_
+- [Sin acuerdo, no hay salida: cómo el enfrentamiento entre Estados Unidos e Irán amenaza con un nuevo conflicto - Reuters](https://news.google.com/rss/articles/CBMisAFBVV95cUxNUjJEMS1FUWxyVzZxazdHM3N2REYtTXJMdHpHWEsySk4xWXdSejNKMFlMVnI0TUhPZzhxSTUwWG92Yk9JaDF4OXltM0JNbGo3VkUyWGtvSy1Zc1JuTzQwVm5TOFU2ZVJjNFhTRmd2QkpnaW5iS1o5a2duN1VJYThMek5WUFNEVExXcTBxaldUeHJ4cG9tVDQ0UmtNSUF3NnBDa0FnajBpWHp1cmJXSGxXMQ?oc=5)
+  _Reuters — Sin acuerdo, no hay salida: cómo el enfrentamiento entre Estados Unidos e Irán amenaza con un nuevo conflicto Reuters_
+- [Estados Unidos extiende la exención de sanciones al petróleo ruso para ayudar a los países vulnerables - Reuters](https://news.google.com/rss/articles/CBMiuwFBVV95cUxNcms1UU9KdDZ1SkNQY0tsbC1QdUx3cU1oR25mZFI4RHBCQ2RIWVZ4RjVGeFFyTENjMXFvMW5TRzN4TmZaMHNIYVJiZzRyNmx0bngxazBBSHFvcWxERDAxOF9HR0ZHaE51LTNxVE5NVkdKWE9xQ2Q2d29iajRxYmNneVFCdWZtY0l1dDJYTXppdUo3WTc3X1JJVGtVQ3Y5TzhjcVJEbXItMmswaTNhOUxMZ21seGZLYjZvOUQ0?oc=5)
+  _Reuters — Estados Unidos extiende la exención de sanciones al petróleo ruso para ayudar a los países vulnerables Reuters_
+- [Trump dice que detuvo el ataque contra Irán mientras continúan las negociaciones - Reuters](https://news.google.com/rss/articles/CBMirAFBVV95cUxNcDZKdU5Cb2tFNmNsTnFKeWlKRFJnZ3lHdGVMRnVBOUR5NnlLaW01eldjcG1YcHZjbndUamVLbV9QWlRhczB6TEt2cDY2bkJqdXB4QlhkQV9nd3dvamF2NnpDU0ptdUZxQXdOQlF5ODB2M0VKbmc4U0xFMVFuWW5Cb0VOeGVYaVA2amRzZ3JGejBGenBGUzh5dlcwM252T2R0cFY0U0U3MEc3Q2t3?oc=5)
+  _Reuters — Trump dice que detuvo el ataque contra Irán mientras continúan las negociaciones Reuters_
+- [La administración Trump pone fin a los casos civiles y penales contra Adani después de una promesa de inversión de 10.000 millones de dólares - Reuters](https://news.google.com/rss/articles/CBMivwFBVV95cUxNeXdpUzV6UWQwQmtDdWlWMGlJVnppWFNzR1Jzc2Z5N0F4dTFUM2kwbnNhcGU4YUgybTZCa1hka1hmNEFSZUhmbDZoRmw2dnpRdkxVNjliYjJHaGFMSXhRcmdFelpSYmxEdXRpazJia1lXWFdxVzYxT0FQRnRlRFhCVWRHQmJCMjJobEYtRHhuRzJvLXBrLWwwLVI1RE8zbnY5M0V2cnJKdGxKV1V4U1l4RlRxUWRDNGlJN1RYUjJ2OA?oc=5)
+  _Reuters — La administración Trump pone fin a los casos civiles y penales contra Adani después de una promesa de inversión de 10.000 millones de dólares Reuters_
+- [Volkswagen denuncia la competencia china en Brasil y ve un impacto limitado en Irán - Reuters](https://news.google.com/rss/articles/CBMizwFBVV95cUxNUW9BWUVIa2tjU0dIbEFtTzBfWlZGTnFqdWtvSjRzQnVRM2p6M1liUWZHTzFNbmxZeEF3aXdBTldDMXQtTUFRZ2ZSX29sVHU5YVE5VmJGVHpVd3VubU90Mld0eUZ3Q0tPcUlvVTZEdnJjSTVEVng2YTNNX1FlNExaTGt1WTVmcUQ0NUh2dnMtLWJUY3h3OFNzT21fdDBjRXJmelkwQWtVZldZNEdkTmJzQ21GcFg1N0hFRWtaZ3VEbG4wU3h3SVZIWjFlNzh3elE?oc=5)
+  _Reuters — Volkswagen denuncia la competencia china en Brasil y ve un impacto limitado en Irán Reuters_
 - [Trump dice que retrasar el ataque a Irán está previsto para el martes - Reuters](https://news.google.com/rss/articles/CBMilwFBVV95cUxPTlJPVXZwaUVRaEJoNm40S0hBTWlFbGJoX2JnSEVOallUcm94NWdLUUQ0WW1vRjktMHNDNGlqUEFoMVlwOG14UGNnNUs4bURmZWRWaEdkMHJYOENORmRISnRMd0FmcmpLZUpoU1hhV0QtOWN5MmFrR2ZZM1hDREhmaXhsSTRnYWpvYTd1aTJVNjNNLW9pcFVv?oc=5)
   _Reuters — Trump dice que retrasar el ataque a Irán está previsto para el martes Reuters_
 - [Estamos elevando los precios objetivos de 2 acciones cibernéticas después de su reñida recuperación](https://www.cnbc.com/2026/05/18/were-raising-price-targets-on-two-cyber-stocks-after-their-hard-fought-recovery.html)
   _CNBC — Todos los días de la semana, el Investing Club publica el Homestretch; _
-- [Una mujer de 32 años dejó el trabajo de sus sueños en la NFL para dar un giro en su carrera: cómo supo que era "momento de correr un riesgo"](https://www.cnbc.com/2026/05/18/32-year-old-left-her-dream-job-in-the-nfl-to-make-a-career-pivot-it-was-time-to-take-a-risk.html)
-  _CNBC — Melissa Menta dejó su puesto directivo en las operaciones de jugadores de la NFL, el empleador de sus sueños, para comenzar la facultad de derecho._
-- [Pakistán envía nueva propuesta de paz iraní a EE.UU. - Reuters](https://news.google.com/rss/articles/CBMirAFBVV95cUxNcDZKdU5Cb2tFNmNsTnFKeWlKRFJnZ3lHdGVMRnVBOUR5NnlLaW01eldjcG1YcHZjbndUamVLbV9QWlRhczB6TEt2cDY2bkJqdXB4QlhkQV9nd3dvamF2NnpDU0ptdUZxQXdOQlF5ODB2M0VKbmc4U0xFMVFuWW5Cb0VOeGVYaVA2amRzZ3JGejBGenBGUzh5dlcwM252T2R0cFY0U0U3MEc3Q2t3?oc=5)
-  _Reuters — Pakistán envía una nueva propuesta de paz iraní a EE.UU.  Reuters_
-- [La administración Trump pone fin a los casos civiles y penales contra Adani después de una promesa de inversión de 10.000 millones de dólares - Reuters](https://news.google.com/rss/articles/CBMivwFBVV95cUxNeXdpUzV6UWQwQmtDdWlWMGlJVnppWFNzR1Jzc2Z5N0F4dTFUM2kwbnNhcGU4YUgybTZCa1hka1hmNEFSZUhmbDZoRmw2dnpRdkxVNjliYjJHaGFMSXhRcmdFelpSYmxEdXRpazJia1lXWFdxVzYxT0FQRnRlRFhCVWRHQmJCMjJobEYtRHhuRzJvLXBrLWwwLVI1RE8zbnY5M0V2cnJKdGxKV1V4U1l4RlRxUWRDNGlJN1RYUjJ2OA?oc=5)
-  _Reuters — La administración Trump pone fin a los casos civiles y penales contra Adani después de una promesa de inversión de 10.000 millones de dólares Reuters_
-- [No es demasiado tarde para comprar Nvidia. ](https://www.cnbc.com/2026/05/18/its-not-too-late-to-buy-nvidia-here-are-the-reasons-we-say-own-it-dont-trade-it.html)
-  _CNBC — "Si quisieras comprar algo aquí, lo respaldo totalmente. Simplemente siento que somos dueños, no queremos intercambiarlo", dijo Jim Cramer el lunes._
-- [Sin acuerdo, no hay salida: cómo el enfrentamiento entre Estados Unidos e Irán amenaza con un nuevo conflicto - Reuters](https://news.google.com/rss/articles/CBMisAFBVV95cUxNUjJEMS1FUWxyVzZxazdHM3N2REYtTXJMdHpHWEsySk4xWXdSejNKMFlMVnI0TUhPZzhxSTUwWG92Yk9JaDF4OXltM0JNbGo3VkUyWGtvSy1Zc1JuTzQwVm5TOFU2ZVJjNFhTRmd2QkpnaW5iS1o5a2duN1VJYThMek5WUFNEVExXcTBxaldUeHJ4cG9tVDQ0UmtNSUF3NnBDa0FnajBpWHp1cmJXSGxXMQ?oc=5)
-  _Reuters — Sin acuerdo, no hay salida: cómo el enfrentamiento entre Estados Unidos e Irán amenaza con un nuevo conflicto Reuters_
-- [Estamos solicitando acciones de Bullpen, comprando pequeñas para darnos espacio para construir](https://www.cnbc.com/2026/05/18/were-calling-up-a-bullpen-stock-buying-small-to-give-us-room-to-build.html)
-  _CNBC — Una caída de las acciones del 9% en algo que afectará menos del 2% de las ventas fue una reacción exagerada._
 
 ---
 
