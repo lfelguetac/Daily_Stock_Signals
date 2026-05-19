@@ -1,28 +1,28 @@
-# Intraday Signals — 2026-05-19 | 21:00 CLT (Hora Chile, UTC-04:00)
+# Intraday Signals — 2026-05-19 | 15:01 CLT (Hora Chile, UTC-04:00)
 
-> 🌎 Hora local Santiago de Chile. Para visitantes de otros países: 01:00 UTC.
+> 🌎 Hora local Santiago de Chile. Para visitantes de otros países: 19:01 UTC.
 >
-> 23 tickers · 5 LONG · 16 SHORT · Sesgo: BAJISTA — Muchos bajo VWAP. Cuidado con LONGs.
+> 23 tickers · 4 LONG · 6 SHORT · Sesgo: MIXTO — Operar solo setups A+.
 
 
 ## 📰 Noticias del Mercado
 
-- [Los inversores apuestan por la estabilidad tras la cumbre Trump-Xi mientras persisten las preocupaciones sobre la guerra en Irán - Reuters](https://news.google.com/rss/articles/CBMiwwFBVV95cUxOV3hPV2RDUHJZZlNpUEtXZWZUeXQ2YUpQNXU1aHJicDBNRXVUb2loUXBDSGxYeURtd19ON3dLekFvNVJoenpJSTNHRjVtMWNua29NYXZkeTdxYjc1azZ6WjY0UjR1aktKSWRyUGZ3eXoxTDRNb2lGaHg0Q1dnUGVvalpRQWpsdjF3aFNES1RmU1ZhOTFEVC12STdZd2VYSGt2VkdRTlRUQWJURnFqcmh2a0hLcWdTVGowUnMzSW1CMHpOZXc?oc=5)
-  _Reuters — Los inversores apuestan por la estabilidad tras la cumbre Trump-Xi mientras persisten las preocupaciones sobre la guerra en Irán Reuters_
-- [Sin acuerdo, no hay salida: cómo el enfrentamiento entre Estados Unidos e Irán amenaza con un nuevo conflicto - Reuters](https://news.google.com/rss/articles/CBMisAFBVV95cUxNUjJEMS1FUWxyVzZxazdHM3N2REYtTXJMdHpHWEsySk4xWXdSejNKMFlMVnI0TUhPZzhxSTUwWG92Yk9JaDF4OXltM0JNbGo3VkUyWGtvSy1Zc1JuTzQwVm5TOFU2ZVJjNFhTRmd2QkpnaW5iS1o5a2duN1VJYThMek5WUFNEVExXcTBxaldUeHJ4cG9tVDQ0UmtNSUF3NnBDa0FnajBpWHp1cmJXSGxXMQ?oc=5)
-  _Reuters — Sin acuerdo, no hay salida: cómo el enfrentamiento entre Estados Unidos e Irán amenaza con un nuevo conflicto Reuters_
-- [Estados Unidos extiende la exención de sanciones al petróleo ruso para ayudar a los países vulnerables - Reuters](https://news.google.com/rss/articles/CBMiuwFBVV95cUxNcms1UU9KdDZ1SkNQY0tsbC1QdUx3cU1oR25mZFI4RHBCQ2RIWVZ4RjVGeFFyTENjMXFvMW5TRzN4TmZaMHNIYVJiZzRyNmx0bngxazBBSHFvcWxERDAxOF9HR0ZHaE51LTNxVE5NVkdKWE9xQ2Q2d29iajRxYmNneVFCdWZtY0l1dDJYTXppdUo3WTc3X1JJVGtVQ3Y5TzhjcVJEbXItMmswaTNhOUxMZ21seGZLYjZvOUQ0?oc=5)
-  _Reuters — Estados Unidos extiende la exención de sanciones al petróleo ruso para ayudar a los países vulnerables Reuters_
-- [Trump dice que detuvo el ataque contra Irán mientras continúan las negociaciones - Reuters](https://news.google.com/rss/articles/CBMirAFBVV95cUxNcDZKdU5Cb2tFNmNsTnFKeWlKRFJnZ3lHdGVMRnVBOUR5NnlLaW01eldjcG1YcHZjbndUamVLbV9QWlRhczB6TEt2cDY2bkJqdXB4QlhkQV9nd3dvamF2NnpDU0ptdUZxQXdOQlF5ODB2M0VKbmc4U0xFMVFuWW5Cb0VOeGVYaVA2amRzZ3JGejBGenBGUzh5dlcwM252T2R0cFY0U0U3MEc3Q2t3?oc=5)
-  _Reuters — Trump dice que detuvo el ataque contra Irán mientras continúan las negociaciones Reuters_
-- [La administración Trump pone fin a los casos civiles y penales contra Adani después de una promesa de inversión de 10.000 millones de dólares - Reuters](https://news.google.com/rss/articles/CBMivwFBVV95cUxNeXdpUzV6UWQwQmtDdWlWMGlJVnppWFNzR1Jzc2Z5N0F4dTFUM2kwbnNhcGU4YUgybTZCa1hka1hmNEFSZUhmbDZoRmw2dnpRdkxVNjliYjJHaGFMSXhRcmdFelpSYmxEdXRpazJia1lXWFdxVzYxT0FQRnRlRFhCVWRHQmJCMjJobEYtRHhuRzJvLXBrLWwwLVI1RE8zbnY5M0V2cnJKdGxKV1V4U1l4RlRxUWRDNGlJN1RYUjJ2OA?oc=5)
-  _Reuters — La administración Trump pone fin a los casos civiles y penales contra Adani después de una promesa de inversión de 10.000 millones de dólares Reuters_
-- [Volkswagen denuncia la competencia china en Brasil y ve un impacto limitado en Irán - Reuters](https://news.google.com/rss/articles/CBMizwFBVV95cUxNUW9BWUVIa2tjU0dIbEFtTzBfWlZGTnFqdWtvSjRzQnVRM2p6M1liUWZHTzFNbmxZeEF3aXdBTldDMXQtTUFRZ2ZSX29sVHU5YVE5VmJGVHpVd3VubU90Mld0eUZ3Q0tPcUlvVTZEdnJjSTVEVng2YTNNX1FlNExaTGt1WTVmcUQ0NUh2dnMtLWJUY3h3OFNzT21fdDBjRXJmelkwQWtVZldZNEdkTmJzQ21GcFg1N0hFRWtaZ3VEbG4wU3h3SVZIWjFlNzh3elE?oc=5)
-  _Reuters — Volkswagen denuncia la competencia china en Brasil y ve un impacto limitado en Irán Reuters_
-- [Trump dice que retrasar el ataque a Irán está previsto para el martes - Reuters](https://news.google.com/rss/articles/CBMilwFBVV95cUxPTlJPVXZwaUVRaEJoNm40S0hBTWlFbGJoX2JnSEVOallUcm94NWdLUUQ0WW1vRjktMHNDNGlqUEFoMVlwOG14UGNnNUs4bURmZWRWaEdkMHJYOENORmRISnRMd0FmcmpLZUpoU1hhV0QtOWN5MmFrR2ZZM1hDREhmaXhsSTRnYWpvYTd1aTJVNjNNLW9pcFVv?oc=5)
-  _Reuters — Trump dice que retrasar el ataque a Irán está previsto para el martes Reuters_
-- [Estamos elevando los precios objetivos de 2 acciones cibernéticas después de su reñida recuperación](https://www.cnbc.com/2026/05/18/were-raising-price-targets-on-two-cyber-stocks-after-their-hard-fought-recovery.html)
-  _CNBC — Todos los días de la semana, el Investing Club publica el Homestretch; _
+- [Trump dice que Estados Unidos podría atacar a Irán nuevamente, pero que Teherán quiere un acuerdo - Reuters](https://news.google.com/rss/articles/CBMiywFBVV95cUxPSF9rZVdjR0RKS2w2VnI2M2dWWXZQQ21vck5sX1BRSGs0UVc0YWpTbXEzUEdXVGN6dmRLaTRMQlBERENZQTlUZnl5ZFVxLUNmd0N6dzk0bWlmaDlmcFlER0FDeFhWRDBUV29ONXBVb0xZblZIWE5VcW04Y3FMdGZUY1dHY3NVa2lzLWRyVGhHSUwwMElGQUFJLTEzTGtaeGlheUlqMjQtNTVwOHBzTjNOX2RfcF9reVFuU2FiSmVLcFRGbGRRZmk5bDdWdw?oc=5)
+  _Reuters — Trump dice que Estados Unidos podría volver a atacar a Irán, pero que Teherán quiere un acuerdo Reuters_
+- [He aquí por qué Broadcom es el ganador de la nueva empresa de inteligencia artificial de Blackstone con Google](https://www.cnbc.com/2026/05/19/why-broadcom-is-a-winner-from-blackstones-new-ai-venture-with-google.html)
+  _CNBC — El Club de Inversiones celebra su "reunión matutina" todos los días laborables a las 10:20 a. m., hora del Este._
+- [Trump respalda a Ken Paxton sobre John Cornyn en la carrera por el Senado de Texas](https://www.cnbc.com/2026/05/19/trump-primary-election-ken-paxton-john-cornyn-texas-senate.html)
+  _CNBC — Paxton y Cornyn están atrapados en una amarga segunda vuelta en el Senado de Texas que decidirá qué republicano se enfrentará al demócrata James Talarico en noviembre._
+- [Las bolsas europeas cierran ligeramente al alza mientras los inversores sopesan la propuesta de paz de Irán - Reuters](https://news.google.com/rss/articles/CBMijwFBVV95cUxNaS1Jc3l3RGdNZEhQODhpY0Y0SUo3XzVqSUhXT2U5SUNRb05xUTdpZEEtTkpIcmxyaDFpaDNUbmRXM3Q5RlU2Vm42dzROU1FPUk40bzg1WjJVY0hQMUdwaW1RVFg5Q0Q3eUpoeV8ycVNwMWRZWGkyclZLQTdnLXVVYjlNcW5nLWYxUzItekxxUQ?oc=5)
+  _Reuters — Las bolsas europeas cierran ligeramente al alza mientras los inversores sopesan la propuesta de paz de Irán Reuters_
+- [Los ministros de Finanzas del G7 coinciden en la necesidad de actuar sobre los desequilibrios económicos - Reuters](https://news.google.com/rss/articles/CBMipgFBVV95cUxQUnhudmJ5VG1fcTE3Y1RXSEhSN2diRjQ3Z3hwNVRUd1dwdlFadlBNMDRzak13VjMwdFU1enNmbDZzMFhyNW9ManBTYkJueW5UMnkwMjdsRGNTSE8zRVd5cEFGaWwwVWRiU2t0LXcwSDZYdGpCMXFBLWJzWXZBUk5QTVJSbnR1SjFOdVpUY2dFQ2NONUUwdzZlQmdLTVZxY19RblhUNjhn?oc=5)
+  _Reuters — Los ministros de Finanzas del G7 coinciden en la necesidad de actuar sobre los desequilibrios económicos Reuters_
+- [Los ataques ucranianos de medio alcance asestan un doble golpe al esfuerzo bélico de Rusia - Reuters](https://news.google.com/rss/articles/CBMixAFBVV95cUxPb3B2TkhKeGhsOHdxNzZrWEkxRFQxeUcxZUp3dXRIb3BqSVk1b3h0ajJuV205NUw1Q0d5dEh5NUNjTnp4bnRzbmtrLXFDU0IxeENhdHcyMVpYemJmckZpM2Y2eTNzaTVUdTh3M3g4cHVFT2pKWHNPQlBfdHk5cE0zVEtZNXktMXAtS2xCOHRYVXJ6NWlrVXBsWUY5aFR1enJyX0lGejRCTENndE9sZldsbmJFc2ZFejdtenR1RTZ5eUI5SDZX?oc=5)
+  _Reuters — Los ataques ucranianos de medio alcance asestan un doble golpe al esfuerzo bélico de Rusia Reuters_
+- [Estamos registrando ganancias en una acción que alguna vez fue odiada y que se ha vuelto parabólica](https://www.cnbc.com/2026/05/19/were-booking-profits-in-a-once-hated-stock-thats-gone-parabolic.html)
+  _CNBC — La acción ha subido aproximadamente un 60% desde principios de abril._
+- [Bessent insta a una mayor interrupción de la financiación de Irán y revisará la lista de sanciones de EE.UU. - Reuters](https://news.google.com/rss/articles/CBMixwFBVV95cUxQZWhPSlVpQUxGMFpvbFl1WDZqZUE3WFVOdUxsMUFRUnBMT0RhZEF2VEhyMDNSTThXWnFpTktuQU5rU3B6R0xCZ05LMzRwcER2T3V2Y1FqcFM0RUJDSVlBLUhoMkoxN3ItNndyZU9vSVFYcG81S3VUY3gzMElFWGp1ejdPMVgwYlZVSjJzN0o2Q2h3TEVmYkkyUHJPN213MzNnTDNza0poMXNja3dMU3JmS25HdnUzSF9tTHlPRFZoTDJvSFMwMkhB?oc=5)
+  _Reuters — Bessent insta a que se produzcan más interrupciones en la financiación de Irán y revisará la lista de sanciones de EE.UU.  Reuters_
 
 ---
 
@@ -31,45 +31,45 @@
 
 ## Top Setups
 
-### 🟢 **SQQQ** $43.60 (+1.4%) · Score 83
-VWAP $43.01 · RSI 33 · Vol 1.2x
-Entrada $43.38 · Stop $42.80 · Target $44.54 · R:R 1:2.0
-Precio sobre VWAP (+1.37%) · EMA9 > EMA20 (alcista)
+### 🟢 **PLTR** $135.18 (+0.0%) · Score 75
+VWAP $132.89 · RSI 58 · Vol 0.8x
+Entrada $135.82 · Stop $134.84 · Target $137.78 · R:R 1:2.0
+Precio sobre VWAP (+1.72%) · EMA9 > EMA20 (alcista)
 
-### 🟢 **SOXS** $9.97 (+8.0%) · Score 80
-VWAP $9.09 · RSI 38 · Vol 1.1x
-Entrada $9.92 · Stop $9.65 · Target $10.46 · R:R 1:2.0
-Precio sobre VWAP (+9.68%) · EMA9 > EMA20 (alcista)
+### 🟢 **ARM** $224.72 (+4.5%) · Score 70
+VWAP $215.23 · RSI 71 · Vol 1.2x
+Entrada $224.68 · Stop $222.36 · Target $229.32 · R:R 1:2.0
+Precio sobre VWAP (+4.41%) · EMA9 > EMA20 (alcista)
 
-### 🟢 **PLTR** $135.12 (+0.8%) · Score 75
-VWAP $133.01 · RSI 73 · Vol 0.8x
-Entrada $134.75 · Stop $133.71 · Target $136.83 · R:R 1:2.0
-Precio sobre VWAP (+1.59%) · EMA9 > EMA20 (alcista)
+### 🟢 **RKLB** $126.78 (-3.3%) · Score 67
+VWAP $125.85 · RSI 70 · Vol 1.1x
+Entrada $127.05 · Stop $125.62 · Target $129.91 · R:R 1:2.0
+Precio sobre VWAP (+0.74%) · EMA9 > EMA20 (alcista)
 
-### 🟢 **ARM** $215.21 (+2.9%) · Score 68
-VWAP $213.43 · RSI 77 · Vol 1.0x
-Entrada $214.50 · Stop $212.42 · Target $218.66 · R:R 1:2.0
-Precio sobre VWAP (+0.83%) · EMA9 > EMA20 (alcista)
+### 🟢 **SOXS** $9.70 (-2.5%) · Score 65
+VWAP $9.35 · RSI 32 · Vol 1.4x
+Entrada $9.65 · Stop $9.38 · Target $10.19 · R:R 1:2.0
+Precio sobre VWAP (+3.74%) · EMA9 < EMA20 (bajista)
 
-### 🟢 **RKLB** $131.24 (+5.2%) · Score 67
-VWAP $124.54 · RSI 66 · Vol 1.1x
-Entrada $130.58 · Stop $128.41 · Target $134.92 · R:R 1:2.0
-Precio sobre VWAP (+5.38%) · EMA9 > EMA20 (alcista)
+### 🔴 **SOXL** $155.72 (+2.6%) · Score 35
+VWAP $164.30 · RSI 69 · Vol 1.3x
+Entrada $156.50 · Stop $160.50 · Target $148.50 · R:R 1:2.0
+Precio bajo VWAP (-5.22%) · EMA9 > EMA20 (alcista)
 
-### 🔴 **AVGO** $420.69 (-1.1%) · Score 33
-VWAP $422.85 · RSI 65 · Vol 0.9x
-Entrada $419.89 · Stop $423.19 · Target $413.29 · R:R 1:2.0
-Precio bajo VWAP (-0.51%) · EMA9 < EMA20 (bajista)
+### 🔴 **IONQ** $48.88 (-0.9%) · Score 33
+VWAP $52.36 · RSI 77 · Vol 0.9x
+Entrada $49.12 · Stop $49.62 · Target $48.12 · R:R 1:2.0
+Precio bajo VWAP (-6.65%) · EMA9 > EMA20 (alcista)
 
-### 🔴 **SPY** $738.56 (-0.1%) · Score 30
-VWAP $740.02 · RSI 65 · Vol 1.0x
-Entrada $736.32 · Stop $738.96 · Target $731.04 · R:R 1:2.0
-Precio bajo VWAP (-0.2%) · EMA9 < EMA20 (bajista)
+### 🔴 **MARA** $12.46 (+2.3%) · Score 33
+VWAP $12.53 · RSI 77 · Vol 0.9x
+Entrada $12.44 · Stop $12.56 · Target $12.20 · R:R 1:2.0
+Precio bajo VWAP (-0.56%) · EMA9 > EMA20 (alcista)
 
-### 🔴 **MARA** $12.17 (-2.2%) · Score 28
-VWAP $12.55 · RSI 75 · Vol 0.9x
-Entrada $12.20 · Stop $12.32 · Target $11.96 · R:R 1:2.0
-Precio bajo VWAP (-3.03%) · EMA9 > EMA20 (alcista)
+### 🔴 **TSLA** $404.30 (-1.4%) · Score 30
+VWAP $427.55 · RSI 77 · Vol 0.9x
+Entrada $406.32 · Stop $409.20 · Target $400.56 · R:R 1:2.0
+Precio bajo VWAP (-5.44%) · EMA9 > EMA20 (alcista)
 
 ---
 
@@ -77,29 +77,29 @@ Precio bajo VWAP (-3.03%) · EMA9 > EMA20 (alcista)
 
 | Ticker | Precio | Cambio | Score | Dirección | Entrada | Stop | Target | Vol | RSI |
 |--------|--------|--------|-------|-----------|---------|------|--------|-----|-----|
-| 🟢 SQQQ | $43.60 | +1.4% | 83 | LONG | $43.38 | $42.80 | $44.54 | 1.2x | 33 |
-| 🟢 SOXS | $9.97 | +8.0% | 80 | LONG | $9.92 | $9.65 | $10.46 | 1.1x | 38 |
-| 🟢 PLTR | $135.12 | +0.8% | 75 | LONG | $134.75 | $133.71 | $136.83 | 0.8x | 73 |
-| 🟢 ARM | $215.21 | +2.9% | 68 | LONG | $214.50 | $212.42 | $218.66 | 1.0x | 77 |
-| 🟢 RKLB | $131.24 | +5.2% | 67 | LONG | $130.58 | $128.41 | $134.92 | 1.1x | 66 |
-| ⚪ SOFI | $15.70 | +0.6% | 47 | WATCH | — | — | — | 1.1x | 67 |
-| ⚪ AAPL | $297.90 | -0.8% | 40 | WATCH | — | — | — | 0.8x | 78 |
-| 🔴 AVGO | $420.69 | -1.1% | 33 | SHORT | $419.89 | $423.19 | $413.29 | 0.9x | 65 |
-| 🔴 SPY | $738.56 | -0.1% | 30 | SHORT | $736.32 | $738.96 | $731.04 | 1.0x | 65 |
-| 🔴 MARA | $12.17 | -2.2% | 28 | SHORT | $12.20 | $12.32 | $11.96 | 0.9x | 75 |
-| 🔴 NVDA | $222.35 | -1.3% | 25 | SHORT | $223.46 | $225.41 | $219.56 | 0.9x | 62 |
-| 🔴 TSLA | $410.07 | -2.9% | 25 | SHORT | $408.60 | $411.81 | $402.18 | 0.9x | 52 |
-| 🔴 AMD | $421.02 | -0.7% | 25 | SHORT | $423.13 | $428.71 | $411.97 | 0.9x | 64 |
-| 🔴 SMCI | $30.86 | -0.6% | 25 | SHORT | $31.01 | $31.43 | $30.17 | 0.9x | 80 |
-| 🔴 NVDL | $114.27 | -2.7% | 25 | SHORT | $114.84 | $116.82 | $110.88 | 1.1x | 61 |
-| 🔴 SOXL | $151.66 | -7.6% | 25 | SHORT | $152.42 | $157.13 | $143.00 | 1.1x | 62 |
-| 🔴 MU | $681.70 | -5.9% | 22 | SHORT | $681.13 | $688.68 | $666.03 | 1.1x | 49 |
-| 🔴 OKLO | $58.60 | -5.9% | 17 | SHORT | $58.89 | $59.72 | $57.23 | 1.0x | 71 |
-| 🔴 MSTR | $166.73 | -6.0% | 17 | SHORT | $167.56 | $169.71 | $163.26 | 1.1x | 71 |
-| 🔴 COIN | $189.50 | -3.0% | 17 | SHORT | $190.45 | $192.49 | $186.37 | 0.9x | 68 |
-| 🔴 QQQ | $705.70 | -0.5% | 17 | SHORT | $705.63 | $709.15 | $698.59 | 1.2x | 67 |
-| 🔴 TQQQ | $74.28 | -1.4% | 17 | SHORT | $74.65 | $75.76 | $72.43 | 1.1x | 67 |
-| 🔴 IONQ | $49.31 | -5.1% | 5 | SHORT | $49.56 | $50.39 | $47.90 | 0.8x | 76 |
+| 🟢 PLTR | $135.18 | +0.0% | 75 | LONG | $135.82 | $134.84 | $137.78 | 0.8x | 58 |
+| 🟢 ARM | $224.72 | +4.5% | 70 | LONG | $224.68 | $222.36 | $229.32 | 1.2x | 71 |
+| 🟢 RKLB | $126.78 | -3.3% | 67 | LONG | $127.05 | $125.62 | $129.91 | 1.1x | 70 |
+| 🟢 SOXS | $9.70 | -2.5% | 65 | LONG | $9.65 | $9.38 | $10.19 | 1.4x | 32 |
+| ⚪ SQQQ | $44.06 | +1.2% | 55 | WATCH | — | — | — | 1.1x | 36 |
+| ⚪ COIN | $193.79 | +2.3% | 48 | WATCH | — | — | — | 0.7x | 56 |
+| ⚪ NVDA | $222.60 | +0.1% | 45 | WATCH | — | — | — | 0.8x | 56 |
+| ⚪ AAPL | $297.70 | -0.1% | 45 | WATCH | — | — | — | 0.8x | 55 |
+| ⚪ MU | $706.43 | +3.6% | 45 | WATCH | — | — | — | 1.2x | 61 |
+| ⚪ MSTR | $165.86 | -0.5% | 45 | WATCH | — | — | — | 0.7x | 52 |
+| ⚪ SMCI | $30.76 | -0.3% | 45 | WATCH | — | — | — | 0.8x | 61 |
+| ⚪ NVDL | $114.58 | +0.2% | 45 | WATCH | — | — | — | 0.7x | 56 |
+| ⚪ QQQ | $703.23 | -0.4% | 45 | WATCH | — | — | — | 1.1x | 64 |
+| ⚪ SPY | $734.94 | -0.5% | 45 | WATCH | — | — | — | 1.0x | 58 |
+| ⚪ TQQQ | $73.47 | -1.1% | 45 | WATCH | — | — | — | 1.1x | 64 |
+| ⚪ AMD | $417.67 | -0.8% | 37 | WATCH | — | — | — | 1.3x | 66 |
+| ⚪ SOFI | $15.28 | -2.7% | 37 | WATCH | — | — | — | 1.0x | 68 |
+| 🔴 SOXL | $155.72 | +2.6% | 35 | SHORT | $156.50 | $160.50 | $148.50 | 1.3x | 69 |
+| 🔴 IONQ | $48.88 | -0.9% | 33 | SHORT | $49.12 | $49.62 | $48.12 | 0.9x | 77 |
+| 🔴 MARA | $12.46 | +2.3% | 33 | SHORT | $12.44 | $12.56 | $12.20 | 0.9x | 77 |
+| 🔴 TSLA | $404.30 | -1.4% | 30 | SHORT | $406.32 | $409.20 | $400.56 | 0.9x | 77 |
+| 🔴 OKLO | $55.66 | -5.0% | 25 | SHORT | $55.43 | $55.98 | $54.33 | 0.9x | 64 |
+| 🔴 AVGO | $411.86 | -2.1% | 25 | SHORT | $410.27 | $413.22 | $404.37 | 1.1x | 52 |
 
 ---
 
@@ -110,21 +110,21 @@ Holdings con mejor combinación de fundamentales, narrativa y momentum.
 
 | Ticker | Score | Narrativa | Rev Growth | Margin | Fwd P/E | Beta | Mom 6m |
 |--------|-------|-----------|------------|--------|---------|------|--------|
-| **MU** | 93 | HBM Memory for AI (Critical Supplier) | +196% | 42% | 7 | 1.9 | +205% |
+| **MU** | 96 | HBM Memory for AI (Critical Supplier) | +196% | 42% | 7 | 1.9 | +215% |
 | | | Revenue growth +196% (excepcional) · Earnings growth +756% | | | | | |
-| **NVDA** | 90 | AI Infrastructure Dominance | +73% | 56% | 20 | 2.2 | +22% |
+| **NVDA** | 90 | AI Infrastructure Dominance | +73% | 56% | 19 | 2.2 | +25% |
 | | | Revenue growth +73% (excepcional) · Earnings growth +96% | | | | | |
-| **AVGO** | 82 | AI Networking + VMware Synergy | +30% | 37% | 23 | 1.4 | +12% |
+| **AVGO** | 80 | AI Networking + VMware Synergy | +30% | 37% | 23 | 1.4 | +7% |
 | | | Revenue growth +30% (fuerte) · Earnings growth +32% | | | | | |
-| **SMCI** | 69 | AI Server Infrastructure | +123% | 4% | 10 | 1.7 | -7% |
+| **SMCI** | 69 | AI Server Infrastructure | +123% | 4% | 10 | 1.7 | -5% |
 | | | Revenue growth +123% (excepcional) · Earnings growth +326% | | | | | |
-| **AMD** | 67 | AI Chip Challenger + Data Center Growth | +38% | 13% | 32 | 2.4 | +96% |
+| **AMD** | 67 | AI Chip Challenger + Data Center Growth | +38% | 13% | 32 | 2.4 | +103% |
 | | | Revenue growth +38% (fuerte) · Earnings growth +91% | | | | | |
 | **PLTR** | 60 | AI Government/Enterprise Platform | +85% | 44% | 66 | 1.5 | -17% |
 | | | Revenue growth +85% (excepcional) · Earnings growth +325% | | | | | |
-| **SOFI** | 58 | Digital Banking + Fintech | +42% | 15% | 20 | 2.1 | -43% |
+| **SOFI** | 58 | Digital Banking + Fintech | +42% | 15% | 20 | 2.1 | -46% |
 | | | Revenue growth +42% (fuerte) · Earnings growth +101% | | | | | |
-| **ARM** | 55 | AI Chip Architecture Monopoly | +20% | 17% | 70 | 3.4 | +60% |
+| **ARM** | 55 | AI Chip Architecture Monopoly | +20% | 17% | 74 | 3.4 | +71% |
 | | | Revenue growth +20% (fuerte) · Earnings growth +46% | | | | | |
 
 
