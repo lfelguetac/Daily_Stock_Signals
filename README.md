@@ -1,28 +1,28 @@
-# Intraday Signals — 2026-05-20 | 15:01 CLT (Hora Chile, UTC-04:00)
+# Intraday Signals — 2026-05-21 | 21:00 CLT (Hora Chile, UTC-04:00)
 
-> 🌎 Hora local Santiago de Chile. Para visitantes de otros países: 19:01 UTC.
+> 🌎 Hora local Santiago de Chile. Para visitantes de otros países: 01:00 UTC.
 >
-> 23 tickers · 14 LONG · 2 SHORT · Sesgo: ALCISTA — Mayoría sobre VWAP con volumen. Priorizar LONGs.
+> 23 tickers · 14 LONG · 4 SHORT · Sesgo: ALCISTA — Mayoría sobre VWAP con volumen. Priorizar LONGs.
 
 
 ## 📰 Noticias del Mercado
 
+- [Jim Cramer dice que el mundo de la inversión en tecnología ha cambiado y no va a retroceder](https://www.cnbc.com/2026/05/20/jim-cramer-says-the-world-of-tech-investing-has-changed-and-its-not-going-back.html)
+  _CNBC — Jim Cramer, de CNBC, dijo que las acciones de infraestructura de semiconductores e inteligencia artificial han reemplazado al software como líderes tecnológicos del mercado._
+- [Un socavón cierra la pista del aeropuerto LaGuardia y retrasa los vuelos, advierte la Autoridad Portuaria](https://www.cnbc.com/2026/05/20/laguardia-airport-lga-flights.html)
+  _CNBC — La Autoridad Portuaria dijo que los viajeros deberían esperar retrasos y cancelaciones, y también se espera que lleguen tormentas eléctricas el miércoles._
+- [Irán está consolidando el control de Ormuz con puestos de control en islas, acuerdos diplomáticos y, a veces, “tarifas” - Reuters](https://news.google.com/rss/articles/CBMixwFBVV95cUxOMzNJZTNOVW9ScHNEZjlhenY5VFdwa3ZmVXhCVk9MYWgxY0hnRlVmVUFUNERHS0ZsVlBJZXNBSEw5c3BHYTJxUFA2cDdlZjBBMXRsTDFFN2dXMEJybG9ycU44d1c5WDdwZ09EdDNCWm5kRE8yTW04clJnY05URDdadVZzanZTSFA0bkxFVF90Ym10a1RUYUdmYWNmN2dlNXc1SGdOelpZLU1UQm9aV0RXZkJZeEdRamlmbEl4SlFveEs4RVA0LVlN?oc=5)
+  _Reuters — Irán está consolidando el control de Ormuz con puestos de control en islas, acuerdos diplomáticos y, a veces, “tarifas”  Reuters_
 - [Las acciones suben y el petróleo cae. ](https://www.cnbc.com/2026/05/20/stocks-rally-and-oil-falls-plus-the-implications-of-samsung-averting-a-strike.html)
   _CNBC — Todos los días de la semana, el Investing Club publica el Homestretch; _
 - [Trump: tal vez tenga que golpear más fuerte a Irán, o tal vez no - Reuters](https://news.google.com/rss/articles/CBMijgFBVV95cUxQR2oxOWRTdlB0bllSbFM1UE1YdFh5TlJiazU0QUgyN0RzbFFzSTFJTVVpWWZKN0ZzVEZOSXlRaE11V2V0LTYtZTVzM1JueVZ4TGhIXzdXYXlJb2s3QklWMVdUbkFTYUJwdFpxZDBFR3ZjSzhiSGdHVExHUkJWZEZ3TzZZaGdUWlBzc0tOZXh3?oc=5)
   _Reuters — Trump: quizá tenga que golpear más fuerte a Irán, o tal vez no  Reuters_
+- [Irán busca un mecanismo con Omán sobre Ormuz, dice portavoz del Ministerio de Asuntos Exteriores - Reuters](https://news.google.com/rss/articles/CBMizgFBVV95cUxPVWhtb2pob0F0bVI1Yk9yWFlRNnpWSFg2d0p5U1EyYlFnOXZneVNyWEh0MktpUU1udUVFajdMM214UG1LRnIwN1pvV2s5VzVaMkVpb2tNNmpHOEozYlNlaU9HbS1RQ2pUdjRjYmZYZHZ4S1lUQW80V2FaZ1hab0xKVXRzY3FsSkM0SWxuYmdQVl9ZYWppV0xuWDlPNmZfR210QWVPeVFza0IxcTM1Y0R2MUdmV1ZiVkFFTUpuVkFjRl9XbG9OWWppSHc1OGt5Zw?oc=5)
+  _Reuters — Irán busca un mecanismo con Omán sobre Ormuz, dice un portavoz del Ministerio de Asuntos Exteriores Reuters_
 - ['¿Estoy fuera?' ](https://news.google.com/rss/articles/CBMiugFBVV95cUxQUjd6MUMtT2xpUUFRV0QxUjN6TkJFQ0pxQnBrX2t3aUVlcmJHaUZmYjRSdzE2NU1jZHdjYWV0a2tBWDJSY01hWFFRd1ZSRHF2a3lxYkh4V2RoZXJCY3l5RXUyUi1mcVNzZnRPVjlSYWFPNUZYOGNQYWJzcEU1QV9lSVZnM1JiZ3ZLMGVvOVpfYnpCOEljMHczRk1mM3gtdnFNUG1LU1RZNVJCc2JvRGgtcFJlZDVEUXdzTmc?oc=5)
   _Reuters — '¿Estoy fuera?' _
-- [El nuevo oleoducto de los EAU que pasa por alto Ormuz está completo al 50% antes de su inicio en 2027 - Reuters](https://news.google.com/rss/articles/CBMiugFBVV95cUxQb1EyS05JUV9zbW1BTHAtVzFQMXd3NXM0enZJOGplMEpsTjBNNkpGNEQ4WlB0YnFjZjM0TmlnTHU4QUlDM0ZaRGdUVWdpR2w4QXJzX2ZFU3pFOVhpVlpSRXdfY3J5X0dNdU5YdkdITElYenJHZDNFRmFpTHowUTlrUGlxZ29YQ3pJNjNrR1ptdy1hZnB0dmEwMTFzZHNCdHpZZ1RTZ0hxY2tPRHFQZ3dBa2MxMlpyMURITEE?oc=5)
-  _Reuters — El nuevo oleoducto de los Emiratos Árabes Unidos que pasa por alto Ormuz está completado al 50% antes de su inicio en 2027  Reuters_
-- [Después del brote de hantavirus, los expertos en enfermedades infecciosas comparten cómo navegar de forma segura y evalúan los riesgos para la salud](https://www.cnbc.com/2026/05/20/cruise-safety-tips-from-infectious-disease-experts-after-hantavirus-outbreak.html)
-  _CNBC — Un brote de hantavirus en el crucero MV Hondius ha vuelto a poner en el ojo público algunas cuestiones de salud y seguridad en los cruceros. _
-- [Trump parpadea mientras el gran y malo mercado de bonos muestra sus dientes - Reuters](https://news.google.com/rss/articles/CBMiuAFBVV95cUxNRnZtN1lXbHppUkRDczZZLUhfaDdCQmRlTTNRN2VYekhzWWhuV19mSloyY2M5bGVNeUc1eEVUSnVVRHhVY3pDbl9Pa0MtQ2JTNXhnZ1BRdTdrc2h3ZmRnVV9QZS1kTzNtTXgxdVZVcVJqY3JHWHRLYkRrNHRodEhDVHJyLVhIV0N0cGVhRWRLOHBNRDBPUVhnbjFwVDBVdHczWFdLdEVRdkxHRnhKcFl1LW1kb3VJZDd0?oc=5)
-  _Reuters — Trump parpadea mientras el gran y malo mercado de bonos muestra los dientes Reuters_
-- [Irán está consolidando el control de Ormuz con puestos de control en islas, acuerdos diplomáticos y, a veces, “tarifas” - Reuters](https://news.google.com/rss/articles/CBMixwFBVV95cUxOMzNJZTNOVW9ScHNEZjlhenY5VFdwa3ZmVXhCVk9MYWgxY0hnRlVmVUFUNERHS0ZsVlBJZXNBSEw5c3BHYTJxUFA2cDdlZjBBMXRsTDFFN2dXMEJybG9ycU44d1c5WDdwZ09EdDNCWm5kRE8yTW04clJnY05URDdadVZzanZTSFA0bkxFVF90Ym10a1RUYUdmYWNmN2dlNXc1SGdOelpZLU1UQm9aV0RXZkJZeEdRamlmbEl4SlFveEs4RVA0LVlN?oc=5)
-  _Reuters — Irán está consolidando el control de Ormuz con puestos de control en islas, acuerdos diplomáticos y, a veces, “tarifas”  Reuters_
-- [Los petroleros salen del Estrecho de Ormuz con 6 millones de barriles de petróleo crudo - Reuters](https://news.google.com/rss/articles/CBMiygFBVV95cUxPVXNrRTVhT0c5MGxfUmJneWZOYWpMblUyU2pHRFUzS1czM1ZWaTY5XzVCcHZKUzZnMnBpZ2wydzdSSS1uNExYd21adTY2QlkwODBIUmNpeHBtTG1rblN5dzJOUkxjLVFzYV9xQUctWmxXcWNJTTdNVGpCbnlqYkZTQW5RN084YTU2QklES3VuX21kTUJBR2Y5akFzOFBUd3BEVE5HdkYwdk5wSktsS2pvZHM5QUwtSUhONkNqQ0UweE1fNWN0emdQZTZR?oc=5)
-  _Reuters — Los petroleros salen del Estrecho de Ormuz con 6 millones de barriles de petróleo crudo Reuters_
+- [El Banco de Inglaterra tiene tiempo para evaluar el impacto de la guerra con Irán, dice Bailey - Reuters](https://news.google.com/rss/articles/CBMirAFBVV95cUxQYzg5WlF5YUFPek10UXJYSXdrMnY0dTVDUnJqYUZyWWdKN3J2THFFS0pNUjFobkVZV3BjSGpKRFExM3UzWmpPNW44dkQzeEdYSDJ3ZzdqNm14M2Jua01rR04yRTlFOHRBNHp0SU52TFA5cUpva3NKSzNUM3FWT3NDYTZNQVM4ano0SXd2RDJWTTZXRTZTQUZ1T0hKazNtSFZ0ZUtmVGNkU2cySTR3?oc=5)
+  _Reuters — El Banco de Inglaterra tiene tiempo para evaluar el impacto de la guerra con Irán, dice Bailey Reuters_
 
 ---
 
@@ -31,40 +31,45 @@
 
 ## Top Setups
 
-### 🟢 **ARM** $253.10 (+13.4%) · Score 98
-VWAP $226.05 · RSI 25 · Vol 1.6x
-Entrada $254.34 · Stop $252.12 · Target $258.78 · R:R 1:2.0
-Precio sobre VWAP (+11.97%) · EMA9 > EMA20 (alcista)
+### 🟢 **ARM** $256.59 (+15.0%) · Score 88
+VWAP $227.02 · RSI 54 · Vol 1.6x
+Entrada $255.43 · Stop $253.11 · Target $260.07 · R:R 1:2.0
+Precio sobre VWAP (+13.03%) · EMA9 > EMA20 (alcista)
 
-### 🟢 **AMD** $444.95 (+7.5%) · Score 78
-VWAP $428.51 · RSI 43 · Vol 1.1x
-Entrada $446.84 · Stop $443.60 · Target $453.32 · R:R 1:2.0
-Precio sobre VWAP (+3.84%) · EMA9 > EMA20 (alcista)
+### 🟢 **SMCI** $33.46 (+9.5%) · Score 83
+VWAP $31.74 · RSI 50 · Vol 1.3x
+Entrada $33.39 · Stop $33.09 · Target $33.99 · R:R 1:2.0
+Precio sobre VWAP (+5.42%) · EMA9 > EMA20 (alcista)
 
-### 🟢 **RKLB** $133.45 (+4.8%) · Score 78
-VWAP $127.11 · RSI 53 · Vol 0.8x
-Entrada $133.69 · Stop $132.34 · Target $136.39 · R:R 1:2.0
-Precio sobre VWAP (+4.99%) · EMA9 > EMA20 (alcista)
+### 🟢 **OKLO** $62.62 (+12.1%) · Score 80
+VWAP $60.90 · RSI 71 · Vol 1.0x
+Entrada $62.31 · Stop $61.56 · Target $63.81 · R:R 1:2.0
+Precio sobre VWAP (+2.82%) · EMA9 > EMA20 (alcista)
 
-### 🟢 **PLTR** $136.38 (+0.8%) · Score 78
-VWAP $134.05 · RSI 63 · Vol 0.9x
-Entrada $136.82 · Stop $136.14 · Target $138.18 · R:R 1:2.0
-Precio sobre VWAP (+1.74%) · EMA9 > EMA20 (alcista)
+### 🟢 **IONQ** $52.49 (+8.4%) · Score 78
+VWAP $51.57 · RSI 61 · Vol 0.9x
+Entrada $52.44 · Stop $51.92 · Target $53.48 · R:R 1:2.0
+Precio sobre VWAP (+1.78%) · EMA9 > EMA20 (alcista)
 
-### 🟢 **OKLO** $61.39 (+9.9%) · Score 78
-VWAP $60.85 · RSI 60 · Vol 0.9x
-Entrada $61.15 · Stop $60.55 · Target $62.35 · R:R 1:2.0
-Precio sobre VWAP (+0.89%) · EMA9 > EMA20 (alcista)
+### 🟢 **RKLB** $134.27 (+5.5%) · Score 78
+VWAP $127.28 · RSI 62 · Vol 0.9x
+Entrada $134.30 · Stop $132.93 · Target $137.04 · R:R 1:2.0
+Precio sobre VWAP (+5.49%) · EMA9 > EMA20 (alcista)
 
-### 🔴 **SOXS** $8.73 (-12.1%) · Score 22
-VWAP $9.46 · RSI 51 · Vol 0.7x
-Entrada $8.73 · Stop $8.82 · Target $8.55 · R:R 1:2.0
-Precio bajo VWAP (-7.72%) · EMA9 < EMA20 (bajista)
+### 🔴 **NVDA** $223.43 (+1.3%) · Score 30
+VWAP $226.33 · RSI 40 · Vol 0.9x
+Entrada $222.36 · Stop $223.49 · Target $220.10 · R:R 1:2.0
+Precio bajo VWAP (-1.28%) · EMA9 < EMA20 (bajista)
 
-### 🔴 **SQQQ** $42.53 (-4.2%) · Score 22
-VWAP $43.17 · RSI 49 · Vol 0.9x
-Entrada $42.42 · Stop $42.75 · Target $41.76 · R:R 1:2.0
-Precio bajo VWAP (-1.48%) · EMA9 < EMA20 (bajista)
+### 🔴 **MSTR** $165.83 (+0.7%) · Score 30
+VWAP $173.17 · RSI 42 · Vol 0.6x
+Entrada $165.93 · Stop $167.29 · Target $163.21 · R:R 1:2.0
+Precio bajo VWAP (-4.24%) · EMA9 < EMA20 (bajista)
+
+### 🔴 **NVDL** $115.36 (+2.5%) · Score 30
+VWAP $118.50 · RSI 40 · Vol 0.9x
+Entrada $114.83 · Stop $115.78 · Target $112.93 · R:R 1:2.0
+Precio bajo VWAP (-2.65%) · EMA9 < EMA20 (bajista)
 
 ---
 
@@ -72,29 +77,29 @@ Precio bajo VWAP (-1.48%) · EMA9 < EMA20 (bajista)
 
 | Ticker | Precio | Cambio | Score | Dirección | Entrada | Stop | Target | Vol | RSI |
 |--------|--------|--------|-------|-----------|---------|------|--------|-----|-----|
-| 🟢 ARM | $253.10 | +13.4% | 98 | LONG | $254.34 | $252.12 | $258.78 | 1.6x | 25 |
-| 🟢 AMD | $444.95 | +7.5% | 78 | LONG | $446.84 | $443.60 | $453.32 | 1.1x | 43 |
-| 🟢 RKLB | $133.45 | +4.8% | 78 | LONG | $133.69 | $132.34 | $136.39 | 0.8x | 53 |
-| 🟢 PLTR | $136.38 | +0.8% | 78 | LONG | $136.82 | $136.14 | $138.18 | 0.9x | 63 |
-| 🟢 OKLO | $61.39 | +9.9% | 78 | LONG | $61.15 | $60.55 | $62.35 | 0.9x | 60 |
-| 🟢 MU | $729.17 | +4.3% | 78 | LONG | $729.64 | $723.31 | $742.30 | 0.9x | 58 |
-| 🟢 SMCI | $33.31 | +9.0% | 78 | LONG | $33.29 | $32.97 | $33.93 | 1.2x | 54 |
-| 🟢 QQQ | $711.38 | +1.4% | 78 | LONG | $714.35 | $712.50 | $718.05 | 0.8x | 51 |
-| 🟢 SPY | $740.54 | +0.9% | 78 | LONG | $743.71 | $742.23 | $746.67 | 1.0x | 52 |
-| 🟢 SOXL | $170.51 | +12.3% | 78 | LONG | $170.64 | $168.94 | $174.04 | 0.8x | 50 |
-| 🟢 TQQQ | $75.98 | +4.2% | 78 | LONG | $76.19 | $75.63 | $77.31 | 0.9x | 50 |
-| 🟢 IONQ | $51.62 | +6.6% | 75 | LONG | $51.81 | $51.30 | $52.83 | 0.9x | 50 |
-| 🟢 SOFI | $15.56 | +2.2% | 75 | LONG | $15.62 | $15.51 | $15.84 | 0.8x | 50 |
-| 🟢 MARA | $13.23 | +6.3% | 75 | LONG | $13.25 | $13.12 | $13.51 | 1.2x | 49 |
-| ⚪ AAPL | $302.48 | +1.2% | 63 | WATCH | — | — | — | 0.9x | 89 |
-| ⚪ AVGO | $417.85 | +1.6% | 53 | WATCH | — | — | — | 0.9x | 29 |
-| ⚪ TSLA | $414.07 | +2.5% | 48 | WATCH | — | — | — | 0.8x | 61 |
-| ⚪ MSTR | $166.33 | +1.0% | 45 | WATCH | — | — | — | 0.6x | 44 |
-| ⚪ COIN | $193.67 | +0.1% | 45 | WATCH | — | — | — | 0.6x | 43 |
-| ⚪ NVDA | $222.72 | +1.0% | 40 | WATCH | — | — | — | 0.9x | 22 |
-| ⚪ NVDL | $114.71 | +1.9% | 40 | WATCH | — | — | — | 0.8x | 23 |
-| 🔴 SOXS | $8.73 | -12.1% | 22 | SHORT | $8.73 | $8.82 | $8.55 | 0.7x | 51 |
-| 🔴 SQQQ | $42.53 | -4.2% | 22 | SHORT | $42.42 | $42.75 | $41.76 | 0.9x | 49 |
+| 🟢 ARM | $256.59 | +15.0% | 88 | LONG | $255.43 | $253.11 | $260.07 | 1.6x | 54 |
+| 🟢 SMCI | $33.46 | +9.5% | 83 | LONG | $33.39 | $33.09 | $33.99 | 1.3x | 50 |
+| 🟢 OKLO | $62.62 | +12.1% | 80 | LONG | $62.31 | $61.56 | $63.81 | 1.0x | 71 |
+| 🟢 IONQ | $52.49 | +8.4% | 78 | LONG | $52.44 | $51.92 | $53.48 | 0.9x | 61 |
+| 🟢 RKLB | $134.27 | +5.5% | 78 | LONG | $134.30 | $132.93 | $137.04 | 0.9x | 62 |
+| 🟢 SOFI | $15.68 | +3.0% | 78 | LONG | $15.70 | $15.58 | $15.94 | 0.8x | 59 |
+| 🟢 AMD | $447.58 | +8.1% | 75 | LONG | $448.59 | $445.19 | $455.39 | 1.1x | 66 |
+| 🟢 MU | $732.14 | +4.8% | 75 | LONG | $732.30 | $726.03 | $744.84 | 0.9x | 71 |
+| 🟢 SPY | $741.25 | +1.0% | 75 | LONG | $744.26 | $742.82 | $747.14 | 0.9x | 74 |
+| 🟢 MARA | $13.14 | +5.6% | 75 | LONG | $13.07 | $12.89 | $13.43 | 1.2x | 45 |
+| 🟢 SOXL | $173.35 | +14.1% | 73 | LONG | $172.48 | $170.37 | $176.70 | 0.8x | 75 |
+| 🟢 AAPL | $302.27 | +1.1% | 68 | LONG | $303.32 | $302.27 | $305.42 | 0.9x | 80 |
+| 🟢 PLTR | $137.15 | +1.4% | 68 | LONG | $137.21 | $136.49 | $138.65 | 0.9x | 77 |
+| 🟢 QQQ | $713.07 | +1.6% | 68 | LONG | $715.19 | $713.48 | $718.61 | 0.8x | 84 |
+| ⚪ TQQQ | $76.53 | +4.9% | 63 | WATCH | — | — | — | 0.9x | 84 |
+| ⚪ AVGO | $417.52 | +1.6% | 50 | WATCH | — | — | — | 0.8x | 39 |
+| ⚪ TSLA | $417.27 | +3.3% | 38 | WATCH | — | — | — | 0.9x | 75 |
+| ⚪ COIN | $191.28 | -1.1% | 38 | WATCH | — | — | — | 0.6x | 34 |
+| ⚪ SQQQ | $42.21 | -4.9% | 37 | WATCH | — | — | — | 0.9x | 17 |
+| 🔴 NVDA | $223.43 | +1.3% | 30 | SHORT | $222.36 | $223.49 | $220.10 | 0.9x | 40 |
+| 🔴 MSTR | $165.83 | +0.7% | 30 | SHORT | $165.93 | $167.29 | $163.21 | 0.6x | 42 |
+| 🔴 NVDL | $115.36 | +2.5% | 30 | SHORT | $114.83 | $115.78 | $112.93 | 0.9x | 40 |
+| 🔴 SOXS | $8.53 | -14.1% | 25 | SHORT | $8.57 | $8.72 | $8.27 | 0.7x | 25 |
 
 ---
 
@@ -105,19 +110,19 @@ Holdings con mejor combinación de fundamentales, narrativa y momentum.
 
 | Ticker | Score | Narrativa | Rev Growth | Margin | Fwd P/E | Beta | Mom 6m |
 |--------|-------|-----------|------------|--------|---------|------|--------|
-| **MU** | 96 | HBM Memory for AI (Critical Supplier) | +196% | 42% | 7 | 1.9 | +217% |
+| **MU** | 96 | HBM Memory for AI (Critical Supplier) | +196% | 42% | 7 | 1.9 | +218% |
 | | | Revenue growth +196% (excepcional) · Earnings growth +756% | | | | | |
 | **NVDA** | 90 | AI Infrastructure Dominance | +73% | 56% | 19 | 2.2 | +24% |
 | | | Revenue growth +73% (excepcional) · Earnings growth +96% | | | | | |
 | **AVGO** | 80 | AI Networking + VMware Synergy | +30% | 37% | 23 | 1.4 | +6% |
 | | | Revenue growth +30% (fuerte) · Earnings growth +32% | | | | | |
-| **AMD** | 67 | AI Chip Challenger + Data Center Growth | +38% | 13% | 34 | 2.4 | +108% |
+| **AMD** | 67 | AI Chip Challenger + Data Center Growth | +38% | 13% | 35 | 2.4 | +109% |
 | | | Revenue growth +38% (fuerte) · Earnings growth +91% | | | | | |
 | **SMCI** | 66 | AI Server Infrastructure | +123% | 4% | 10 | 1.7 | +2% |
 | | | Revenue growth +123% (excepcional) · Earnings growth +326% | | | | | |
-| **PLTR** | 60 | AI Government/Enterprise Platform | +85% | 44% | 66 | 1.5 | -18% |
+| **PLTR** | 60 | AI Government/Enterprise Platform | +85% | 44% | 66 | 1.5 | -17% |
 | | | Revenue growth +85% (excepcional) · Earnings growth +325% | | | | | |
-| **ARM** | 58 | AI Chip Architecture Monopoly | +20% | 18% | 83 | — | +91% |
+| **ARM** | 58 | AI Chip Architecture Monopoly | +20% | 18% | 84 | — | +94% |
 | | | Revenue growth +20% (fuerte) · Earnings growth +46% | | | | | |
 | **SOFI** | 58 | Digital Banking + Fintech | +42% | 15% | 20 | 2.1 | -45% |
 | | | Revenue growth +42% (fuerte) · Earnings growth +101% | | | | | |
