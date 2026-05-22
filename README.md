@@ -1,8 +1,8 @@
-# Intraday Signals — 2026-05-22 | 21:00 CLT (Hora Chile, UTC-04:00)
+# Swing Signals — 2026-05-22 | 22:37 CLT (Hora Chile, UTC-04:00)
 
-> 🌎 Hora local Santiago de Chile. Para visitantes de otros países: 01:00 UTC.
+> 🌎 Hora local Santiago. Visitantes de otros países: 02:37 UTC.
 >
-> 23 tickers · 15 LONG · 7 SHORT · Sesgo: ALCISTA — Mayoría sobre VWAP con volumen. Priorizar LONGs.
+> 18 acciones · 9 COMPRAR/ACUMULAR · 9 OBSERVAR · 0 ESPERAR/EVITAR · COMPRADOR — Varias oportunidades de entrada en pullbacks de calidad.
 
 
 ## 📰 Noticias del Mercado
@@ -29,121 +29,109 @@
 
 ---
 
-## Top Setups
+## 🔥 Mejores Setups de Swing
 
-### 🟢 **IONQ** $58.87 (+12.2%) · Score 90
-VWAP $53.44 · RSI 47 · Vol 2.1x
-Entrada $58.58 · Stop $57.91 · Target $59.92 · R:R 1:2.0
-Precio sobre VWAP (+10.16%) · EMA9 > EMA20 (alcista)
+### 🟢 **GOOGL** $387.66 (-0.3%) · Score 71
+Fund 35/40 · Mom 19/30 · Entry 17/30 · Pullback 5% · RSI 52
+Entrada $383.55 — $387.66 · Stop $330.43 · Target $408.61
+Revenue growth +22% (fuerte) · Margen 38% (premium) · Tendencia alcista fuerte (Precio > SMA20 > SMA50)
 
-### 🟢 **PLTR** $137.41 (+0.2%) · Score 80
-VWAP $135.06 · RSI 58 · Vol 0.8x
-Entrada $136.72 · Stop $135.91 · Target $138.34 · R:R 1:2.0
-Precio sobre VWAP (+1.74%) · EMA9 > EMA20 (alcista)
+### 🔵 **NVDA** $219.51 (-1.8%) · Score 68
+Fund 40/40 · Mom 13/30 · Entry 15/30 · Pullback 7% · RSI 67
+Entrada $214.39 — $219.51 · Stop $190.57 · Target $236.54
+Revenue growth +73% (excelente) · Margen 56% (premium) · Tendencia alcista fuerte (Precio > SMA20 > SMA50)
 
-### 🟢 **MARA** $13.54 (+3.0%) · Score 80
-VWAP $12.65 · RSI 52 · Vol 0.9x
-Entrada $13.52 · Stop $13.38 · Target $13.80 · R:R 1:2.0
-Precio sobre VWAP (+7.04%) · EMA9 > EMA20 (alcista)
+### 🔵 **AVGO** $414.57 (-0.8%) · Score 68
+Fund 36/40 · Mom 11/30 · Entry 21/30 · Pullback 6% · RSI 47
+Entrada $419.52 — $414.57 · Stop $370.34 · Target $442.36
+Revenue growth +30% (excelente) · Margen 37% (premium) · Tendencia lateral/indefinida
 
-### 🟢 **ARM** $298.16 (+16.1%) · Score 78
-VWAP $245.91 · RSI 76 · Vol 1.6x
-Entrada $296.67 · Stop $292.29 · Target $305.43 · R:R 1:2.0
-Precio sobre VWAP (+21.25%) · EMA9 > EMA20 (alcista)
+### 🔵 **VRT** $323.40 (+2.5%) · Score 67
+Fund 33/40 · Mom 13/30 · Entry 21/30 · Pullback 15% · RSI 48
+Entrada $338.92 — $323.40 · Stop $284.05 · Target $379.93
+Revenue growth +30% (excelente) · Margen 14% (saludable) · Tendencia lateral/indefinida
 
-### 🟢 **TSLA** $417.75 (+0.1%) · Score 75
-VWAP $414.00 · RSI 53 · Vol 0.9x
-Entrada $416.07 · Stop $413.02 · Target $422.17 · R:R 1:2.0
-Precio sobre VWAP (+0.91%) · EMA9 > EMA20 (alcista)
+### 🔵 **PLTR** $137.41 (+0.2%) · Score 64
+Fund 38/40 · Mom 1/30 · Entry 25/30 · Pullback 8% · RSI 40
+Entrada $137.74 — $137.41 · Stop $126.05 · Target $162.40
+Revenue growth +85% (excelente) · Margen 44% (premium) · Tendencia bajista
 
-### 🔴 **SQQQ** $41.97 (-0.5%) · Score 33
-VWAP $43.34 · RSI 32 · Vol 0.9x
-Entrada $41.88 · Stop $42.25 · Target $41.14 · R:R 1:2.0
-Precio bajo VWAP (-3.16%) · EMA9 < EMA20 (bajista)
-
-### 🔴 **AVGO** $414.53 (-0.8%) · Score 30
-VWAP $417.71 · RSI 56 · Vol 0.9x
-Entrada $415.62 · Stop $418.29 · Target $410.28 · R:R 1:2.0
-Precio bajo VWAP (-0.76%) · EMA9 < EMA20 (bajista)
-
-### 🔴 **MSTR** $164.87 (-0.6%) · Score 30
-VWAP $168.79 · RSI 49 · Vol 0.8x
-Entrada $164.58 · Stop $165.99 · Target $161.76 · R:R 1:2.0
-Precio bajo VWAP (-2.32%) · EMA9 < EMA20 (bajista)
+### 🔵 **GEV** $1043.82 (+1.9%) · Score 64
+Fund 32/40 · Mom 11/30 · Entry 21/30 · Pullback 11% · RSI 47
+Entrada $1069.08 — $1043.82 · Stop $956.89 · Target $1181.95
+Revenue growth +16% (fuerte) · Margen 24% (saludable) · Tendencia lateral/indefinida
 
 ---
 
-## Todos los Tickers
+## 📊 Todas las Acciones
 
-| Ticker | Precio | Cambio | Score | Dirección | Entrada | Stop | Target | Vol | RSI |
-|--------|--------|--------|-------|-----------|---------|------|--------|-----|-----|
-| 🟢 IONQ | $58.87 | +12.2% | 90 | LONG | $58.58 | $57.91 | $59.92 | 2.1x | 47 |
-| 🟢 PLTR | $137.41 | +0.2% | 80 | LONG | $136.72 | $135.91 | $138.34 | 0.8x | 58 |
-| 🟢 MARA | $13.54 | +3.0% | 80 | LONG | $13.52 | $13.38 | $13.80 | 0.9x | 52 |
-| 🟢 ARM | $298.16 | +16.1% | 78 | LONG | $296.67 | $292.29 | $305.43 | 1.6x | 76 |
-| 🟢 TSLA | $417.75 | +0.1% | 75 | LONG | $416.07 | $413.02 | $422.17 | 0.9x | 53 |
-| 🟢 AMD | $449.59 | +0.5% | 75 | LONG | $447.91 | $444.31 | $455.11 | 0.9x | 73 |
-| 🟢 AAPL | $305.09 | +0.9% | 75 | LONG | $306.27 | $305.28 | $308.25 | 0.9x | 66 |
-| 🟢 OKLO | $65.10 | +4.0% | 75 | LONG | $64.77 | $63.89 | $66.53 | 0.8x | 73 |
-| 🟢 SPY | $742.75 | +0.2% | 72 | LONG | $746.06 | $743.78 | $750.62 | 0.9x | 68 |
-| 🟢 MU | $761.92 | +4.1% | 70 | LONG | $758.61 | $751.46 | $772.91 | 0.8x | 67 |
-| 🟢 SOXL | $178.23 | +2.9% | 70 | LONG | $177.34 | $175.10 | $181.82 | 0.8x | 69 |
-| 🟢 COIN | $193.60 | +1.2% | 67 | LONG | $194.07 | $192.35 | $197.51 | 0.7x | 75 |
-| 🟢 QQQ | $714.44 | +0.2% | 67 | LONG | $717.32 | $714.55 | $722.86 | 0.8x | 68 |
-| 🟢 TQQQ | $76.93 | +0.6% | 67 | LONG | $77.09 | $76.41 | $78.45 | 0.9x | 68 |
-| 🟢 SMCI | $33.45 | -0.0% | 65 | LONG | $33.28 | $32.96 | $33.92 | 1.0x | 79 |
-| ⚪ SOFI | $15.65 | -0.2% | 60 | WATCH | — | — | — | 0.9x | 77 |
-| 🔴 SQQQ | $41.97 | -0.5% | 33 | SHORT | $41.88 | $42.25 | $41.14 | 0.9x | 32 |
-| 🔴 AVGO | $414.53 | -0.8% | 30 | SHORT | $415.62 | $418.29 | $410.28 | 0.9x | 56 |
-| 🔴 MSTR | $164.87 | -0.6% | 30 | SHORT | $164.58 | $165.99 | $161.76 | 0.8x | 49 |
-| 🔴 SOXS | $8.28 | -3.0% | 30 | SHORT | $8.32 | $8.45 | $8.06 | 0.7x | 31 |
-| 🔴 RKLB | $125.43 | -6.6% | 28 | SHORT | $125.97 | $127.31 | $123.29 | 1.1x | 35 |
-| 🔴 NVDA | $219.50 | -1.8% | 22 | SHORT | $218.87 | $220.40 | $215.81 | 1.3x | 50 |
-| 🔴 NVDL | $111.26 | -3.6% | 22 | SHORT | $111.17 | $112.23 | $109.05 | 1.3x | 50 |
+| Ticker | Precio | Cambio | Score | F|M|E | Pullback | RSI | Entrada | Stop | Target | Trend |
+|--------|--------|--------|-------|----|---|----------|-----|---------|------|--------|-------|
+| 🟢 GOOGL | $387.66 | -0.3% | 71 | 35|19|17 | -5% | 52 | $384 | $330 | $409 | ↑↑ |
+| 🔵 NVDA | $219.51 | -1.8% | 68 | 40|13|15 | -7% | 67 | $214 | $191 | $237 | ↑↑ |
+| 🔵 AVGO | $414.57 | -0.8% | 68 | 36|11|21 | -6% | 47 | $420 | $370 | $442 | → |
+| 🔵 VRT | $323.40 | +2.5% | 67 | 33|13|21 | -15% | 48 | $339 | $284 | $380 | → |
+| 🔵 PLTR | $137.41 | +0.2% | 64 | 38|1|25 | -8% | 40 | $138 | $126 | $162 | ↓ |
+| 🔵 GEV | $1043.82 | +1.9% | 64 | 32|11|21 | -11% | 47 | $1069 | $957 | $1182 | → |
+| 🔵 META | $607.38 | +0.4% | 61 | 40|0|21 | -11% | 49 | $622 | $586 | $692 | ↓ |
+| 🔵 AMD | $449.59 | +0.5% | 60 | 32|21|7 | -4% | 68 | $400 | $289 | $469 | ↑↑ |
+| 🔵 AMZN | $268.46 | +1.3% | 57 | 27|21|9 | -4% | 50 | $267 | $239 | $279 | ↑↑ |
+| ⚪ MSFT | $419.09 | -0.5% | 52 | 35|8|9 | -3% | 54 | $417 | $387 | $434 | ↑ |
+| ⚪ MOD | $250.11 | -2.8% | 52 | 26|5|21 | -15% | 44 | $262 | $210 | $294 | → |
+| ⚪ AAPL | $304.99 | +0.9% | 51 | 33|18|0 | -0% | 82 | $287 | $259 | $306 | ↑↑ |
+| ⚪ POWL | $270.75 | -0.1% | 50 | 21|13|16 | -17% | 49 | $283 | $224 | $328 | → |
+| ⚪ NOW | $99.69 | -3.5% | 49 | 32|2|15 | -10% | 61 | $93 | $79 | $119 | → |
+| ⚪ SOFI | $15.65 | -0.2% | 48 | 32|0|16 | -18% | 42 | $16 | $14 | $20 | ↓ |
+| ⚪ RKLB | $125.45 | -6.6% | 46 | 10|26|10 | -9% | 73 | $102 | $62 | $138 | ↑↑ |
+| ⚪ CRM | $176.31 | -2.1% | 45 | 24|0|21 | -7% | 43 | $179 | $157 | $204 | ↓ |
+| ⚪ CCJ | $105.33 | +1.3% | 41 | 21|0|20 | -16% | 33 | $115 | $96 | $131 | ↓ |
+
+> **F**undamental / **M**omentum / **E**ntry (pullback). Score = F(40) + M(30) + E(30)
 
 ---
 
 
-## 📦 Portafolio — Medio Plazo (3-12 meses)
+## 💼 Calidad de Portafolio (Mediano Plazo)
 
 Holdings con mejor combinación de fundamentales, narrativa y momentum.
 
-| Ticker | Score | Narrativa | Rev Growth | Margin | Fwd P/E | Beta | Mom 6m |
-|--------|-------|-----------|------------|--------|---------|------|--------|
-| **MU** | 96 | HBM Memory for AI (Critical Supplier) | +196% | 42% | 7 | 1.9 | +222% |
-| | | Revenue growth +196% (excepcional) · Earnings growth +756% | | | | | |
-| **NVDA** | 90 | AI Infrastructure Dominance | +73% | 56% | 19 | 2.2 | +24% |
-| | | Revenue growth +73% (excepcional) · Earnings growth +96% | | | | | |
-| **AVGO** | 80 | AI Networking + VMware Synergy | +30% | 37% | 23 | 1.4 | +3% |
-| | | Revenue growth +30% (fuerte) · Earnings growth +32% | | | | | |
-| **AMD** | 67 | AI Chip Challenger + Data Center Growth | +38% | 13% | 35 | 2.4 | +107% |
-| | | Revenue growth +38% (fuerte) · Earnings growth +91% | | | | | |
-| **SMCI** | 66 | AI Server Infrastructure | +123% | 4% | 10 | 1.7 | -1% |
-| | | Revenue growth +123% (excepcional) · Earnings growth +326% | | | | | |
-| **PLTR** | 60 | AI Government/Enterprise Platform | +85% | 44% | 66 | 1.5 | -18% |
-| | | Revenue growth +85% (excepcional) · Earnings growth +325% | | | | | |
-| **SOFI** | 58 | Digital Banking + Fintech | +42% | 15% | 20 | 2.1 | -47% |
-| | | Revenue growth +42% (fuerte) · Earnings growth +101% | | | | | |
-| **ARM** | 55 | AI Chip Architecture Monopoly | +20% | 18% | 98 | 3.4 | +120% |
-| | | Revenue growth +20% (fuerte) · Earnings growth +46% | | | | | |
+| Ticker | Score | Narrativa | Rev | Margen | Fwd P/E | Beta | Mom 6m |
+|--------|-------|-----------|-----|--------|---------|------|--------|
+| **NVDA** | 64 | AI Infrastructure Dominance | +73% | 56% | 19 | 2.2 | +24% |
+| | | Revenue +73% · Margen 56% | | | | | |
+| **GOOGL** | 56 | AI Search + Cloud + Waymo | +22% | 38% | 27 | 1.3 | +21% |
+| | | Revenue +22% · Margen 38% | | | | | |
+| **META** | 54 | AI Advertising + Open Source LLM | +33% | 33% | 17 | 1.2 | -6% |
+| | | Revenue +33% · Margen 33% | | | | | |
+| **AMD** | 50 | AI Chip Challenger + Data Center Growth | +38% | 13% | 35 | 2.4 | +107% |
+| | | Revenue +38% · Baja deuda | | | | | |
+| **GEV** | 48 | Energy Transition + Grid Modernization | +16% | 24% | 43 | 1.3 | +74% |
+| | | Revenue +16% · Baja deuda | | | | | |
+| **AMZN** | 47 | AWS AI + E-commerce Margin Expansion | +17% | 12% | 27 | 1.5 | +15% |
+| | | Revenue +17% · Baja deuda | | | | | |
+| **VRT** | 47 | Data Center Power & Cooling Infrastructure | +30% | 14% | 37 | 2.1 | +80% |
+| | | Revenue +30% · ROE 45% | | | | | |
+| **MSFT** | 46 | AI Cloud + Copilot Monetization | +18% | 39% | 22 | 1.1 | -15% |
+| | | Revenue +18% · Margen 39% | | | | | |
 
-
-**Score Portafolio:** Crecimiento (25%) + Rentabilidad (20%) + Valoración (20%) + Balance (15%) + Momentum (20%) + Narrativa
 
 ---
+
 
 
 ## Métricas
 
-| Indicador | Qué es | Cómo usarlo |
-|-----------|--------|-------------|
-| **VWAP** | Precio justo del día | Precio > VWAP = solo LONGs |
-| **Score** | Fuerza 0-100 | >65 LONG, <35 SHORT, 36-64 esperar |
-| **RSI** | Momentum | <30 sobrevendido, >70 sobrecomprado |
-| **Vol Ratio** | Volumen vs promedio | >1.5x = interés institucional |
-| **R:R** | Riesgo/Beneficio | Mínimo 1:2 para entrar |
+| Indicador | Qué mide | Interpretación |
+|-----------|----------|---------------|
+| **Fund Score** /40 | Calidad del negocio | >25 = empresa sólida |
+| **Mom Score** /30 | Fuerza de la tendencia | >20 = tendencia alcista clara |
+| **Entry Score** /30 | Timing del pullback | >20 = buena zona de entrada |
+| **Pullback %** | Distancia del máx 20d | -5% a -15% = zona ideal |
+| **RSI** | Momentum de corto plazo | 30-45 = sobrevendido (comprar) |
+| **Trend** | Alineación SMA 20/50 | ↑↑ fuerte alcista, ↑ alcista, ↓ bajista |
 
-**Regla:** Máximo 2% riesgo por trade. Stop loss siempre.
+**Estrategia:** Comprar empresas de calidad en retrocesos de 5-15% dentro de una tendencia alcista.
+**Horizonte:** Días a semanas. **Stop loss:** Siempre. **Riesgo:** Máx 2% del capital por trade.
 
 ---
-*15m timeframe · VWAP + EMA 9/20 + RSI + Volume · yfinance*
+*Daily timeframe · SMA 20/50 · RSI(14) · MACD · Volumen · yfinance*
