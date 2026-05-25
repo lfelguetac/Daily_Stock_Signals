@@ -1,28 +1,28 @@
-# Swing Signals — 2026-05-23 | 21:00 CLT (Hora Chile, UTC-04:00)
+# Swing Signals — 2026-05-25 | 15:01 CLT (Hora Chile, UTC-04:00)
 
-> 🌎 Hora local Santiago. Visitantes de otros países: 01:00 UTC.
+> 🌎 Hora local Santiago. Visitantes de otros países: 19:01 UTC.
 >
 > 18 acciones · 8 COMPRAR/ACUMULAR · 9 OBSERVAR · 1 ESPERAR/EVITAR · COMPRADOR — Varias oportunidades de entrada en pullbacks de calidad.
 
 
 ## 📰 Noticias del Mercado
 
-- ['Star Wars: The Mandalorian and Grogu' de Disney registra las ventas previas del jueves más bajas en la historia de la franquicia](https://www.cnbc.com/2026/05/22/disneys-star-wars-the-mandalorian-and-grogu-box-office-preview.html)
-  _CNBC — "Star Wars: The Mandalorian and Grogu" de Disney recaudó 12 millones de dólares en los avances del jueves por la noche, la recaudación más baja de entradas anticipadas en la historia de la franquicia._
-- [Las acciones continúan subiendo a niveles récord. ](https://www.cnbc.com/2026/05/22/stocks-continue-surging-to-record-highs-heres-how-to-hedge.html)
-  _CNBC — El repunte hasta alcanzar récords ha hecho que la compra de protección sea más asequible._
-- [Las acciones de Arm extienden el repunte semanal a casi el 50% y Starbucks cancela un proyecto de inteligencia artificial](https://www.cnbc.com/2026/05/22/arm-shares-extend-weekly-rally-to-almost-50percent-and-starbucks-pulls-the-plug-on-an-ai-project.html)
-  _CNBC — Todos los días de la semana, el Investing Club publica el Homestretch; _
-- [Wall Street cree que IMAX está listo para una venta. ](https://www.cnbc.com/2026/05/22/imax-sale-talks-potential-buyers-wall-street-analysts.html)
-  _CNBC — Una fuente le dijo a CNBC que IMAX ha mantenido "conversaciones preliminares" a través de intermediarios, pero la compañía no ha hecho ninguna propuesta oficial._
-- [Los precios de los huevos están cayendo debido al exceso de oferta, y los productores dicen que los márgenes se están viendo afectados a medida que aumentan los costos.](https://www.cnbc.com/2026/05/22/egg-prices-fall-due-to-oversupply-after-bird-flu-shortages.html)
-  _CNBC — Los precios de los huevos están cayendo por el exceso de oferta tras la escasez de gripe aviar, pero los productores dicen que los persistentes costos de los piensos, el combustible y la mano de obra están reduciendo los márgenes._
-- [El aumento de los rendimientos de los bonos del Tesoro "libres de riesgo" hace que los inversores en bonos busquen mejores oportunidades](https://www.cnbc.com/2026/05/22/treasury-yields-bonds-investing-fed-rate-hikes.html)
-  _CNBC — El aumento del rendimiento de los bonos del Tesoro muestra que, después de todo, el mercado de bonos no está "libre de riesgos", pero hay oportunidades para los inversores de renta fija en bonos intermedios, BBB y de alto rendimiento._
-- [Las 10 cosas que el Club debe seguir en bolsa el viernes](https://www.cnbc.com/2026/05/22/the-clubs-top-10-things-to-watch-in-the-stock-market-friday.html)
-  _CNBC — Las acciones están a punto de ampliar las ganancias de ayer._
-- [Las mega-IPO podrían indicar la cima del mercado, dicen los analistas mientras los récords de preparación de SpaceX y OpenAI flotan](https://www.cnbc.com/2026/05/22/ipo-flurry-top-market-analysts-ai-spacex-musk-altman.html)
-  _CNBC — La salida a bolsa de SpaceX, prevista para el 12 de junio, podría marcar la mayor salida a bolsa de la historia._
+- [Trump vincula los Acuerdos de Abraham con cualquier acuerdo con Irán - Reuters](https://news.google.com/rss/articles/CBMilgFBVV95cUxQa3NKc094dzJiaUhtY0N6cWpqRnk4X2swMGF3b1RHSnppOVhyZWt1bDBCQ00tbWV6QWdTMkUycExfRFhxdXpOVE16XzBia0hiTnBMVmQ5TGd6OG5oTUpZYlBSejB1SVpyeG8wTXRVSzV5T081VUpTNm1qZ0IxNVdpS0hIaWJlN2MxSi1OOUtnQUhWd0VKY3c?oc=5)
+  _Reuters — Trump vincula los Acuerdos de Abraham con cualquier acuerdo con Irán Reuters_
+- [Los principales enviados de Irán discuten un posible acuerdo de paz con el primer ministro de Qatar, dice un funcionario - Reuters](https://news.google.com/rss/articles/CBMirAFBVV95cUxNVngxZVRLZ1JuQXprdzRzMDIwazZnY2tvWExLS2ZlNkhEMWYxeVF4YTVldGFYSEt4dVU1NEo5bng1Sm9EUFFZNzN3bTJZR1Z1akRjd1o2emJhU0J3TGMtZVZfcWI4ejdyNWhvd1hXRmRPVkFXYmFKUWl0YVM4Q2pyeHJmQW1jSWxsaDdfVXBORmFWQjcwamxWSXFHYlE4ZDFtcGo1SlRzT3RwSHJ3?oc=5)
+  _Reuters — Los principales enviados de Irán discuten un posible acuerdo de paz con el primer ministro de Qatar, dice un funcionario Reuters_
+- [Irán abriría el Estrecho de Ormuz 30 días después del acuerdo de paz, informa Nikkei citando una fuente - Reuters](https://news.google.com/rss/articles/CBMiygFBVV95cUxOWGpVeEs4ak4xUEV1Qm1hOEVNUUVLTno5N3l4Z3QzVzctcDFROTRNZHNHQjhMSEwzRXlqODVENTExNkp5WFNjb09nY01lYmFLVmVsMS1sVnc4aTdEX3p5THpiR0NDVDhnanczRVpLYUN6bGptN1RUM2FDdFhtMFZQcDN5ODFvSEh1V1dIVzdKZUdpbGY4dWNEWjBzaUVOV1Q5cE9kMU4wWnppYUt3UU5KODN4a3ZDcU9OUm1IbnI3b01SWFloNjFiclpn?oc=5)
+  _Reuters — Irán abriría el Estrecho de Ormuz 30 días después del acuerdo de paz, informa Nikkei citando una fuente  Reuters_
+- [Es hora de que Nvidia siga una página del manual de Apple y haga más por los inversores](https://www.cnbc.com/2026/05/25/jim-cramer-how-nvidia-can-take-a-page-out-of-apple-playbook.html)
+  _CNBC — Es hora de que Nvidia admita su condición de productor sólido y haga más por los accionistas de lo que ya ha hecho._
+- [El presidente de Irán ordena reabrir el acceso internacional a Internet, informan los medios estatales - Reuters](https://news.google.com/rss/articles/CBMixwFBVV95cUxPaG1OOWpIU3AwQ2FPZjNFMzJiOU9qSUNHdGNwcngtNkhxTDRtRUFXSW1fWDZzTktOZk44OWZleGVQNU9ZTkpCQmhjNUx4VjlzcEhsRVZlTVFJTl9LSk9CQkVnZWFVNGF2YVk4VU9PaEFlYmtBN1NRZHE5WW5RRmVibFhDRURROUg1Nms1VG9wbzJpQ2s4Yklndy1ZMHRkaDktVkcxZkRxRmF6a2xsQm1Dc25xY0ZLQ0dUTm1YTHA4ckZzQmNVWmpZ?oc=5)
+  _Reuters — El presidente de Irán ordena reabrir el acceso internacional a Internet, informan los medios estatales  Reuters_
+- [Clérigo ortodoxo ruso niega vínculo con la sustancia blanca encontrada en un coche por la policía checa - Reuters](https://news.google.com/rss/articles/CBMiuwFBVV95cUxNd1hOQ2l4RlZaZkZ6NnBkWm1QLWJfdTdMMjVtVXhGdFFCeUlka2E5LW9sdDk5c2dPVUxHeWhIS0xKc1pFRkp0aGp5U1I3NFI2VjNoMnRtd1pUWTJVVC1uOHItSHBOa25XWUd2U3g5M3Jydk1yYzQ3RlFJdFJHY1NTdlFvQWtwR2NlS1NvUTlqcnZCTWYyS3N2WmtOTFZoRWc2TngyM2t6T21zTktVVE1DZXdwMTQxTHA2SlRz?oc=5)
+  _Reuters — Clérigo ortodoxo ruso niega vínculo con la sustancia blanca encontrada en un coche por la policía checa Reuters_
+- [El STOXX 600 de Europa borra las pérdidas de la guerra de Irán gracias a las esperanzas de un acuerdo de paz y el optimismo de AI - Reuters](https://news.google.com/rss/articles/CBMitwFBVV95cUxNc0h4WWVIblV4ckplUm5FbHEzenM5RURSTTQ3c0NGN2Y3Y1hqLTJNcmtZU3cwaENYNmdMZ21NT2tyWjFybjZoU01YTlYwWUhRYjBLMWs5SUw2TzVhMWMySlVXbzlMZ0piQ3BIYXlpWEdkY1ZGbmhoZlFjWXpKb191RDAzSE1MdDlXYW1pWVBUVXZSODdRMFY2eklfX1drMmtTSE5tbVY5NjFBM0o4UHZaajlzV2RlR1k?oc=5)
+  _Reuters — El STOXX 600 de Europa borra las pérdidas de la guerra de Irán gracias a las esperanzas de un acuerdo de paz y el optimismo de AI Reuters_
+- [La guerra de Irán supone una nueva amenaza para las cosechas en Sudán, asolado por el hambre - Reuters](https://news.google.com/rss/articles/CBMiqAFBVV95cUxNWFk3eVp3WG5PZ1VfZUpwLWl0ZmNDVFh3LS16RHB1eU9xVVlYOXNqaVlPLXpKOWJsbjA5OGFpNFlURTNRT3BwS1hCS2dqRUV0V083eTJ3QlZMZXk0VVpabkd6OE12TnpJci1wSnRUNjNDbG9mR0IyMjZhMjQyaXVPRnhDb1l5WXNsVU5OSjJoU3pEVjY0c2NudHctM0dXSHlvTnZSVnIwUlc?oc=5)
+  _Reuters — La guerra de Irán plantea una nueva amenaza a las cosechas en el Sudán asolado por el hambre Reuters_
 
 ---
 
@@ -33,7 +33,7 @@
 
 ### 🔵 **NVDA** $215.33 (-1.9%) · Score 68
 Fund 40/40 · Mom 13/30 · Entry 15/30 · Pullback 9% · RSI 62
-Entrada $214.75 — $215.33 · Stop $190.60 · Target $236.54
+Entrada $214.75 — $215.33 · Stop $190.59 · Target $236.54
 Revenue growth +85% (excelente) · Margen 63% (premium) · Tendencia alcista fuerte (Precio > SMA20 > SMA50)
 
 ### 🔵 **AVGO** $414.14 (-0.1%) · Score 68
