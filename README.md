@@ -1,28 +1,28 @@
-# Swing Signals — 2026-05-25 | 15:01 CLT (Hora Chile, UTC-04:00)
+# Swing Signals — 2026-05-26 | 21:00 CLT (Hora Chile, UTC-04:00)
 
-> 🌎 Hora local Santiago. Visitantes de otros países: 19:01 UTC.
+> 🌎 Hora local Santiago. Visitantes de otros países: 01:00 UTC.
 >
 > 18 acciones · 8 COMPRAR/ACUMULAR · 9 OBSERVAR · 1 ESPERAR/EVITAR · COMPRADOR — Varias oportunidades de entrada en pullbacks de calidad.
 
 
 ## 📰 Noticias del Mercado
 
+- [Irán viajará a los partidos del Mundial desde México tras la negativa de Estados Unidos, dice Sheinbaum - Reuters](https://news.google.com/rss/articles/CBMitAFBVV95cUxOaEFEVHlmRXVYelZoc2E3LXNkVmZkOWhXc3FodDI1NC1pN1JPRmdQX3dqcWtpRmFwbElCeGlBTzhPWTN6UVhmcGlpZzhDa2VTWDRmWXBwYmRlaENqV2U0ZjJhQ3EtT3E2VUduZUFKWVlHeFBMdUtSUnhaNEh0cTUydUE5R0RyQ1g4VkZubFd6Z0l5WFV0d3BhaDhiLV9OMDkzcFhFcm9kY0o1WHRyUWtiaHFURFk?oc=5)
+  _Reuters — Irán viajará a los partidos del Mundial desde México tras la negativa de Estados Unidos, dice Sheinbaum Reuters_
+- [El ejército estadounidense ataca barcos y sitios de lanzamiento de misiles iraníes: CENTCOM - Reuters](https://news.google.com/rss/articles/CBMiwwFBVV95cUxQMGFjWmVLMi1XMzNha00yYVM2RFZWbHhxQlZZVFY2M0xsdk1ZOFRXWERfUlpYM0RyNGtEYW1HbVZHTGhNaWIxZ2ZUV1JZRHpsUFE2cmpEZjBnVVpqQk9rMGxwaTdnaGNYMGJFVUl2Y3lZWE01N2FIQVd3cEZBc2NsNmo5WjJURlpJMTRkUlhILW5fX25LTi1peFA0akozZlZocE5FMGRYUENQdDZzR0xKVTJzMUttQ1ZPeTd6a195WmhkTU0?oc=5)
+  _Reuters — El ejército estadounidense ataca barcos y sitios de lanzamiento de misiles iraníes: CENTCOM  Reuters_
+- [Las fuerzas estadounidenses llevaron a cabo "ataques de autodefensa" en el sur de Irán, dice Fox News - Reuters](https://news.google.com/rss/articles/CBMivwFBVV95cUxPZzA4QmRYU1RwV3NKWjNOMWlGdVA1Y09pZGdQQ0oyYVpXdGdMejljOFNLZ3U1UENISWlLRGU2d1JidVlVRWNWR1pnbTRFSmpFUXZpMnVPcGphVGxDSkV2WHlOcmtBWEZwQTdEYmNydUtoRlJjOEpGM3hDQTM2Y0ZWTzVZd2ZxakpxWTR5dWNvVFd3bW1SRmNiMDhBOTdoRjJLSThQOWdiLUg2enJXVVJOaTU4TXBUWnowRnY2UVNFYw?oc=5)
+  _Reuters — Las fuerzas estadounidenses llevaron a cabo "ataques de autodefensa" en el sur de Irán, dice Fox News  Reuters_
+- [Se escuchan explosiones en Irán, Mehr dice que la situación en Bandar Abbas está bajo control - Reuters](https://news.google.com/rss/articles/CBMisgFBVV95cUxQNmd2SmVWU1V6THgtc3lKdWowRG9SRFBJQkdiR3BHY0dGX09IeDU5d1E5RVRuTEZ4QXdxc29ObHNCQ2kyd0U5SHF0Y2NUd3VWZnprTU4xUmZwclNOTEZwMWRFUWhGMTladU9QdVQ5VHp5ZXpadDRPY3AzNmxIM3dGYmlvYzluVUlmcTVEc0lLT213bm4wYVdzMDBGSE1EbXU2MnBrLTdYQlJUZ1V0c09Xb3dn?oc=5)
+  _Reuters — Se escuchan explosiones en Irán, Mehr dice que la situación en Bandar Abbas está bajo control Reuters_
+- [Israel intensificará los ataques contra Hezbollah en el Líbano, dice Netanyahu - Reuters](https://news.google.com/rss/articles/CBMixgFBVV95cUxQMHZ6T3ItVElkd1cyWVlNX3VOM05DeUY3bEJGb3QwT1R0SGFQejVzUVI4Z19DZlhwYjNDQ0FVMlBlekEzMkhNYXNDY3lySzZzNUNPUy1uWWpkMl92NGhhNXFfUEViZXZMeDhMbTAxSTZPY3NvMTJ3c2t1cjc1THJxeTU2ZEl2VUtrSTNvbWdhSV9iVEllVXh2bHhKRmhmVW5JYndlemFyblU1bk14bUMzUjBJNVd5SzhXQzZSTy1UYTVIbnhLTnc?oc=5)
+  _Reuters — Israel intensificará los ataques contra Hezbollah en el Líbano, dice Netanyahu Reuters_
 - [Trump vincula los Acuerdos de Abraham con cualquier acuerdo con Irán - Reuters](https://news.google.com/rss/articles/CBMilgFBVV95cUxQa3NKc094dzJiaUhtY0N6cWpqRnk4X2swMGF3b1RHSnppOVhyZWt1bDBCQ00tbWV6QWdTMkUycExfRFhxdXpOVE16XzBia0hiTnBMVmQ5TGd6OG5oTUpZYlBSejB1SVpyeG8wTXRVSzV5T081VUpTNm1qZ0IxNVdpS0hIaWJlN2MxSi1OOUtnQUhWd0VKY3c?oc=5)
   _Reuters — Trump vincula los Acuerdos de Abraham con cualquier acuerdo con Irán Reuters_
-- [Los principales enviados de Irán discuten un posible acuerdo de paz con el primer ministro de Qatar, dice un funcionario - Reuters](https://news.google.com/rss/articles/CBMirAFBVV95cUxNVngxZVRLZ1JuQXprdzRzMDIwazZnY2tvWExLS2ZlNkhEMWYxeVF4YTVldGFYSEt4dVU1NEo5bng1Sm9EUFFZNzN3bTJZR1Z1akRjd1o2emJhU0J3TGMtZVZfcWI4ejdyNWhvd1hXRmRPVkFXYmFKUWl0YVM4Q2pyeHJmQW1jSWxsaDdfVXBORmFWQjcwamxWSXFHYlE4ZDFtcGo1SlRzT3RwSHJ3?oc=5)
-  _Reuters — Los principales enviados de Irán discuten un posible acuerdo de paz con el primer ministro de Qatar, dice un funcionario Reuters_
-- [Irán abriría el Estrecho de Ormuz 30 días después del acuerdo de paz, informa Nikkei citando una fuente - Reuters](https://news.google.com/rss/articles/CBMiygFBVV95cUxOWGpVeEs4ak4xUEV1Qm1hOEVNUUVLTno5N3l4Z3QzVzctcDFROTRNZHNHQjhMSEwzRXlqODVENTExNkp5WFNjb09nY01lYmFLVmVsMS1sVnc4aTdEX3p5THpiR0NDVDhnanczRVpLYUN6bGptN1RUM2FDdFhtMFZQcDN5ODFvSEh1V1dIVzdKZUdpbGY4dWNEWjBzaUVOV1Q5cE9kMU4wWnppYUt3UU5KODN4a3ZDcU9OUm1IbnI3b01SWFloNjFiclpn?oc=5)
-  _Reuters — Irán abriría el Estrecho de Ormuz 30 días después del acuerdo de paz, informa Nikkei citando una fuente  Reuters_
-- [Es hora de que Nvidia siga una página del manual de Apple y haga más por los inversores](https://www.cnbc.com/2026/05/25/jim-cramer-how-nvidia-can-take-a-page-out-of-apple-playbook.html)
-  _CNBC — Es hora de que Nvidia admita su condición de productor sólido y haga más por los accionistas de lo que ya ha hecho._
+- [El incendio en una ciudad belga casi se apaga, el humo se disipará durante la noche - Reuters](https://news.google.com/rss/articles/CBMirwFBVV95cUxOYmtEWUpyV19xR0x0WDc2bmpIWXBSNnFsd3pVYXpoSTl0bDB6U2hsU2M4XzUzdWdWdTR3YURKNWEyeU14SUp0ZGFOWW5Ra3N5YlpCLUtRcTdBOVI0MFFjczIxd2NTWlJBR2tTRk9RU3RLdzdob05NclZQTWx4b3JiVDZ4UFNPYnBaZFZVek1KRXg2R0Q1ZUFhRVoyeE1HMzNzX0FRX2RDVGdyZUxleXpJ?oc=5)
+  _Reuters — El incendio en una ciudad belga casi se apaga y el humo se disipará durante la noche Reuters_
 - [El presidente de Irán ordena reabrir el acceso internacional a Internet, informan los medios estatales - Reuters](https://news.google.com/rss/articles/CBMixwFBVV95cUxPaG1OOWpIU3AwQ2FPZjNFMzJiOU9qSUNHdGNwcngtNkhxTDRtRUFXSW1fWDZzTktOZk44OWZleGVQNU9ZTkpCQmhjNUx4VjlzcEhsRVZlTVFJTl9LSk9CQkVnZWFVNGF2YVk4VU9PaEFlYmtBN1NRZHE5WW5RRmVibFhDRURROUg1Nms1VG9wbzJpQ2s4Yklndy1ZMHRkaDktVkcxZkRxRmF6a2xsQm1Dc25xY0ZLQ0dUTm1YTHA4ckZzQmNVWmpZ?oc=5)
   _Reuters — El presidente de Irán ordena reabrir el acceso internacional a Internet, informan los medios estatales  Reuters_
-- [Clérigo ortodoxo ruso niega vínculo con la sustancia blanca encontrada en un coche por la policía checa - Reuters](https://news.google.com/rss/articles/CBMiuwFBVV95cUxNd1hOQ2l4RlZaZkZ6NnBkWm1QLWJfdTdMMjVtVXhGdFFCeUlka2E5LW9sdDk5c2dPVUxHeWhIS0xKc1pFRkp0aGp5U1I3NFI2VjNoMnRtd1pUWTJVVC1uOHItSHBOa25XWUd2U3g5M3Jydk1yYzQ3RlFJdFJHY1NTdlFvQWtwR2NlS1NvUTlqcnZCTWYyS3N2WmtOTFZoRWc2TngyM2t6T21zTktVVE1DZXdwMTQxTHA2SlRz?oc=5)
-  _Reuters — Clérigo ortodoxo ruso niega vínculo con la sustancia blanca encontrada en un coche por la policía checa Reuters_
-- [El STOXX 600 de Europa borra las pérdidas de la guerra de Irán gracias a las esperanzas de un acuerdo de paz y el optimismo de AI - Reuters](https://news.google.com/rss/articles/CBMitwFBVV95cUxNc0h4WWVIblV4ckplUm5FbHEzenM5RURSTTQ3c0NGN2Y3Y1hqLTJNcmtZU3cwaENYNmdMZ21NT2tyWjFybjZoU01YTlYwWUhRYjBLMWs5SUw2TzVhMWMySlVXbzlMZ0piQ3BIYXlpWEdkY1ZGbmhoZlFjWXpKb191RDAzSE1MdDlXYW1pWVBUVXZSODdRMFY2eklfX1drMmtTSE5tbVY5NjFBM0o4UHZaajlzV2RlR1k?oc=5)
-  _Reuters — El STOXX 600 de Europa borra las pérdidas de la guerra de Irán gracias a las esperanzas de un acuerdo de paz y el optimismo de AI Reuters_
-- [La guerra de Irán supone una nueva amenaza para las cosechas en Sudán, asolado por el hambre - Reuters](https://news.google.com/rss/articles/CBMiqAFBVV95cUxNWFk3eVp3WG5PZ1VfZUpwLWl0ZmNDVFh3LS16RHB1eU9xVVlYOXNqaVlPLXpKOWJsbjA5OGFpNFlURTNRT3BwS1hCS2dqRUV0V083eTJ3QlZMZXk0VVpabkd6OE12TnpJci1wSnRUNjNDbG9mR0IyMjZhMjQyaXVPRnhDb1l5WXNsVU5OSjJoU3pEVjY0c2NudHctM0dXSHlvTnZSVnIwUlc?oc=5)
-  _Reuters — La guerra de Irán plantea una nueva amenaza a las cosechas en el Sudán asolado por el hambre Reuters_
 
 ---
 
