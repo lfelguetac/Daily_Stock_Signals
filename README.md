@@ -1,28 +1,28 @@
-# Swing Signals — 2026-05-27 | 15:01 CLT (Hora Chile, UTC-04:00)
+# Swing Signals — 2026-05-28 | 21:00 CLT (Hora Chile, UTC-04:00)
 
-> 🌎 Hora local Santiago. Visitantes de otros países: 19:01 UTC.
+> 🌎 Hora local Santiago. Visitantes de otros países: 01:00 UTC.
 >
-> 18 acciones · 11 COMPRAR/ACUMULAR · 6 OBSERVAR · 1 ESPERAR/EVITAR · COMPRADOR — Varias oportunidades de entrada en pullbacks de calidad.
+> 18 acciones · 10 COMPRAR/ACUMULAR · 7 OBSERVAR · 1 ESPERAR/EVITAR · COMPRADOR — Varias oportunidades de entrada en pullbacks de calidad.
 
 
 ## 📰 Noticias del Mercado
 
-- [Trump se opone a que Rusia o China tomen el uranio altamente enriquecido de Irán](https://www.cnbc.com/2026/05/27/trump-china-russia-iran-uranium-war-deal.html)
-  _CNBC — Trump también dijo que el Estrecho de Ormuz, la ruta vital para el transporte de petróleo, "va a estar abierto a todos"._
-- [Misil iraní probablemente involucrado en ataque a barco en el Estrecho de Ormuz, dice Corea del Sur - Reuters](https://news.google.com/rss/articles/CBMizAFBVV95cUxQU0FvelZ2cHpUUW5qS3FpQ1NJMUVha1YtR2owWnJ1OEROem1MekVoQkVtWEMtTmxuOGFUQ3Q3QW9XVHd6bENOVjVsMVZ3Y2FFT0RYYkJpWHBfbG9meWxwM2tOck1GaTF1djA2Tnd6alNncGVmclhGNkZQX21YRmkzTWFpWU9QeV93OFk5eUhCMTRnc1Bwc0ZGbmJmckp2Q3BWZ2lDR1pGM1F6cHZFU2NkNnlfd05oZUJSd2VlcHVQMWdIZmhCZWhRT0NmS1c?oc=5)
-  _Reuters — Un misil iraní probablemente estuvo involucrado en un ataque a un barco en el Estrecho de Ormuz, dice Corea del Sur Reuters_
-- ['Saludos después de 88 días': los iraníes se vuelven a conectar después de un largo cierre de Internet - Reuters](https://news.google.com/rss/articles/CBMiwwFBVV95cUxPZDh6MDBWTjJVR0x2SkthXzBlbXZHcEc5c0RpbjNDc0JWTjdzS3M3dHFXdnhfSDNjb1pnMTlrbUowMW1BVUQxdndoRGJJQklSYTNxNno2QWdwcGtudWpFdVJDYURzRmNURDVJNXJXSm9CeUhhZGR5UXRIX2syeWZTVmo0OTJZeDYzbGNEb2pZR1lNX3l4WmxJWkZtRU9kNElIc1l6bmFRZnZHaUxLTExwZnN4ZV9SdFBlN3BSQ1RnQzJDeVE?oc=5)
-  _Reuters — 'Saludos después de 88 días': los iraníes se vuelven a conectar después de un largo cierre de Internet  Reuters_
+- [Exclusiva: Estados Unidos lleva a cabo nuevos ataques en Irán contra un sitio militar, dice un funcionario - Reuters](https://news.google.com/rss/articles/CBMivgFBVV95cUxPSTRRSVJycmxrcVZhN2F2OF8zR2JIWW1Ua0F4V1dIV2NIYUxEMGZSRElNYzBVVlRGazQtX1NuZGNmTzZBYWx3cWlCdVg3Q0xPQkVUZHhTM21ReXdrWHNKMDhzVHRiUkJ5N0tSM1BuNl9NbmhCMUFVRFd1N0dYelB2RkpBYmRTZDVQOExXU1JtdlVsaEw1bGR6aHJUR3lFLVN3dl9ERnVnNlF2b2lLdjhkX1dHLUJNZy1HT1dIdVNB?oc=5)
+  _Reuters — Exclusiva: Estados Unidos lleva a cabo nuevos ataques en Irán contra un sitio militar, dice un funcionario  Reuters_
+- [Trump dice que Irán y Omán no controlarán el Estrecho de Ormuz, pero el acuerdo sigue siendo difícil de alcanzar - Reuters](https://news.google.com/rss/articles/CBMixAFBVV95cUxOYWJLNTAwYTVGSkZnNzU5aUtkM0RhMUpvdXBkN1FzSW52RVhEZG9TZzdMTEJlNnc4QWUzdkhrRkh6R25nRnE3dnpUd3FxYzd3RmluZ1NuZTF1WHlYZEJKV0xnQ3FHVVlZY3RyMWVKc1NVMFVYZ2NlUXJibVZGbjRrVDk2QVVjSU5GUFJNRXd0WnNlMkZmcFpiajk1SWNTblU5bUpfSmRqQTR0UUtUam90WHJaZDhYS0JCa0h5ZUdWenFSckVa?oc=5)
+  _Reuters — Trump dice que Irán y Omán no controlarán el Estrecho de Ormuz, pero el acuerdo sigue siendo difícil de alcanzar Reuters_
+- [Trump dice que puede esperar más que Irán y descarta presión electoral de mitad de mandato - Reuters](https://news.google.com/rss/articles/CBMisAFBVV95cUxQdVBXYVEzOGJ2QldueDNNUnFTLWxiTHFmaTZaRi1jRnM1T2RrWVg2S3M0OUZSNmxOaEZVclJHVWJEbWdxb0hlWWlTT1dZdk5ZbDR6SGV5ZWd3QmlrWGRjS2JMZ3pzaVZmWC1XaDhlUVBKcS1NWVVJNEh1MEVTYW9ZcHF5QXpXajJ2RE5VTWUxTzRsS3ZXTkh1TFNSQjdrYmdaa09QMnJCOXJFUGFHTFdnRg?oc=5)
+  _Reuters — Trump dice que puede esperar más que Irán y descarta la presión electoral de mitad de mandato Reuters_
+- [La televisión estatal iraní dice que el proyecto de acuerdo con Estados Unidos reabriría el transporte marítimo de Ormuz y pondría fin al bloqueo naval - Reuters](https://news.google.com/rss/articles/CBMiwwFBVV95cUxPVHB3ZTljSEdNUGlta055MjFRSDNTZGg2WkZmWjdFOUZfRC1Xd2Q2V2FSWmRxd0xPSTBGel91Um5yN3BHRVhhTURxcUFZTHBJckZDU2hvenpkbWg3aGY3cjB1VERORDR6Z00zTEdEbzB4SlBhUG11UkpkcDRTT2lpZmZxNVoxaXNDbHJWUHdkT0Q3d2VqZHFraUY5alIwcGY2WWEtVV9lblgtMy1GOWRIVlU4eVpzU2s2dzVPZFltZC00UXM?oc=5)
+  _Reuters — La televisión estatal iraní dice que el proyecto de acuerdo con Estados Unidos reabriría el transporte marítimo de Ormuz y pondría fin al bloqueo naval Reuters_
 - [Trump dice que Estados Unidos aún no está satisfecho con el acuerdo con Irán - Reuters](https://news.google.com/rss/articles/CBMiogFBVV95cUxPMHBfYTZCcWQ2N3pTeFJDU2NNeVd6cGVwb0MyeXV6OVVjZmNGMWg5Q2JuTGg2eTBXMW1qWFJmYzc3R2xnUlpjTG9QcmduYTQ1OXM0LTlNQ1pFYkc4Y2pkQmFWWEx1aXQtRmVsNE1GOGQwYlA3a1UzTHlOMWFES0lPM2l6WlkxVEJBaFFHQ3VPbnFHWGVnU09ielBDX2gtR3JSeVE?oc=5)
   _Reuters — Trump dice que Estados Unidos aún no está satisfecho con el acuerdo con Irán Reuters_
-- [Aquí está mi lista de las mejores acciones para comprar relacionadas con la IA y la gran construcción del centro de datos.](https://www.cnbc.com/2026/05/27/jim-cramer-best-stocks-to-buy-tied-to-ai-and-great-data-center-buildout.html)
-  _CNBC — Siempre estamos preparados para atacar, incluso dispuestos a romper nuestra disciplina, porque la explosión del centro de datos puede ser la mayor historia bursátil de todos los tiempos._
-- [Las bolsas europeas cierran estables mientras las ganancias en el sector de automóviles y productos químicos compensan la incertidumbre sobre la guerra de Irán - Reuters](https://news.google.com/rss/articles/CBMiswFBVV95cUxNR3dWZUZzWDhjREZYeWhVaTRELXJrN1hhSG1ySVNBN1lRZUZ5bWphZmVOSVZ6Rk1NcFk1aERlOS1pSFBmTXNwN09oc3lMdUZIWVZkNXBoZW1zRTNVOUJWSmhMNnVwQmI4aEJnRFZmcDhTUEo2NXlONFRRVHJhbGdhWE9FamRnaHlTcHNhLUFmbjFSbkVQRTd3LVdEN0VNQk5FeHQzVFBETm5lM1E3eWxLRzRDYw?oc=5)
-  _Reuters — Las bolsas europeas cierran estables mientras las ganancias en el sector de automóviles y productos químicos compensan la incertidumbre sobre la guerra de Irán Reuters_
-- [Canadá se aleja de EE.UU. hacia Europa mientras la guerra de Irán impulsa el aluminio al alza - Reuters](https://news.google.com/rss/articles/CBMiowFBVV95cUxNSkZrQ0NqN3JkQ0gzX3pEYmE3T3Y5Nlh6d1Fwd2xIRjJZOE9ZN3B5MWstSzZ5SzliRVVpN2RjS2VxS0lBRHVVMzh2WEh1azFIbEotaTBzOGFKMTZHbmpQTFlEenFOaTJvdHc1ZzlZUDVSX2NhLXljaHRuTHBMRk5PY2FWVHBNYS1EUS1YaTRmM0ZwQzhpMGNWRnVqUTI2MUFhS1Zr?oc=5)
-  _Reuters — Canadá se aleja de EE.UU. hacia Europa mientras la guerra de Irán impulsa el aluminio al alza Reuters_
-- [Rentabilidad saludable: Eli Lilly da un nuevo impulso a las vacunas: esto es lo que debe saber](https://www.cnbc.com/2026/05/27/eli-lilly-makes-a-new-push-into-vaccines-heres-what-to-know.html)
-  _CNBC — La farmacéutica anunció que comprará tres fabricantes privados de vacunas en acuerdos por un valor combinado de casi 4.000 millones de dólares._
+- [Los bajistas aumentan sus apuestas contra las acciones de pequeña capitalización antes de la publicación de datos económicos](https://www.cnbc.com/2026/05/27/bears-load-up-bets-against-small-cap-stocks-ahead-of-economic-data-releases.html)
+  _CNBC — A pesar de un repunte del 40% el año pasado (comparado con el 27% del S&P 500 y el 39% del Nasdaq-100), los operadores de opciones parecen ser los más bajistas en el Russell 2000._
+- [El director ejecutivo de JPMorgan prevé un aumento de los gastos; ](https://news.google.com/rss/articles/CBMitwFBVV95cUxPbWk0eGdaN3JJbURtbF9uOWppdnlHTTlqNU9BeHFmOE81ejdpcnlWazYtTUFQcHB2UVh6a2p1TFktRzhVTTVWb19mYXNFa2NSOWlpR3pYc09FNDNHM3VwRUV6dWRueU5wa3pqaU81NXhaRjQyZHRXV0RlaHAtU1B5R3BHMGh0UlZ0UUxfNjV2UjgzcU1CdGtPVm92RFowXzM3NVpfMTRLamZzMW1Ec2tmMUdhY0xoUW8?oc=5)
+  _Reuters — El director ejecutivo de JPMorgan prevé un aumento de los gastos; _
+- [Trump se opone a que Rusia o China tomen el uranio altamente enriquecido de Irán](https://www.cnbc.com/2026/05/27/trump-china-russia-iran-uranium-war-deal.html)
+  _CNBC — Trump también dijo que el Estrecho de Ormuz, la ruta vital para el transporte de petróleo, "va a estar abierto a todos"._
 
 ---
 
@@ -31,35 +31,35 @@
 
 ## 🔥 Mejores Setups de Swing
 
-### 🔵 **POWL** $293.82 (+0.6%) · Score 67
-Fund 21/40 · Mom 16/30 · Entry 30/30 · Pullback 10% · RSI 39
-Entrada $288.03 — $293.82 · Stop $235.82 · Target $327.89
+### 🔵 **AVGO** $421.86 (-0.0%) · Score 65
+Fund 36/40 · Mom 16/30 · Entry 13/30 · Pullback 5% · RSI 48
+Entrada $420.38 — $421.86 · Stop $375.97 · Target $442.36
+Revenue growth +30% (excelente) · Margen 37% (premium) · Tendencia alcista fuerte (Precio > SMA20 > SMA50)
+
+### 🔵 **POWL** $295.94 (+1.4%) · Score 63
+Fund 21/40 · Mom 16/30 · Entry 26/30 · Pullback 10% · RSI 40
+Entrada $288.14 — $295.94 · Stop $235.84 · Target $327.89
 Revenue growth +6% · Margen 16% (saludable) · PEG 3.9 (caro para su crecimiento)
 
-### 🔵 **AVGO** $420.26 (-0.4%) · Score 65
-Fund 36/40 · Mom 8/30 · Entry 21/30 · Pullback 5% · RSI 48
-Entrada $420.30 — $420.26 · Stop $375.94 · Target $442.36
-Revenue growth +30% (excelente) · Margen 37% (premium) · Tendencia lateral/indefinida
-
-### 🔵 **PLTR** $133.01 (-2.6%) · Score 64
-Fund 38/40 · Mom 0/30 · Entry 26/30 · Pullback 11% · RSI 48
-Entrada $136.69 — $133.01 · Stop $126.28 · Target $162.40
-Revenue growth +85% (excelente) · Margen 44% (premium) · Tendencia bajista
-
-### 🔵 **GEV** $1039.71 (-2.9%) · Score 63
-Fund 32/40 · Mom 6/30 · Entry 25/30 · Pullback 8% · RSI 38
-Entrada $1058.61 — $1039.71 · Stop $956.59 · Target $1181.95
+### 🔵 **GEV** $1031.89 (-3.6%) · Score 63
+Fund 32/40 · Mom 6/30 · Entry 25/30 · Pullback 8% · RSI 37
+Entrada $1058.21 — $1031.89 · Stop $956.59 · Target $1181.95
 Revenue growth +16% (fuerte) · Margen 24% (saludable) · Tendencia lateral/indefinida
 
-### 🔵 **GOOGL** $390.90 (+0.5%) · Score 62
-Fund 35/40 · Mom 14/30 · Entry 13/30 · Pullback 4% · RSI 44
-Entrada $389.47 — $390.90 · Stop $339.49 · Target $408.61
-Revenue growth +22% (fuerte) · Margen 38% (premium) · Tendencia alcista fuerte (Precio > SMA20 > SMA50)
-
-### 🔵 **NVDA** $212.62 (-1.0%) · Score 60
+### 🔵 **NVDA** $212.60 (-1.1%) · Score 60
 Fund 40/40 · Mom 3/30 · Entry 17/30 · Pullback 10% · RSI 54
-Entrada $214.63 — $212.62 · Stop $190.73 · Target $236.54
+Entrada $214.63 — $212.60 · Stop $190.73 · Target $236.54
 Revenue growth +85% (excelente) · Margen 63% (premium) · Tendencia lateral/indefinida
+
+### 🔵 **META** $635.26 (+3.7%) · Score 60
+Fund 40/40 · Mom 5/30 · Entry 15/30 · Pullback 6% · RSI 62
+Entrada $613.99 — $635.26 · Stop $585.95 · Target $691.52
+Revenue growth +33% (excelente) · Margen 33% (premium) · Tendencia lateral/indefinida
+
+### 🔵 **PLTR** $132.51 (-3.0%) · Score 59
+Fund 38/40 · Mom 0/30 · Entry 21/30 · Pullback 11% · RSI 47
+Entrada $136.67 — $132.51 · Stop $126.28 · Target $162.40
+Revenue growth +85% (excelente) · Margen 44% (premium) · Tendencia bajista
 
 ---
 
@@ -67,24 +67,24 @@ Revenue growth +85% (excelente) · Margen 63% (premium) · Tendencia lateral/ind
 
 | Ticker | Precio | Cambio | Score | F|M|E | Pullback | RSI | Entrada | Stop | Target | Trend |
 |--------|--------|--------|-------|----|---|----------|-----|---------|------|--------|-------|
-| 🔵 POWL | $293.82 | +0.6% | 67 | 21|16|30 | -10% | 39 | $288 | $236 | $328 | ↑↑ |
-| 🔵 AVGO | $420.26 | -0.4% | 65 | 36|8|21 | -5% | 48 | $420 | $376 | $442 | → |
-| 🔵 PLTR | $133.01 | -2.6% | 64 | 38|0|26 | -11% | 48 | $137 | $126 | $162 | ↓ |
-| 🔵 GEV | $1039.71 | -2.9% | 63 | 32|6|25 | -8% | 38 | $1059 | $957 | $1182 | → |
-| 🔵 GOOGL | $390.90 | +0.5% | 62 | 35|14|13 | -4% | 44 | $389 | $339 | $409 | ↑↑ |
-| 🔵 NVDA | $212.62 | -1.0% | 60 | 40|3|17 | -10% | 54 | $215 | $191 | $237 | → |
-| 🔵 META | $632.65 | +3.3% | 60 | 40|5|15 | -6% | 61 | $614 | $586 | $692 | → |
-| 🔵 VRT | $320.70 | -1.0% | 59 | 33|6|20 | -16% | 36 | $340 | $290 | $380 | → |
-| 🔵 AMD | $495.76 | -1.6% | 57 | 29|21|7 | -3% | 67 | $423 | $304 | $510 | ↑↑ |
-| 🔵 AMZN | $270.98 | +2.1% | 56 | 27|16|13 | -3% | 46 | $268 | $242 | $279 | ↑↑ |
-| 🔵 MOD | $280.97 | -5.0% | 56 | 25|14|17 | -13% | 52 | $267 | $218 | $323 | ↑↑ |
-| ⚪ NOW | $103.00 | +3.1% | 52 | 32|5|15 | -7% | 66 | $95 | $80 | $119 | → |
-| ⚪ AAPL | $310.46 | +0.7% | 49 | 33|16|0 | -1% | 87 | $293 | $261 | $313 | ↑↑ |
-| ⚪ MSFT | $412.53 | -0.8% | 48 | 35|0|13 | -4% | 50 | $415 | $387 | $433 | → |
-| ⚪ CRM | $178.93 | -0.1% | 45 | 24|0|21 | -6% | 48 | $179 | $157 | $202 | → |
-| ⚪ SOFI | $16.27 | +1.8% | 45 | 32|0|13 | -4% | 50 | $16 | $14 | $20 | → |
-| ⚪ CCJ | $108.16 | -0.0% | 40 | 21|0|19 | -13% | 26 | $113 | $97 | $131 | ↓ |
-| 🔴 RKLB | $146.62 | +2.4% | 33 | 10|21|2 | -3% | 77 | — | — | — | ↑↑ |
+| 🔵 AVGO | $421.86 | -0.0% | 65 | 36|16|13 | -5% | 48 | $420 | $376 | $442 | ↑↑ |
+| 🔵 POWL | $295.94 | +1.4% | 63 | 21|16|26 | -10% | 40 | $288 | $236 | $328 | ↑↑ |
+| 🔵 GEV | $1031.89 | -3.6% | 63 | 32|6|25 | -8% | 37 | $1058 | $957 | $1182 | → |
+| 🔵 NVDA | $212.60 | -1.1% | 60 | 40|3|17 | -10% | 54 | $215 | $191 | $237 | → |
+| 🔵 META | $635.26 | +3.7% | 60 | 40|5|15 | -6% | 62 | $614 | $586 | $692 | → |
+| 🔵 PLTR | $132.51 | -3.0% | 59 | 38|0|21 | -11% | 47 | $137 | $126 | $162 | ↓ |
+| 🔵 VRT | $319.78 | -1.3% | 59 | 33|6|20 | -16% | 36 | $340 | $290 | $380 | → |
+| 🔵 AMD | $495.54 | -1.7% | 57 | 29|21|7 | -3% | 67 | $423 | $304 | $510 | ↑↑ |
+| 🔵 AMZN | $271.85 | +2.5% | 56 | 27|16|13 | -2% | 47 | $268 | $242 | $279 | ↑↑ |
+| 🔵 MOD | $279.93 | -5.4% | 56 | 25|14|17 | -13% | 52 | $267 | $218 | $323 | ↑↑ |
+| ⚪ GOOGL | $388.83 | -0.0% | 54 | 35|6|13 | -5% | 42 | $389 | $335 | $409 | → |
+| ⚪ NOW | $102.12 | +2.2% | 52 | 32|5|15 | -8% | 66 | $95 | $80 | $119 | → |
+| ⚪ AAPL | $310.85 | +0.8% | 49 | 33|16|0 | -1% | 87 | $293 | $261 | $313 | ↑↑ |
+| ⚪ MSFT | $412.67 | -0.8% | 48 | 35|0|13 | -4% | 50 | $415 | $387 | $433 | → |
+| ⚪ CRM | $177.51 | -0.9% | 45 | 24|0|21 | -7% | 46 | $179 | $157 | $202 | ↓ |
+| ⚪ SOFI | $16.17 | +1.2% | 45 | 32|0|13 | -5% | 49 | $16 | $14 | $20 | → |
+| ⚪ CCJ | $107.44 | -0.7% | 40 | 21|0|19 | -14% | 26 | $113 | $97 | $131 | ↓ |
+| 🔴 RKLB | $150.23 | +4.9% | 31 | 10|21|0 | -0% | 78 | — | — | — | ↑↑ |
 
 > **F**undamental / **M**omentum / **E**ntry (pullback). Score = F(40) + M(30) + E(30)
 
@@ -101,11 +101,11 @@ Holdings con mejor combinación de fundamentales, narrativa y momentum.
 | | | Revenue +85% · Margen 63% | | | | | |
 | **GOOGL** | 56 | AI Search + Cloud + Waymo | +22% | 38% | 27 | 1.3 | +22% |
 | | | Revenue +22% · Margen 38% | | | | | |
-| **META** | 54 | AI Advertising + Open Source LLM | +33% | 33% | 18 | 1.2 | -1% |
+| **META** | 54 | AI Advertising + Open Source LLM | +33% | 33% | 18 | 1.2 | -0% |
 | | | Revenue +33% · Margen 33% | | | | | |
 | **AVGO** | 50 | AI Networking + VMware Synergy | +30% | 37% | 23 | 1.4 | +11% |
 | | | Revenue +30% · Margen 37% | | | | | |
-| **GEV** | 48 | Energy Transition + Grid Modernization | +16% | 24% | 42 | 1.3 | +73% |
+| **GEV** | 48 | Energy Transition + Grid Modernization | +16% | 24% | 42 | 1.3 | +72% |
 | | | Revenue +16% · Baja deuda | | | | | |
 | **AMZN** | 47 | AWS AI + E-commerce Margin Expansion | +17% | 12% | 28 | 1.5 | +17% |
 | | | Revenue +17% · Baja deuda | | | | | |
