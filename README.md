@@ -1,28 +1,28 @@
-# Swing Signals — 2026-06-16 | 21:00 CLT (Hora Chile, UTC-04:00)
+# Swing Signals — 2026-06-16 | 15:01 CLT (Hora Chile, UTC-04:00)
 
-> 🌎 Hora local Santiago. Visitantes de otros países: 01:00 UTC.
+> 🌎 Hora local Santiago. Visitantes de otros países: 19:01 UTC.
 >
-> 18 acciones · 8 COMPRAR/ACUMULAR · 7 OBSERVAR · 3 ESPERAR/EVITAR · COMPRADOR — Varias oportunidades de entrada en pullbacks de calidad.
+> 18 acciones · 9 COMPRAR/ACUMULAR · 5 OBSERVAR · 4 ESPERAR/EVITAR · COMPRADOR — Varias oportunidades de entrada en pullbacks de calidad.
 
 
 ## 📰 Noticias del Mercado
 
-- [Quiero que la gente sea millonaria: el plan de Jim Cramer para ganar dinero en cualquier mercado](https://www.cnbc.com/2026/06/15/i-want-people-to-be-millionaires-cramer-blueprint-on-making-money-in-any-market.html)
-  _CNBC — En esta entrevista exclusiva, Jim explica cómo deberían pensar los inversores a la hora de identificar un pequeño grupo de acciones individuales para complementar una cartera diversificada._
-- [Salesforce busca fortalecer su plataforma de inteligencia artificial y, además, una nota positiva para J&J](https://www.cnbc.com/2026/06/15/salesforce-looks-to-strengthen-its-ai-platform-a-positive-note-for-jj.html)
-  _CNBC — Todos los días de la semana, el Investing Club publica el Homestretch; _
-- [Las cosas se están alineando a favor de los alcistas del mercado. ](https://www.cnbc.com/2026/06/15/things-are-lining-up-in-favor-of-the-market-bulls-how-to-proceed-from-here-.html)
-  _CNBC — Los rendimientos del petróleo y los bonos están cayendo debido al optimismo entre Estados Unidos e Irán, y el mercado superó el obstáculo de SpaceX._
-- [Estamos ampliando nuestra posición en un banco de consumo que se beneficia de los precios más bajos del petróleo.](https://www.cnbc.com/2026/06/15/were-adding-to-our-position-in-a-consumer-bank-that-benefits-from-lower-oil-prices.html)
-  _CNBC — Las preocupaciones sobre el crédito al consumo han pesado sobre este valor desde que comenzó la guerra con Irán._
-- [El tráfico en el estrecho de Ormuz volverá a la normalidad en agosto, especulan los comerciantes de Kalshi](https://www.cnbc.com/2026/06/15/strait-of-hormuz-traffic-to-return-to-normal-as-soon-as-august-kalshi-traders-speculate.html)
-  _CNBC — Las probabilidades de que el tráfico del Estrecho de Ormuz vuelva a la normalidad antes de agosto superaron el 50%, tras el anuncio del presidente de Estados Unidos, Donald Trump._
-- [Las 10 principales cosas a seguir del Club en el mercado de valores el lunes](https://www.cnbc.com/2026/06/15/jim-cramers-top-10-things-to-watch-in-the-stock-market-monday.html)
-  _CNBC — El petróleo se está desplomando y los futuros están subiendo después de que Estados Unidos e Irán acordaron un memorando de entendimiento para poner fin a la guerra._
-- [Dentro de los desafíos únicos de los empresarios cónyuges de militares: "No todo el mundo va a entender esta vida"](https://www.cnbc.com/2026/06/15/military-spouse-entrepreneurs-unique-challenges-advocacy.html)
-  _CNBC — Los cónyuges de militares recurren al espíritu empresarial en medio de altas tasas de desempleo. _
-- [Fox comprará el fabricante de dispositivos de streaming Roku por 22.000 millones de dólares](https://www.cnbc.com/2026/06/15/fox-to-buy-roku.html)
-  _CNBC — Fox, propietario de las redes de noticias y deportes, dijo que llegó a un acuerdo para adquirir Roku por alrededor de 22 mil millones de dólares en valor empresarial._
+- [Jim Cramer: Por qué volvemos a los precios del petróleo anteriores a la guerra de Irán y qué significa](https://www.cnbc.com/2026/06/16/jim-cramer-why-were-headed-back-to-pre-iran-war-oil-prices-and-what-it-means.html)
+  _CNBC — Una caída sostenida de los precios del petróleo repercutiría positivamente en toda la economía._
+- [Exclusiva: El acuerdo con Irán incluye un fondo de 300.000 millones de dólares, más de la mitad de los cuales ya están comprometidos, dice una fuente - Reuters](https://news.google.com/rss/articles/CBMixgFBVV95cUxPWUQ2ODdpWjF3UzYxRTVRUi1hMkZRMEw3S3pDR0VWSzY5bjVWeE1TXzJZUUp1SWQ4QXFjVUJBNzRDcFp2cnJoMVBSQU45Vkp6YjdDanJLMlNiVFRTMm1KNnhlLWkxOXFLQUJmeTJkOThzTmlQMlpuVHlybW9SMnczd2lIWXJBcHI4Uk94R2RwUVg5aHJxR1ptNGppUVRSV1pneUp3WkN1elRrN1FSd0EwZ05kZDVEMTRpX0VGeHFwOVlvTmV3b3c?oc=5)
+  _Reuters — Exclusiva: El acuerdo con Irán incluye un fondo de 300.000 millones de dólares, más de la mitad de los cuales ya están comprometidos, dice una fuente Reuters_
+- [Hezbollah cree que Irán no firmará un acuerdo nuclear final si Israel permanece en el Líbano - Reuters](https://news.google.com/rss/articles/CBMivwFBVV95cUxOS0FQbkJUQkJjSWwxamljUThJQTl2alFPeDAtdHNOeFhxQ2wtQjk0d3dROTVfNGw0bWRfSXRmUFR5NnlicnRJT0VUdzhhTXItSWVTQmFWdURjWkJ4WExRcUpHc0hUNHVDRHJONjBVaTRXTURza0szSmVySmduSHNkbHpKZ3hCWjloRXJPaC1GZDlZclFtWU5PR1VqWmExTjZaU0tOdldWWmNNaDVhRzA0QU92ZjRPcVhYQVo4amJEWQ?oc=5)
+  _Reuters — Hezbollah cree que Irán no firmará un acuerdo nuclear final si Israel permanece en el Líbano Reuters_
+- [Rivian despide a cientos de trabajadores en medio del lanzamiento de R2](https://www.cnbc.com/2026/06/16/rivian-layoffs.html)
+  _CNBC — Rivian dijo el martes que estaba despidiendo a cientos de trabajadores, o menos del 2% de su fuerza laboral._
+- [Exclusiva: Estados Unidos está utilizando una táctica de contrabando iraní para sacar petróleo del Golfo - Reuters](https://news.google.com/rss/articles/CBMirwFBVV95cUxOWUJ2NW5rSzJQNDdJR2U2czlrcHhwbjlmVkNRZk9TVzd6RWowQ3Q0dW1Ud2QwZW90UHVPTmM2bkU1SlZOMmNicU1nYWhIeEJLTXRMX1d2RG9KeDJsMk1GaGhIbG84VW9kV1RxaFpMVkhXNmVxOU1nTjRLNEM1TmQxR2pPV0c1azNrQmlFVVFRNnl3SjdRQThLWlZHdWk4ZU83WXFYVTVmS004eEVoZDRv?oc=5)
+  _Reuters — Exclusiva: Estados Unidos está utilizando una táctica de contrabando iraní para sacar petróleo del Golfo a escondidas  Reuters_
+- [La eliminación del límite de activos de Wells Fargo no ha sido la solución milagrosa que esperábamos. ](https://www.cnbc.com/2026/06/16/wells-fargos-asset-cap-removal-has-not-been-the-silver-bullet-we-expected-what-to-do-next.html)
+  _CNBC — Cuando Wells Fargo se liberó del límite de activos de la Reserva Federal, los inversores esperaban grandes cosas. _
+- [El acuerdo entre Estados Unidos e Irán permite a Teherán vender petróleo inmediatamente después de la firma, dice un funcionario estadounidense - Reuters](https://news.google.com/rss/articles/CBMisAFBVV95cUxQMF8zSlRJcE1kRDQ1Y0VlSmRwMEV1YmYzbi1jZS1Ha2lPd0hocXBMMThndVRPRVk1dXlGQlhYam14c1VUTmUzaTBKQllGdkw1Zlo4bGFhRFRiU3p2b2Y2T05MY3Nfcm5Ja1BDX2gwTlhPbzFubnczOENYaWZrY0RzeTd5QlNRRTV5UmYtZDlsMDJyaTFFTXFreFRNTXpzaW1CUGxnZUg1UGpuTzU3ZUdYQQ?oc=5)
+  _Reuters — El acuerdo entre Estados Unidos e Irán permite a Teherán vender petróleo inmediatamente después de firmarlo, dice un funcionario estadounidense  Reuters_
+- [Jim Cramer debate su próximo paso en una acción de software tras una racha de pérdidas de 11 días](https://www.cnbc.com/2026/06/16/jim-cramer-debates-his-next-move-on-a-software-stock-on-an-11-day-losing-streak.html)
+  _CNBC — El Club de Inversiones celebra su "reunión matutina" todos los días laborables a las 10:20 a. m., hora del Este._
 
 ---
 
@@ -31,35 +31,35 @@
 
 ## 🔥 Mejores Setups de Swing
 
-### 🔵 **NVDA** $212.45 (+3.5%) · Score 69
-Fund 40/40 · Mom 8/30 · Entry 21/30 · Pullback 8% · RSI 48
-Entrada $213.82 — $212.45 · Stop $195.12 · Target $236.26
+### 🔵 **NVDA** $208.89 (-1.7%) · Score 69
+Fund 40/40 · Mom 8/30 · Entry 21/30 · Pullback 10% · RSI 48
+Entrada $213.17 — $208.89 · Stop $195.19 · Target $236.26
 Revenue growth +85% (excelente) · Margen 63% (premium) · Tendencia lateral/indefinida
 
-### 🔵 **GOOGL** $369.35 (+2.7%) · Score 68
-Fund 35/40 · Mom 8/30 · Entry 25/30 · Pullback 10% · RSI 37
-Entrada $374.89 — $369.35 · Stop $340.80 · Target $408.37
-Revenue growth +22% (fuerte) · Margen 38% (premium) · Tendencia lateral/indefinida
-
-### 🔵 **MOD** $285.72 (+4.1%) · Score 68
-Fund 26/40 · Mom 21/30 · Entry 21/30 · Pullback 12% · RSI 46
-Entrada $275.17 — $285.72 · Stop $220.92 · Target $323.25
+### 🔵 **MOD** $286.98 (+4.5%) · Score 68
+Fund 26/40 · Mom 21/30 · Entry 21/30 · Pullback 11% · RSI 47
+Entrada $275.24 — $286.98 · Stop $220.68 · Target $323.25
 Revenue growth +48% (excelente) · PEG 1.1 (subvalorado) · Tendencia alcista fuerte (Precio > SMA20 > SMA50)
 
-### 🔵 **GEV** $979.07 (+4.1%) · Score 65
-Fund 32/40 · Mom 8/30 · Entry 25/30 · Pullback 11% · RSI 37
-Entrada $976.10 — $979.07 · Stop $833.63 · Target $1181.95
-Revenue growth +16% (fuerte) · Margen 24% (saludable) · Tendencia lateral/indefinida
+### 🔵 **AMD** $515.81 (-5.8%) · Score 67
+Fund 29/40 · Mom 21/30 · Entry 17/30 · Pullback 8% · RSI 53
+Entrada $492.87 — $515.81 · Stop $375.20 · Target $558.37
+Revenue growth +38% (excelente) · Margen 13% (saludable) · Tendencia alcista fuerte (Precio > SMA20 > SMA50)
 
-### 🔵 **AAPL** $296.42 (+1.8%) · Score 62
-Fund 33/40 · Mom 8/30 · Entry 21/30 · Pullback 7% · RSI 40
-Entrada $303.69 — $296.42 · Stop $283.50 · Target $317.40
-Revenue growth +17% (fuerte) · Margen 27% (premium) · Tendencia lateral/indefinida
-
-### 🔵 **META** $593.48 (+4.7%) · Score 61
-Fund 40/40 · Mom 0/30 · Entry 21/30 · Pullback 8% · RSI 45
-Entrada $603.17 — $593.48 · Stop $545.87 · Target $691.52
+### 🔵 **META** $599.56 (+1.0%) · Score 65
+Fund 40/40 · Mom 0/30 · Entry 25/30 · Pullback 7% · RSI 39
+Entrada $602.09 — $599.56 · Stop $545.89 · Target $690.88
 Revenue growth +33% (excelente) · Margen 33% (premium) · Tendencia bajista
+
+### 🔵 **GOOGL** $373.36 (+1.1%) · Score 64
+Fund 35/40 · Mom 8/30 · Entry 21/30 · Pullback 6% · RSI 40
+Entrada $373.72 — $373.36 · Stop $340.76 · Target $408.37
+Revenue growth +22% (fuerte) · Margen 38% (premium) · Tendencia lateral/indefinida
+
+### 🔵 **POWL** $295.77 (-2.6%) · Score 63
+Fund 21/40 · Mom 21/30 · Entry 21/30 · Pullback 5% · RSI 50
+Entrada $286.98 — $295.77 · Stop $239.34 · Target $327.89
+Revenue growth +6% · Margen 16% (saludable) · PEG 3.3 (caro para su crecimiento)
 
 ---
 
@@ -67,24 +67,24 @@ Revenue growth +33% (excelente) · Margen 33% (premium) · Tendencia bajista
 
 | Ticker | Precio | Cambio | Score | F|M|E | Pullback | RSI | Entrada | Stop | Target | Trend |
 |--------|--------|--------|-------|----|---|----------|-----|---------|------|--------|-------|
-| 🔵 NVDA | $212.45 | +3.5% | 69 | 40|8|21 | -8% | 48 | $214 | $195 | $236 | → |
-| 🔵 GOOGL | $369.35 | +2.7% | 68 | 35|8|25 | -10% | 37 | $375 | $341 | $408 | → |
-| 🔵 MOD | $285.72 | +4.1% | 68 | 26|21|21 | -12% | 46 | $275 | $221 | $323 | ↑↑ |
-| 🔵 GEV | $979.07 | +4.1% | 65 | 32|8|25 | -11% | 37 | $976 | $834 | $1182 | → |
-| 🔵 AAPL | $296.42 | +1.8% | 62 | 33|8|21 | -7% | 40 | $304 | $284 | $317 | → |
-| 🔵 META | $593.48 | +4.7% | 61 | 40|0|21 | -8% | 45 | $603 | $546 | $692 | ↓ |
-| 🔵 AMD | $547.26 | +7.0% | 59 | 29|21|9 | -2% | 57 | $488 | $376 | $558 | ↑↑ |
-| 🔵 MSFT | $399.76 | +2.3% | 56 | 35|0|21 | -14% | 44 | $419 | $376 | $466 | ↓ |
-| ⚪ PLTR | $134.71 | +5.2% | 54 | 38|0|16 | -18% | 49 | $139 | $119 | $164 | ↓ |
-| ⚪ AMZN | $246.02 | +3.1% | 52 | 27|0|25 | -10% | 35 | $256 | $226 | $279 | ↓ |
-| ⚪ SOFI | $17.13 | +3.3% | 51 | 32|2|17 | -9% | 57 | $17 | $14 | $20 | → |
-| ⚪ POWL | $303.53 | +3.0% | 51 | 21|21|9 | -3% | 54 | $286 | $228 | $328 | ↑↑ |
-| ⚪ VRT | $311.93 | +3.0% | 50 | 33|1|16 | -16% | 45 | $315 | $257 | $380 | ↓ |
-| ⚪ AVGO | $393.94 | +3.1% | 44 | 39|4|1 | -20% | 44 | $417 | $345 | $495 | ↓ |
-| ⚪ CCJ | $107.02 | +6.0% | 42 | 21|0|21 | -12% | 49 | $107 | $88 | $131 | → |
-| 🔴 NOW | $104.15 | +2.0% | 32 | 32|0|0 | -25% | 53 | — | — | — | → |
-| 🔴 RKLB | $109.25 | +6.7% | 28 | 10|13|5 | -28% | 33 | — | — | — | → |
-| 🔴 CRM | $164.55 | -0.8% | 23 | 22|0|1 | -22% | 41 | — | — | — | ↓ |
+| 🔵 NVDA | $208.89 | -1.7% | 69 | 40|8|21 | -10% | 48 | $213 | $195 | $236 | → |
+| 🔵 MOD | $286.98 | +4.5% | 68 | 26|21|21 | -11% | 47 | $275 | $221 | $323 | ↑↑ |
+| 🔵 AMD | $515.81 | -5.8% | 67 | 29|21|17 | -8% | 53 | $493 | $375 | $558 | ↑↑ |
+| 🔵 META | $599.56 | +1.0% | 65 | 40|0|25 | -7% | 39 | $602 | $546 | $691 | ↓ |
+| 🔵 GOOGL | $373.36 | +1.1% | 64 | 35|8|21 | -6% | 40 | $374 | $341 | $408 | → |
+| 🔵 POWL | $295.77 | -2.6% | 63 | 21|21|21 | -5% | 50 | $287 | $239 | $328 | ↑↑ |
+| 🔵 AAPL | $299.19 | +0.9% | 62 | 33|8|21 | -6% | 40 | $304 | $283 | $317 | → |
+| 🔵 GEV | $1002.99 | +6.6% | 61 | 32|8|21 | -8% | 41 | $977 | $833 | $1182 | → |
+| 🔵 VRT | $305.86 | -1.9% | 55 | 33|1|21 | -11% | 44 | $313 | $266 | $380 | ↓ |
+| ⚪ PLTR | $131.98 | -2.0% | 54 | 38|0|16 | -19% | 50 | $139 | $119 | $164 | ↓ |
+| ⚪ MSFT | $393.06 | -1.7% | 51 | 35|0|16 | -16% | 43 | $417 | $369 | $466 | ↓ |
+| ⚪ AMZN | $246.14 | +0.1% | 47 | 27|1|19 | -10% | 28 | $255 | $226 | $279 | ↓ |
+| ⚪ SOFI | $17.94 | +4.7% | 43 | 32|2|9 | -5% | 60 | $17 | $14 | $20 | → |
+| ⚪ AVGO | $380.32 | -3.5% | 41 | 39|1|1 | -23% | 41 | $415 | $345 | $495 | ↓ |
+| 🔴 NOW | $101.68 | -2.4% | 38 | 32|0|6 | -27% | 50 | — | — | — | → |
+| 🔴 CCJ | $108.22 | +1.1% | 38 | 21|0|17 | -12% | 51 | — | — | — | → |
+| 🔴 CRM | $161.57 | -1.8% | 23 | 22|0|1 | -23% | 41 | — | — | — | ↓ |
+| 🔴 RKLB | $106.35 | -2.6% | 23 | 10|13|0 | -30% | 27 | — | — | — | → |
 
 > **F**undamental / **M**omentum / **E**ntry (pullback). Score = F(40) + M(30) + E(30)
 
@@ -97,21 +97,21 @@ Holdings con mejor combinación de fundamentales, narrativa y momentum.
 
 | Ticker | Score | Narrativa | Rev | Margen | Fwd P/E | Beta | Mom 6m |
 |--------|-------|-----------|-----|--------|---------|------|--------|
-| **NVDA** | 59 | AI Infrastructure Dominance | +85% | 63% | 17 | 2.2 | +16% |
+| **NVDA** | 59 | AI Infrastructure Dominance | +85% | 63% | 16 | 2.2 | +11% |
 | | | Revenue +85% · Margen 63% | | | | | |
+| **AVGO** | 54 | AI Networking + VMware Synergy | +48% | 39% | 20 | 1.4 | +9% |
+| | | Revenue +48% · Margen 39% | | | | | |
 | **META** | 54 | AI Advertising + Open Source LLM | +33% | 33% | 16 | 1.2 | -10% |
 | | | Revenue +33% · Margen 33% | | | | | |
 | **GOOGL** | 51 | AI Search + Cloud + Waymo | +22% | 38% | 26 | 1.2 | +19% |
 | | | Revenue +22% · Margen 38% | | | | | |
-| **AVGO** | 50 | AI Networking + VMware Synergy | +48% | 39% | 20 | 1.4 | +16% |
-| | | Revenue +48% · Margen 39% | | | | | |
-| **GEV** | 48 | Energy Transition + Grid Modernization | +16% | 24% | 40 | 1.0 | +48% |
-| | | Revenue +16% · Baja deuda | | | | | |
-| **AMZN** | 47 | AWS AI + E-commerce Margin Expansion | +17% | 12% | 25 | 1.4 | +8% |
-| | | Revenue +17% · Baja deuda | | | | | |
-| **VRT** | 47 | Data Center Power & Cooling Infrastructure | +30% | 14% | 35 | 2.0 | +88% |
+| **VRT** | 51 | Data Center Power & Cooling Infrastructure | +30% | 14% | 34 | 2.0 | +84% |
 | | | Revenue +30% · ROE 45% | | | | | |
-| **AMD** | 46 | AI Chip Challenger + Data Center Growth | +38% | 13% | 42 | 2.5 | +155% |
+| **GEV** | 48 | Energy Transition + Grid Modernization | +16% | 24% | 41 | 1.0 | +52% |
+| | | Revenue +16% · Baja deuda | | | | | |
+| **AMZN** | 47 | AWS AI + E-commerce Margin Expansion | +17% | 12% | 25 | 1.4 | +6% |
+| | | Revenue +17% · Baja deuda | | | | | |
+| **AMD** | 46 | AI Chip Challenger + Data Center Growth | +38% | 13% | 39 | 2.5 | +140% |
 | | | Revenue +38% · Baja deuda | | | | | |
 
 
