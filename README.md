@@ -1,28 +1,28 @@
-# Swing Signals — 2026-06-19 | 21:00 CLT (Hora Chile, UTC-04:00)
+# Swing Signals — 2026-06-19 | 15:01 CLT (Hora Chile, UTC-04:00)
 
-> 🌎 Hora local Santiago. Visitantes de otros países: 01:00 UTC.
+> 🌎 Hora local Santiago. Visitantes de otros países: 19:01 UTC.
 >
 > 18 acciones · 8 COMPRAR/ACUMULAR · 6 OBSERVAR · 4 ESPERAR/EVITAR · COMPRADOR — Varias oportunidades de entrada en pullbacks de calidad.
 
 
 ## 📰 Noticias del Mercado
 
-- [Los índices de Wall St avanzan impulsados ​​por los chips y el optimismo de Irán - Reuters](https://news.google.com/rss/articles/CBMiwgFBVV95cUxNbk9OU3cxZnFJZTJuS2dhU3hka1hTQjc0ay1fMUgzTHl5cnhpb2F1NzUzbEkwTmQ1TzkxWHJscTJKVGRkMEFvdC1ieXJ1RDhWVjRvNERsaHdwUVBROEE4ckpaaUwyY1I0RlJwMVRDWFBSd1BmYkF0OC02UXIxMXFwSFU2RGNpd1hwNG9lN1NqbWVMTlhRUUhkVk5jdHN4MVhfRXpnZkdXYUFiT25WOWVndVktRVBNUHY3WjQ1SkNDeWFNZw?oc=5)
-  _Reuters — Los índices de Wall St avanzan impulsados ​​por los chips y el optimismo de Irán Reuters_
-- [Los republicanos critican el acuerdo de Trump con Irán a medida que surgen detalles - Reuters](https://news.google.com/rss/articles/CBMinAFBVV95cUxPa0FBNEpEUk9sRDhBMkp2bERRNEtLX3oweFJuTlM0ejdMZDZhX2ktUlg3cFk3TWc3aVcxc0xFeVlBTzg4eGZBMHNNS2dHbW1YSFJkZXYtZ3FGNWhKeTlZSU9KVWR2ZXphRlJjWk11ckFwUDM2cDM3Mm5rRk14ZkxoNEp3Qy1kdUR6OEFnczJHZzdhTUJUbW9LdGRGV2s?oc=5)
-  _Reuters — Los republicanos critican el acuerdo de Trump con Irán a medida que surgen detalles Reuters_
-- [Día de negociación: Las acciones suben, el petróleo alcanza mínimos previos a la guerra con Irán mientras el Estrecho de Ormuz reabre sus negocios - Reuters](https://news.google.com/rss/articles/CBMipgFBVV95cUxNWi11em9BSXkyTVBsZ09QdU5zS3lZTUh3TE1kV3VCanhVOTdYaDlqamZvRmlNaERYdzZ6ejdZZ3M5TUUzNWlwaE5teGdpOGdVVmlyOHR6SFJ4eF8ya2dpaXlCb01kMVB1Sm92VVVaRzVDVFhVMHBOMlBvRjQtWXk3T0EzSTdZdW96bm1IN3h4aERkRXotb2tmeUd5T2dvZllJVjFhM3ZR?oc=5)
-  _Reuters — Día de negociación: Las acciones suben y el petróleo alcanza mínimos previos a la guerra con Irán mientras el Estrecho de Ormuz reabre sus operaciones Reuters_
-- [En fotos: Multitud repleta de estrellas se reúne para celebrar la dedicación del Centro Presidencial Obama](https://www.cnbc.com/2026/06/18/obama-presidential-center-opening-chicago-photos-trump.html)
-  _CNBC — Barack Obama inauguró su centro presidencial en Chicago con la asistencia de ex presidentes, celebridades y dignatarios. _
-- [El tráfico fluye a través de Ormuz mientras el acuerdo entre Estados Unidos e Irán entra en vigor, persisten las dudas - Reuters](https://news.google.com/rss/articles/CBMiywFBVV95cUxQR2xiMDYySHk3ZzFXaHcyR1ZHNDFJQUJVNzF4MTRQcmdmZ1pDUVNyR1Z5N255MjkzSHItckpnalNfRUo5VWpjTDVHSHE3R3kybW1NRGd5NGJKV0prTFA0eUZBd0hVZzlMTTNNcXVWR3JTV1lOMzhwYXVtMEc4N05QVlFCSDlnYnZ5S24zMVdMSjl2M2pTYnc0eDdJUkZhWVlwS0tQaUJjTnJIMTNka1E5dm9RcHprVkkydVo4a3dzUmV3RTg4bE5feDN5dw?oc=5)
-  _Reuters — El tráfico fluye a través de Ormuz mientras el acuerdo entre Estados Unidos e Irán entra en vigor, persisten las dudas Reuters_
-- [Vance advierte a los críticos israelíes sobre el acuerdo con Irán: Trump es su único aliado - Reuters](https://news.google.com/rss/articles/CBMixAFBVV95cUxOQXNyRDhPaS1YLXpCcE5sWnNCNWdCMENzLUI2bnk2ZkpteXZOWGpNMWVUeDZTR3M5WW92bnpIS3l1dnF1czFEcVZkNXpCRncwR0JGeVZuZkFCcUhLdVA0NTAzVDhXdTN5d0ItOUpQc29KdFdVeHduUHlqTFNnSHRkeG9rSGFxSm90Q1dWLWdqUXFURk5UUzVfZHJtRi0xaE1pQmlaZ3dib2NmSnJkWk44Y0phYk9PZk1RU2FNNXdGd0tDSG5t?oc=5)
-  _Reuters — Vance advierte a los críticos israelíes sobre el acuerdo con Irán: Trump es su único aliado Reuters_
-- [La diplomacia en la cuerda floja logró un acuerdo entre Estados Unidos e Irán, pero la etapa más difícil está por delante, dicen fuentes - Reuters](https://news.google.com/rss/articles/CBMizAFBVV95cUxQa1dJX0x2UlpVczFzemJuZ1dvV3hQZ2cycnFNS0s5ZnlIcFl1Y0RLSHhKQXNzYVdwbHpyZDZWbVFJOTNmVG43THYxZFhCUXloMmtyelJrTFJfOFB3NVgxUUNxcno4XzRLNlhMbGtZckowdy1EdVUtV2N3Q093VFAtb1QyVUc0MGlRcHRpekZ5Yi04WHU3aTM2S2p3ZE13VlotTmU5TUZfMlZlVkxESC1BdURxdHo5ZElaVnNtYl9rNVJacFcyUnZvLXdnWDg?oc=5)
-  _Reuters — La diplomacia en la cuerda floja logró un acuerdo entre Estados Unidos e Irán, pero la etapa más difícil está por llegar, dicen fuentes Reuters_
-- [La NBA presentará ofertas ganadoras para equipos europeos en los próximos meses, dice el subcomisionado](https://www.cnbc.com/2026/06/18/nba-europe-bids-mark-tatum.html)
-  _CNBC — La NBA planea nombrar a los postores ganadores para 12 equipos europeos permanentes en los próximos 60 a 90 días, dijo a CNBC el comisionado adjunto Mark Tatum._
+- [Se acuerda un alto el fuego en Líbano tras el fracaso de las conversaciones entre Estados Unidos e Irán en Suiza - Reuters](https://news.google.com/rss/articles/CBMisAFBVV95cUxNdGlIRzVkQXRyMi1KZ2xpUGFScEtiNlk2M2VjV0t2M0xsY1NYcFJfQXNxSTFDSXFjaXZmNDVMWkVvU00zX0tXTE80MXpFUlVUeE8xOW1USzJtTERYV09YRU4zbnRic1NwaG1WRHVRT2s2TTl4NkgxMjNVMEtsS0pyQl9ldURhQVkwTzdzcG5sajE3bzhSS1h5NWpoWDJZd05HdTFodHd6azZjN2JLT25xaA?oc=5)
+  _Reuters — Se acuerda un alto el fuego en Líbano después de que se cancelaran las conversaciones entre Estados Unidos e Irán en Suiza Reuters_
+- [Irán presentará una queja a la FIFA por las restricciones de viaje al Mundial - Reuters](https://news.google.com/rss/articles/CBMirwFBVV95cUxPR1VYU082ZUFSeVhJV1cwcWhtajVlaWVxc1ViSFhOS0wwXzRfazlXNkxUbGtqMGZOa0FZVEFQWFZ6bktXc2o0OERiMDVrVnJuWGlSUEZvSHg1ZjVJczlBU0VpMzVob1p2anJRWTVhUnVXQWpRX041Q25GLW5SVmFiYjc3aDFVaFlSdF9EbHd2NGtEdm5URVBZckZXeGIwdWFvOTYzQ2FuUUxtdUFwTFdr?oc=5)
+  _Reuters — Irán presentará una queja a la FIFA por las restricciones de viaje al Mundial Reuters_
+- [Fedspeak versus acuerdo de guerra: estas son las cosas que impulsaron el mercado de valores esta semana](https://www.cnbc.com/2026/06/19/fedspeak-vs-war-deal-here-are-the-things-that-drove-this-weeks-stock-market.html)
+  _CNBC — El S&P 500 subió el jueves, compensando las pérdidas observadas después de que los banqueros centrales se reunieron._
+- [Israel y Hezbollah acuerdan un alto el fuego en el Líbano, dice un funcionario estadounidense - Reuters](https://news.google.com/rss/articles/CBMisAFBVV95cUxPMDU0b09vektQdnBEbFN3LXFOMjFUQk0ybEdGV3EyZnpibE13akNnNzVVVHZjRkZIX1ZjYjBUM0ZHTTNSdTVWWTJPTGpGQkJhMndMWDFqYnQ2Zjg2eEVPWm41Q0otVmhvRHZTOUo1MEx5Zi0zd3JINUZXb25fVFBONHJhUHNoT3VPTWxlYWFfVDlwY0htS0FfMnpBWkIwSWoxNm9HTFZieGF0RmtsMjRmZQ?oc=5)
+  _Reuters — Israel y Hezbollah acuerdan un alto el fuego en el Líbano, dice un funcionario estadounidense Reuters_
+- [Para el vicepresidente estadounidense JD Vance, las conversaciones con Irán podrían dar forma al ascenso político - Reuters](https://news.google.com/rss/articles/CBMikgFBVV95cUxOQWlnWFI3SUZDeUtiRU9JdURpYTJhMkM0Qzdzay01VGNKbFBXRDdNZURuX2h4TFNrdGVhYlF0QVcxaHY0cG5FNTIxSVRpVG9yOENHbnF1M2ZJRkpYb01kdUg5YWlhRHljMXhBcll5d2xNLTVaQXZQZDh2LWZhcU9TREVLYnl5MDUtdVQtdVlqOUQyQQ?oc=5)
+  _Reuters — Para el vicepresidente estadounidense, JD Vance, las conversaciones con Irán podrían determinar el ascenso político Reuters_
+- [Los envíos de petróleo aumentan en Ormuz aunque crecen las dudas sobre las condiciones de tránsito de Irán - Reuters](https://news.google.com/rss/articles/CBMixAFBVV95cUxONmxOVHFxZFJqT0MyRms0akxNMzFSVG45ZDFFVHFjZkZrMmh0anBuak5MYjlwWWw3Vy04LWl1b3oxbnZHSGRqQ2V0cWN5WUhxbHpZdXRCQmdpZGpsUk40RWl3dlVyTWtTUTRQOUtjbHM4NUJtTlpwZWtMMmx3REpQMWl6OWJEYzVhSHpIVkVicGVSdzdiaHd6WkU4ZENSaWZlUVVVUFNXYTktZDRDSVdZMmRuWXhPWFBBS2RLMk01OEo0eWFy?oc=5)
+  _Reuters — Los envíos de petróleo aumentan en Ormuz, aunque crecen las dudas sobre las condiciones de tránsito de Irán Reuters_
+- [Una joven de 29 años que ganaba 250.000 dólares en tecnología trabajó 'encubierta' en una cadena de cafeterías antes de abrir su propio café matcha](https://www.cnbc.com/2026/06/19/29-year-old-software-engineer-worked-undercover-at-a-coffee-chain.html)
+  _CNBC — Michelle Yeung no estaba contenta con la tecnología, a pesar de ganar 250.000 dólares al año. _
+- [Israel y Hezbollah acuerdan un alto el fuego a partir del viernes: EE.UU. ](https://news.google.com/rss/articles/CBMitgFBVV95cUxQNVlqdUp2WDdfZkNqcDlJbkVnTTh5aTZITlJaYkVUd0NEQl81b3ZodFZleFV3em5mRldLdWUySURpd2N5ZGlQREdRWDlUcUZCVHdmQnhNN3VvS21NRDFuQmZMb3UtSEFSaHY2YVlxV2NkMGRQVTA4SllfczlrVGVCaE1ibkhXNmlsZl9xQlcwTG1vYXRIQmp4bFpoZkFkZDNRTk9KdDlsbGg3NWs5cFFoVUk0NWZZUQ?oc=5)
+  _Reuters — Israel y Hezbollah acuerdan un alto el fuego a partir del viernes: EE.UU. _
 
 ---
 
@@ -53,7 +53,7 @@ Revenue growth +22% (fuerte) · Margen 38% (premium) · Tendencia lateral/indefi
 
 ### 🔵 **MOD** $297.37 (+4.8%) · Score 64
 Fund 26/40 · Mom 21/30 · Entry 17/30 · Pullback 8% · RSI 57
-Entrada $281.04 — $297.37 · Stop $239.40 · Target $323.25
+Entrada $281.04 — $297.37 · Stop $239.38 · Target $323.25
 Revenue growth +48% (excelente) · PEG 1.1 (subvalorado) · Tendencia alcista fuerte (Precio > SMA20 > SMA50)
 
 ### 🔵 **AVGO** $411.35 (+4.7%) · Score 61
@@ -76,10 +76,10 @@ Revenue growth +48% (excelente) · Margen 39% (premium) · Tendencia bajista
 | 🔵 VRT | $333.05 | +4.9% | 60 | 33|18|9 | -4% | 56 | $314 | $265 | $380 | → |
 | 🔵 AMD | $537.37 | +4.9% | 59 | 29|21|9 | -4% | 53 | $502 | $400 | $558 | ↑↑ |
 | ⚪ AMZN | $244.39 | +2.9% | 53 | 27|1|25 | -11% | 31 | $253 | $225 | $279 | ↓ |
+| ⚪ MSFT | $379.40 | +0.1% | 52 | 38|0|14 | -19% | 19 | $413 | $361 | $466 | ↓ |
 | ⚪ POWL | $297.20 | +1.1% | 51 | 21|21|9 | -5% | 55 | $290 | $238 | $328 | ↑↑ |
 | ⚪ SOFI | $17.91 | +2.8% | 50 | 32|5|13 | -5% | 48 | $17 | $14 | $20 | → |
 | ⚪ GEV | $1109.73 | +5.8% | 50 | 32|18|0 | -1% | 68 | $980 | $808 | $1181 | → |
-| ⚪ MSFT | $379.40 | +0.1% | 49 | 35|0|14 | -19% | 19 | $413 | $361 | $466 | ↓ |
 | ⚪ CCJ | $106.49 | +0.8% | 42 | 21|0|21 | -13% | 44 | $107 | $88 | $131 | ↓ |
 | 🔴 PLTR | $128.47 | -1.6% | 38 | 38|0|0 | -22% | 24 | — | — | — | ↓ |
 | 🔴 NOW | $95.04 | -0.5% | 32 | 32|0|0 | -32% | 27 | — | — | — | ↓ |
