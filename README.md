@@ -1,6 +1,6 @@
-# Swing Signals — 2026-06-19 | 15:01 CLT (Hora Chile, UTC-04:00)
+# Swing Signals — 2026-06-20 | 21:00 CLT (Hora Chile, UTC-04:00)
 
-> 🌎 Hora local Santiago. Visitantes de otros países: 19:01 UTC.
+> 🌎 Hora local Santiago. Visitantes de otros países: 01:00 UTC.
 >
 > 18 acciones · 8 COMPRAR/ACUMULAR · 6 OBSERVAR · 4 ESPERAR/EVITAR · COMPRADOR — Varias oportunidades de entrada en pullbacks de calidad.
 
@@ -9,20 +9,20 @@
 
 - [Se acuerda un alto el fuego en Líbano tras el fracaso de las conversaciones entre Estados Unidos e Irán en Suiza - Reuters](https://news.google.com/rss/articles/CBMisAFBVV95cUxNdGlIRzVkQXRyMi1KZ2xpUGFScEtiNlk2M2VjV0t2M0xsY1NYcFJfQXNxSTFDSXFjaXZmNDVMWkVvU00zX0tXTE80MXpFUlVUeE8xOW1USzJtTERYV09YRU4zbnRic1NwaG1WRHVRT2s2TTl4NkgxMjNVMEtsS0pyQl9ldURhQVkwTzdzcG5sajE3bzhSS1h5NWpoWDJZd05HdTFodHd6azZjN2JLT25xaA?oc=5)
   _Reuters — Se acuerda un alto el fuego en Líbano después de que se cancelaran las conversaciones entre Estados Unidos e Irán en Suiza Reuters_
+- [El Departamento de Justicia rechaza la solicitud del juez de dejar por escrito que no avanzará con el fondo 'antiarmamentismo'](https://www.cnbc.com/2026/06/19/doj-anti-weaponization-fund-trump.html)
+  _CNBC — En mayo, el Departamento de Justicia anunció que estaba creando el fondo como parte de un acuerdo sobre la demanda de 10 mil millones de dólares del presidente Donald Trump contra el Servicio de Impuestos Internos._
+- [Israel y Hezbollah acuerdan un alto el fuego en el Líbano, dice un funcionario estadounidense - Reuters](https://news.google.com/rss/articles/CBMisAFBVV95cUxPMDU0b09vektQdnBEbFN3LXFOMjFUQk0ybEdGV3EyZnpibE13akNnNzVVVHZjRkZIX1ZjYjBUM0ZHTTNSdTVWWTJPTGpGQkJhMndMWDFqYnQ2Zjg2eEVPWm41Q0otVmhvRHZTOUo1MEx5Zi0zd3JINUZXb25fVFBONHJhUHNoT3VPTWxlYWFfVDlwY0htS0FfMnpBWkIwSWoxNm9HTFZieGF0RmtsMjRmZQ?oc=5)
+  _Reuters — Israel y Hezbollah acuerdan un alto el fuego en el Líbano, dice un funcionario estadounidense Reuters_
+- [Trump se dirige a Camp David mientras las conversaciones con Irán fracasan - Reuters](https://news.google.com/rss/articles/CBMimgFBVV95cUxQanZjcWNWV1diQU5BSFRBUzJtMlVJVDhWSjZ6MXc5S21QVlF1NHVrM0hTdjJ5dEJrQjA1QXMzNHNPTnpySW00XzJfbXBhNXZUN1RHU1UySWFLRl9SdFA3WTVMWmZNaUtPNmZxTGlIZnN0ZUtCVUZVbTBsZ21FVWR3dVJ4WlZCbHpGcHczdXcxVURpQnNHY1JBVTFR?oc=5)
+  _Reuters — Trump se dirige a Camp David mientras las conversaciones con Irán fracasan Reuters_
 - [Irán presentará una queja a la FIFA por las restricciones de viaje al Mundial - Reuters](https://news.google.com/rss/articles/CBMirwFBVV95cUxPR1VYU082ZUFSeVhJV1cwcWhtajVlaWVxc1ViSFhOS0wwXzRfazlXNkxUbGtqMGZOa0FZVEFQWFZ6bktXc2o0OERiMDVrVnJuWGlSUEZvSHg1ZjVJczlBU0VpMzVob1p2anJRWTVhUnVXQWpRX041Q25GLW5SVmFiYjc3aDFVaFlSdF9EbHd2NGtEdm5URVBZckZXeGIwdWFvOTYzQ2FuUUxtdUFwTFdr?oc=5)
   _Reuters — Irán presentará una queja a la FIFA por las restricciones de viaje al Mundial Reuters_
 - [Fedspeak versus acuerdo de guerra: estas son las cosas que impulsaron el mercado de valores esta semana](https://www.cnbc.com/2026/06/19/fedspeak-vs-war-deal-here-are-the-things-that-drove-this-weeks-stock-market.html)
   _CNBC — El S&P 500 subió el jueves, compensando las pérdidas observadas después de que los banqueros centrales se reunieron._
-- [Israel y Hezbollah acuerdan un alto el fuego en el Líbano, dice un funcionario estadounidense - Reuters](https://news.google.com/rss/articles/CBMisAFBVV95cUxPMDU0b09vektQdnBEbFN3LXFOMjFUQk0ybEdGV3EyZnpibE13akNnNzVVVHZjRkZIX1ZjYjBUM0ZHTTNSdTVWWTJPTGpGQkJhMndMWDFqYnQ2Zjg2eEVPWm41Q0otVmhvRHZTOUo1MEx5Zi0zd3JINUZXb25fVFBONHJhUHNoT3VPTWxlYWFfVDlwY0htS0FfMnpBWkIwSWoxNm9HTFZieGF0RmtsMjRmZQ?oc=5)
-  _Reuters — Israel y Hezbollah acuerdan un alto el fuego en el Líbano, dice un funcionario estadounidense Reuters_
 - [Para el vicepresidente estadounidense JD Vance, las conversaciones con Irán podrían dar forma al ascenso político - Reuters](https://news.google.com/rss/articles/CBMikgFBVV95cUxOQWlnWFI3SUZDeUtiRU9JdURpYTJhMkM0Qzdzay01VGNKbFBXRDdNZURuX2h4TFNrdGVhYlF0QVcxaHY0cG5FNTIxSVRpVG9yOENHbnF1M2ZJRkpYb01kdUg5YWlhRHljMXhBcll5d2xNLTVaQXZQZDh2LWZhcU9TREVLYnl5MDUtdVQtdVlqOUQyQQ?oc=5)
   _Reuters — Para el vicepresidente estadounidense, JD Vance, las conversaciones con Irán podrían determinar el ascenso político Reuters_
-- [Los envíos de petróleo aumentan en Ormuz aunque crecen las dudas sobre las condiciones de tránsito de Irán - Reuters](https://news.google.com/rss/articles/CBMixAFBVV95cUxONmxOVHFxZFJqT0MyRms0akxNMzFSVG45ZDFFVHFjZkZrMmh0anBuak5MYjlwWWw3Vy04LWl1b3oxbnZHSGRqQ2V0cWN5WUhxbHpZdXRCQmdpZGpsUk40RWl3dlVyTWtTUTRQOUtjbHM4NUJtTlpwZWtMMmx3REpQMWl6OWJEYzVhSHpIVkVicGVSdzdiaHd6WkU4ZENSaWZlUVVVUFNXYTktZDRDSVdZMmRuWXhPWFBBS2RLMk01OEo0eWFy?oc=5)
-  _Reuters — Los envíos de petróleo aumentan en Ormuz, aunque crecen las dudas sobre las condiciones de tránsito de Irán Reuters_
-- [Una joven de 29 años que ganaba 250.000 dólares en tecnología trabajó 'encubierta' en una cadena de cafeterías antes de abrir su propio café matcha](https://www.cnbc.com/2026/06/19/29-year-old-software-engineer-worked-undercover-at-a-coffee-chain.html)
-  _CNBC — Michelle Yeung no estaba contenta con la tecnología, a pesar de ganar 250.000 dólares al año. _
-- [Israel y Hezbollah acuerdan un alto el fuego a partir del viernes: EE.UU. ](https://news.google.com/rss/articles/CBMitgFBVV95cUxQNVlqdUp2WDdfZkNqcDlJbkVnTTh5aTZITlJaYkVUd0NEQl81b3ZodFZleFV3em5mRldLdWUySURpd2N5ZGlQREdRWDlUcUZCVHdmQnhNN3VvS21NRDFuQmZMb3UtSEFSaHY2YVlxV2NkMGRQVTA4SllfczlrVGVCaE1ibkhXNmlsZl9xQlcwTG1vYXRIQmp4bFpoZkFkZDNRTk9KdDlsbGg3NWs5cFFoVUk0NWZZUQ?oc=5)
-  _Reuters — Israel y Hezbollah acuerdan un alto el fuego a partir del viernes: EE.UU. _
+- [Irak exportará crudo y nafta a través de Siria tras el shock de Ormuz - Reuters](https://news.google.com/rss/articles/CBMirwFBVV95cUxObjFTV0lGXzVST2l2Y05WQ2Nkcjl1OUM3NHBvMVFER1IxTlQ4V3JCZ2tVZmh0Zm51ajZJb1dkTWo5OHNOT3ItQ3VoNFB6YlZnVXZUTEdlYnBBb29KSU9IWHV3RkpRallIVkh3bkdXWHRKVFRJRGFoTi1YMnllbllLTjkyLURUNFJ1YU9kRm9JSXB1b1ViZW1FZ3JhdHA1elBoOHBYb2EzRXZrVXZaMFhn?oc=5)
+  _Reuters — Irak exportará crudo y nafta a través de Siria tras el shock de Ormuz Reuters_
 
 ---
 
