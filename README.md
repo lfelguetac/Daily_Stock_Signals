@@ -1,28 +1,28 @@
-# Swing Signals — 2026-07-01 | 21:00 CLT (Hora Chile, UTC-04:00)
+# Swing Signals — 2026-07-01 | 15:01 CLT (Hora Chile, UTC-04:00)
 
-> 🌎 Hora local Santiago. Visitantes de otros países: 01:00 UTC.
+> 🌎 Hora local Santiago. Visitantes de otros países: 19:01 UTC.
 >
 > 18 acciones · 5 COMPRAR/ACUMULAR · 8 OBSERVAR · 5 ESPERAR/EVITAR · COMPRADOR — Varias oportunidades de entrada en pullbacks de calidad.
 
 
 ## 📰 Noticias del Mercado
 
-- [S&P 500 y Nasdaq registran el mejor trimestre desde 2020 a pesar de la guerra de Irán - Reuters](https://news.google.com/rss/articles/CBMiowFBVV95cUxOaFRDcUUwRFFNVjBGV3pwVVVHRU12NjdzSGVuY29pWHRGamc3NTAxSkExaThvUFdFLUVnUUx0VkJ2NWszanJCTmhVVjViUzlIUlVVTkVsOVdOanFITWF6Z0J2Ql9fSTBLX1p2TDdEakN3TUU5elV0NnNLNTRvajV6UjJzR2tPTzEtaGNPRUVlbVhJdmNMMXZUMmEzYU5DQm1qM1JB?oc=5)
-  _Reuters — S&P 500 y Nasdaq registran el mejor trimestre desde 2020 a pesar de la guerra con Irán Reuters_
-- [Irán dice que no se reunirá con enviados de Estados Unidos, lo que nubla las perspectivas de un acuerdo de paz - Reuters](https://news.google.com/rss/articles/CBMitwFBVV95cUxOem1UeFBMZHJrM2tKRG9fdE5oTEQzWEpsRGxPTVNwZ1cyTEMta3laT2Z0N1NMYU1zc1BzMTYtSGJSSGI0VUVselZGZnQ4cnlKSk5MekZIakY2LUNMTzFMZU5oV0dxeFNLaEpsZzRLOFJjWVVoU2xDS1ZaQ3Q4YlE2Zk1DbjFrSnoyWnlZTC1zOTQ5bnpOR3RhWVN6X3BKcjNGd3I4MVlFajF0aFBiZl96NnAyclQtMWs?oc=5)
-  _Reuters — Irán dice que no se reunirá con los enviados de Estados Unidos, lo que nubla las perspectivas de un acuerdo de paz Reuters_
-- [Rostros de la eliminación: los aficionados del Mundial en su momento de pérdida - Reuters](https://news.google.com/rss/articles/CBMilAFBVV95cUxQNUd1elNzOXhKcnF0TVl5YXZuNVJRS0VacThnREp6Y3hoSFpwdGFKQ3NCNTl2bFVQTEVGLXFyemhFYnJWa2dKYTFWWHJKcEUzVVU5MTlWRWxZX3NLY1hNV3hyY01OZDNXbUhsVU5LV2IxSGNZRmptT1lsVllVSlhaQ1FQck92X0U1aVlpMGpQeDlNSUxt?oc=5)
-  _Reuters — Rostros de la eliminación: los aficionados del Mundial en su momento de pérdida Reuters_
-- [La brecha de género en el Seguro Social significa que las mujeres reciben alrededor de $4,800 menos en beneficios anuales. ](https://www.cnbc.com/2026/06/30/social-security-gender-gap-women-get-4800-less-in-annual-benefits.html)
-  _CNBC — Las mujeres tienden a ganar menos y pasar más tiempo fuera de la fuerza laboral, lo que puede reducir sus beneficios del Seguro Social. _
-- [Wall Street dice vender Goldman, comprar Capital One. ](https://www.cnbc.com/2026/06/30/wall-street-says-sell-goldman-buy-capital-one-heres-where-we-stand.html)
+- [Los rezagados de 2026 brillan en la bolsa mixta del miércoles que inició el tercer trimestre](https://www.cnbc.com/2026/07/01/2026-laggards-shine-in-mixed-market-that-kicked-off-q3.html)
   _CNBC — Todos los días de la semana, el Investing Club publica el Homestretch; _
-- [Nvidia se quedó prácticamente fuera del mejor trimestre de la historia del sector de chips. ](https://www.cnbc.com/2026/06/30/nvidia-mostly-sat-out-the-chip-sectors-best-quarter-ever-what-needs-to-change-.html)
-  _CNBC — El problema no se puede explicar observando los resultados informados por Nvidia._
-- [American Airlines trae una sala VIP para llevar al aeropuerto JFK de Nueva York](https://www.cnbc.com/2026/06/30/american-airlines-louge-new-york-jfk.html)
-  _CNBC — American Airlines abre una sala VIP para llevar en el aeropuerto JFK de Nueva York_
-- [Cientos de miles de libaneses regresan a casa a medida que los combates disminuyen, muchos de ellos siguen varados - Reuters](https://news.google.com/rss/articles/CBMixAFBVV95cUxNcmxibmlNRFdpVUs3dkFYdnBsSk1aRzR0eUlOaHVaa2h1WlNlZnVZcVIwUnpzbVR4QmdtdHh2d1NoSjE4MkJORDJfcFJYUmIzZGlMcnp0WWxZYk1JbjBVZ0V3TFAtWXBaV0JVY1kwR3JrQV9YV0pQUm9hd1BoUG1Zd2pXa0VDLUJxclJQamc5ODFBOHNDT0xhUFRNRDI0Zk9PS1NtRmh4MDZfZjJJNnJWd0hTTVRHbVJHbE5JSEVyamJ4TEg2?oc=5)
-  _Reuters — Cientos de miles de libaneses regresan a casa a medida que los combates disminuyen, muchos de ellos siguen varados Reuters_
+- [El vehículo nuevo de 20.000 dólares está prácticamente extinto: cómo luce ahora el coche nuevo más asequible](https://www.cnbc.com/2026/07/01/the-20000-new-car-is-gonewhat-the-an-affordable-car-looks-like-now.html)
+  _CNBC — Por qué desapareció el auto nuevo de $20,000 y qué pueden esperar hoy los compradores preocupados por su presupuesto._
+- [El desmayo de verano de Bitcoin crea un comercio único en estrategia](https://www.cnbc.com/2026/07/01/bitcoins-summer-swoon-creates-unique-trade-in-strategy.html)
+  _CNBC — Poner en corto abiertamente bitcoins o acciones criptográficas de beta alta después de una fuerte caída conlleva un inmenso riesgo de cola._
+- [La actividad fabril de EE.UU. disminuye desde su nivel más alto en cuatro años; ](https://news.google.com/rss/articles/CBMipwFBVV95cUxNdHdmbG9IWkhIbExKVnpqbXROZmtHRDE5bXljc2JXaF9vd0pUbmRmWVZGZmNnb3B1YTE3a2I5a0JDY05odEd3UHVGSXJEU0E3b21Za0ZrREFqWnVfcWxVUHFUakg5RTBnU1ZBLTdhaWtFQ3JTUFphRjR2ZnJNb0dISklZVHZidFdpOVM2cGdLeWxyRUV2TU81c00wYkNiRi1Wd1p2S28tbw?oc=5)
+  _Reuters — La actividad fabril de EE.UU. disminuye desde su nivel más alto en cuatro años; _
+- [Cramer comparte los próximos pasos para una acción de software después de una rara llamada alcista de un analista](https://www.cnbc.com/2026/07/01/cramer-shares-next-steps-for-a-software-stock-after-a-rare-bullish-call-.html)
+  _CNBC — El Club de Inversiones celebra su "reunión matutina" todos los días laborables a las 10:20 a. m., hora del Este._
+- [El S&P 500 y el Dow Jones suben después de que Warsh dijera que los riesgos de inflación han disminuido - Reuters](https://news.google.com/rss/articles/CBMirwFBVV95cUxPUlRDSDhyZXpFd2lVaWQyUllERFNzcHA4T2ZZZzZhWGdGaDRRcDVKY202NmFRbGFwSnRZcmhOeTBIVG1kci1qc0Zld2lKX2Z0bW1reTRiZkJCV21UNW16dFd5cWFXVW9JbXI0R0RxWGhFa1NsWXB2NFJXZTM1dHI2cmY1NmVDRHFFTm9MZEJMSnlLZUxiSGtIb1pPM1NsdFliWlI0OWR2R0V4T2tneUkw?oc=5)
+  _Reuters — El S&P 500 y el Dow Jones suben después de que Warsh dijera que los riesgos de inflación han disminuido Reuters_
+- [Estados Unidos e Irán inician conversaciones técnicas para asegurar un acuerdo de paz y reiniciar el transporte marítimo - Reuters](https://news.google.com/rss/articles/CBMiuwFBVV95cUxNR2I3cUEydmhlWVB5bmFRM1JuTXZVRHdDVFV6MTFjWHc0V3NFeDBCNFR0ZEJ0U2NjR213NWJwYlQwb0pNQjZmbU1tdlJjRlF2ZUZKZjBBRmpteTM1SUthZV9ESXZpaVRvSVhUaUYxb1lFenoxLUU2MklQd0I1OC1XR1NGSVo4b29CdVZ5ZzQ0QXp4MFdlMnoyRS1Rak0tTVNvYVU1RVhtb29hdENLeldfakJsMHNNaWNkQ0Uw?oc=5)
+  _Reuters — Estados Unidos e Irán inician conversaciones técnicas para asegurar un acuerdo de paz y reiniciar el transporte marítimo Reuters_
+- [PlayStation finalizará la producción de discos físicos para nuevos juegos en 2028](https://www.cnbc.com/2026/07/01/sony-playstation-physical-disc-production-2028.html)
+  _CNBC — PlayStation finalizará la producción de discos físicos para nuevos juegos en 2028, anunció la compañía el miércoles por la mañana._
 
 ---
 
@@ -31,30 +31,30 @@
 
 ## 🔥 Mejores Setups de Swing
 
-### 🔵 **NVDA** $200.09 (+2.6%) · Score 61
-Fund 40/40 · Mom 0/30 · Entry 21/30 · Pullback 14% · RSI 43
-Entrada $205.72 — $200.09 · Stop $186.63 · Target $236.26
+### 🔵 **AMD** $544.90 (-6.2%) · Score 65
+Fund 29/40 · Mom 21/30 · Entry 15/30 · Pullback 7% · RSI 64
+Entrada $518.27 — $544.90 · Stop $419.04 · Target $584.73
+Revenue growth +38% (excelente) · Margen 13% (saludable) · Tendencia alcista fuerte (Precio > SMA20 > SMA50)
+
+### 🔵 **NVDA** $198.41 (-0.8%) · Score 61
+Fund 40/40 · Mom 0/30 · Entry 21/30 · Pullback 11% · RSI 48
+Entrada $204.51 — $198.41 · Stop $186.69 · Target $236.26
 Revenue growth +85% (excelente) · Margen 63% (premium) · Tendencia bajista
 
-### 🔵 **META** $563.29 (+0.1%) · Score 61
-Fund 40/40 · Mom 0/30 · Entry 21/30 · Pullback 12% · RSI 43
-Entrada $577.69 — $563.29 · Stop $530.84 · Target $682.75
-Revenue growth +33% (excelente) · Margen 33% (premium) · Tendencia bajista
-
-### 🔵 **VRT** $334.82 (+9.1%) · Score 61
-Fund 33/40 · Mom 13/30 · Entry 15/30 · Pullback 7% · RSI 61
-Entrada $314.39 — $334.82 · Stop $264.12 · Target $379.86
-Revenue growth +30% (excelente) · Margen 14% (saludable) · Tendencia lateral/indefinida
-
-### 🔵 **GOOGL** $357.37 (+1.1%) · Score 56
-Fund 35/40 · Mom 0/30 · Entry 21/30 · Pullback 5% · RSI 46
-Entrada $358.49 — $357.37 · Stop $323.76 · Target $408.37
-Revenue growth +22% (fuerte) · Margen 38% (premium) · Tendencia bajista
-
-### 🔵 **MSFT** $373.02 (+1.2%) · Score 55
-Fund 38/40 · Mom 0/30 · Entry 17/30 · Pullback 18% · RSI 36
-Entrada $391.65 — $373.02 · Stop $342.72 · Target $466.32
+### 🔵 **MSFT** $386.73 (+3.7%) · Score 56
+Fund 38/40 · Mom 0/30 · Entry 18/30 · Pullback 12% · RSI 46
+Entrada $388.92 — $386.73 · Stop $342.44 · Target $466.32
 Revenue growth +18% (fuerte) · Margen 39% (premium) · Tendencia bajista
+
+### 🔵 **VRT** $310.88 (-7.2%) · Score 56
+Fund 33/40 · Mom 6/30 · Entry 17/30 · Pullback 13% · RSI 56
+Entrada $313.21 — $310.88 · Stop $263.90 · Target $379.86
+Revenue growth +30% (excelente) · Margen 14% (saludable) · Tendencia bajista
+
+### 🔵 **AAPL** $294.76 (+1.9%) · Score 55
+Fund 33/40 · Mom 8/30 · Entry 14/30 · Pullback 7% · RSI 52
+Entrada $294.90 — $294.76 · Stop $269.57 · Target $317.40
+Revenue growth +17% (fuerte) · Margen 27% (premium) · Tendencia lateral/indefinida
 
 ---
 
@@ -62,24 +62,24 @@ Revenue growth +18% (fuerte) · Margen 39% (premium) · Tendencia bajista
 
 | Ticker | Precio | Cambio | Score | F|M|E | Pullback | RSI | Entrada | Stop | Target | Trend |
 |--------|--------|--------|-------|----|---|----------|-----|---------|------|--------|-------|
-| 🔵 NVDA | $200.09 | +2.6% | 61 | 40|0|21 | -14% | 43 | $206 | $187 | $236 | ↓ |
-| 🔵 META | $563.29 | +0.1% | 61 | 40|0|21 | -12% | 43 | $578 | $531 | $683 | ↓ |
-| 🔵 VRT | $334.82 | +9.1% | 61 | 33|13|15 | -7% | 61 | $314 | $264 | $380 | → |
-| 🔵 GOOGL | $357.37 | +1.1% | 56 | 35|0|21 | -5% | 46 | $358 | $324 | $408 | ↓ |
-| 🔵 MSFT | $373.02 | +1.2% | 55 | 38|0|17 | -18% | 36 | $392 | $343 | $466 | ↓ |
-| ⚪ SOFI | $17.93 | -1.4% | 52 | 32|13|7 | -4% | 63 | $17 | $15 | $20 | ↑ |
-| ⚪ AAPL | $289.36 | +2.7% | 51 | 33|0|18 | -9% | 49 | $296 | $265 | $317 | ↓ |
-| ⚪ POWL | $286.36 | +1.9% | 46 | 21|8|17 | -10% | 51 | $292 | $239 | $328 | → |
-| ⚪ AMD | $580.91 | +7.7% | 45 | 29|16|0 | -1% | 67 | $517 | $401 | $585 | ↑↑ |
-| ⚪ AMZN | $238.34 | -0.8% | 45 | 27|0|18 | -9% | 46 | $241 | $217 | $279 | ↓ |
-| ⚪ GEV | $1174.86 | +6.6% | 45 | 32|13|0 | -0% | 70 | $1007 | $799 | $1181 | → |
-| ⚪ PLTR | $116.67 | +0.8% | 43 | 38|0|5 | -27% | 34 | $128 | $100 | $164 | ↓ |
-| ⚪ AVGO | $377.75 | +1.4% | 40 | 39|0|1 | -24% | 46 | $395 | $344 | $494 | ↓ |
-| 🔴 MOD | $267.02 | +4.2% | 39 | 26|0|13 | -16% | 46 | — | — | — | ↓ |
-| 🔴 NOW | $99.28 | -0.7% | 37 | 32|0|5 | -25% | 40 | — | — | — | ↓ |
-| 🔴 CCJ | $101.86 | -1.6% | 37 | 21|0|16 | -17% | 49 | — | — | — | ↓ |
-| 🔴 CRM | $156.66 | -0.8% | 22 | 22|0|0 | -23% | 28 | — | — | — | ↓ |
-| 🔴 RKLB | $101.65 | +3.7% | 12 | 10|1|1 | -21% | 46 | — | — | — | ↓ |
+| 🔵 AMD | $544.90 | -6.2% | 65 | 29|21|15 | -7% | 64 | $518 | $419 | $585 | ↑↑ |
+| 🔵 NVDA | $198.41 | -0.8% | 61 | 40|0|21 | -11% | 48 | $205 | $187 | $236 | ↓ |
+| 🔵 MSFT | $386.73 | +3.7% | 56 | 38|0|18 | -12% | 46 | $389 | $342 | $466 | ↓ |
+| 🔵 VRT | $310.88 | -7.2% | 56 | 33|6|17 | -13% | 56 | $313 | $264 | $380 | ↓ |
+| 🔵 AAPL | $294.76 | +1.9% | 55 | 33|8|14 | -7% | 52 | $295 | $270 | $317 | → |
+| ⚪ AMZN | $243.91 | +2.3% | 54 | 27|13|14 | -5% | 54 | $241 | $217 | $279 | → |
+| ⚪ PLTR | $127.22 | +9.0% | 54 | 38|0|16 | -16% | 47 | $127 | $100 | $164 | → |
+| ⚪ GOOGL | $360.10 | +0.8% | 52 | 35|8|9 | -4% | 52 | $358 | $318 | $408 | → |
+| ⚪ META | $618.53 | +9.8% | 52 | 40|5|7 | -4% | 63 | $579 | $518 | $682 | → |
+| ⚪ NOW | $105.99 | +6.8% | 50 | 32|2|16 | -17% | 50 | $103 | $84 | $139 | ↑ |
+| ⚪ SOFI | $18.49 | +3.1% | 50 | 32|18|0 | -2% | 74 | $17 | $15 | $20 | ↑ |
+| ⚪ GEV | $1132.03 | -3.6% | 50 | 32|16|2 | -4% | 72 | $1015 | $799 | $1181 | → |
+| ⚪ AVGO | $370.23 | -2.0% | 46 | 39|1|6 | -25% | 50 | $390 | $345 | $494 | ↓ |
+| 🔴 CRM | $163.60 | +4.4% | 38 | 22|0|16 | -17% | 42 | — | — | — | ↓ |
+| 🔴 POWL | $264.54 | -7.6% | 36 | 21|6|9 | -16% | 51 | — | — | — | ↓ |
+| 🔴 CCJ | $98.86 | -3.0% | 33 | 21|0|12 | -18% | 56 | — | — | — | ↓ |
+| 🔴 RKLB | $102.68 | +1.0% | 32 | 10|6|16 | -16% | 49 | — | — | — | ↓ |
+| 🔴 MOD | $247.40 | -7.3% | 26 | 26|0|0 | -22% | 46 | — | — | — | ↓ |
 
 > **F**undamental / **M**omentum / **E**ntry (pullback). Score = F(40) + M(30) + E(30)
 
@@ -92,21 +92,21 @@ Holdings con mejor combinación de fundamentales, narrativa y momentum.
 
 | Ticker | Score | Narrativa | Rev | Margen | Fwd P/E | Beta | Mom 6m |
 |--------|-------|-----------|-----|--------|---------|------|--------|
-| **NVDA** | 59 | AI Infrastructure Dominance | +85% | 63% | 16 | 2.2 | +6% |
+| **NVDA** | 59 | AI Infrastructure Dominance | +85% | 63% | 16 | 2.2 | +7% |
 | | | Revenue +85% · Margen 63% | | | | | |
-| **AVGO** | 54 | AI Networking + VMware Synergy | +48% | 39% | 20 | 1.4 | +10% |
+| **AVGO** | 54 | AI Networking + VMware Synergy | +48% | 39% | 19 | 1.4 | +12% |
 | | | Revenue +48% · Margen 39% | | | | | |
-| **META** | 54 | AI Advertising + Open Source LLM | +33% | 33% | 16 | 1.2 | -13% |
+| **META** | 54 | AI Advertising + Open Source LLM | +33% | 33% | 17 | 1.2 | -4% |
 | | | Revenue +33% · Margen 33% | | | | | |
 | **GOOGL** | 51 | AI Search + Cloud + Waymo | +22% | 38% | 25 | 1.2 | +11% |
 | | | Revenue +22% · Margen 38% | | | | | |
-| **GEV** | 48 | Energy Transition + Grid Modernization | +16% | 24% | 48 | 1.0 | +78% |
+| **GEV** | 48 | Energy Transition + Grid Modernization | +16% | 24% | 46 | 1.0 | +80% |
 | | | Revenue +16% · Baja deuda | | | | | |
-| **VRT** | 47 | Data Center Power & Cooling Infrastructure | +30% | 14% | 38 | 2.0 | +95% |
+| **VRT** | 47 | Data Center Power & Cooling Infrastructure | +30% | 14% | 35 | 2.0 | +93% |
 | | | Revenue +30% · ROE 45% | | | | | |
-| **AMD** | 46 | AI Chip Challenger + Data Center Growth | +38% | 13% | 44 | 2.5 | +177% |
+| **AMD** | 46 | AI Chip Challenger + Data Center Growth | +38% | 13% | 41 | 2.5 | +167% |
 | | | Revenue +38% · Baja deuda | | | | | |
-| **AAPL** | 46 | AI iPhone Supercycle + Services | +17% | 27% | 30 | 1.1 | +11% |
+| **AAPL** | 46 | AI iPhone Supercycle + Services | +17% | 27% | 31 | 1.1 | +14% |
 | | | Revenue +17% · Margen 27% | | | | | |
 
 
