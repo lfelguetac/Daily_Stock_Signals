@@ -1,28 +1,28 @@
-# Swing Signals — 2026-07-03 | 21:00 CLT (Hora Chile, UTC-04:00)
+# Swing Signals — 2026-07-03 | 15:01 CLT (Hora Chile, UTC-04:00)
 
-> 🌎 Hora local Santiago. Visitantes de otros países: 01:00 UTC.
+> 🌎 Hora local Santiago. Visitantes de otros países: 19:01 UTC.
 >
 > 18 acciones · 11 COMPRAR/ACUMULAR · 2 OBSERVAR · 5 ESPERAR/EVITAR · COMPRADOR — Varias oportunidades de entrada en pullbacks de calidad.
 
 
 ## 📰 Noticias del Mercado
 
-- [Irán se prepara para enterrar al líder supremo asesinado con una semana de duelo masivo - Reuters](https://news.google.com/rss/articles/CBMiuAFBVV95cUxNZDFZb2Q4bXdRa0pnRGtueDdUd3ZWQ1VyMHFsVlp5WGx6aGdtM2dxRW5YWDhLQVhSNV9CUFBNLWMwTnp4NTZ5NHN1UmxCR1RBYW12V0NEcE40NUZTNWI5NjhlNkx0TmFHV2NfTk5YWmtuczdEUGdEU1lpQlg3YmJmNkJ1OUthT0E3V2pKNGVmSmF2QTdnR2hhVzV3Q3pqTkhQdlBjc1hrZS1fdDE0UHVJNzkyOWVBNVpP?oc=5)
-  _Reuters — Irán se prepara para enterrar al líder supremo asesinado con una semana de duelo masivo Reuters_
-- [Irán advierte a Estados Unidos e Israel contra ataques antes de las procesiones fúnebres de Jamenei - Reuters](https://news.google.com/rss/articles/CBMiwwFBVV95cUxQVjd1X1pITDBSckd0dXdzYzdCbTZ2T3o2UmFUWG5yaHRuZFZWR1pMclo4Z3BLNGYzeS1WREhPZ291WFlJcmZGOGNHclp0dEp4cVhaQTdweUx5Rl90U2tnRGdJOEtjZHNnbC05aUJRMXZJbHl3aUtKMzlxRl94SUl5N251SENtMVBqVVFHdldIcDJCTnpaamphc2VVWUlReGZCMkZpOEJYMlBxcGlOaVktWUdIR2RseW94clhPenQzVlVhOWM?oc=5)
-  _Reuters — Irán advierte a Estados Unidos e Israel contra ataques antes de las procesiones fúnebres de Jamenei Reuters_
-- [Las turbinas de gas de GE Vernova no son la única manera de aprovechar el auge de la IA](https://www.cnbc.com/2026/07/02/ge-vernovas-gas-turbines-arent-the-only-way-its-winning-from-the-ai-boom.html)
-  _CNBC — La electrificación obtuvo 2.400 millones de dólares en pedidos de equipos para centros de datos durante el primer trimestre de 2026, superando el total del segmento para todo 2025._
-- [Explosión en un café de Damasco deja seis muertos y otros heridos, dicen medios estatales sirios - Reuters](https://news.google.com/rss/articles/CBMiswFBVV95cUxNQ1FuZFNuTEZTUUhkZmNuOFJ1VXBOR3JCNTJSeWE1bzlGUm5LSGZ4aGVWREdueU9uckxILVUzMzlyZWprdDc0cXBzQnVBR3h0YXJta2hBdG0yS3IyS3cwYWozN3UzNV9xTUpySFVkQW5FR2sxUmIxbmRabml3RTh1eGduZDF5RmtaZkZKT2hRQXNZYXBvc1UtbUhvT25rSHRMY0RkSHRYOHp1cUtOempvQWZ1WQ?oc=5)
-  _Reuters — Explosión en un café de Damasco deja seis muertos y otros heridos, según medios estatales sirios Reuters_
-- [EXCLUSIVO: Kuwait aumenta drásticamente la producción de crudo en junio después del acuerdo entre Estados Unidos e Irán, dice una fuente - Reuters](https://news.google.com/rss/articles/CBMisAFBVV95cUxPcFJaLUh1S0VjTXZqZWRsa1JRVU1nektQQmFQd2IzNllGR3NEd25LT002dk5QREF2djg2VlZqNnU0MDROQ1NOSVowTlRwbDFzYnRIVzFOak9WREZiUXhldVUxNUFCUlFaR1VwZXd5WlZGdkZvaThFcWNGUHZNWmFoYmRseUI0ZVkxZ2p3UHByeWJTeTRacmtTTmVrRzkxY3hGazhMbWRVcVZYSnF1QjdQRA?oc=5)
-  _Reuters — EXCLUSIVO: Kuwait aumenta drásticamente la producción de crudo en junio después del acuerdo entre Estados Unidos e Irán, dice una fuente  Reuters_
-- [Los estadounidenses casados ​​tienden a ser más ricos y felices. ](https://www.cnbc.com/2026/07/02/gen-z-marriage-rates-american-dream.html)
-  _CNBC — La Generación Z define el sueño americano como tener estabilidad financiera y ser feliz. _
-- [La Premier Lacrosse League planea incorporar propietarios de equipos para 2028 "o poco después", dice el cofundador](https://www.cnbc.com/2026/07/02/premier-lacrosse-league-team-ownership.html)
-  _CNBC — Paul Rabil le dijo a CNBC que confía en los Juegos de Verano de Los Ángeles 2028, donde el lacrosse regresará como deporte olímpico, para destacar el PLL._
-- [Por qué Jim Cramer dice que los inversores deberían "querer poseer" estas acciones industriales](https://www.cnbc.com/2026/07/02/why-jim-cramer-says-investors-should-want-to-own-this-industrial-stock.html)
-  _CNBC — El Club de Inversiones celebra su "reunión matutina" todos los días laborables a las 10:20 a. m., hora del Este._
+- [En Cisjordania, los colonos israelíes se apoderan de la casa de los sueños de los palestinos - Reuters](https://news.google.com/rss/articles/CBMitAFBVV95cUxOdTVXLXIyN0poOG0tZUhzUFUySmtfdVdDRlNUREExRjZnbUZzTk1PMlZhMXNNOFlDdTlMaDR3UmZQNV93LWRHQlB2cFl2V1cxNHNHX2NvTFEwdGNwSF9SemJqNHRGMkZLeV83MzUxM0RZbXBWM1FhbnpGZXlZMnY1S3J4SFdOaWwxc25Oc0h1STUtRG5zU1EzWGZOUTluS2xEdWN4UWFEeGU4dWFoYjhXaEc5MUg?oc=5)
+  _Reuters — En Cisjordania, los colonos israelíes se apoderan de la casa de los sueños de los palestinos Reuters_
+- [Jamenei yace en estado en Teherán mientras Irán comienza una semana de ceremonias fúnebres - Reuters](https://news.google.com/rss/articles/CBMiwgFBVV95cUxORXpMemJHeWdSem1ZSTR1aFZMQjgzNzZna1VrRmFIQVVkUkQzVUp4QzV1LXBhUjdOVHRWWkF0dHJyc0ZIZDhmUXNMYjVOZWs5dFNONVEwUGJmQlFNYXpLalM2Y25NMjI5UXVMNzhaMmhDaHVQb1VvMzJGZEFSMUxJN3JhWllBVzE5RFZiVzRhUks0MlBuXzZBaTNUM2QybVlyNUlabG9jekdSN3hTR3ZQZGxheTJ4ZXVGRW9lMG9VX3JOQQ?oc=5)
+  _Reuters — Jamenei yace en estado en Teherán mientras Irán comienza una semana de ceremonias fúnebres Reuters_
+- [Los líderes de la OTAN se reunirán en Ankara con el objetivo de suavizar las tensiones con Trump - Reuters](https://news.google.com/rss/articles/CBMixwFBVV95cUxQTkJLWS1Wbnk4WEdvWjVXR01zVmJmVlBYLXpnT2g5OVlxSG15bF9QbWEzMS1Ca2EtcjFJaUt2dlNlLUhRZzAxa2tVS2Y3WWFNWDBpN0JIdkpoN1JINTUyZ1Q5dGZMaUFkWmJtaGVGeEFLWHdSZkd3VTkxUWdHR1VIM2F1a0RCVTMwUkQ2OHlEckNIUFlTdjJlTVF5YU1pWW1kMTM2Rm1tVUNaNGYyQUZSSmYwa3MwQ3UtNVgyTjgyLXpBdUs4SVpJ?oc=5)
+  _Reuters — Los líderes de la OTAN se reunirán en Ankara con el objetivo de suavizar las tensiones con Trump  Reuters_
+- [Los líderes de la OTAN, incluido Trump, afirmarán un "compromiso férreo" con la defensa colectiva en Ankara, según el texto de la cumbre - Reuters](https://news.google.com/rss/articles/CBMi1wFBVV95cUxNR21mS1FvbzMzXzlxSUFEVVV5ZENiRktERHRtQ1hycW16UmphZF9RdUEybTVmYjNkOWY4dTFvZ3MyVlZPSnVaLVU2dS1DRjBkempBVkRvd2NROFBkRjlTajI5cjVLSjBxSzlaWmp2Z1RxQVlPaFBJMjQzNUd0VUdFejN1OVItOEhTQUtQU1Zzc2VfU0xQUFgxdWlvZEJfYUROWG9ZMlBhZUNsaTNLWDVzcTc0b2pLc0pRWDBkUGVSbTljVjNudFhGcU84amZSb1dPTzN2TDN0TQ?oc=5)
+  _Reuters — Los líderes de la OTAN, incluido Trump, afirmarán un "compromiso férreo" con la defensa colectiva en Ankara, según el texto de la cumbre Reuters_
+- [¿Cómo se compara la crisis de Irán con la crisis del petróleo de 1979? ](https://news.google.com/rss/articles/CBMiqwFBVV95cUxNMG9oa3VPLW5oa2dhSDc5NXA3czBNYlVLR3lrdGprX2FpQ1VYOGxtNngweEJVVm52d0F0RmVuQXhfc0xWcWxjck9oUWN6S0NLRjhoSEkyTVN4R3Rod05JeWRPS1M0LUZtamZ6NlFDUGRmSnBxTTgxYUlZdkRjb2NaNmV3d2tKZkZ0ZEd4MmU3X19EZzhQdVlzTDM2ZDVfSjU1ZmFJZWF2QllXNkU?oc=5)
+  _Reuters — ¿Cómo se compara la crisis de Irán con la crisis del petróleo de 1979?  _
+- [EXCLUSIVO: Irán explora ventas de petróleo a Japón, los compradores buscan una exención de sanciones más prolongada, dicen fuentes - Reuters](https://news.google.com/rss/articles/CBMixAFBVV95cUxONlpxZVF6RnlianRMXzVTT05hLXpuT3FCY3pCRzMweXJjUDF5N2pJa3hYOXJzdTFpMTJpWUhKckZZWlllM2pVbzRFcGQ3SUlKZWRyNmRNaW9hNWdBNEU1d2JLYnp2YWJxU2doQXl2bVdZTDlMaWJFbHJiR19VZFVwTHAydHZudzdEN0xJWTdsczNkSmQtZVNUb0FJcjVhV0NSWWJDNEVvcFE1M0RTM2VnSFFPRm1tNGpwTklqSXdUYklQZWIy?oc=5)
+  _Reuters — EXCLUSIVO: Irán explora ventas de petróleo a Japón, los compradores buscan una exención de sanciones más prolongada, dicen fuentes  Reuters_
+- [Las exportaciones de petróleo del Golfo aumentan en junio gracias a los flujos récord de los Emiratos Árabes Unidos - Reuters](https://news.google.com/rss/articles/CBMimwFBVV95cUxPNlJ4X25oUTd4MXkzQlcwOEFnYm5SLXM0NDVldUlDS3F1aXowdWlGRm1DZEZkdDVTazNLWm00Y3lDV19qU1ppMmdWcVAweVIzMkExVDljamFWbDg1Y3pRTjd4aURpcVdTamFnTDNPRjlTTm9hSzViZDEzQnZHdE1zdlNRS0xzaTd6b1NtZjh3eHRvT2JreHdsV1d2Zw?oc=5)
+  _Reuters — Las exportaciones de petróleo del Golfo aumentan en junio gracias a los flujos récord de los Emiratos Árabes Unidos Reuters_
+- [American Express y Chase trasladan la guerra de los salones de lujo más allá del aeropuerto](https://www.cnbc.com/2026/07/03/amex-chase-credit-card-lounges.html)
+  _CNBC — Las compañías de tarjetas de crédito ofrecen cada vez más acceso a salones y ventajas en festivales y eventos deportivos, a menudo exclusivamente para titulares de tarjetas premium._
 
 ---
 
@@ -105,9 +105,9 @@ Holdings con mejor combinación de fundamentales, narrativa y momentum.
 | | | Revenue +22% · Margen 38% | | | | | |
 | **VRT** | 51 | Data Center Power & Cooling Infrastructure | +30% | 14% | 34 | 2.0 | +84% |
 | | | Revenue +30% · ROE 45% | | | | | |
-| **AVGO** | 49 | AI Networking + VMware Synergy | +48% | 39% | 19 | 1.4 | +5% |
+| **AVGO** | 49 | AI Networking + VMware Synergy | +48% | 39% | 19 | 1.5 | +5% |
 | | | Revenue +48% · Margen 39% | | | | | |
-| **GEV** | 48 | Energy Transition + Grid Modernization | +16% | 24% | 45 | 1.0 | +79% |
+| **GEV** | 48 | Energy Transition + Grid Modernization | +16% | 24% | 45 | 0.9 | +79% |
 | | | Revenue +16% · Baja deuda | | | | | |
 | **AMD** | 46 | AI Chip Challenger + Data Center Growth | +38% | 13% | 39 | 2.5 | +155% |
 | | | Revenue +38% · Baja deuda | | | | | |
