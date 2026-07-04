@@ -1,14 +1,18 @@
-# Swing Signals — 2026-07-03 | 15:01 CLT (Hora Chile, UTC-04:00)
+# Swing Signals — 2026-07-04 | 21:00 CLT (Hora Chile, UTC-04:00)
 
-> 🌎 Hora local Santiago. Visitantes de otros países: 19:01 UTC.
+> 🌎 Hora local Santiago. Visitantes de otros países: 01:00 UTC.
 >
-> 18 acciones · 11 COMPRAR/ACUMULAR · 2 OBSERVAR · 5 ESPERAR/EVITAR · COMPRADOR — Varias oportunidades de entrada en pullbacks de calidad.
+> 18 acciones · 10 COMPRAR/ACUMULAR · 3 OBSERVAR · 5 ESPERAR/EVITAR · COMPRADOR — Varias oportunidades de entrada en pullbacks de calidad.
 
 
 ## 📰 Noticias del Mercado
 
 - [En Cisjordania, los colonos israelíes se apoderan de la casa de los sueños de los palestinos - Reuters](https://news.google.com/rss/articles/CBMitAFBVV95cUxOdTVXLXIyN0poOG0tZUhzUFUySmtfdVdDRlNUREExRjZnbUZzTk1PMlZhMXNNOFlDdTlMaDR3UmZQNV93LWRHQlB2cFl2V1cxNHNHX2NvTFEwdGNwSF9SemJqNHRGMkZLeV83MzUxM0RZbXBWM1FhbnpGZXlZMnY1S3J4SFdOaWwxc25Oc0h1STUtRG5zU1EzWGZOUTluS2xEdWN4UWFEeGU4dWFoYjhXaEc5MUg?oc=5)
   _Reuters — En Cisjordania, los colonos israelíes se apoderan de la casa de los sueños de los palestinos Reuters_
+- [EXCLUSIVO: Irán explora ventas de petróleo a Japón, los compradores buscan una exención de sanciones más prolongada, dicen fuentes - Reuters](https://news.google.com/rss/articles/CBMixAFBVV95cUxONlpxZVF6RnlianRMXzVTT05hLXpuT3FCY3pCRzMweXJjUDF5N2pJa3hYOXJzdTFpMTJpWUhKckZZWlllM2pVbzRFcGQ3SUlKZWRyNmRNaW9hNWdBNEU1d2JLYnp2YWJxU2doQXl2bVdZTDlMaWJFbHJiR19VZFVwTHAydHZudzdEN0xJWTdsczNkSmQtZVNUb0FJcjVhV0NSWWJDNEVvcFE1M0RTM2VnSFFPRm1tNGpwTklqSXdUYklQZWIy?oc=5)
+  _Reuters — EXCLUSIVO: Irán explora ventas de petróleo a Japón, los compradores buscan una exención de sanciones más prolongada, dicen fuentes  Reuters_
+- [Dos rumanos encarcelados por apuñalar a un periodista iraní en Londres - Reuters](https://news.google.com/rss/articles/CBMiuAFBVV95cUxQR1BOQ05pVXg1MV9IYmUzeWxsSmFYWXItdmpnY0R3NlBnZmVRUDducmo2YThYMjlIRS1ndVVGN3dVQ1Y2TVZOQUF4V1BzWWRRZXdLUlpOc1U2Vl9kVDl4SUYyUTc5akEzSEF3VzBscmJ6RjNSeTNjWnBqd1pwemh0Z29oeW1RU0NJcnJaMUFfeTI2TFhyazVIVUFwNTlEU3djWUEwejlzeE85R1VKeVBDUGZQTkhkNHVz?oc=5)
+  _Reuters — Dos rumanos encarcelados por apuñalar a un periodista iraní en Londres  Reuters_
 - [Jamenei yace en estado en Teherán mientras Irán comienza una semana de ceremonias fúnebres - Reuters](https://news.google.com/rss/articles/CBMiwgFBVV95cUxORXpMemJHeWdSem1ZSTR1aFZMQjgzNzZna1VrRmFIQVVkUkQzVUp4QzV1LXBhUjdOVHRWWkF0dHJyc0ZIZDhmUXNMYjVOZWs5dFNONVEwUGJmQlFNYXpLalM2Y25NMjI5UXVMNzhaMmhDaHVQb1VvMzJGZEFSMUxJN3JhWllBVzE5RFZiVzRhUks0MlBuXzZBaTNUM2QybVlyNUlabG9jekdSN3hTR3ZQZGxheTJ4ZXVGRW9lMG9VX3JOQQ?oc=5)
   _Reuters — Jamenei yace en estado en Teherán mientras Irán comienza una semana de ceremonias fúnebres Reuters_
 - [Los líderes de la OTAN se reunirán en Ankara con el objetivo de suavizar las tensiones con Trump - Reuters](https://news.google.com/rss/articles/CBMixwFBVV95cUxQTkJLWS1Wbnk4WEdvWjVXR01zVmJmVlBYLXpnT2g5OVlxSG15bF9QbWEzMS1Ca2EtcjFJaUt2dlNlLUhRZzAxa2tVS2Y3WWFNWDBpN0JIdkpoN1JINTUyZ1Q5dGZMaUFkWmJtaGVGeEFLWHdSZkd3VTkxUWdHR1VIM2F1a0RCVTMwUkQ2OHlEckNIUFlTdjJlTVF5YU1pWW1kMTM2Rm1tVUNaNGYyQUZSSmYwa3MwQ3UtNVgyTjgyLXpBdUs4SVpJ?oc=5)
@@ -17,12 +21,8 @@
   _Reuters — Los líderes de la OTAN, incluido Trump, afirmarán un "compromiso férreo" con la defensa colectiva en Ankara, según el texto de la cumbre Reuters_
 - [¿Cómo se compara la crisis de Irán con la crisis del petróleo de 1979? ](https://news.google.com/rss/articles/CBMiqwFBVV95cUxNMG9oa3VPLW5oa2dhSDc5NXA3czBNYlVLR3lrdGprX2FpQ1VYOGxtNngweEJVVm52d0F0RmVuQXhfc0xWcWxjck9oUWN6S0NLRjhoSEkyTVN4R3Rod05JeWRPS1M0LUZtamZ6NlFDUGRmSnBxTTgxYUlZdkRjb2NaNmV3d2tKZkZ0ZEd4MmU3X19EZzhQdVlzTDM2ZDVfSjU1ZmFJZWF2QllXNkU?oc=5)
   _Reuters — ¿Cómo se compara la crisis de Irán con la crisis del petróleo de 1979?  _
-- [EXCLUSIVO: Irán explora ventas de petróleo a Japón, los compradores buscan una exención de sanciones más prolongada, dicen fuentes - Reuters](https://news.google.com/rss/articles/CBMixAFBVV95cUxONlpxZVF6RnlianRMXzVTT05hLXpuT3FCY3pCRzMweXJjUDF5N2pJa3hYOXJzdTFpMTJpWUhKckZZWlllM2pVbzRFcGQ3SUlKZWRyNmRNaW9hNWdBNEU1d2JLYnp2YWJxU2doQXl2bVdZTDlMaWJFbHJiR19VZFVwTHAydHZudzdEN0xJWTdsczNkSmQtZVNUb0FJcjVhV0NSWWJDNEVvcFE1M0RTM2VnSFFPRm1tNGpwTklqSXdUYklQZWIy?oc=5)
-  _Reuters — EXCLUSIVO: Irán explora ventas de petróleo a Japón, los compradores buscan una exención de sanciones más prolongada, dicen fuentes  Reuters_
 - [Las exportaciones de petróleo del Golfo aumentan en junio gracias a los flujos récord de los Emiratos Árabes Unidos - Reuters](https://news.google.com/rss/articles/CBMimwFBVV95cUxPNlJ4X25oUTd4MXkzQlcwOEFnYm5SLXM0NDVldUlDS3F1aXowdWlGRm1DZEZkdDVTazNLWm00Y3lDV19qU1ppMmdWcVAweVIzMkExVDljamFWbDg1Y3pRTjd4aURpcVdTamFnTDNPRjlTTm9hSzViZDEzQnZHdE1zdlNRS0xzaTd6b1NtZjh3eHRvT2JreHdsV1d2Zw?oc=5)
   _Reuters — Las exportaciones de petróleo del Golfo aumentan en junio gracias a los flujos récord de los Emiratos Árabes Unidos Reuters_
-- [American Express y Chase trasladan la guerra de los salones de lujo más allá del aeropuerto](https://www.cnbc.com/2026/07/03/amex-chase-credit-card-lounges.html)
-  _CNBC — Las compañías de tarjetas de crédito ofrecen cada vez más acceso a salones y ventajas en festivales y eventos deportivos, a menudo exclusivamente para titulares de tarjetas premium._
 
 ---
 
@@ -75,9 +75,9 @@ Revenue growth +22% (fuerte) · Margen 13% (saludable) · Tendencia alcista (sob
 | 🔵 NOW | $106.32 | +0.5% | 59 | 32|10|17 | -15% | 54 | $102 | $87 | $139 | ↑ |
 | 🔵 PLTR | $129.30 | +2.8% | 59 | 38|0|21 | -12% | 48 | $126 | $103 | $164 | → |
 | 🔵 GEV | $1113.11 | -1.9% | 58 | 32|11|15 | -6% | 67 | $1023 | $827 | $1181 | → |
-| 🔵 MSFT | $390.49 | +1.6% | 57 | 38|5|14 | -10% | 50 | $387 | $343 | $466 | → |
 | 🔵 AVGO | $360.45 | -2.4% | 55 | 39|0|16 | -15% | 42 | $384 | $349 | $494 | ↓ |
 | 🔵 GOOGL | $359.91 | -0.4% | 55 | 35|11|9 | -4% | 51 | $359 | $324 | $408 | → |
+| ⚪ MSFT | $390.49 | +1.6% | 54 | 35|5|14 | -10% | 50 | $387 | $336 | $466 | → |
 | ⚪ AMZN | $242.67 | +0.4% | 52 | 27|11|14 | -5% | 51 | $240 | $217 | $279 | → |
 | ⚪ VRT | $300.53 | -3.5% | 45 | 33|0|12 | -16% | 51 | $312 | $252 | $380 | ↓ |
 | 🔴 CRM | $166.11 | +1.8% | 38 | 22|0|16 | -16% | 50 | — | — | — | → |
