@@ -1,28 +1,28 @@
-# Swing Signals — 2026-07-04 | 21:00 CLT (Hora Chile, UTC-04:00)
+# Swing Signals — 2026-07-06 | 15:01 CLT (Hora Chile, UTC-04:00)
 
-> 🌎 Hora local Santiago. Visitantes de otros países: 01:00 UTC.
+> 🌎 Hora local Santiago. Visitantes de otros países: 19:01 UTC.
 >
-> 18 acciones · 10 COMPRAR/ACUMULAR · 3 OBSERVAR · 5 ESPERAR/EVITAR · COMPRADOR — Varias oportunidades de entrada en pullbacks de calidad.
+> 18 acciones · 9 COMPRAR/ACUMULAR · 6 OBSERVAR · 3 ESPERAR/EVITAR · COMPRADOR — Varias oportunidades de entrada en pullbacks de calidad.
 
 
 ## 📰 Noticias del Mercado
 
-- [En Cisjordania, los colonos israelíes se apoderan de la casa de los sueños de los palestinos - Reuters](https://news.google.com/rss/articles/CBMitAFBVV95cUxOdTVXLXIyN0poOG0tZUhzUFUySmtfdVdDRlNUREExRjZnbUZzTk1PMlZhMXNNOFlDdTlMaDR3UmZQNV93LWRHQlB2cFl2V1cxNHNHX2NvTFEwdGNwSF9SemJqNHRGMkZLeV83MzUxM0RZbXBWM1FhbnpGZXlZMnY1S3J4SFdOaWwxc25Oc0h1STUtRG5zU1EzWGZOUTluS2xEdWN4UWFEeGU4dWFoYjhXaEc5MUg?oc=5)
-  _Reuters — En Cisjordania, los colonos israelíes se apoderan de la casa de los sueños de los palestinos Reuters_
-- [EXCLUSIVO: Irán explora ventas de petróleo a Japón, los compradores buscan una exención de sanciones más prolongada, dicen fuentes - Reuters](https://news.google.com/rss/articles/CBMixAFBVV95cUxONlpxZVF6RnlianRMXzVTT05hLXpuT3FCY3pCRzMweXJjUDF5N2pJa3hYOXJzdTFpMTJpWUhKckZZWlllM2pVbzRFcGQ3SUlKZWRyNmRNaW9hNWdBNEU1d2JLYnp2YWJxU2doQXl2bVdZTDlMaWJFbHJiR19VZFVwTHAydHZudzdEN0xJWTdsczNkSmQtZVNUb0FJcjVhV0NSWWJDNEVvcFE1M0RTM2VnSFFPRm1tNGpwTklqSXdUYklQZWIy?oc=5)
-  _Reuters — EXCLUSIVO: Irán explora ventas de petróleo a Japón, los compradores buscan una exención de sanciones más prolongada, dicen fuentes  Reuters_
-- [Dos rumanos encarcelados por apuñalar a un periodista iraní en Londres - Reuters](https://news.google.com/rss/articles/CBMiuAFBVV95cUxQR1BOQ05pVXg1MV9IYmUzeWxsSmFYWXItdmpnY0R3NlBnZmVRUDducmo2YThYMjlIRS1ndVVGN3dVQ1Y2TVZOQUF4V1BzWWRRZXdLUlpOc1U2Vl9kVDl4SUYyUTc5akEzSEF3VzBscmJ6RjNSeTNjWnBqd1pwemh0Z29oeW1RU0NJcnJaMUFfeTI2TFhyazVIVUFwNTlEU3djWUEwejlzeE85R1VKeVBDUGZQTkhkNHVz?oc=5)
-  _Reuters — Dos rumanos encarcelados por apuñalar a un periodista iraní en Londres  Reuters_
-- [Jamenei yace en estado en Teherán mientras Irán comienza una semana de ceremonias fúnebres - Reuters](https://news.google.com/rss/articles/CBMiwgFBVV95cUxORXpMemJHeWdSem1ZSTR1aFZMQjgzNzZna1VrRmFIQVVkUkQzVUp4QzV1LXBhUjdOVHRWWkF0dHJyc0ZIZDhmUXNMYjVOZWs5dFNONVEwUGJmQlFNYXpLalM2Y25NMjI5UXVMNzhaMmhDaHVQb1VvMzJGZEFSMUxJN3JhWllBVzE5RFZiVzRhUks0MlBuXzZBaTNUM2QybVlyNUlabG9jekdSN3hTR3ZQZGxheTJ4ZXVGRW9lMG9VX3JOQQ?oc=5)
-  _Reuters — Jamenei yace en estado en Teherán mientras Irán comienza una semana de ceremonias fúnebres Reuters_
-- [Los líderes de la OTAN se reunirán en Ankara con el objetivo de suavizar las tensiones con Trump - Reuters](https://news.google.com/rss/articles/CBMixwFBVV95cUxQTkJLWS1Wbnk4WEdvWjVXR01zVmJmVlBYLXpnT2g5OVlxSG15bF9QbWEzMS1Ca2EtcjFJaUt2dlNlLUhRZzAxa2tVS2Y3WWFNWDBpN0JIdkpoN1JINTUyZ1Q5dGZMaUFkWmJtaGVGeEFLWHdSZkd3VTkxUWdHR1VIM2F1a0RCVTMwUkQ2OHlEckNIUFlTdjJlTVF5YU1pWW1kMTM2Rm1tVUNaNGYyQUZSSmYwa3MwQ3UtNVgyTjgyLXpBdUs4SVpJ?oc=5)
-  _Reuters — Los líderes de la OTAN se reunirán en Ankara con el objetivo de suavizar las tensiones con Trump  Reuters_
-- [Los líderes de la OTAN, incluido Trump, afirmarán un "compromiso férreo" con la defensa colectiva en Ankara, según el texto de la cumbre - Reuters](https://news.google.com/rss/articles/CBMi1wFBVV95cUxNR21mS1FvbzMzXzlxSUFEVVV5ZENiRktERHRtQ1hycW16UmphZF9RdUEybTVmYjNkOWY4dTFvZ3MyVlZPSnVaLVU2dS1DRjBkempBVkRvd2NROFBkRjlTajI5cjVLSjBxSzlaWmp2Z1RxQVlPaFBJMjQzNUd0VUdFejN1OVItOEhTQUtQU1Zzc2VfU0xQUFgxdWlvZEJfYUROWG9ZMlBhZUNsaTNLWDVzcTc0b2pLc0pRWDBkUGVSbTljVjNudFhGcU84amZSb1dPTzN2TDN0TQ?oc=5)
-  _Reuters — Los líderes de la OTAN, incluido Trump, afirmarán un "compromiso férreo" con la defensa colectiva en Ankara, según el texto de la cumbre Reuters_
-- [¿Cómo se compara la crisis de Irán con la crisis del petróleo de 1979? ](https://news.google.com/rss/articles/CBMiqwFBVV95cUxNMG9oa3VPLW5oa2dhSDc5NXA3czBNYlVLR3lrdGprX2FpQ1VYOGxtNngweEJVVm52d0F0RmVuQXhfc0xWcWxjck9oUWN6S0NLRjhoSEkyTVN4R3Rod05JeWRPS1M0LUZtamZ6NlFDUGRmSnBxTTgxYUlZdkRjb2NaNmV3d2tKZkZ0ZEd4MmU3X19EZzhQdVlzTDM2ZDVfSjU1ZmFJZWF2QllXNkU?oc=5)
-  _Reuters — ¿Cómo se compara la crisis de Irán con la crisis del petróleo de 1979?  _
-- [Las exportaciones de petróleo del Golfo aumentan en junio gracias a los flujos récord de los Emiratos Árabes Unidos - Reuters](https://news.google.com/rss/articles/CBMimwFBVV95cUxPNlJ4X25oUTd4MXkzQlcwOEFnYm5SLXM0NDVldUlDS3F1aXowdWlGRm1DZEZkdDVTazNLWm00Y3lDV19qU1ppMmdWcVAweVIzMkExVDljamFWbDg1Y3pRTjd4aURpcVdTamFnTDNPRjlTTm9hSzViZDEzQnZHdE1zdlNRS0xzaTd6b1NtZjh3eHRvT2JreHdsV1d2Zw?oc=5)
-  _Reuters — Las exportaciones de petróleo del Golfo aumentan en junio gracias a los flujos récord de los Emiratos Árabes Unidos Reuters_
+- [Macron de Francia visita Siria, en el primer viaje de un jefe de Estado de la UE desde el derrocamiento de Assad - Reuters](https://news.google.com/rss/articles/CBMizAFBVV95cUxQQk9jblFRY3RqU2RNMlB1dGQ4V3lsZkFxYmNDNWNYNWNPdWFMUVNlUFowTXIxMzQ4b2lOU3dtMGFZYnVra0Jnano2MjdBR0xjbk9VazZENEx4S25oMF92T2F5bkR4WFJwZE5XcWNmTmp6OVVmOGdYekMxQlJnVWhwWjk3c0hZS0tLaFJJZUNqNFRheXo4aEpJYmh6WHo5ektuZXN5NWs0V3pTb3R6UVJkNEw2Q0lIOUhQaE83U1pid20ydUxFMU9Vd0hPbGs?oc=5)
+  _Reuters — Macron de Francia visita Siria, en el primer viaje de un jefe de Estado de la UE desde el derrocamiento de Assad Reuters_
+- [Los dolientes iraníes piden venganza contra Trump durante la procesión fúnebre de Jamenei - Reuters](https://news.google.com/rss/articles/CBMixAFBVV95cUxQYk1zeXpDeENmeEt5T2RZaHg1YUFWX1hOSmtZZnFWcnBlck02WDZNSk1QUUtRZTRfYkJuQmtvOW5iTkVZTEo0QzlUcHlIcmcybjZUUHJzWHBGWGd2aUxody1nMW9uSXRxTnRmbGd3WDVlaFVXSVBTazZ2eGtudk5YbUd2aXVJdXpjTjZXa1FDYUJpa2o4ZUNPUTVCMW1VMEtBWWFKRDVqXzlJUTJuS0VxaEdwdnZMNlNvOVczdXRCVmpsekJj?oc=5)
+  _Reuters — Los dolientes iraníes piden venganza contra Trump durante la procesión fúnebre de Jamenei Reuters_
+- [Hamás disuelve el gobierno de Gaza, Israel califica la medida de "truco" - Reuters](https://news.google.com/rss/articles/CBMivgFBVV95cUxOTFo2LTlqNk9aYUFPVWY4LWtLZFVranB4RHp3SEJNaXd2VzNjWUtWUUs0TkktQnVET2N6YndZMDBzY2MwYXQ0NnVmU0lmUC1Ga3dRcWZXSXZQaVBxdWRFM3VtNUktWEZiMFA4RUNERmJoRHFOUFRoZ1hDUjlBdnhBNnJIZUdWdlRLYVRoSkcxRkdmZnV4dDc2Ykt5cmI4R3JhNmRrMlhoeTRiYUkzVGhtemRsbXNXcjFDVlV3bS1n?oc=5)
+  _Reuters — Hamás disuelve el gobierno de Gaza, Israel califica la medida de "truco"  Reuters_
+- [Trump dice que Sikorsky financiará la pista de aterrizaje de helicópteros de la Casa Blanca - Reuters](https://news.google.com/rss/articles/CBMivwFBVV95cUxOUVFmNnZHQmR4OTYwck8tbXg5UlZmUHBfWjlJRWtBY2xPZmRkS0sxZTk5QXpfRUoxT2Q4dm95Uk9NMjdQakZIbzJMRWVjSDNsNExHb01uRV84eEcyUXhZeHZSWE53TUh4UTkwZWVDWm5fV1l6SG9hLWEwQWZHV3Voc0lKeTY4YnhNTGF4ZnBoNmh4T0d0RkZuc0xWb3RuNXlOSXN4U2xjSzU1azJBd2FPWmc0WHBCanY1OXBUeVJmbw?oc=5)
+  _Reuters — Trump dice que Sikorsky financiará la pista de aterrizaje de helicópteros de la Casa Blanca Reuters_
+- [Israel mata a cuatro personas, incluido el director de una escuela, en el sur del Líbano, dice el Ministerio de Salud - Reuters](https://news.google.com/rss/articles/CBMitwFBVV95cUxPZ1JITmpGTGthNHVGLWZtTDZSY3ZVcjZ6bVJTYWhoR2M4eTRVdzVhdHRoM2VXemV5eGZsMHd6WV93UF9tczhkcU9yeERrbFVmaXlfbmFsVDlmMXdabGY5R3VyWmlPQVFlajFpa3Y5U09oc1BMSm5DeTFxNENiUHMyOXRLY0FRVklfZllyaUxkNEhUSDNlN0xKcVpSWnhsaWtfYmh6OUxQUUZYWmFyWVRoVXowRkhZNEE?oc=5)
+  _Reuters — Israel mata a cuatro personas, incluido el director de una escuela, en el sur del Líbano, dice el Ministerio de Salud Reuters_
+- [Por qué Jim Cramer dice que este juego de IA (un 85% más este año) va aún más alto](https://www.cnbc.com/2026/07/06/jim-cramer-says-this-ai-play-up-85percent-this-year-is-headed-even-higher.html)
+  _CNBC — El Club de Inversiones celebra su "reunión matutina" todos los días laborables a las 10:20 a. m., hora del Este._
+- [Trump dice que habrá un acuerdo con Irán o Estados Unidos "terminará el trabajo" - Reuters](https://news.google.com/rss/articles/CBMivwFBVV95cUxOTkNkUE5kLUozQnVZUy1YTVJodXBJWmZmQ3Y5cTBCcTkzb0NCdl82TW1kbGJON1ZkYXM0LVhMWTJiSDFTNndDTkEyTk1jaWs3UEZmUjlzV3V6ZVc5MjBac3lVVFFpQlFfMkFZdVlaVmhOM1Zsa0FlaVVzSHlDX0s5NVNNMXRKNUg5aWRJcTNURmFGVW1nRElxRk5NVEdPdkJSVDdfVzJTVGMxMGZBOVpmWG9pblNKRXVEeVVrbXRycw?oc=5)
+  _Reuters — Trump dice que habrá un acuerdo con Irán o Estados Unidos "terminará el trabajo"  Reuters_
+- [Estamos obteniendo grandes ganancias en una acción cibernética que ha vuelto a alcanzar niveles récord](https://www.cnbc.com/2026/07/06/were-booking-big-profits-in-a-cyber-stock-thats-rallied-back-to-record-highs.html)
+  _CNBC — Nuestros dos valores de ciberseguridad han sido dos de las posiciones más sólidas de la cartera últimamente._
 
 ---
 
@@ -31,35 +31,35 @@
 
 ## 🔥 Mejores Setups de Swing
 
-### 🔵 **SOFI** $18.24 (-1.1%) · Score 63
-Fund 32/40 · Mom 16/30 · Entry 15/30 · Pullback 5% · RSI 66
-Entrada $17.26 — $18.24 · Stop $15.18 · Target $19.45
-Revenue growth +42% (excelente) · Margen 15% (saludable) · Tendencia alcista (sobre SMA20)
-
-### 🔵 **AMD** $517.82 (-4.3%) · Score 62
-Fund 29/40 · Mom 16/30 · Entry 17/30 · Pullback 11% · RSI 55
-Entrada $516.84 — $517.82 · Stop $418.75 · Target $584.73
+### 🔵 **AMD** $554.64 (+7.1%) · Score 67
+Fund 29/40 · Mom 21/30 · Entry 17/30 · Pullback 5% · RSI 56
+Entrada $518.41 — $554.64 · Stop $417.99 · Target $584.73
 Revenue growth +38% (excelente) · Margen 13% (saludable) · Tendencia alcista fuerte (Precio > SMA20 > SMA50)
 
-### 🔵 **META** $582.90 (-4.9%) · Score 62
-Fund 40/40 · Mom 5/30 · Entry 17/30 · Pullback 9% · RSI 54
-Entrada $576.51 — $582.90 · Stop $528.64 · Target $681.87
-Revenue growth +33% (excelente) · Margen 33% (premium) · Tendencia lateral/indefinida
-
-### 🔵 **NVDA** $194.83 (-1.4%) · Score 61
-Fund 40/40 · Mom 0/30 · Entry 21/30 · Pullback 12% · RSI 40
-Entrada $203.48 — $194.83 · Stop $186.63 · Target $236.26
+### 🔵 **NVDA** $196.70 (+1.0%) · Score 61
+Fund 40/40 · Mom 0/30 · Entry 21/30 · Pullback 8% · RSI 42
+Entrada $202.39 — $196.70 · Stop $186.63 · Target $236.26
 Revenue growth +85% (excelente) · Margen 63% (premium) · Tendencia bajista
 
-### 🔵 **AAPL** $308.63 (+4.8%) · Score 61
-Fund 33/40 · Mom 19/30 · Entry 9/30 · Pullback 3% · RSI 58
-Entrada $294.80 — $308.63 · Stop $269.28 · Target $317.40
-Revenue growth +17% (fuerte) · Margen 27% (premium) · Tendencia alcista fuerte (Precio > SMA20 > SMA50)
+### 🔵 **AVGO** $376.61 (+4.5%) · Score 61
+Fund 39/40 · Mom 1/30 · Entry 21/30 · Pullback 9% · RSI 48
+Entrada $381.89 — $376.61 · Stop $348.18 · Target $494.22
+Revenue growth +48% (excelente) · Margen 39% (premium) · Tendencia bajista
 
-### 🔵 **NOW** $106.32 (+0.5%) · Score 59
-Fund 32/40 · Mom 10/30 · Entry 17/30 · Pullback 15% · RSI 54
-Entrada $102.11 — $106.32 · Stop $86.78 · Target $139.20
+### 🔵 **NOW** $107.95 (+1.5%) · Score 59
+Fund 32/40 · Mom 10/30 · Entry 17/30 · Pullback 11% · RSI 57
+Entrada $101.54 — $107.95 · Stop $86.70 · Target $139.20
 Revenue growth +22% (fuerte) · Margen 13% (saludable) · Tendencia alcista (sobre SMA20)
+
+### 🔵 **MSFT** $385.89 (-1.2%) · Score 58
+Fund 35/40 · Mom 2/30 · Entry 21/30 · Pullback 10% · RSI 48
+Entrada $384.85 — $385.89 · Stop $342.62 · Target $466.32
+Revenue growth +18% (fuerte) · Margen 39% (premium) · Tendencia lateral/indefinida
+
+### 🔵 **VRT** $319.27 (+6.2%) · Score 58
+Fund 33/40 · Mom 8/30 · Entry 17/30 · Pullback 11% · RSI 54
+Entrada $311.47 — $319.27 · Stop $263.12 · Target $379.86
+Revenue growth +30% (excelente) · Margen 14% (saludable) · Tendencia lateral/indefinida
 
 ---
 
@@ -67,24 +67,24 @@ Revenue growth +22% (fuerte) · Margen 13% (saludable) · Tendencia alcista (sob
 
 | Ticker | Precio | Cambio | Score | F|M|E | Pullback | RSI | Entrada | Stop | Target | Trend |
 |--------|--------|--------|-------|----|---|----------|-----|---------|------|--------|-------|
-| 🔵 SOFI | $18.24 | -1.1% | 63 | 32|16|15 | -5% | 66 | $17 | $15 | $19 | ↑ |
-| 🔵 AMD | $517.82 | -4.3% | 62 | 29|16|17 | -11% | 55 | $517 | $419 | $585 | ↑↑ |
-| 🔵 META | $582.90 | -4.9% | 62 | 40|5|17 | -9% | 54 | $577 | $529 | $682 | → |
-| 🔵 NVDA | $194.83 | -1.4% | 61 | 40|0|21 | -12% | 40 | $203 | $187 | $236 | ↓ |
-| 🔵 AAPL | $308.63 | +4.8% | 61 | 33|19|9 | -3% | 58 | $295 | $269 | $317 | ↑↑ |
-| 🔵 NOW | $106.32 | +0.5% | 59 | 32|10|17 | -15% | 54 | $102 | $87 | $139 | ↑ |
-| 🔵 PLTR | $129.30 | +2.8% | 59 | 38|0|21 | -12% | 48 | $126 | $103 | $164 | → |
-| 🔵 GEV | $1113.11 | -1.9% | 58 | 32|11|15 | -6% | 67 | $1023 | $827 | $1181 | → |
-| 🔵 AVGO | $360.45 | -2.4% | 55 | 39|0|16 | -15% | 42 | $384 | $349 | $494 | ↓ |
-| 🔵 GOOGL | $359.91 | -0.4% | 55 | 35|11|9 | -4% | 51 | $359 | $324 | $408 | → |
-| ⚪ MSFT | $390.49 | +1.6% | 54 | 35|5|14 | -10% | 50 | $387 | $336 | $466 | → |
-| ⚪ AMZN | $242.67 | +0.4% | 52 | 27|11|14 | -5% | 51 | $240 | $217 | $279 | → |
-| ⚪ VRT | $300.53 | -3.5% | 45 | 33|0|12 | -16% | 51 | $312 | $252 | $380 | ↓ |
-| 🔴 CRM | $166.11 | +1.8% | 38 | 22|0|16 | -16% | 50 | — | — | — | → |
-| 🔴 CCJ | $96.54 | -0.9% | 37 | 21|0|16 | -16% | 46 | — | — | — | ↓ |
-| 🔴 MOD | $230.97 | -5.5% | 28 | 26|0|2 | -24% | 35 | — | — | — | ↓ |
-| 🔴 RKLB | $100.46 | +0.4% | 27 | 10|1|16 | -18% | 41 | — | — | — | ↓ |
-| 🔴 POWL | $246.33 | -7.0% | 24 | 21|1|2 | -22% | 35 | — | — | — | ↓ |
+| 🔵 AMD | $554.64 | +7.1% | 67 | 29|21|17 | -5% | 56 | $518 | $418 | $585 | ↑↑ |
+| 🔵 NVDA | $196.70 | +1.0% | 61 | 40|0|21 | -8% | 42 | $202 | $187 | $236 | ↓ |
+| 🔵 AVGO | $376.61 | +4.5% | 61 | 39|1|21 | -9% | 48 | $382 | $348 | $494 | ↓ |
+| 🔵 NOW | $107.95 | +1.5% | 59 | 32|10|17 | -11% | 57 | $102 | $87 | $139 | ↑ |
+| 🔵 MSFT | $385.89 | -1.2% | 58 | 35|2|21 | -10% | 48 | $385 | $343 | $466 | → |
+| 🔵 VRT | $319.27 | +6.2% | 58 | 33|8|17 | -11% | 54 | $311 | $263 | $380 | → |
+| 🔵 GOOGL | $366.47 | +1.8% | 57 | 35|13|9 | -2% | 54 | $358 | $324 | $408 | → |
+| 🔵 PLTR | $132.54 | +2.5% | 55 | 38|0|17 | -7% | 54 | $126 | $103 | $164 | → |
+| 🔵 GEV | $1147.57 | +3.1% | 55 | 32|16|7 | -4% | 67 | $1032 | $826 | $1196 | → |
+| ⚪ AAPL | $313.19 | +1.5% | 54 | 33|21|0 | -1% | 64 | $295 | $265 | $317 | ↑↑ |
+| ⚪ SOFI | $18.78 | +3.0% | 52 | 32|18|2 | -2% | 71 | $17 | $15 | $19 | ↑ |
+| ⚪ META | $600.34 | +3.0% | 51 | 40|2|9 | -4% | 57 | $575 | $517 | $682 | → |
+| ⚪ AMZN | $245.30 | +1.1% | 49 | 27|13|9 | -4% | 55 | $240 | $217 | $279 | → |
+| ⚪ CRM | $166.27 | +0.1% | 46 | 22|2|22 | -13% | 50 | $163 | $140 | $211 | → |
+| ⚪ CCJ | $98.11 | +1.6% | 42 | 21|0|21 | -13% | 45 | $103 | $89 | $131 | ↓ |
+| 🔴 POWL | $249.42 | +1.2% | 35 | 24|6|5 | -21% | 35 | — | — | — | ↓ |
+| 🔴 MOD | $232.05 | +0.5% | 31 | 26|0|5 | -23% | 34 | — | — | — | ↓ |
+| 🔴 RKLB | $93.67 | -6.8% | 17 | 10|6|1 | -22% | 44 | — | — | — | ↓ |
 
 > **F**undamental / **M**omentum / **E**ntry (pullback). Score = F(40) + M(30) + E(30)
 
@@ -99,20 +99,20 @@ Holdings con mejor combinación de fundamentales, narrativa y momentum.
 |--------|-------|-----------|-----|--------|---------|------|--------|
 | **NVDA** | 59 | AI Infrastructure Dominance | +85% | 63% | 15 | 2.2 | +6% |
 | | | Revenue +85% · Margen 63% | | | | | |
-| **META** | 54 | AI Advertising + Open Source LLM | +33% | 33% | 16 | 1.2 | -11% |
-| | | Revenue +33% · Margen 33% | | | | | |
-| **GOOGL** | 51 | AI Search + Cloud + Waymo | +22% | 38% | 25 | 1.2 | +10% |
-| | | Revenue +22% · Margen 38% | | | | | |
-| **VRT** | 51 | Data Center Power & Cooling Infrastructure | +30% | 14% | 34 | 2.0 | +84% |
-| | | Revenue +30% · ROE 45% | | | | | |
-| **AVGO** | 49 | AI Networking + VMware Synergy | +48% | 39% | 19 | 1.5 | +5% |
+| **AVGO** | 54 | AI Networking + VMware Synergy | +48% | 39% | 19 | 1.5 | +7% |
 | | | Revenue +48% · Margen 39% | | | | | |
-| **GEV** | 48 | Energy Transition + Grid Modernization | +16% | 24% | 45 | 0.9 | +79% |
-| | | Revenue +16% · Baja deuda | | | | | |
-| **AMD** | 46 | AI Chip Challenger + Data Center Growth | +38% | 13% | 39 | 2.5 | +155% |
-| | | Revenue +38% · Baja deuda | | | | | |
-| **AAPL** | 46 | AI iPhone Supercycle + Services | +17% | 27% | 32 | 1.1 | +19% |
+| **META** | 54 | AI Advertising + Open Source LLM | +33% | 33% | 16 | 1.2 | -6% |
+| | | Revenue +33% · Margen 33% | | | | | |
+| **GOOGL** | 51 | AI Search + Cloud + Waymo | +22% | 38% | 25 | 1.2 | +11% |
+| | | Revenue +22% · Margen 38% | | | | | |
+| **AAPL** | 51 | AI iPhone Supercycle + Services | +17% | 27% | 33 | 1.1 | +21% |
 | | | Revenue +17% · Margen 27% | | | | | |
+| **GEV** | 48 | Energy Transition + Grid Modernization | +16% | 24% | 47 | 0.9 | +80% |
+| | | Revenue +16% · Baja deuda | | | | | |
+| **VRT** | 47 | Data Center Power & Cooling Infrastructure | +30% | 14% | 36 | 2.0 | +88% |
+| | | Revenue +30% · ROE 45% | | | | | |
+| **AMD** | 46 | AI Chip Challenger + Data Center Growth | +38% | 13% | 42 | 2.5 | +167% |
+| | | Revenue +38% · Baja deuda | | | | | |
 
 
 ---
