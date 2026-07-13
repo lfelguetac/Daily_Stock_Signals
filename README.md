@@ -1,28 +1,28 @@
-# Swing Signals — 2026-07-11 | 21:00 CLT (Hora Chile, UTC-04:00)
+# Swing Signals — 2026-07-13 | 15:01 CLT (Hora Chile, UTC-04:00)
 
-> 🌎 Hora local Santiago. Visitantes de otros países: 01:00 UTC.
+> 🌎 Hora local Santiago. Visitantes de otros países: 19:01 UTC.
 >
-> 18 acciones · 9 COMPRAR/ACUMULAR · 7 OBSERVAR · 2 ESPERAR/EVITAR · COMPRADOR — Varias oportunidades de entrada en pullbacks de calidad.
+> 18 acciones · 10 COMPRAR/ACUMULAR · 2 OBSERVAR · 6 ESPERAR/EVITAR · COMPRADOR — Varias oportunidades de entrada en pullbacks de calidad.
 
 
 ## 📰 Noticias del Mercado
 
-- [Trump dice que Estados Unidos aceptó la solicitud de Irán de continuar las conversaciones, pero el alto el fuego terminó - Reuters](https://news.google.com/rss/articles/CBMirAFBVV95cUxNWU8weHNqWU10dDFxUGpMR3Z5LW0xVVVnTlNuU2ZBaWpXS0ZnbHQ4c3BENmZ2QVZMZ0VLWmIyUnU0NVM2Tkp4T0lONVM2NnF5cHluZWRxR3FkOXdsNEJoQ3I1VmV3a3hOcExFWll0Vkp2VUJKN2xpcU13US1lOEkxWE1CcEY2dWZGbUZ4TzZ3V0lYRUhLdC1CZjJNTDVJZVM2TDZpSUU0V0lQdkZn?oc=5)
-  _Reuters — Trump dice que Estados Unidos aceptó la solicitud de Irán de continuar las conversaciones, pero el alto el fuego terminó  Reuters_
-- [Estados Unidos insiste en que Irán se comprometa a detener los ataques en el estrecho de Ormuz, dicen funcionarios estadounidenses - Reuters](https://news.google.com/rss/articles/CBMiwgFBVV95cUxOTDI4WnJQY1UzQVd1QjZQMXRFUkM2SHdzNV9EYmd2cTQ2a1h3cTN0NTlza0JSMWFlbFhibmY0SnVRSHU0U2ZsRGpoMEhMamd5RXNZUXZRVUJRQnVzVGhtajFJbHdXSUtjNy1iOGpTODU3dG5YLUphaGlYRDRXLUZSdXF2U3laZDhaeTVvalFJbjlGOGJYaTFFdnRuMUJmZXE3U1Z0LTRxaUtiNTNnQnQ2bGdDZEVhUzV4OHdBVlBTSVVBdw?oc=5)
-  _Reuters — Estados Unidos insiste en que Irán se comprometa a detener los ataques en el estrecho de Ormuz, dicen funcionarios estadounidenses Reuters_
-- [El dolor de EE.UU. en el surtidor empeora después de que más enfrentamientos entre EE.UU. e Irán elevan los precios del petróleo - Reuters](https://news.google.com/rss/articles/CBMiuAFBVV95cUxNNmRTRTU1SVQyc05BT2JHSGRkZ0JQaFI5WjVraUplNlJaQVUzUk1jeHp2eE9WQ191SkRkSDRZZjJiVWtBZHg2VXdCWW9jV0xNLXR4QzhQak5NSDd6QVp5dWtFbl95TGVwVDhBRGV3V05CWGV0U2JVeU52OW1XSHhkVENveUdMSEF4Um8yc1B0cVphckZzd0dOZ0l5VHlVdHdEYXRrem4tNzlmSEJKZUNkRDJCMjhBSG5x?oc=5)
-  _Reuters — El dolor de EE.UU. en el surtidor empeora después de que más enfrentamientos entre EE.UU. e Irán elevan los precios del petróleo Reuters_
-- [Wall St Semana por delante Los inversores se enfrentarán a una semana repleta de ganancias, IPC y titulares de Irán - Reuters](https://news.google.com/rss/articles/CBMivwFBVV95cUxNMjJOeUlsWVliM0doZUlfUDdXVjA5OXpjUDdPNjlFXzFzRGZKcDhhaDVGZFNDc3RRM3QwLVdWdTdaaXJZN0NfRUhjQWkxSzBVZlBMd1l1dlZpVVVOOEFfbWVmUzVYMFlZZGpCWENSR3FRVGNPZjhXcU96VTY3b1hjTk45ZWMwRnR3RVRsRG5UR1ZqdU5RLWhhWWtnWVBjeGk4YTg3c294YjdUVkVqWS1WY3dNWnpCalBERVZQbkRIdw?oc=5)
-  _Reuters — Wall St Semana por delante Los inversores se enfrentarán a una semana repleta de ganancias, IPC y titulares de Irán  Reuters_
-- [Estados Unidos facilita la exportación de chips de inteligencia artificial y equipos militares de Nvidia a los Emiratos Árabes Unidos - Reuters](https://news.google.com/rss/articles/CBMizgFBVV95cUxPd0RpM0tkVDY3RXZ5NzBYZnZKR1hkME1NSVE2TVdNYUJCSjY5VWk1LUhfUFd3NTlMdktER1MtOHhEUjVVOHRhSHcxTGh2TFlFMTNsZmt2dzk0WTdFbHUxZm5SNExFX3JyNldDWHpYcHg1dFRGWGdoX2Y5QU1UUGR1TmpodmktT3lXenhad3JqOTMtUERoZmpFX0dMTFh1VEtQdEp5ZERMRGJYNjloTG94X05Ka2pYQWFlU1NENjFTd0tTN002dFBOb3g0d0QxUQ?oc=5)
-  _Reuters — Estados Unidos facilita la exportación de chips de inteligencia artificial y equipos militares de Nvidia a los Emiratos Árabes Unidos  Reuters_
-- [El petróleo iraní atrapado en el mar aumenta a medida que las teteras de China recurren a suministros rivales de Medio Oriente, dicen comerciantes - Reuters](https://news.google.com/rss/articles/CBMizAFBVV95cUxPOWxpczA5UVItb3hGWndrQnBSdU1yckMyQWV0WDQ2ZzhLb3BBcmF5NU9oYmdmbW1MOWFtU2p5MmlqQnYtUWxISDZUNjRMTjVYdmtSdmJFVERuNUczVU9VSlRBUzA2OEZRV0FmV0g2RzBNbzhENTMwV3o2WkJscWxRLXFOaXdzaDVkQmxjdlJ6eDB3RzNHaXQ1bE1vX0tzM2xYWFprZGdRODk3ajgyWjVmUmtPSGQwSEt1dWhXdGNxU2FFYnEta2NYeVZ2V08?oc=5)
-  _Reuters — El petróleo iraní atrapado en el mar aumenta a medida que las teteras de China recurren a suministros rivales de Medio Oriente, dicen comerciantes  Reuters_
-- [Las acciones suben mientras los inversores esperan el inicio de la temporada de resultados: esto es lo que pueden esperar](https://www.cnbc.com/2026/07/10/stocks-rise-as-investors-await-the-start-of-earnings-what-to-expect.html)
-  _CNBC — Todos los días de la semana, el Investing Club publica el Homestretch; _
-- [Informe de la Fed cita inflación "intensificada" debido a aranceles, guerra de Irán y desarrollo de inteligencia artificial - Reuters](https://news.google.com/rss/articles/CBMiigFBVV95cUxPWmpCaExTSktkWXFGQjlDZ2pzOHlSNm0xcXJqcWJGUkdNaWRlSnJldzhzSUZaT2drZy1RZVM5TmVJbGltTHhUU3hzeFpvbGZjbmlJWkxjejUwZVY0UTFscU45ekt2LWlBZUM3c1dtc2R1VE05OXA3NmxCVUxBVVFUQ0ZuSm0zejV6ZlE?oc=5)
-  _Reuters — Un informe de la Reserva Federal cita un "aumento" de la inflación debido a los aranceles, la guerra de Irán y el desarrollo de la IA  Reuters_
+- [La agencia marítima de la ONU se opone a las tarifas de tránsito de Ormuz después de que Trump exigiera dinero para protección](https://www.cnbc.com/2026/07/13/imo-maritime-organization-strait-hormuz-tolls-trump-iran.html)
+  _CNBC — La situación de seguridad en Ormuz se ha deteriorado desde que Irán atacó varios barcos comerciales que transitaban por el estrecho durante la semana pasada._
+- [Ingeniero iraní condenado en EE.UU. por exportar tecnología a Irán - Reuters](https://news.google.com/rss/articles/CBMiswFBVV95cUxPYjRGVm92N1B3TGQ1aWlmTDdQa3llVWhraXJ1Mm5PSE14SVI5NDBHUkc4WDljdUZyQjZzRVBGMzdiak9RekNxZ2lWWXJCaGIyQm5YSjdIQVpPMHhpazgxVVJZSWM0VGJ2Y0ZBWU9EMHJXQjhySWJSR1FTWXVSbWVGdzllY0x4dmpvRllSVEhwTk9CMFRmVmhEdy1LUHQzbTRTZDdGRTJuUm81SHFNYkwyRlp1cw?oc=5)
+  _Reuters — Ingeniero nacido en Irán condenado en EE.UU. por exportar tecnología a Irán  Reuters_
+- [Wall Street cae a medida que las tensiones con Irán afectan la confianza; ](https://news.google.com/rss/articles/CBMisAFBVV95cUxPSUxJelN2M2lFYXd0QzZIdkhQVGdKTFl2clAtSllTMzIxZ0xudk9CeFpNNVV5MVNVSTdhb251ZjZYbWZ3UFQxWGl0ZWRBRXc3NFVvbXpRT1pPUjZxWUw5VDhtZ2s0bDZVT2VrWEp6M01qeTgwcWFtdmxOcFBYdmQxU1J6anlGbURld1ZmdnloOFBOaTJYbUFxNGo0dTFvbEl1bFdZTXIwcjMtRldFd1BMTw?oc=5)
+  _Reuters — Wall Street cae a medida que las tensiones con Irán afectan la confianza; _
+- [El FTSE 100 del Reino Unido se mantiene estable mientras las ganancias del sector energético contrarrestan las pérdidas de la minería en medio del conflicto entre Estados Unidos e Irán - Reuters](https://news.google.com/rss/articles/CBMioAFBVV95cUxONV9YYXpONTBaSkVUYjBPdUhqYmRVMTJ1Y3lnaVI2eVN4TElWVVM3dWJTVENqT1MyVVZGUkRYTEdVZnYwdklDYnRxNHZPaGpzdzdyTlZFcmstZ0J6dU9PR0Q1R21aYWNlLURuMTlfSHF6eVZTOXRsMDAtX0k5WmNTaVhjazlLUU1CZDlSOGJJek12ZG9PdHZtbE12YjhyalR4?oc=5)
+  _Reuters — El FTSE 100 del Reino Unido se mantiene plano mientras las ganancias del sector energético contrarrestan las pérdidas mineras en medio del conflicto entre Estados Unidos e Irán Reuters_
+- [Los hutíes acusan a Arabia Saudita de atacar el aeropuerto de Saná y prometen represalias - Reuters](https://news.google.com/rss/articles/CBMizgFBVV95cUxQV2Q4MUdSUXZ0ZWdUWnM4SFNoV0lqYlBHTy1PMURKeFA1TS02RWRjbVZDYzJTY29obkdIa29MV2Y1WjZta2c5TXRzTEdNRjc3alR0MGtNV3QzUXpoanJyLWQ4VHV4NlM2WloyaWZaenV1Y1hqUjY1dHNaaXRiWnoxdmxLYWtyNURVQlRfblZjaFBYTmdXNDVVVFFlM1BWS3M2SzFOcm5MakVrYWNwM01aT0s2UThnckpQRDlSUjdqRjlMaWM4eTJtRG5JZU9FQQ?oc=5)
+  _Reuters — Los hutíes acusan a Arabia Saudita de atacar el aeropuerto de Saná y prometen represalias Reuters_
+- [Trump: Se restablece el bloqueo de Irán y Estados Unidos cobrará un 20% por el cargamento del Estrecho de Ormuz - Reuters](https://news.google.com/rss/articles/CBMiqgFBVV95cUxOMV9vbjgzc3lGdFhGN0tRekRlTDItNXRiUnN1OV90MG5VeXVsRzRXNVItYUZPLWdPZlZtVUVFYTBaQlhhUkFTU1JTQzVfSVhoMHV1VUhQUmhtelBMMllPQk40dUhjWW16dEpaaWc0bVpjazBLWmRvakxGUEtkNHExcmlmRTBMRGxaSDF3VGk3d3BqZTNRU3pZRkUzTENvUk5KYVg5Rk4tUjZ1dw?oc=5)
+  _Reuters — Trump: Se restablece el bloqueo de Irán y Estados Unidos cobrará un 20% por el cargamento del Estrecho de Ormuz  Reuters_
+- [Reino Unido prohíbe el apoyo a dos grupos iraníes por ataques antisemitas en Gran Bretaña - Reuters](https://news.google.com/rss/articles/CBMirgFBVV95cUxPQWhXdHRncXZPOURpc2ZuRVNjWWRFVjhiN1hEQzhicm41WGZzbFR4Zkk0ZWtYMTRXeFMwVW9xOEhVWVpyc3oyeFhGZWJyMFRfXzFDczhQalczWGNRQUxzMUxZdTNvLXhVUmVSejUxT1Q2NE1ZNVh0OS1Yc3NIV18tWFVKaHFiWHZlVUxxa0trMzZXV3haelpfZEtrRF96U0M2NWNEbDhyQWVFTHNkX1E?oc=5)
+  _Reuters — Reino Unido prohíbe el apoyo a dos grupos iraníes por ataques antisemitas en Gran Bretaña  Reuters_
+- [Las bolsas europeas caen ante las renovadas tensiones entre Estados Unidos e Irán - Reuters](https://news.google.com/rss/articles/CBMinAFBVV95cUxQY2NNZnVVOGcySHZsNTZmbktYVlYzbTlxTU5tNHFDSWtqV19rT0dWeUdBaktuOU1FQl9wNkdHZmQ3QWpsX3ZmVktaa1dwZzJqQ1lHNi1ncFpic0UwTzhSUzgzdGdONXV0Vm9fMWQ5SEpIZ2FDZ0VycVlfMmc0ZGVRR2VIYWJjVDVPT1c4UnNGZndTcFE3UmctMy1QeWs?oc=5)
+  _Reuters — Las bolsas europeas caen ante las renovadas tensiones entre Estados Unidos e Irán Reuters_
 
 ---
 
@@ -31,35 +31,35 @@
 
 ## 🔥 Mejores Setups de Swing
 
-### 🔵 **VRT** $318.86 (-1.6%) · Score 67
-Fund 33/40 · Mom 8/30 · Entry 26/30 · Pullback 11% · RSI 47
-Entrada $316.17 — $318.86 · Stop $271.52 · Target $379.86
-Revenue growth +30% (excelente) · Margen 14% (saludable) · Tendencia lateral/indefinida
+### 🟢 **AMD** $535.96 (-3.9%) · Score 71
+Fund 29/40 · Mom 21/30 · Entry 21/30 · Pullback 8% · RSI 48
+Entrada $533.33 — $535.96 · Stop $474.35 · Target $584.73
+Revenue growth +38% (excelente) · Margen 13% (saludable) · Tendencia alcista fuerte (Precio > SMA20 > SMA50)
 
-### 🔵 **PLTR** $126.79 (-1.7%) · Score 64
-Fund 38/40 · Mom 5/30 · Entry 21/30 · Pullback 9% · RSI 48
-Entrada $124.92 — $126.79 · Stop $102.81 · Target $163.70
-Revenue growth +85% (excelente) · Margen 44% (premium) · Tendencia lateral/indefinida
+### 🔵 **AAPL** $317.03 (+0.5%) · Score 69
+Fund 33/40 · Mom 24/30 · Entry 12/30 · Pullback 2% · RSI 64
+Entrada $299.17 — $317.03 · Stop $269.19 · Target $323.45
+Revenue growth +17% (fuerte) · Margen 27% (premium) · Tendencia alcista fuerte (Precio > SMA20 > SMA50)
 
-### 🔵 **GEV** $1091.57 (+1.5%) · Score 64
-Fund 32/40 · Mom 11/30 · Entry 21/30 · Pullback 9% · RSI 48
-Entrada $1065.43 — $1091.57 · Stop $852.40 · Target $1195.94
-Revenue growth +16% (fuerte) · Margen 24% (saludable) · Tendencia alcista fuerte (Precio > SMA20 > SMA50)
+### 🔵 **VRT** $304.61 (-4.5%) · Score 63
+Fund 33/40 · Mom 0/30 · Entry 30/30 · Pullback 15% · RSI 37
+Entrada $316.51 — $304.61 · Stop $275.60 · Target $379.86
+Revenue growth +30% (excelente) · Margen 14% (saludable) · Tendencia bajista
 
-### 🔵 **NOW** $107.71 (-1.0%) · Score 63
-Fund 32/40 · Mom 11/30 · Entry 20/30 · Pullback 5% · RSI 66
-Entrada $101.31 — $107.71 · Stop $86.57 · Target $139.20
-Revenue growth +22% (fuerte) · Margen 13% (saludable) · Tendencia lateral/indefinida
-
-### 🔵 **GOOGL** $357.18 (-0.5%) · Score 62
-Fund 35/40 · Mom 1/30 · Entry 26/30 · Pullback 5% · RSI 42
-Entrada $357.88 — $357.18 · Stop $324.46 · Target $408.37
-Revenue growth +22% (fuerte) · Margen 38% (premium) · Tendencia bajista
-
-### 🔵 **AVGO** $399.97 (-0.3%) · Score 60
-Fund 39/40 · Mom 8/30 · Entry 13/30 · Pullback 4% · RSI 46
-Entrada $382.58 — $399.97 · Stop $348.63 · Target $494.22
+### 🔵 **AVGO** $385.22 (-3.7%) · Score 62
+Fund 39/40 · Mom 2/30 · Entry 21/30 · Pullback 7% · RSI 47
+Entrada $382.59 — $385.22 · Stop $348.91 · Target $494.22
 Revenue growth +48% (excelente) · Margen 39% (premium) · Tendencia lateral/indefinida
+
+### 🔵 **NVDA** $203.71 (-3.4%) · Score 61
+Fund 40/40 · Mom 8/30 · Entry 13/30 · Pullback 5% · RSI 46
+Entrada $201.89 — $203.71 · Stop $186.35 · Target $236.26
+Revenue growth +85% (excelente) · Margen 63% (premium) · Tendencia lateral/indefinida
+
+### 🔵 **GOOGL** $354.84 (-0.7%) · Score 60
+Fund 35/40 · Mom 3/30 · Entry 22/30 · Pullback 6% · RSI 54
+Entrada $357.74 — $354.84 · Stop $325.25 · Target $408.37
+Revenue growth +22% (fuerte) · Margen 38% (premium) · Tendencia bajista
 
 ---
 
@@ -67,24 +67,24 @@ Revenue growth +48% (excelente) · Margen 39% (premium) · Tendencia lateral/ind
 
 | Ticker | Precio | Cambio | Score | F|M|E | Pullback | RSI | Entrada | Stop | Target | Trend |
 |--------|--------|--------|-------|----|---|----------|-----|---------|------|--------|-------|
-| 🔵 VRT | $318.86 | -1.6% | 67 | 33|8|26 | -11% | 47 | $316 | $272 | $380 | → |
-| 🔵 PLTR | $126.79 | -1.7% | 64 | 38|5|21 | -9% | 48 | $125 | $103 | $164 | → |
-| 🔵 GEV | $1091.57 | +1.5% | 64 | 32|11|21 | -9% | 48 | $1065 | $852 | $1196 | ↑↑ |
-| 🔵 NOW | $107.71 | -1.0% | 63 | 32|11|20 | -5% | 66 | $101 | $87 | $139 | → |
-| 🔵 GOOGL | $357.18 | -0.5% | 62 | 35|1|26 | -5% | 42 | $358 | $324 | $408 | ↓ |
-| 🔵 AVGO | $399.97 | -0.3% | 60 | 39|8|13 | -4% | 46 | $383 | $349 | $494 | → |
-| 🔵 MSFT | $385.10 | +0.2% | 57 | 38|5|14 | -4% | 53 | $381 | $343 | $466 | → |
-| 🔵 AAPL | $315.32 | -0.3% | 57 | 33|19|5 | -0% | 62 | $298 | $269 | $317 | ↑↑ |
-| 🔵 SOFI | $18.78 | +0.9% | 57 | 32|16|9 | -5% | 58 | $18 | $15 | $20 | ↑ |
-| ⚪ AMD | $557.89 | +2.0% | 54 | 29|16|9 | -5% | 53 | $531 | $420 | $585 | ↑↑ |
-| ⚪ NVDA | $210.96 | +4.0% | 50 | 40|8|2 | -1% | 50 | $202 | $183 | $236 | → |
-| ⚪ META | $669.21 | +6.0% | 48 | 40|8|0 | -1% | 69 | $585 | $513 | $678 | → |
-| ⚪ CRM | $163.32 | +0.5% | 47 | 22|5|20 | -5% | 64 | $160 | $140 | $211 | → |
-| ⚪ AMZN | $245.34 | -0.7% | 46 | 27|5|14 | -2% | 51 | $240 | $218 | $279 | → |
-| ⚪ CCJ | $95.99 | +0.3% | 40 | 21|0|19 | -14% | 26 | $102 | $87 | $125 | ↓ |
-| ⚪ MOD | $245.91 | +1.0% | 40 | 26|0|14 | -19% | 30 | $264 | $198 | $323 | ↓ |
-| 🔴 POWL | $232.19 | -1.9% | 24 | 24|0|0 | -27% | 28 | — | — | — | ↓ |
-| 🔴 RKLB | $81.04 | -1.8% | 20 | 10|0|10 | -32% | 31 | — | — | — | ↓ |
+| 🟢 AMD | $535.96 | -3.9% | 71 | 29|21|21 | -8% | 48 | $533 | $474 | $585 | ↑↑ |
+| 🔵 AAPL | $317.03 | +0.5% | 69 | 33|24|12 | -2% | 64 | $299 | $269 | $323 | ↑↑ |
+| 🔵 VRT | $304.61 | -4.5% | 63 | 33|0|30 | -15% | 37 | $317 | $276 | $380 | ↓ |
+| 🔵 AVGO | $385.22 | -3.7% | 62 | 39|2|21 | -7% | 47 | $383 | $349 | $494 | → |
+| 🔵 NVDA | $203.71 | -3.4% | 61 | 40|8|13 | -5% | 46 | $202 | $186 | $236 | → |
+| 🔵 GOOGL | $354.84 | -0.7% | 60 | 35|3|22 | -6% | 54 | $358 | $325 | $408 | ↓ |
+| 🔵 SOFI | $18.16 | -3.3% | 60 | 32|13|15 | -8% | 61 | $18 | $16 | $20 | ↑ |
+| 🔵 GEV | $1041.91 | -4.5% | 56 | 32|3|21 | -13% | 42 | $1072 | $875 | $1196 | → |
+| 🔵 NOW | $111.26 | +3.3% | 55 | 32|16|7 | -2% | 72 | $102 | $87 | $139 | → |
+| 🔵 PLTR | $129.66 | +2.3% | 55 | 38|2|15 | -7% | 60 | $125 | $103 | $164 | → |
+| ⚪ MSFT | $392.73 | +2.0% | 52 | 38|2|12 | -2% | 63 | $381 | $337 | $466 | → |
+| ⚪ META | $662.37 | -1.0% | 47 | 40|5|2 | -2% | 71 | $589 | $513 | $678 | → |
+| 🔴 CCJ | $89.92 | -6.3% | 35 | 21|0|14 | -19% | 18 | — | — | — | ↓ |
+| 🔴 AMZN | $248.50 | +1.3% | 34 | 27|2|5 | -1% | 69 | — | — | — | → |
+| 🔴 MOD | $235.15 | -4.4% | 26 | 26|0|0 | -22% | 28 | — | — | — | ↓ |
+| 🔴 CRM | $170.57 | +4.4% | 24 | 22|2|0 | -1% | 73 | — | — | — | → |
+| 🔴 POWL | $225.12 | -3.0% | 24 | 24|0|0 | -29% | 21 | — | — | — | ↓ |
+| 🔴 RKLB | $75.97 | -6.3% | 20 | 10|0|10 | -36% | 32 | — | — | — | ↓ |
 
 > **F**undamental / **M**omentum / **E**ntry (pullback). Score = F(40) + M(30) + E(30)
 
@@ -97,22 +97,22 @@ Holdings con mejor combinación de fundamentales, narrativa y momentum.
 
 | Ticker | Score | Narrativa | Rev | Margen | Fwd P/E | Beta | Mom 6m |
 |--------|-------|-----------|-----|--------|---------|------|--------|
-| **NVDA** | 59 | AI Infrastructure Dominance | +85% | 63% | 16 | 2.2 | +13% |
+| **NVDA** | 59 | AI Infrastructure Dominance | +85% | 63% | 16 | 2.2 | +14% |
 | | | Revenue +85% · Margen 63% | | | | | |
-| **META** | 59 | AI Advertising + Open Source LLM | +33% | 33% | 18 | 1.2 | +8% |
+| **META** | 59 | AI Advertising + Open Source LLM | +33% | 33% | 18 | 1.2 | +10% |
 | | | Revenue +33% · Margen 33% | | | | | |
-| **GOOGL** | 51 | AI Search + Cloud + Waymo | +22% | 38% | 24 | 1.2 | +8% |
-| | | Revenue +22% · Margen 38% | | | | | |
-| **AAPL** | 51 | AI iPhone Supercycle + Services | +17% | 27% | 33 | 1.1 | +24% |
-| | | Revenue +17% · Margen 27% | | | | | |
-| **AVGO** | 50 | AI Networking + VMware Synergy | +48% | 39% | 21 | 1.5 | +14% |
+| **AVGO** | 54 | AI Networking + VMware Synergy | +48% | 39% | 20 | 1.5 | +16% |
 | | | Revenue +48% · Margen 39% | | | | | |
-| **GEV** | 48 | Energy Transition + Grid Modernization | +16% | 24% | 45 | 0.9 | +60% |
-| | | Revenue +16% · Baja deuda | | | | | |
-| **VRT** | 47 | Data Center Power & Cooling Infrastructure | +30% | 14% | 36 | 2.0 | +80% |
+| **GOOGL** | 51 | AI Search + Cloud + Waymo | +22% | 38% | 24 | 1.2 | +10% |
+| | | Revenue +22% · Margen 38% | | | | | |
+| **AAPL** | 51 | AI iPhone Supercycle + Services | +17% | 27% | 33 | 1.1 | +29% |
+| | | Revenue +17% · Margen 27% | | | | | |
+| **VRT** | 51 | Data Center Power & Cooling Infrastructure | +30% | 14% | 34 | 2.0 | +74% |
 | | | Revenue +30% · ROE 45% | | | | | |
-| **AMD** | 46 | AI Chip Challenger + Data Center Growth | +38% | 13% | 42 | 2.5 | +141% |
-| | | Revenue +38% · Baja deuda | | | | | |
+| **GEV** | 48 | Energy Transition + Grid Modernization | +16% | 24% | 42 | 0.9 | +52% |
+| | | Revenue +16% · Baja deuda | | | | | |
+| **AMZN** | 47 | AWS AI + E-commerce Margin Expansion | +17% | 12% | 25 | 1.5 | +8% |
+| | | Revenue +17% · Baja deuda | | | | | |
 
 
 ---
