@@ -1,28 +1,28 @@
-# Swing Signals — 2026-07-15 | 21:00 CLT (Hora Chile, UTC-04:00)
+# Swing Signals — 2026-07-15 | 15:01 CLT (Hora Chile, UTC-04:00)
 
-> 🌎 Hora local Santiago. Visitantes de otros países: 01:00 UTC.
+> 🌎 Hora local Santiago. Visitantes de otros países: 19:01 UTC.
 >
-> 18 acciones · 7 COMPRAR/ACUMULAR · 5 OBSERVAR · 6 ESPERAR/EVITAR · COMPRADOR — Varias oportunidades de entrada en pullbacks de calidad.
+> 18 acciones · 5 COMPRAR/ACUMULAR · 7 OBSERVAR · 6 ESPERAR/EVITAR · COMPRADOR — Varias oportunidades de entrada en pullbacks de calidad.
 
 
 ## 📰 Noticias del Mercado
 
-- [Trump quiere honorarios para Ormuz al igual que Irán: ¿es eso legal? ](https://news.google.com/rss/articles/CBMipAFBVV95cUxNM3dNNmJQLXczRFNZeWVhc01WeGRBWEpGbGtVejR5X2VIUzVUUHVCUDNIbWxqVElSamZ0ZkhySGtUelhhNVduTUlqc2YzWnl0cnVNbDU0aVd2ZmNBUzNCWUdxanpwbVgzMnBEV2ViTGFVSXZGZ3RUMTBPMEZDbXlVVC1JMHpNT0ltRkx0YXFUQVI5YmUtaGUtOFc1MDVoSHRfTXJ6LQ?oc=5)
-  _Reuters — Trump quiere honorarios para Ormuz al igual que Irán: ¿es eso legal?  _
-- [Jim Cramer dice que las preocupaciones sobre el mercado de la IA son exageradas. ](https://www.cnbc.com/2026/07/14/jim-cramer-concerns-ai-market-froth-overblown.html)
-  _CNBC — Jim Cramer, de CNBC, dijo que el mercado de valores actual es mucho menos preocupante que durante la burbuja de las puntocom._
-- [Los demócratas del Senado de EE.UU. bloquean un proyecto de ley de defensa de 1,15 billones de dólares por las objeciones a la guerra de Irán - Reuters](https://news.google.com/rss/articles/CBMiyAFBVV95cUxPSTNubHF4MkkzU3NnRWMyZG1jZFdYbHlDU2tiNTc2Nm5sOWc0eGpNZ1ZKdFpPYVlFMFAtN2twWWJrY1RkTkc1cVFHdFA5ZUJHeTFPMWtvR0RVWllsd0U1dDNfY1hwdnJHZk5LWHNkNm56NTduRmh3a2tqT0IxbjlBcHpCZENPWHBFN0ZhYVBWaU5hSDgtLXVvRFFQRE5XVFMyTGhiT0JRWjZfeENPZDYtUXY5bHdrVjBnWXVqOGZpd3NPeUY0cVhzTA?oc=5)
-  _Reuters — Los demócratas del Senado de EE.UU. bloquean un proyecto de ley de defensa de 1,15 billones de dólares por las objeciones a la guerra de Irán Reuters_
-- [S&P 500 y Nasdaq cierran al alza tras fríos datos de inflación y sólidas ganancias bancarias - Reuters](https://news.google.com/rss/articles/CBMivgFBVV95cUxPNUZzZmRoMHJILU51eUxkVEo5UmFGNUx3WjUwSU9qX0k5Zzk0Ulk0MUY3aGZQc0pTVUpQb0F4MUNiQ2RwY1F4ekptWjBJTkExaWhqRE9sLTRNTU84a09pS2lUV19wLTJ4LXgtU0VXY2RHQ3RHampMUE5MTVVQTjYzM1I4V1lfdVc2UFZGOHdPY1BOVEhWUDcxTVBkX3R4QzZON18xejctM09QU3VxbXprSDRWQXJhMVAzbjUxR3JR?oc=5)
-  _Reuters — S&P 500 y Nasdaq cierran al alza tras fríos datos de inflación y sólidas ganancias bancarias Reuters_
-- [Los legisladores buscan contrarrestar las tácticas de represión de China e Irán en suelo estadounidense - Reuters](https://news.google.com/rss/articles/CBMiswFBVV95cUxOLWFwaDNuczZGVVpQd0FPZzUtLWpxMURhTm02MkJaQ29nNTgxa0ctNHJsSmUxalpaV3RDSzlxZ1UzbHI1aWFmVHBSRFk3NkIwMUVzcHVLY2NxOW1XeE1xS3dXbzJjVXRaVl9ORjQ5TkQzemFsWE1rMTB5QkRvR0tOR3hqUDh4TkNrdDVPZTBGTV9HQWlJaWxNVFMza05LazVOaVhVdmZnb21nZ3loWThkcTJvaw?oc=5)
-  _Reuters — Los legisladores buscan contrarrestar las tácticas de represión de China e Irán en suelo estadounidense Reuters_
-- [Johnson & Johnson tiene la oportunidad de demostrar que es más que un simple ganador de rotación](https://www.cnbc.com/2026/07/14/johnson-johnson-has-a-chance-to-show-its-more-than-just-a-rotation-winner.html)
-  _CNBC — Las ganancias del segundo trimestre del gigante de la salud destacarán sus nuevos e interesantes productos y su cartera de proyectos._
-- [Los precios del petróleo suben un 2% hasta alcanzar su máximo de un mes mientras los ataques entre Estados Unidos e Irán profundizan la interrupción del suministro - Reuters](https://news.google.com/rss/articles/CBMitgFBVV95cUxObjBFQ0x4dHAxeGhVUDB4NlR2LVlyU1JTNnJhWkV1bnI4b1Zneng1X0E4bmpBWnJLVjBHZm1aaDctN19OejdjdGpnYVlxaHJxcjRGQzZZLUNhbmtvakJmc0MxTVpmc1l3ZzBXWFhzWE8teV91d0x0WFlTc2JUM2RDNFUyMzVCWl9mMWltOTJjTWM5Mlpta3dtN3VtT1A1RHpCcUhGQmNUMWNIaTYtZGU3MjQxMnExZw?oc=5)
-  _Reuters — Los precios del petróleo suben un 2% hasta alcanzar su máximo de un mes mientras los ataques entre Estados Unidos e Irán profundizan la interrupción del suministro Reuters_
-- [Las acciones de ciberseguridad aumentan gracias a IBM y Nvidia sube gracias a más buenas noticias de China](https://www.cnbc.com/2026/07/14/cybersecurity-stocks-surge-thanks-to-ibm-and-nvidia-climbs-on-more-good-china-news.html)
-  _CNBC — Todos los días de la semana, el Investing Club publica el Homestretch; _
+- [Las acciones de SpaceX caen por debajo del precio de salida a bolsa de 135 dólares por primera vez](https://www.cnbc.com/2026/07/15/spacex-spcx-stock-ipo-price.html)
+  _CNBC — Las acciones de SpaceX cayeron por cuarta sesión consecutiva el miércoles, días después de ingresar al Nasdaq-100._
+- [Algunos barcos se niegan a transitar por Ormuz guiado por el ejército estadounidense después de los ataques, dicen fuentes - Reuters](https://news.google.com/rss/articles/CBMizwFBVV95cUxON3J1czdNcVRwRXNPa0cwMXJ3VWR4Wld0eWF4Z3FNV2dTOElFZUFTMUg3cjZKTUJNOU9VNXl1OEN3S1Y4RjBHUWl0bWlqcHhnMF8tNVRkWDBYTmd2dloxSVhaV1hxcjlyVVhIcHVGUXAtdEItUW9YSTcwdDF2YjZCQXRBV05Zc2J5NlVyanYxV1IwRnBuWjlYMXVxWmdIQ0wzenNaOTZVZDYzOGhGZ0g3YUhjM3QydDl1SXdzNEtpbFJTa0V4QVNOdEtTVmVOZDg?oc=5)
+  _Reuters — Algunos barcos se niegan a transitar por Ormuz guiado por el ejército estadounidense tras los ataques, según fuentes Reuters_
+- [Jim Cramer ve más ventajas para Goldman y aborda la pregunta más importante de Wells Fargo](https://www.cnbc.com/2026/07/15/jim-cramer-on-goldman-sachs-wells-fargo-earnings.html)
+  _CNBC — El Club de Inversiones celebra su "reunión matutina" todos los días laborables a las 10:20 a. m., hora del Este._
+- [La mayoría de los mercados del Golfo, debilitados a medida que aumentan las tensiones entre Estados Unidos e Irán - Reuters](https://news.google.com/rss/articles/CBMiywFBVV95cUxOdUxLaW9PYWVNQjdpNXZiZ2U1RWNYRllQQm1WbkJrQWJWUDRGcXpneXZVUnRqajVtVmtWS0QxNHh1Vjc3cFZwaTVyZGRwSmpPamRrX0VMWVFPczRlTXFsem9aSFJzbDVsUFVTdHZuLXdEWG5pT0RtdEpPVlk5LUFOSjFIQmxWSWpNZnhsM0owYzNyZ01HMmJVMDhVWFdObFYtcGhZNTgyVnlRMmI4SEpnNFlPVVlRMDV0ZGFMZVVZR2JRdTBsUVVmaTJsOA?oc=5)
+  _Reuters — La mayoría de los mercados del Golfo, debilitados a medida que aumentan las tensiones entre Estados Unidos e Irán Reuters_
+- [Las 10 cosas más importantes a tener en cuenta en el mercado de valores de Jim Cramer el miércoles](https://www.cnbc.com/2026/07/15/jim-cramers-top-10-things-to-watch-in-the-stock-market-wednesday.html)
+  _CNBC — ASML tuvo un trimestre espectacular y el informe de inflación mayorista de junio fue más suave de lo esperado._
+- [Warren Buffett en el mercado hoy: "Es difícil encontrar valores cuando todo el mundo prefiere el juego"](https://www.cnbc.com/2026/07/15/warren-buffett-on-the-market-today-its-tough-to-find-values-when-everybody-is-preferring-gambling.html)
+  _CNBC — El inversor ha sido muy crítico con el mercado de valores, que, según él, se define cada vez más por el comercio especulativo en lugar de la inversión a largo plazo._
+- [Buffett dice que la elección de Kevin Warsh por parte de Trump para presidente de la Fed fue una "buena elección"](https://www.cnbc.com/2026/07/15/buffett-says-trumps-pick-of-kevin-warsh-for-fed-chair-was-good-choice.html)
+  _CNBC — Warren Buffett cree que el presidente de la Reserva Federal, Kevin Warsh, hará el mejor trabajo que pueda._
+- [El analista estrella Dan Ives forma el banco mercantil Yorkville Ives después de dejar Wedbush](https://www.cnbc.com/2026/07/15/star-analyst-dan-ives-forms-yorkville-ives-merchant-bank-after-leaving-wedbush.html)
+  _CNBC — La nueva firma, Yorkville Ives & Co., combinará banca de inversión, investigación de acciones, comercio institucional e inversión principal._
 
 ---
 
@@ -31,35 +31,30 @@
 
 ## 🔥 Mejores Setups de Swing
 
-### 🔵 **AAPL** $314.86 (-0.8%) · Score 64
-Fund 33/40 · Mom 19/30 · Entry 12/30 · Pullback 3% · RSI 64
-Entrada $300.37 — $314.86 · Stop $269.26 · Target $323.45
-Revenue growth +17% (fuerte) · Margen 27% (premium) · Tendencia alcista fuerte (Precio > SMA20 > SMA50)
-
-### 🔵 **AMD** $548.13 (+2.6%) · Score 62
-Fund 29/40 · Mom 16/30 · Entry 17/30 · Pullback 6% · RSI 55
-Entrada $535.08 — $548.13 · Stop $476.33 · Target $584.73
-Revenue growth +38% (excelente) · Margen 13% (saludable) · Tendencia alcista fuerte (Precio > SMA20 > SMA50)
-
-### 🔵 **AVGO** $389.11 (+1.3%) · Score 61
-Fund 39/40 · Mom 5/30 · Entry 17/30 · Pullback 6% · RSI 54
-Entrada $382.91 — $389.11 · Stop $348.93 · Target $494.22
+### 🔵 **AVGO** $392.25 (+0.8%) · Score 63
+Fund 39/40 · Mom 2/30 · Entry 22/30 · Pullback 5% · RSI 54
+Entrada $382.86 — $392.25 · Stop $348.91 · Target $494.22
 Revenue growth +48% (excelente) · Margen 39% (premium) · Tendencia lateral/indefinida
 
-### 🔵 **NOW** $104.85 (-5.8%) · Score 58
-Fund 32/40 · Mom 11/30 · Entry 15/30 · Pullback 8% · RSI 60
-Entrada $101.85 — $104.85 · Stop $86.44 · Target $139.20
+### 🔵 **GEV** $1053.23 (-1.2%) · Score 61
+Fund 32/40 · Mom 3/30 · Entry 26/30 · Pullback 12% · RSI 50
+Entrada $1082.27 — $1053.23 · Stop $948.96 · Target $1195.94
+Revenue growth +16% (fuerte) · Margen 24% (saludable) · Tendencia lateral/indefinida
+
+### 🔵 **AMD** $526.00 (-4.0%) · Score 59
+Fund 29/40 · Mom 13/30 · Entry 17/30 · Pullback 10% · RSI 51
+Entrada $534.02 — $526.00 · Stop $475.33 · Target $584.73
+Revenue growth +38% (excelente) · Margen 13% (saludable) · Tendencia lateral/indefinida
+
+### 🔵 **AAPL** $327.53 (+4.0%) · Score 57
+Fund 33/40 · Mom 24/30 · Entry 0/30 · Pullback 0% · RSI 70
+Entrada $301.93 — $327.53 · Stop $269.01 · Target $328.53
+Revenue growth +17% (fuerte) · Margen 27% (premium) · Tendencia alcista fuerte (Precio > SMA20 > SMA50)
+
+### 🔵 **NOW** $104.93 (+0.1%) · Score 57
+Fund 32/40 · Mom 10/30 · Entry 15/30 · Pullback 8% · RSI 63
+Entrada $101.89 — $104.93 · Stop $86.41 · Target $139.20
 Revenue growth +22% (fuerte) · Margen 13% (saludable) · Tendencia lateral/indefinida
-
-### 🔵 **MSFT** $384.93 (-1.6%) · Score 57
-Fund 38/40 · Mom 5/30 · Entry 14/30 · Pullback 4% · RSI 56
-Entrada $380.25 — $384.93 · Stop $342.95 · Target $466.32
-Revenue growth +18% (fuerte) · Margen 39% (premium) · Tendencia lateral/indefinida
-
-### 🔵 **SOFI** $18.55 (+2.3%) · Score 57
-Fund 32/40 · Mom 10/30 · Entry 15/30 · Pullback 6% · RSI 62
-Entrada $17.90 — $18.55 · Stop $16.25 · Target $19.74
-Revenue growth +42% (excelente) · Margen 15% (saludable) · Tendencia alcista (sobre SMA20)
 
 ---
 
@@ -67,24 +62,24 @@ Revenue growth +42% (excelente) · Margen 15% (saludable) · Tendencia alcista (
 
 | Ticker | Precio | Cambio | Score | F|M|E | Pullback | RSI | Entrada | Stop | Target | Trend |
 |--------|--------|--------|-------|----|---|----------|-----|---------|------|--------|-------|
-| 🔵 AAPL | $314.86 | -0.8% | 64 | 33|19|12 | -3% | 64 | $300 | $269 | $323 | ↑↑ |
-| 🔵 AMD | $548.13 | +2.6% | 62 | 29|16|17 | -6% | 55 | $535 | $476 | $585 | ↑↑ |
-| 🔵 AVGO | $389.11 | +1.3% | 61 | 39|5|17 | -6% | 54 | $383 | $349 | $494 | → |
-| 🔵 NOW | $104.85 | -5.8% | 58 | 32|11|15 | -8% | 60 | $102 | $86 | $139 | → |
-| 🔵 MSFT | $384.93 | -1.6% | 57 | 38|5|14 | -4% | 56 | $380 | $343 | $466 | → |
-| 🔵 SOFI | $18.55 | +2.3% | 57 | 32|10|15 | -6% | 62 | $18 | $16 | $20 | ↑ |
-| 🔵 GOOGL | $359.51 | +2.0% | 55 | 35|8|12 | -4% | 61 | $358 | $325 | $408 | → |
-| ⚪ VRT | $303.58 | -0.8% | 54 | 33|0|21 | -15% | 46 | $317 | $266 | $380 | ↓ |
-| ⚪ META | $661.04 | +0.7% | 52 | 40|5|7 | -2% | 70 | $594 | $513 | $678 | → |
-| ⚪ GEV | $1066.01 | +2.2% | 52 | 32|3|17 | -11% | 53 | $1079 | $896 | $1196 | → |
-| ⚪ PLTR | $133.72 | +2.8% | 50 | 38|5|7 | -4% | 67 | $125 | $99 | $164 | → |
-| ⚪ NVDA | $211.80 | +4.1% | 48 | 40|8|0 | -1% | 61 | $202 | $183 | $236 | → |
-| 🔴 AMZN | $247.49 | +0.1% | 37 | 27|5|5 | -1% | 67 | — | — | — | → |
-| 🔴 CCJ | $91.57 | +1.5% | 35 | 21|0|14 | -18% | 17 | — | — | — | ↓ |
-| 🔴 CRM | $167.56 | -2.1% | 34 | 22|5|7 | -3% | 65 | — | — | — | → |
-| 🔴 MOD | $229.57 | -2.0% | 31 | 26|0|5 | -24% | 31 | — | — | — | ↓ |
-| 🔴 POWL | $234.25 | +3.8% | 24 | 24|0|0 | -26% | 29 | — | — | — | ↓ |
-| 🔴 RKLB | $78.81 | +2.7% | 20 | 10|0|10 | -29% | 37 | — | — | — | ↓ |
+| 🔵 AVGO | $392.25 | +0.8% | 63 | 39|2|22 | -5% | 54 | $383 | $349 | $494 | → |
+| 🔵 GEV | $1053.23 | -1.2% | 61 | 32|3|26 | -12% | 50 | $1082 | $949 | $1196 | → |
+| 🔵 AMD | $526.00 | -4.0% | 59 | 29|13|17 | -10% | 51 | $534 | $475 | $585 | → |
+| 🔵 AAPL | $327.53 | +4.0% | 57 | 33|24|0 | -0% | 70 | $302 | $269 | $329 | ↑↑ |
+| 🔵 NOW | $104.93 | +0.1% | 57 | 32|10|15 | -8% | 63 | $102 | $86 | $139 | → |
+| ⚪ VRT | $301.17 | -0.8% | 54 | 33|0|21 | -16% | 46 | $316 | $266 | $380 | ↓ |
+| ⚪ GOOGL | $370.45 | +3.0% | 50 | 35|10|5 | -2% | 67 | $358 | $320 | $408 | → |
+| ⚪ SOFI | $17.94 | -3.3% | 49 | 32|0|17 | -9% | 55 | $18 | $16 | $20 | → |
+| ⚪ NVDA | $210.37 | -0.7% | 48 | 40|8|0 | -2% | 60 | $202 | $183 | $236 | → |
+| ⚪ MSFT | $395.82 | +2.8% | 45 | 38|2|5 | -1% | 66 | $380 | $337 | $466 | → |
+| ⚪ META | $676.79 | +2.4% | 42 | 40|2|0 | -1% | 73 | $598 | $511 | $686 | → |
+| ⚪ PLTR | $133.29 | -0.3% | 42 | 38|2|2 | -4% | 70 | $125 | $99 | $164 | → |
+| 🔴 MOD | $230.53 | +0.4% | 36 | 26|0|10 | -24% | 31 | — | — | — | ↓ |
+| 🔴 CCJ | $90.24 | -1.4% | 35 | 21|0|14 | -19% | 18 | — | — | — | ↓ |
+| 🔴 CRM | $167.45 | -0.1% | 31 | 22|2|7 | -3% | 66 | — | — | — | → |
+| 🔴 AMZN | $254.43 | +2.8% | 29 | 27|2|0 | -1% | 72 | — | — | — | → |
+| 🔴 POWL | $242.64 | +3.6% | 29 | 24|0|5 | -24% | 32 | — | — | — | ↓ |
+| 🔴 RKLB | $76.31 | -3.2% | 16 | 10|0|6 | -32% | 42 | — | — | — | ↓ |
 
 > **F**undamental / **M**omentum / **E**ntry (pullback). Score = F(40) + M(30) + E(30)
 
@@ -97,22 +92,22 @@ Holdings con mejor combinación de fundamentales, narrativa y momentum.
 
 | Ticker | Score | Narrativa | Rev | Margen | Fwd P/E | Beta | Mom 6m |
 |--------|-------|-----------|-----|--------|---------|------|--------|
-| **NVDA** | 59 | AI Infrastructure Dominance | +85% | 63% | 17 | 2.2 | +16% |
+| **NVDA** | 59 | AI Infrastructure Dominance | +85% | 63% | 16 | 2.2 | +14% |
 | | | Revenue +85% · Margen 63% | | | | | |
-| **META** | 59 | AI Advertising + Open Source LLM | +33% | 33% | 18 | 1.2 | +8% |
-| | | Revenue +33% · Margen 33% | | | | | |
-| **GOOGL** | 51 | AI Search + Cloud + Waymo | +22% | 38% | 25 | 1.2 | +10% |
-| | | Revenue +22% · Margen 38% | | | | | |
-| **AAPL** | 51 | AI iPhone Supercycle + Services | +17% | 27% | 33 | 1.1 | +27% |
-| | | Revenue +17% · Margen 27% | | | | | |
-| **VRT** | 51 | Data Center Power & Cooling Infrastructure | +30% | 14% | 34 | 2.0 | +67% |
-| | | Revenue +30% · ROE 45% | | | | | |
-| **AVGO** | 50 | AI Networking + VMware Synergy | +48% | 39% | 20 | 1.5 | +19% |
+| **AVGO** | 55 | AI Networking + VMware Synergy | +48% | 39% | 20 | 1.5 | +21% |
 | | | Revenue +48% · Margen 39% | | | | | |
-| **MSFT** | 50 | AI Cloud + Copilot Monetization | +18% | 39% | 20 | 1.1 | -13% |
-| | | Revenue +18% · Margen 39% | | | | | |
-| **GEV** | 48 | Energy Transition + Grid Modernization | +16% | 24% | 43 | 0.9 | +60% |
+| **META** | 54 | AI Advertising + Open Source LLM | +33% | 33% | 19 | 1.2 | +5% |
+| | | Revenue +33% · Margen 33% | | | | | |
+| **GOOGL** | 51 | AI Search + Cloud + Waymo | +22% | 38% | 25 | 1.2 | +12% |
+| | | Revenue +22% · Margen 38% | | | | | |
+| **AAPL** | 51 | AI iPhone Supercycle + Services | +17% | 27% | 34 | 1.1 | +32% |
+| | | Revenue +17% · Margen 27% | | | | | |
+| **VRT** | 51 | Data Center Power & Cooling Infrastructure | +30% | 14% | 34 | 2.0 | +66% |
+| | | Revenue +30% · ROE 45% | | | | | |
+| **GEV** | 48 | Energy Transition + Grid Modernization | +16% | 24% | 43 | 0.9 | +59% |
 | | | Revenue +16% · Baja deuda | | | | | |
+| **AMZN** | 47 | AWS AI + E-commerce Margin Expansion | +17% | 12% | 26 | 1.5 | +9% |
+| | | Revenue +17% · Baja deuda | | | | | |
 
 
 ---
