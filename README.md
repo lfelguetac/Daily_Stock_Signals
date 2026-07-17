@@ -1,28 +1,28 @@
-# Swing Signals — 2026-07-17 | 21:00 CLT (Hora Chile, UTC-04:00)
+# Swing Signals — 2026-07-17 | 15:01 CLT (Hora Chile, UTC-04:00)
 
-> 🌎 Hora local Santiago. Visitantes de otros países: 01:00 UTC.
+> 🌎 Hora local Santiago. Visitantes de otros países: 19:01 UTC.
 >
-> 18 acciones · 4 COMPRAR/ACUMULAR · 8 OBSERVAR · 6 ESPERAR/EVITAR · SELECTIVO — Pocas entradas claras. Elegir solo las mejores.
+> 18 acciones · 5 COMPRAR/ACUMULAR · 8 OBSERVAR · 5 ESPERAR/EVITAR · COMPRADOR — Varias oportunidades de entrada en pullbacks de calidad.
 
 
 ## 📰 Noticias del Mercado
 
-- [Trump amenaza con una nueva escalada en Irán y corre el riesgo de repetir viejos errores - Reuters](https://news.google.com/rss/articles/CBMiugFBVV95cUxPdnIySy12MVk2eUt1V3poZUtIbERIR0pMcHcwVGFUbW5CRlllQnFHU1FHYWNoNmh5YThaZGc1NHpId0pOVXZ0Z0Npb2xvZEZJaEJlaUlwSjBVaGw5WkJNWWlfckZfWVdNMGFucGVJUUE0Z1RzNXhRVklRUlhtUjgyYTMxY19DSEl2bkNiRTRjMjBKa0huQmVTUmtyNHZZNkdOdTJmY2daYVNMaTlJUEVEZC1LMFAxMjR1Tnc?oc=5)
-  _Reuters — Trump amenaza con una nueva escalada en Irán y corre el riesgo de repetir viejos errores Reuters_
-- [Nadella de Microsoft rompe las restricciones de Anthropic's Fable en una reunión de personal: "No tiene sentido"](https://www.cnbc.com/2026/07/16/microsoft-ceo-says-anthropic-fable-request-policy-doesnt-make-sense.html)
-  _CNBC — Microsoft disfruta de estrechos vínculos con Anthropic, pero también está trabajando para ayudar a las empresas a perfeccionar modelos que mantengan la privacidad de sus datos._
-- [Los republicanos de la Cámara de Representantes de Estados Unidos impulsan el plan de Trump para financiar la guerra con Irán y la reforma electoral - Reuters](https://news.google.com/rss/articles/CBMizAFBVV95cUxPYW1SRVdSN09Ld296TUtRNjA3UGVjVGRFenVuOEQweFRZNjM0NUNkSktZY21KNEhhQllpMFd1cUtDeUVKclh1WmhtaV9IQWRUcThMZnRFRFVrNzJRSk5oR2VUXzlUWktfXzU0anQ3V0QwVEVTNlZibmlULVRiZFItcGFzNXVTLWx2SWw1ZERJa2V3cXZkbzFkRXo0LXJ4Zm1aY29RY200d2M3b0tOaU9NSFVabFdCRndISjZlbFB5UG9HcDdnRGN4bUlWQUI?oc=5)
-  _Reuters — Los republicanos de la Cámara de Representantes de Estados Unidos impulsan el plan de Trump para financiar la guerra con Irán y la reforma electoral Reuters_
-- [El dólar se fortalece mientras las tensiones entre Estados Unidos e Irán renuevan el riesgo para el precio del petróleo - Reuters](https://news.google.com/rss/articles/CBMisgFBVV95cUxNVmF3R1ZHV3lranY1VmN0b3gxUTJtUnAtVUJSSVFJRnBBX2hnVVBCcXJrOVBiZ09jcEtVS3dYSG03SzJocnZvWXJpRXVLdEp4dTBJcWtLX19aeUstOW9FdzFtVFNQeTF6YU1sc1FvZDVWMG5nSGVlZ2IweHE0YXhqMmVZN3VHblZKZ1FmT2dQYVlXWHoxcGE3bkxGWHd0SjJIQzdjN3BWNy1tenk0RVcyNVFn?oc=5)
-  _Reuters — El dólar se fortalece mientras las tensiones entre Estados Unidos e Irán renuevan el riesgo para el precio del petróleo Reuters_
-- [Irán y Estados Unidos intensifican los ataques y liberan al estadounidense en disputa - Reuters](https://news.google.com/rss/articles/CBMiogFBVV95cUxQbGxQSEpXZmFYRldBSGhRcTZWZlBvbUFOZFJDeVoxdXVZczVtY2w1TlhqSnhFaGxsSWlINnBKbDZhNi1mT0Q1anJRTjM0Z0toaVg3QXhMcmkyZlBQRTZ1cVZvbmhZSmU4WDU4NGdnN3FJZGRzbnYzdm0zQUVxWjNUZ1dTZHlwMTA0VTNhbUg0UHVxZmFLUlVtSmVfeHZCb0tfWEE?oc=5)
-  _Reuters — Irán y Estados Unidos intensifican los ataques y liberan al estadounidense en disputa Reuters_
-- [La oficina de medios de Dubái dice que no se oyen "explosiones" en el centro de Dubái - Reuters](https://news.google.com/rss/articles/CBMioAFBVV95cUxQSF95OG9ET3BDTFJ1NGZZTlROWmJoNk90YVlsc2pPdzVTMG1PQm1DZzFNZWdZQUQ0aDlEUTFiaElRcGdpQWJkRGFXb0lPQ3ZiYkJwM3RxYmFoeElPblRfc2VqeFE5TFZaVVhtWUIxMF9LdUpoWFkzbk5nci0wcXFwV09DTWwzZnp5TEpIczdNMG1CMVpRX3JZT0ExdjUzaTZZ?oc=5)
-  _Reuters — La oficina de medios de Dubái dice que no se oyen "explosiones" en el centro de Dubái Reuters_
-- [Irán continúa hablando con Estados Unidos y quiere llegar a un acuerdo, dice la Casa Blanca - Reuters](https://news.google.com/rss/articles/CBMirgFBVV95cUxPQWdiekphMHNZVm1rSmdDajlsTVkxMXhHYUpqTC1QX0RLVGdDTmxrbmJEUzBvMTEwV1lpVG5mSU91Vmh5cTBBZG43OEtqSkUxZUxEMkFuUmUwVnZ4SXB3NkRHZ29McmY0a0RlRXN6Wi1tVVRCUjNSRGE0NmVvTDEtZFlsY0t1bnphOFNIV0xDZkJldXhRZmpUSjdYU0NtVkRUSFZWM2lVc0p0V2RZY2c?oc=5)
-  _Reuters — Irán continúa hablando con Estados Unidos y quiere llegar a un acuerdo, dice la Casa Blanca Reuters_
-- [Vance dice que algunos miembros del gobierno israelí intentaron influir en Estados Unidos sobre el acuerdo con Irán - Reuters](https://news.google.com/rss/articles/CBMivwFBVV95cUxOY1FtT0xCbzMyYXpXME1CenRhVDZjdmpYX051ZlJpUDVQcms2LWhfY01EU2NWc0xkUE5aQTJaSDYyQ0x6SDZtTUJNUVlhZXdfOThFUkpGV3VtMUZFNGJxMU0tZ0pqSTBQZWoycHA2R0FoY2pzQzRoN29WSWNhY1ZzSkJIU1NBX21QOHZiTVctRVBZNzBtcEFYSUtqWFlkT1pONUdQVGdLRXN4MHVNVURQWHgzS1dCZDhPcE5lZ0JGQQ?oc=5)
-  _Reuters — Vance dice que algunos miembros del gobierno israelí intentaron influir en Estados Unidos sobre el acuerdo con Irán Reuters_
+- [La FAA permite a Boeing volver a firmar los certificados de aeronavegabilidad del 737 Max y el 787](https://www.cnbc.com/2026/07/17/faa-boeing-737-max-787.html)
+  _CNBC — La medida es un voto de confianza en Boeing por parte del gobierno de Estados Unidos._
+- [El último movimiento de Meta en la guerra de talentos de la IA, además de los 4 rápidos éxitos de Cramer en el mercado](https://www.cnbc.com/2026/07/17/metas-latest-move-in-the-ai-talent-war-plus-cramers-4-quick-hits.html)
+  _CNBC — Todos los días de la semana, el Investing Club publica el Homestretch; _
+- [El comercio minorista y Wall Street están bajo el agua con SpaceX, pero no se hundirán sin luchar](https://www.cnbc.com/2026/07/17/retail-and-wall-street-are-underwater-on-spacex-but-not-going-down-without-a-fight.html)
+  _CNBC — Los buenos tiempos para SpaceX están resultando de corta duración, ya que la oferta pública inicial intergaláctica de Elon Musk ahora está dando pasto a los osos._
+- [La policía británica acusa a un hombre de delitos de espionaje vinculados a Irán - Reuters](https://news.google.com/rss/articles/CBMinwFBVV95cUxNSGllOTRGNDVFclJpYTFrM3BybWdJeURrYjhwQWdnUEtyV2RVM2U2S3dwdXZQWDJ3NmozOVFvNkhfMXNaXzRvejM3d0VlZ2U0YkRidC1hWXNfdDB2UHJ5am91Uy03ZDMtZjVhVTFJUHJHZjJ5MGI2V0lSVkprbFN3RUJmeHNvcTNVM0k4SHc3MEFiN0FWblZ3S015RWREWWs?oc=5)
+  _Reuters — La policía británica acusa a un hombre de delitos de espionaje vinculados a Irán Reuters_
+- [El impuesto a los multimillonarios de California: lo que está en riesgo para la economía estatal más grande de Estados Unidos](https://www.cnbc.com/2026/07/17/california-billionaire-tax.html)
+  _CNBC — El impuesto a los multimillonarios de California generaría ingresos rápidos, pero el ejemplo de Noruega muestra que el impacto económico a largo plazo de centrarse en los ricos no está claro._
+- [Presuntos piratas se apoderan de un petrolero frente a la costa de Yemen en el Golfo de Adén, dicen fuentes - Reuters](https://news.google.com/rss/articles/CBMizAFBVV95cUxQeVFJX2dfYlJkR3pBRlZVa2Z2cUN5eWJYd251LWZCTml6QVZhU0ZGT2RnNVQ3RVkwVkpaS1dYa2ZZXzF3eG9XQURfWXpuZ0FuRTBxMVZfU1NZZk5MUlpFRDlnakpSb1BRRUc0U1ZhMktSdTNROE1NVEowMGhDTnVQRU1fOHlVMTYtblJHRFZxdXhtUjF1clZTRm9qRVItRWowVTJzOHZrY3lKeEJ4ZmlYQUQydUd0aVF0NVRZRFVBQU1WZGtROE95bzF2dFI?oc=5)
+  _Reuters — Presuntos piratas se apoderan de un petrolero frente a la costa de Yemen en el Golfo de Adén, dicen fuentes  Reuters_
+- [Los iraníes sufren nueva incertidumbre y ansiedad a medida que Estados Unidos intensifica los ataques - Reuters](https://news.google.com/rss/articles/CBMiswFBVV95cUxOMDFsaVNvbHhvcE55QWhLRXdNLXNoYzFXTU5TUktEZ3k5NVZFZHhidDlWaGRPZEFEVk1HUm9wSWhDN29xQWVabGlXbmxSbWwxQ3NKLUxySzB5TmFPRnFCZmxLeHNoTWJNcXNiTURDN1NfU0U0NWN4d2ZwZjJ6U256cDNXdFpoZ2lmR1RKZzBsMFFMcmJwWGNFUm5nOVFHU1hubS0tZmEwTGlPdTRzcTZocWlKQQ?oc=5)
+  _Reuters — Los iraníes sufren nueva incertidumbre y ansiedad mientras Estados Unidos intensifica sus ataques Reuters_
+- [EXCLUSIVO: Pakistán y Kuwait discuten un pacto de defensa ampliado, dicen fuentes - Reuters](https://news.google.com/rss/articles/CBMisgFBVV95cUxONHZvMDI1eHV5d0EwekZYSTVrdmU0VDVpR1o0V2hqUlFkcXBxR0xUSFEtak9UdVdVNEtmenkxYVFfeXNtQlc0TGVHSXZZd2gwNlEtRkNya0JuclAwV2llWS1jVjRnUldaWWF5WEZhcFJzal8yV3M5MUhKMldHa2lGNjNTS2c2OGxCTjN0YzVSejVrdy1jTUx1LVUzVmRMeVdnX3NYWUQ4SXhYSjNvM2J4NDBB?oc=5)
+  _Reuters — EXCLUSIVO: Pakistán y Kuwait discuten un pacto de defensa ampliado, dicen fuentes  Reuters_
 
 ---
 
@@ -31,25 +31,30 @@
 
 ## 🔥 Mejores Setups de Swing
 
-### 🔵 **AVGO** $374.45 (-5.0%) · Score 60
-Fund 39/40 · Mom 0/30 · Entry 21/30 · Pullback 10% · RSI 48
-Entrada $382.88 — $374.45 · Stop $348.69 · Target $494.22
+### 🔵 **NVDA** $203.26 (-2.0%) · Score 62
+Fund 40/40 · Mom 5/30 · Entry 17/30 · Pullback 5% · RSI 59
+Entrada $202.15 — $203.26 · Stop $186.12 · Target $236.26
+Revenue growth +85% (excelente) · Margen 63% (premium) · Tendencia lateral/indefinida
+
+### 🔵 **META** $645.59 (-2.9%) · Score 62
+Fund 40/40 · Mom 7/30 · Entry 15/30 · Pullback 6% · RSI 67
+Entrada $605.23 — $645.59 · Stop $524.85 · Target $686.08
+Revenue growth +33% (excelente) · Margen 33% (premium) · Tendencia alcista (sobre SMA20)
+
+### 🔵 **AAPL** $333.98 (+0.2%) · Score 57
+Fund 33/40 · Mom 24/30 · Entry 0/30 · Pullback 0% · RSI 89
+Entrada $305.53 — $333.98 · Stop $269.62 · Target $334.98
+Revenue growth +17% (fuerte) · Margen 27% (premium) · Tendencia alcista fuerte (Precio > SMA20 > SMA50)
+
+### 🔵 **AMD** $497.42 (-0.7%) · Score 56
+Fund 29/40 · Mom 6/30 · Entry 21/30 · Pullback 15% · RSI 46
+Entrada $533.10 — $497.42 · Stop $439.86 · Target $584.73
+Revenue growth +38% (excelente) · Margen 13% (saludable) · Tendencia bajista
+
+### 🔵 **AVGO** $373.35 (-0.3%) · Score 56
+Fund 39/40 · Mom 0/30 · Entry 17/30 · Pullback 10% · RSI 53
+Entrada $381.93 — $373.35 · Stop $348.53 · Target $494.22
 Revenue growth +48% (excelente) · Margen 39% (premium) · Tendencia bajista
-
-### 🔵 **AMD** $500.94 (-5.3%) · Score 58
-Fund 29/40 · Mom 8/30 · Entry 21/30 · Pullback 14% · RSI 45
-Entrada $533.85 — $500.94 · Stop $472.01 · Target $584.73
-Revenue growth +38% (excelente) · Margen 13% (saludable) · Tendencia lateral/indefinida
-
-### 🔵 **GOOGL** $354.46 (-4.4%) · Score 58
-Fund 35/40 · Mom 1/30 · Entry 22/30 · Pullback 6% · RSI 56
-Entrada $356.75 — $354.46 · Stop $324.56 · Target $408.37
-Revenue growth +22% (fuerte) · Margen 38% (premium) · Tendencia bajista
-
-### 🔵 **NOW** $104.01 (-0.7%) · Score 55
-Fund 32/40 · Mom 8/30 · Entry 15/30 · Pullback 9% · RSI 69
-Entrada $102.02 — $104.01 · Stop $86.33 · Target $139.20
-Revenue growth +22% (fuerte) · Margen 13% (saludable) · Tendencia lateral/indefinida
 
 ---
 
@@ -57,24 +62,24 @@ Revenue growth +22% (fuerte) · Margen 13% (saludable) · Tendencia lateral/inde
 
 | Ticker | Precio | Cambio | Score | F|M|E | Pullback | RSI | Entrada | Stop | Target | Trend |
 |--------|--------|--------|-------|----|---|----------|-----|---------|------|--------|-------|
-| 🔵 AVGO | $374.45 | -5.0% | 60 | 39|0|21 | -10% | 48 | $383 | $349 | $494 | ↓ |
-| 🔵 AMD | $500.94 | -5.3% | 58 | 29|8|21 | -14% | 45 | $534 | $472 | $585 | → |
-| 🔵 GOOGL | $354.46 | -4.4% | 58 | 35|1|22 | -6% | 56 | $357 | $325 | $408 | ↓ |
-| 🔵 NOW | $104.01 | -0.7% | 55 | 32|8|15 | -9% | 69 | $102 | $86 | $139 | → |
-| ⚪ VRT | $294.11 | -3.4% | 54 | 33|0|21 | -18% | 41 | $316 | $266 | $380 | ↓ |
-| ⚪ GEV | $1036.22 | -1.8% | 53 | 32|0|21 | -13% | 45 | $1085 | $929 | $1196 | ↓ |
-| ⚪ NVDA | $207.40 | -2.4% | 52 | 40|5|7 | -3% | 60 | $202 | $183 | $236 | → |
-| ⚪ AAPL | $333.26 | +1.8% | 52 | 33|19|0 | -0% | 90 | $304 | $265 | $335 | ↑↑ |
-| ⚪ SOFI | $17.32 | -3.1% | 49 | 32|0|17 | -12% | 50 | $18 | $16 | $20 | → |
-| ⚪ META | $664.54 | -2.5% | 47 | 40|5|2 | -3% | 73 | $601 | $511 | $686 | → |
-| ⚪ PLTR | $134.44 | +0.5% | 45 | 38|5|2 | -3% | 82 | $125 | $99 | $164 | → |
-| ⚪ MSFT | $401.10 | +1.4% | 43 | 38|5|0 | -1% | 78 | $380 | $337 | $466 | → |
-| 🔴 AMZN | $249.89 | -2.0% | 39 | 27|5|7 | -3% | 76 | — | — | — | → |
-| 🔴 MOD | $226.23 | -2.5% | 30 | 26|0|4 | -25% | 27 | — | — | — | ↓ |
-| 🔴 CRM | $172.68 | +3.4% | 27 | 22|5|0 | -1% | 73 | — | — | — | → |
-| 🔴 POWL | $235.79 | -4.5% | 24 | 24|0|0 | -26% | 24 | — | — | — | ↓ |
-| 🔴 CCJ | $87.36 | -4.0% | 21 | 21|0|0 | -22% | 18 | — | — | — | ↓ |
-| 🔴 RKLB | $67.35 | -11.6% | 15 | 10|0|5 | -40% | 39 | — | — | — | ↓ |
+| 🔵 NVDA | $203.26 | -2.0% | 62 | 40|5|17 | -5% | 59 | $202 | $186 | $236 | → |
+| 🔵 META | $645.59 | -2.9% | 62 | 40|7|15 | -6% | 67 | $605 | $525 | $686 | ↑ |
+| 🔵 AAPL | $333.98 | +0.2% | 57 | 33|24|0 | -0% | 89 | $306 | $270 | $335 | ↑↑ |
+| 🔵 AMD | $497.42 | -0.7% | 56 | 29|6|21 | -15% | 46 | $533 | $440 | $585 | ↓ |
+| 🔵 AVGO | $373.35 | -0.3% | 56 | 39|0|17 | -10% | 53 | $382 | $349 | $494 | ↓ |
+| ⚪ NOW | $103.86 | -0.1% | 54 | 32|5|17 | -9% | 59 | $102 | $84 | $139 | → |
+| ⚪ VRT | $291.64 | -0.8% | 54 | 33|0|21 | -19% | 46 | $315 | $252 | $380 | ↓ |
+| ⚪ SOFI | $17.38 | +0.3% | 53 | 32|0|21 | -12% | 46 | $18 | $16 | $20 | → |
+| ⚪ MSFT | $395.16 | -1.5% | 52 | 38|2|12 | -3% | 65 | $381 | $338 | $466 | → |
+| ⚪ GOOGL | $345.28 | -2.6% | 52 | 35|0|17 | -8% | 54 | $356 | $319 | $408 | ↓ |
+| ⚪ GEV | $1053.77 | +1.7% | 52 | 32|3|17 | -12% | 51 | $1085 | $916 | $1196 | → |
+| ⚪ PLTR | $133.11 | -1.0% | 42 | 38|2|2 | -4% | 77 | $125 | $99 | $164 | → |
+| ⚪ AMZN | $247.71 | -0.9% | 41 | 27|2|12 | -4% | 68 | $242 | $218 | $278 | → |
+| 🔴 MOD | $227.43 | +0.5% | 36 | 26|0|10 | -25% | 35 | — | — | — | ↓ |
+| 🔴 CRM | $171.13 | -0.9% | 31 | 22|2|7 | -2% | 65 | — | — | — | → |
+| 🔴 POWL | $234.35 | -0.6% | 29 | 24|0|5 | -26% | 30 | — | — | — | ↓ |
+| 🔴 CCJ | $85.81 | -1.8% | 21 | 21|0|0 | -23% | 14 | — | — | — | ↓ |
+| 🔴 RKLB | $68.18 | +1.2% | 15 | 10|0|5 | -38% | 36 | — | — | — | ↓ |
 
 > **F**undamental / **M**omentum / **E**ntry (pullback). Score = F(40) + M(30) + E(30)
 
@@ -87,22 +92,22 @@ Holdings con mejor combinación de fundamentales, narrativa y momentum.
 
 | Ticker | Score | Narrativa | Rev | Margen | Fwd P/E | Beta | Mom 6m |
 |--------|-------|-----------|-----|--------|---------|------|--------|
-| **NVDA** | 59 | AI Infrastructure Dominance | +85% | 63% | 16 | 2.2 | +11% |
+| **NVDA** | 59 | AI Infrastructure Dominance | +85% | 63% | 16 | 2.2 | +9% |
 | | | Revenue +85% · Margen 63% | | | | | |
-| **AVGO** | 54 | AI Networking + VMware Synergy | +48% | 39% | 19 | 1.5 | +17% |
+| **AVGO** | 54 | AI Networking + VMware Synergy | +48% | 39% | 19 | 1.5 | +15% |
 | | | Revenue +48% · Margen 39% | | | | | |
-| **META** | 54 | AI Advertising + Open Source LLM | +33% | 33% | 18 | 1.2 | +1% |
+| **META** | 54 | AI Advertising + Open Source LLM | +33% | 33% | 18 | 1.2 | -4% |
 | | | Revenue +33% · Margen 33% | | | | | |
-| **GOOGL** | 51 | AI Search + Cloud + Waymo | +22% | 38% | 24 | 1.2 | +8% |
-| | | Revenue +22% · Margen 38% | | | | | |
-| **AAPL** | 51 | AI iPhone Supercycle + Services | +17% | 27% | 35 | 1.1 | +35% |
+| **AAPL** | 51 | AI iPhone Supercycle + Services | +17% | 27% | 35 | 1.1 | +31% |
 | | | Revenue +17% · Margen 27% | | | | | |
 | **VRT** | 51 | Data Center Power & Cooling Infrastructure | +30% | 14% | 33 | 2.0 | +61% |
 | | | Revenue +30% · ROE 45% | | | | | |
-| **GEV** | 48 | Energy Transition + Grid Modernization | +16% | 24% | 42 | 0.9 | +58% |
+| **GEV** | 48 | Energy Transition + Grid Modernization | +16% | 24% | 43 | 0.9 | +58% |
 | | | Revenue +16% · Baja deuda | | | | | |
-| **AMD** | 46 | AI Chip Challenger + Data Center Growth | +38% | 13% | 37 | 2.5 | +93% |
+| **AMD** | 46 | AI Chip Challenger + Data Center Growth | +38% | 13% | 37 | 2.5 | +98% |
 | | | Revenue +38% · Baja deuda | | | | | |
+| **GOOGL** | 46 | AI Search + Cloud + Waymo | +22% | 38% | 24 | 1.2 | +4% |
+| | | Revenue +22% · Margen 38% | | | | | |
 
 
 ---
