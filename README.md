@@ -1,12 +1,14 @@
-# Swing Signals — 2026-07-17 | 15:01 CLT (Hora Chile, UTC-04:00)
+# Swing Signals — 2026-07-18 | 21:00 CLT (Hora Chile, UTC-04:00)
 
-> 🌎 Hora local Santiago. Visitantes de otros países: 19:01 UTC.
+> 🌎 Hora local Santiago. Visitantes de otros países: 01:00 UTC.
 >
-> 18 acciones · 5 COMPRAR/ACUMULAR · 8 OBSERVAR · 5 ESPERAR/EVITAR · COMPRADOR — Varias oportunidades de entrada en pullbacks de calidad.
+> 18 acciones · 3 COMPRAR/ACUMULAR · 9 OBSERVAR · 6 ESPERAR/EVITAR · SELECTIVO — Pocas entradas claras. Elegir solo las mejores.
 
 
 ## 📰 Noticias del Mercado
 
+- [El oro se encamina a la mayor caída semanal desde principios de junio por preocupaciones sobre inflación y subida de tipos - Reuters](https://news.google.com/rss/articles/CBMitAFBVV95cUxPWE9UR3M4eEdZWDhiT2EyMnFxejhVbjV3Z3p3NGZaZmdwaXZHODI1MVh5dHY1YVNPVFBjZW81S2dDZzY3a3RTSi1SSkdReDBMOUFmSEVTVlhhcDZ0ZDY2RnJFVHRNLVBRMkJocXdOX1RpOGNqeUZrbzFlMW5SY0lsbXREaEhpOEFuQVlBZGtLZ1NNOTFsTVlqOFU0cUkwSmRjUlJXXzN0SHQ2SkluQ0E2bXFJWUk?oc=5)
+  _Reuters — El oro se encamina a la mayor caída semanal desde principios de junio por la inflación y la preocupación por la subida de tipos Reuters_
 - [La FAA permite a Boeing volver a firmar los certificados de aeronavegabilidad del 737 Max y el 787](https://www.cnbc.com/2026/07/17/faa-boeing-737-max-787.html)
   _CNBC — La medida es un voto de confianza en Boeing por parte del gobierno de Estados Unidos._
 - [El último movimiento de Meta en la guerra de talentos de la IA, además de los 4 rápidos éxitos de Cramer en el mercado](https://www.cnbc.com/2026/07/17/metas-latest-move-in-the-ai-talent-war-plus-cramers-4-quick-hits.html)
@@ -21,8 +23,6 @@
   _Reuters — Presuntos piratas se apoderan de un petrolero frente a la costa de Yemen en el Golfo de Adén, dicen fuentes  Reuters_
 - [Los iraníes sufren nueva incertidumbre y ansiedad a medida que Estados Unidos intensifica los ataques - Reuters](https://news.google.com/rss/articles/CBMiswFBVV95cUxOMDFsaVNvbHhvcE55QWhLRXdNLXNoYzFXTU5TUktEZ3k5NVZFZHhidDlWaGRPZEFEVk1HUm9wSWhDN29xQWVabGlXbmxSbWwxQ3NKLUxySzB5TmFPRnFCZmxLeHNoTWJNcXNiTURDN1NfU0U0NWN4d2ZwZjJ6U256cDNXdFpoZ2lmR1RKZzBsMFFMcmJwWGNFUm5nOVFHU1hubS0tZmEwTGlPdTRzcTZocWlKQQ?oc=5)
   _Reuters — Los iraníes sufren nueva incertidumbre y ansiedad mientras Estados Unidos intensifica sus ataques Reuters_
-- [EXCLUSIVO: Pakistán y Kuwait discuten un pacto de defensa ampliado, dicen fuentes - Reuters](https://news.google.com/rss/articles/CBMisgFBVV95cUxONHZvMDI1eHV5d0EwekZYSTVrdmU0VDVpR1o0V2hqUlFkcXBxR0xUSFEtak9UdVdVNEtmenkxYVFfeXNtQlc0TGVHSXZZd2gwNlEtRkNya0JuclAwV2llWS1jVjRnUldaWWF5WEZhcFJzal8yV3M5MUhKMldHa2lGNjNTS2c2OGxCTjN0YzVSejVrdy1jTUx1LVUzVmRMeVdnX3NYWUQ4SXhYSjNvM2J4NDBB?oc=5)
-  _Reuters — EXCLUSIVO: Pakistán y Kuwait discuten un pacto de defensa ampliado, dicen fuentes  Reuters_
 
 ---
 
@@ -31,29 +31,19 @@
 
 ## 🔥 Mejores Setups de Swing
 
-### 🔵 **NVDA** $203.26 (-2.0%) · Score 62
-Fund 40/40 · Mom 5/30 · Entry 17/30 · Pullback 5% · RSI 59
-Entrada $202.15 — $203.26 · Stop $186.12 · Target $236.26
-Revenue growth +85% (excelente) · Margen 63% (premium) · Tendencia lateral/indefinida
-
-### 🔵 **META** $645.59 (-2.9%) · Score 62
-Fund 40/40 · Mom 7/30 · Entry 15/30 · Pullback 6% · RSI 67
-Entrada $605.23 — $645.59 · Stop $524.85 · Target $686.08
+### 🔵 **META** $646.01 (-2.8%) · Score 65
+Fund 40/40 · Mom 10/30 · Entry 15/30 · Pullback 6% · RSI 67
+Entrada $605.25 — $646.01 · Stop $524.85 · Target $686.08
 Revenue growth +33% (excelente) · Margen 33% (premium) · Tendencia alcista (sobre SMA20)
 
-### 🔵 **AAPL** $333.98 (+0.2%) · Score 57
-Fund 33/40 · Mom 24/30 · Entry 0/30 · Pullback 0% · RSI 89
-Entrada $305.53 — $333.98 · Stop $269.62 · Target $334.98
-Revenue growth +17% (fuerte) · Margen 27% (premium) · Tendencia alcista fuerte (Precio > SMA20 > SMA50)
+### 🔵 **NVDA** $202.81 (-2.2%) · Score 62
+Fund 40/40 · Mom 5/30 · Entry 17/30 · Pullback 5% · RSI 59
+Entrada $202.12 — $202.81 · Stop $186.12 · Target $236.26
+Revenue growth +85% (excelente) · Margen 63% (premium) · Tendencia lateral/indefinida
 
-### 🔵 **AMD** $497.42 (-0.7%) · Score 56
-Fund 29/40 · Mom 6/30 · Entry 21/30 · Pullback 15% · RSI 46
-Entrada $533.10 — $497.42 · Stop $439.86 · Target $584.73
-Revenue growth +38% (excelente) · Margen 13% (saludable) · Tendencia bajista
-
-### 🔵 **AVGO** $373.35 (-0.3%) · Score 56
-Fund 39/40 · Mom 0/30 · Entry 17/30 · Pullback 10% · RSI 53
-Entrada $381.93 — $373.35 · Stop $348.53 · Target $494.22
+### 🔵 **AVGO** $370.83 (-1.0%) · Score 56
+Fund 39/40 · Mom 0/30 · Entry 17/30 · Pullback 11% · RSI 52
+Entrada $381.81 — $370.83 · Stop $348.53 · Target $494.22
 Revenue growth +48% (excelente) · Margen 39% (premium) · Tendencia bajista
 
 ---
@@ -62,24 +52,24 @@ Revenue growth +48% (excelente) · Margen 39% (premium) · Tendencia bajista
 
 | Ticker | Precio | Cambio | Score | F|M|E | Pullback | RSI | Entrada | Stop | Target | Trend |
 |--------|--------|--------|-------|----|---|----------|-----|---------|------|--------|-------|
-| 🔵 NVDA | $203.26 | -2.0% | 62 | 40|5|17 | -5% | 59 | $202 | $186 | $236 | → |
-| 🔵 META | $645.59 | -2.9% | 62 | 40|7|15 | -6% | 67 | $605 | $525 | $686 | ↑ |
-| 🔵 AAPL | $333.98 | +0.2% | 57 | 33|24|0 | -0% | 89 | $306 | $270 | $335 | ↑↑ |
-| 🔵 AMD | $497.42 | -0.7% | 56 | 29|6|21 | -15% | 46 | $533 | $440 | $585 | ↓ |
-| 🔵 AVGO | $373.35 | -0.3% | 56 | 39|0|17 | -10% | 53 | $382 | $349 | $494 | ↓ |
-| ⚪ NOW | $103.86 | -0.1% | 54 | 32|5|17 | -9% | 59 | $102 | $84 | $139 | → |
-| ⚪ VRT | $291.64 | -0.8% | 54 | 33|0|21 | -19% | 46 | $315 | $252 | $380 | ↓ |
-| ⚪ SOFI | $17.38 | +0.3% | 53 | 32|0|21 | -12% | 46 | $18 | $16 | $20 | → |
-| ⚪ MSFT | $395.16 | -1.5% | 52 | 38|2|12 | -3% | 65 | $381 | $338 | $466 | → |
-| ⚪ GOOGL | $345.28 | -2.6% | 52 | 35|0|17 | -8% | 54 | $356 | $319 | $408 | ↓ |
-| ⚪ GEV | $1053.77 | +1.7% | 52 | 32|3|17 | -12% | 51 | $1085 | $916 | $1196 | → |
-| ⚪ PLTR | $133.11 | -1.0% | 42 | 38|2|2 | -4% | 77 | $125 | $99 | $164 | → |
-| ⚪ AMZN | $247.71 | -0.9% | 41 | 27|2|12 | -4% | 68 | $242 | $218 | $278 | → |
-| 🔴 MOD | $227.43 | +0.5% | 36 | 26|0|10 | -25% | 35 | — | — | — | ↓ |
-| 🔴 CRM | $171.13 | -0.9% | 31 | 22|2|7 | -2% | 65 | — | — | — | → |
-| 🔴 POWL | $234.35 | -0.6% | 29 | 24|0|5 | -26% | 30 | — | — | — | ↓ |
-| 🔴 CCJ | $85.81 | -1.8% | 21 | 21|0|0 | -23% | 14 | — | — | — | ↓ |
-| 🔴 RKLB | $68.18 | +1.2% | 15 | 10|0|5 | -38% | 36 | — | — | — | ↓ |
+| 🔵 META | $646.01 | -2.8% | 65 | 40|10|15 | -6% | 67 | $605 | $525 | $686 | ↑ |
+| 🔵 NVDA | $202.81 | -2.2% | 62 | 40|5|17 | -5% | 59 | $202 | $186 | $236 | → |
+| 🔵 AVGO | $370.83 | -1.0% | 56 | 39|0|17 | -11% | 52 | $382 | $349 | $494 | ↓ |
+| ⚪ VRT | $289.56 | -1.6% | 54 | 33|0|21 | -19% | 45 | $315 | $252 | $380 | ↓ |
+| ⚪ SOFI | $17.28 | -0.2% | 53 | 32|0|21 | -12% | 45 | $18 | $16 | $20 | → |
+| ⚪ AAPL | $333.74 | +0.1% | 52 | 33|19|0 | -0% | 89 | $306 | $266 | $335 | ↑↑ |
+| ⚪ NOW | $103.24 | -0.7% | 52 | 32|3|17 | -9% | 58 | $102 | $84 | $139 | → |
+| ⚪ GEV | $1057.84 | +2.1% | 52 | 32|3|17 | -12% | 51 | $1086 | $916 | $1196 | → |
+| ⚪ MSFT | $393.82 | -1.8% | 50 | 38|5|7 | -3% | 64 | $381 | $338 | $466 | → |
+| ⚪ AMD | $495.76 | -1.0% | 46 | 29|1|16 | -15% | 46 | $533 | $420 | $585 | ↓ |
+| ⚪ PLTR | $132.38 | -1.5% | 45 | 38|5|2 | -5% | 75 | $125 | $99 | $164 | → |
+| ⚪ AMZN | $247.23 | -1.1% | 44 | 27|5|12 | -4% | 67 | $242 | $218 | $278 | → |
+| 🔴 MOD | $229.34 | +1.4% | 36 | 26|0|10 | -24% | 37 | — | — | — | ↓ |
+| 🔴 CRM | $170.77 | -1.1% | 34 | 22|5|7 | -3% | 64 | — | — | — | → |
+| 🔴 POWL | $232.79 | -1.3% | 24 | 24|0|0 | -27% | 30 | — | — | — | ↓ |
+| 🔴 CCJ | $85.62 | -2.0% | 21 | 21|0|0 | -23% | 14 | — | — | — | ↓ |
+| 🔴 GOOGL | $346.77 | -2.2% | 17 | 0|0|17 | -8% | 55 | — | — | — | ↓ |
+| 🔴 RKLB | $67.62 | +0.4% | 15 | 10|0|5 | -38% | 35 | — | — | — | ↓ |
 
 > **F**undamental / **M**omentum / **E**ntry (pullback). Score = F(40) + M(30) + E(30)
 
@@ -100,14 +90,14 @@ Holdings con mejor combinación de fundamentales, narrativa y momentum.
 | | | Revenue +33% · Margen 33% | | | | | |
 | **AAPL** | 51 | AI iPhone Supercycle + Services | +17% | 27% | 35 | 1.1 | +31% |
 | | | Revenue +17% · Margen 27% | | | | | |
-| **VRT** | 51 | Data Center Power & Cooling Infrastructure | +30% | 14% | 33 | 2.0 | +61% |
+| **VRT** | 51 | Data Center Power & Cooling Infrastructure | +30% | 14% | 33 | 2.0 | +60% |
 | | | Revenue +30% · ROE 45% | | | | | |
-| **GEV** | 48 | Energy Transition + Grid Modernization | +16% | 24% | 43 | 0.9 | +58% |
+| **GEV** | 48 | Energy Transition + Grid Modernization | +16% | 24% | 43 | 0.9 | +59% |
 | | | Revenue +16% · Baja deuda | | | | | |
-| **AMD** | 46 | AI Chip Challenger + Data Center Growth | +38% | 13% | 37 | 2.5 | +98% |
+| **AMD** | 46 | AI Chip Challenger + Data Center Growth | +38% | 13% | 37 | 2.5 | +97% |
 | | | Revenue +38% · Baja deuda | | | | | |
-| **GOOGL** | 46 | AI Search + Cloud + Waymo | +22% | 38% | 24 | 1.2 | +4% |
-| | | Revenue +22% · Margen 38% | | | | | |
+| **POWL** | 46 | Electrical Infrastructure + AI Data Center Demand | +6% | 16% | 34 | 1.1 | +65% |
+| | | Baja deuda · ROE 30% | | | | | |
 
 
 ---
