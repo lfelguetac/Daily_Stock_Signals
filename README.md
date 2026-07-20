@@ -1,28 +1,28 @@
-# Swing Signals — 2026-07-18 | 21:00 CLT (Hora Chile, UTC-04:00)
+# Swing Signals — 2026-07-20 | 15:01 CLT (Hora Chile, UTC-04:00)
 
-> 🌎 Hora local Santiago. Visitantes de otros países: 01:00 UTC.
+> 🌎 Hora local Santiago. Visitantes de otros países: 19:01 UTC.
 >
-> 18 acciones · 3 COMPRAR/ACUMULAR · 9 OBSERVAR · 6 ESPERAR/EVITAR · SELECTIVO — Pocas entradas claras. Elegir solo las mejores.
+> 18 acciones · 6 COMPRAR/ACUMULAR · 6 OBSERVAR · 6 ESPERAR/EVITAR · COMPRADOR — Varias oportunidades de entrada en pullbacks de calidad.
 
 
 ## 📰 Noticias del Mercado
 
-- [El oro se encamina a la mayor caída semanal desde principios de junio por preocupaciones sobre inflación y subida de tipos - Reuters](https://news.google.com/rss/articles/CBMitAFBVV95cUxPWE9UR3M4eEdZWDhiT2EyMnFxejhVbjV3Z3p3NGZaZmdwaXZHODI1MVh5dHY1YVNPVFBjZW81S2dDZzY3a3RTSi1SSkdReDBMOUFmSEVTVlhhcDZ0ZDY2RnJFVHRNLVBRMkJocXdOX1RpOGNqeUZrbzFlMW5SY0lsbXREaEhpOEFuQVlBZGtLZ1NNOTFsTVlqOFU0cUkwSmRjUlJXXzN0SHQ2SkluQ0E2bXFJWUk?oc=5)
-  _Reuters — El oro se encamina a la mayor caída semanal desde principios de junio por la inflación y la preocupación por la subida de tipos Reuters_
-- [La FAA permite a Boeing volver a firmar los certificados de aeronavegabilidad del 737 Max y el 787](https://www.cnbc.com/2026/07/17/faa-boeing-737-max-787.html)
-  _CNBC — La medida es un voto de confianza en Boeing por parte del gobierno de Estados Unidos._
-- [El último movimiento de Meta en la guerra de talentos de la IA, además de los 4 rápidos éxitos de Cramer en el mercado](https://www.cnbc.com/2026/07/17/metas-latest-move-in-the-ai-talent-war-plus-cramers-4-quick-hits.html)
-  _CNBC — Todos los días de la semana, el Investing Club publica el Homestretch; _
-- [El comercio minorista y Wall Street están bajo el agua con SpaceX, pero no se hundirán sin luchar](https://www.cnbc.com/2026/07/17/retail-and-wall-street-are-underwater-on-spacex-but-not-going-down-without-a-fight.html)
-  _CNBC — Los buenos tiempos para SpaceX están resultando de corta duración, ya que la oferta pública inicial intergaláctica de Elon Musk ahora está dando pasto a los osos._
-- [La policía británica acusa a un hombre de delitos de espionaje vinculados a Irán - Reuters](https://news.google.com/rss/articles/CBMinwFBVV95cUxNSGllOTRGNDVFclJpYTFrM3BybWdJeURrYjhwQWdnUEtyV2RVM2U2S3dwdXZQWDJ3NmozOVFvNkhfMXNaXzRvejM3d0VlZ2U0YkRidC1hWXNfdDB2UHJ5am91Uy03ZDMtZjVhVTFJUHJHZjJ5MGI2V0lSVkprbFN3RUJmeHNvcTNVM0k4SHc3MEFiN0FWblZ3S015RWREWWs?oc=5)
-  _Reuters — La policía británica acusa a un hombre de delitos de espionaje vinculados a Irán Reuters_
-- [El impuesto a los multimillonarios de California: lo que está en riesgo para la economía estatal más grande de Estados Unidos](https://www.cnbc.com/2026/07/17/california-billionaire-tax.html)
-  _CNBC — El impuesto a los multimillonarios de California generaría ingresos rápidos, pero el ejemplo de Noruega muestra que el impacto económico a largo plazo de centrarse en los ricos no está claro._
-- [Presuntos piratas se apoderan de un petrolero frente a la costa de Yemen en el Golfo de Adén, dicen fuentes - Reuters](https://news.google.com/rss/articles/CBMizAFBVV95cUxQeVFJX2dfYlJkR3pBRlZVa2Z2cUN5eWJYd251LWZCTml6QVZhU0ZGT2RnNVQ3RVkwVkpaS1dYa2ZZXzF3eG9XQURfWXpuZ0FuRTBxMVZfU1NZZk5MUlpFRDlnakpSb1BRRUc0U1ZhMktSdTNROE1NVEowMGhDTnVQRU1fOHlVMTYtblJHRFZxdXhtUjF1clZTRm9qRVItRWowVTJzOHZrY3lKeEJ4ZmlYQUQydUd0aVF0NVRZRFVBQU1WZGtROE95bzF2dFI?oc=5)
-  _Reuters — Presuntos piratas se apoderan de un petrolero frente a la costa de Yemen en el Golfo de Adén, dicen fuentes  Reuters_
-- [Los iraníes sufren nueva incertidumbre y ansiedad a medida que Estados Unidos intensifica los ataques - Reuters](https://news.google.com/rss/articles/CBMiswFBVV95cUxOMDFsaVNvbHhvcE55QWhLRXdNLXNoYzFXTU5TUktEZ3k5NVZFZHhidDlWaGRPZEFEVk1HUm9wSWhDN29xQWVabGlXbmxSbWwxQ3NKLUxySzB5TmFPRnFCZmxLeHNoTWJNcXNiTURDN1NfU0U0NWN4d2ZwZjJ6U256cDNXdFpoZ2lmR1RKZzBsMFFMcmJwWGNFUm5nOVFHU1hubS0tZmEwTGlPdTRzcTZocWlKQQ?oc=5)
-  _Reuters — Los iraníes sufren nueva incertidumbre y ansiedad mientras Estados Unidos intensifica sus ataques Reuters_
+- [¿Podría 'La Odisea' llevar a los 'simios' de regreso a casa con las acciones de AMC?](https://www.cnbc.com/2026/07/20/could-the-odyssey-lead-the-apes-back-home-to-amc-shares.html)
+  _CNBC — Las opciones de AMC surgieron esta mañana con más de 300.000 contratos negociados al momento de escribir este artículo._
+- [El listón para las ganancias de Tesla está por las nubes. ](https://www.cnbc.com/2026/07/20/the-bar-for-tesla-earnings-is-sky-high-heres-why-and-how-options-traders-can-capitalize.html)
+  _CNBC — Michael Khouw explica cómo está transformando Tesla en ganancias._
+- [Los hutíes de Yemen declaran un bloqueo naval contra Arabia Saudita - Reuters](https://news.google.com/rss/articles/CBMivwFBVV95cUxQcUowRTU0M2hEUzRtdXAxY1FENjh0OWdXcEJlb2h4VlpBOVdGM2YzZ1BQSVhLMFQwOXhRN01aQ1poMVd5TTNRUHBZbV9jNWZRaGFaejU2ckpkNW5HUlZSdlJXWU5GNTlFU0NFUU9DYkJ1LXVFNHZBanlSemdrb3M1Vm80azBhNlRmTGRWbjQ2dEtkQVNfbTVNMUVReDIwYXB6aDNjN0pReHQ5S1BBUFl1NUc4Z1VyVHB4MWNnQ09JZw?oc=5)
+  _Reuters — Los hutíes de Yemen declaran un bloqueo naval contra Arabia Saudita Reuters_
+- [España venció a Argentina y ganó el Mundial - Reuters](https://news.google.com/rss/articles/CBMijwFBVV95cUxNOUNxR3JQOUlFcEZneEdwbl9udUdLUm9fOWVhZWlOMDh4SFNVc1JwQ09JZUNVNVlkUnRFbVMzc3VjemNWc0NqSllSU0IteXpLSDN2N2xrU0d3T2taX1hIMEppQmdRY0ZiSzNGT3lBMGVnZk5LT3E1MFJndkNIUk1Xc1k4WVFwZGhNemZ6Yjk3cw?oc=5)
+  _Reuters — España venció a Argentina y ganó el Mundial Reuters_
+- [Lo que hay que saber sobre la terapia de reemplazo de testosterona mientras el ejército de EE. UU. planea realizar pruebas a las tropas](https://www.cnbc.com/2026/07/20/what-to-know-about-testosterone-replacement-therapy.html)
+  _CNBC — Si bien algunas investigaciones han demostrado beneficios para los pacientes que califican, quedan dudas sobre los riesgos a largo plazo de la terapia y su uso entre hombres sin necesidad médica._
+- [Por qué los precios del petróleo no se han disparado a pesar de cinco meses de guerra entre Estados Unidos e Irán - Reuters](https://news.google.com/rss/articles/CBMiswFBVV95cUxQRWljTmhtaTVPdmZTRkZFLVFDSkpiYlhTWkZidlprdlZhQW1KOW9aY3daeWkxdm5RaVgxX0k1aVY2N3ZWQk9Hald6X29aeE5jdHFuT0RxWXpCbkJCWkJHaHJqZWVXb09aYmFrWHhKZGNfa2pzeTY5RHJkR0lYUTZQbGZXRm50dXVyQjJBbS1ETVFEOUlVR2lwcGk4dWFJTlpyeFUxeVNRNHdCcEVKdWVXLVRJQQ?oc=5)
+  _Reuters — Por qué los precios del petróleo no se han disparado a pesar de cinco meses de guerra entre Estados Unidos e Irán Reuters_
+- [Los republicanos de Carolina del Sur llenan el campo para suceder al senador Lindsey Graham](https://www.cnbc.com/2026/07/20/south-carolina-election-republicans-lindsey-graham.html)
+  _CNBC — El representante Russell Fry se convirtió en el último republicano de Carolina del Sur en lanzar una campaña para suceder al difunto senador Lindsey Graham._
+- [Hamás nombra a Khalil Al-Hayya como nuevo líder general - Reuters](https://news.google.com/rss/articles/CBMiqwFBVV95cUxNOHJqTDlBbG5vM09JMm5YLUVPLW5CbHFpbDhWREhJQk41NW1iMWhxMURadktJVklMWEMxVld1WmhzUDlNQkoxQmVQTHdibnhkbTVzODNhb3BCNkV3Y3NCSTZtZ0pOOV9nV2J1Nnl4ajFqOHhiZ2pJY3JqbUdhU0dJdWRZWklaRkV5U3FKa1EySU5jbUxDa0gyM0VsNkZ5Sk5QZ2dHR0VGRjhNc0E?oc=5)
+  _Reuters — Hamás nombra a Khalil Al-Hayya nuevo líder general Reuters_
 
 ---
 
@@ -31,20 +31,35 @@
 
 ## 🔥 Mejores Setups de Swing
 
-### 🔵 **META** $646.01 (-2.8%) · Score 65
-Fund 40/40 · Mom 10/30 · Entry 15/30 · Pullback 6% · RSI 67
-Entrada $605.25 — $646.01 · Stop $524.85 · Target $686.08
+### 🔵 **AMD** $513.79 (+3.6%) · Score 66
+Fund 32/40 · Mom 13/30 · Entry 21/30 · Pullback 12% · RSI 46
+Entrada $531.84 — $513.79 · Stop $440.58 · Target $584.73
+Revenue growth +38% (excelente) · Margen 13% (saludable) · Tendencia lateral/indefinida
+
+### 🔵 **META** $648.57 (+0.4%) · Score 62
+Fund 40/40 · Mom 7/30 · Entry 15/30 · Pullback 6% · RSI 66
+Entrada $608.82 — $648.57 · Stop $524.97 · Target $686.08
 Revenue growth +33% (excelente) · Margen 33% (premium) · Tendencia alcista (sobre SMA20)
 
-### 🔵 **NVDA** $202.81 (-2.2%) · Score 62
-Fund 40/40 · Mom 5/30 · Entry 17/30 · Pullback 5% · RSI 59
-Entrada $202.12 — $202.81 · Stop $186.12 · Target $236.26
-Revenue growth +85% (excelente) · Margen 63% (premium) · Tendencia lateral/indefinida
+### 🔵 **AAPL** $327.32 (-1.9%) · Score 59
+Fund 33/40 · Mom 24/30 · Entry 2/30 · Pullback 2% · RSI 83
+Entrada $306.98 — $327.32 · Stop $269.57 · Target $334.99
+Revenue growth +17% (fuerte) · Margen 27% (premium) · Tendencia alcista fuerte (Precio > SMA20 > SMA50)
 
-### 🔵 **AVGO** $370.83 (-1.0%) · Score 56
-Fund 39/40 · Mom 0/30 · Entry 17/30 · Pullback 11% · RSI 52
-Entrada $381.81 — $370.83 · Stop $348.53 · Target $494.22
+### 🔵 **GEV** $1078.25 (+1.9%) · Score 58
+Fund 32/40 · Mom 5/30 · Entry 21/30 · Pullback 10% · RSI 47
+Entrada $1083.94 — $1078.25 · Stop $949.62 · Target $1195.94
+Revenue growth +16% (fuerte) · Margen 24% (saludable) · Tendencia lateral/indefinida
+
+### 🔵 **AVGO** $379.44 (+2.3%) · Score 56
+Fund 39/40 · Mom 0/30 · Entry 17/30 · Pullback 8% · RSI 53
+Entrada $380.24 — $379.44 · Stop $348.63 · Target $494.22
 Revenue growth +48% (excelente) · Margen 39% (premium) · Tendencia bajista
+
+### 🔵 **GOOGL** $351.98 (+1.5%) · Score 56
+Fund 35/40 · Mom 0/30 · Entry 21/30 · Pullback 6% · RSI 49
+Entrada $355.10 — $351.98 · Stop $324.81 · Target $408.37
+Revenue growth +22% (fuerte) · Margen 38% (premium) · Tendencia bajista
 
 ---
 
@@ -52,24 +67,24 @@ Revenue growth +48% (excelente) · Margen 39% (premium) · Tendencia bajista
 
 | Ticker | Precio | Cambio | Score | F|M|E | Pullback | RSI | Entrada | Stop | Target | Trend |
 |--------|--------|--------|-------|----|---|----------|-----|---------|------|--------|-------|
-| 🔵 META | $646.01 | -2.8% | 65 | 40|10|15 | -6% | 67 | $605 | $525 | $686 | ↑ |
-| 🔵 NVDA | $202.81 | -2.2% | 62 | 40|5|17 | -5% | 59 | $202 | $186 | $236 | → |
-| 🔵 AVGO | $370.83 | -1.0% | 56 | 39|0|17 | -11% | 52 | $382 | $349 | $494 | ↓ |
-| ⚪ VRT | $289.56 | -1.6% | 54 | 33|0|21 | -19% | 45 | $315 | $252 | $380 | ↓ |
-| ⚪ SOFI | $17.28 | -0.2% | 53 | 32|0|21 | -12% | 45 | $18 | $16 | $20 | → |
-| ⚪ AAPL | $333.74 | +0.1% | 52 | 33|19|0 | -0% | 89 | $306 | $266 | $335 | ↑↑ |
-| ⚪ NOW | $103.24 | -0.7% | 52 | 32|3|17 | -9% | 58 | $102 | $84 | $139 | → |
-| ⚪ GEV | $1057.84 | +2.1% | 52 | 32|3|17 | -12% | 51 | $1086 | $916 | $1196 | → |
-| ⚪ MSFT | $393.82 | -1.8% | 50 | 38|5|7 | -3% | 64 | $381 | $338 | $466 | → |
-| ⚪ AMD | $495.76 | -1.0% | 46 | 29|1|16 | -15% | 46 | $533 | $420 | $585 | ↓ |
-| ⚪ PLTR | $132.38 | -1.5% | 45 | 38|5|2 | -5% | 75 | $125 | $99 | $164 | → |
-| ⚪ AMZN | $247.23 | -1.1% | 44 | 27|5|12 | -4% | 67 | $242 | $218 | $278 | → |
-| 🔴 MOD | $229.34 | +1.4% | 36 | 26|0|10 | -24% | 37 | — | — | — | ↓ |
-| 🔴 CRM | $170.77 | -1.1% | 34 | 22|5|7 | -3% | 64 | — | — | — | → |
-| 🔴 POWL | $232.79 | -1.3% | 24 | 24|0|0 | -27% | 30 | — | — | — | ↓ |
-| 🔴 CCJ | $85.62 | -2.0% | 21 | 21|0|0 | -23% | 14 | — | — | — | ↓ |
-| 🔴 GOOGL | $346.77 | -2.2% | 17 | 0|0|17 | -8% | 55 | — | — | — | ↓ |
-| 🔴 RKLB | $67.62 | +0.4% | 15 | 10|0|5 | -38% | 35 | — | — | — | ↓ |
+| 🔵 AMD | $513.79 | +3.6% | 66 | 32|13|21 | -12% | 46 | $532 | $441 | $585 | → |
+| 🔵 META | $648.57 | +0.4% | 62 | 40|7|15 | -6% | 66 | $609 | $525 | $686 | ↑ |
+| 🔵 AAPL | $327.32 | -1.9% | 59 | 33|24|2 | -2% | 83 | $307 | $270 | $335 | ↑↑ |
+| 🔵 GEV | $1078.25 | +1.9% | 58 | 32|5|21 | -10% | 47 | $1084 | $950 | $1196 | → |
+| 🔵 AVGO | $379.44 | +2.3% | 56 | 39|0|17 | -8% | 53 | $380 | $349 | $494 | ↓ |
+| 🔵 GOOGL | $351.98 | +1.5% | 56 | 35|0|21 | -6% | 49 | $355 | $325 | $408 | ↓ |
+| ⚪ NVDA | $203.42 | +0.3% | 54 | 40|5|9 | -5% | 58 | $202 | $183 | $236 | → |
+| ⚪ NOW | $104.87 | +1.6% | 54 | 32|5|17 | -8% | 58 | $103 | $84 | $139 | → |
+| ⚪ VRT | $293.62 | +1.4% | 54 | 33|0|21 | -18% | 46 | $313 | $252 | $380 | ↓ |
+| ⚪ SOFI | $17.11 | -1.0% | 53 | 32|0|21 | -13% | 41 | $18 | $16 | $20 | → |
+| ⚪ AMZN | $249.16 | +0.8% | 44 | 27|5|12 | -4% | 62 | $242 | $219 | $277 | → |
+| ⚪ PLTR | $135.89 | +2.6% | 42 | 38|2|2 | -2% | 76 | $126 | $99 | $164 | → |
+| 🔴 MSFT | $400.75 | +1.8% | 37 | 35|2|0 | -1% | 71 | — | — | — | → |
+| 🔴 MOD | $228.00 | -0.6% | 36 | 26|0|10 | -23% | 36 | — | — | — | ↓ |
+| 🔴 CRM | $173.78 | +1.8% | 24 | 22|2|0 | -1% | 67 | — | — | — | → |
+| 🔴 POWL | $230.55 | -1.0% | 24 | 24|0|0 | -27% | 28 | — | — | — | ↓ |
+| 🔴 CCJ | $84.75 | -1.0% | 21 | 21|0|0 | -24% | 14 | — | — | — | ↓ |
+| 🔴 RKLB | $66.38 | -1.8% | 10 | 10|0|0 | -38% | 14 | — | — | — | ↓ |
 
 > **F**undamental / **M**omentum / **E**ntry (pullback). Score = F(40) + M(30) + E(30)
 
@@ -82,22 +97,22 @@ Holdings con mejor combinación de fundamentales, narrativa y momentum.
 
 | Ticker | Score | Narrativa | Rev | Margen | Fwd P/E | Beta | Mom 6m |
 |--------|-------|-----------|-----|--------|---------|------|--------|
-| **NVDA** | 59 | AI Infrastructure Dominance | +85% | 63% | 16 | 2.2 | +9% |
+| **NVDA** | 59 | AI Infrastructure Dominance | +85% | 63% | 16 | 2.2 | +8% |
 | | | Revenue +85% · Margen 63% | | | | | |
-| **AVGO** | 54 | AI Networking + VMware Synergy | +48% | 39% | 19 | 1.5 | +15% |
+| **AVGO** | 54 | AI Networking + VMware Synergy | +48% | 39% | 20 | 1.5 | +14% |
 | | | Revenue +48% · Margen 39% | | | | | |
-| **META** | 54 | AI Advertising + Open Source LLM | +33% | 33% | 18 | 1.2 | -4% |
+| **META** | 54 | AI Advertising + Open Source LLM | +33% | 33% | 18 | 1.2 | -3% |
 | | | Revenue +33% · Margen 33% | | | | | |
-| **AAPL** | 51 | AI iPhone Supercycle + Services | +17% | 27% | 35 | 1.1 | +31% |
+| **GOOGL** | 51 | AI Search + Cloud + Waymo | +22% | 38% | 24 | 1.2 | +5% |
+| | | Revenue +22% · Margen 38% | | | | | |
+| **AAPL** | 51 | AI iPhone Supercycle + Services | +17% | 27% | 34 | 1.1 | +27% |
 | | | Revenue +17% · Margen 27% | | | | | |
-| **VRT** | 51 | Data Center Power & Cooling Infrastructure | +30% | 14% | 33 | 2.0 | +60% |
+| **VRT** | 51 | Data Center Power & Cooling Infrastructure | +30% | 14% | 33 | 2.0 | +55% |
 | | | Revenue +30% · ROE 45% | | | | | |
-| **GEV** | 48 | Energy Transition + Grid Modernization | +16% | 24% | 43 | 0.9 | +59% |
+| **GEV** | 48 | Energy Transition + Grid Modernization | +16% | 24% | 44 | 0.9 | +56% |
 | | | Revenue +16% · Baja deuda | | | | | |
-| **AMD** | 46 | AI Chip Challenger + Data Center Growth | +38% | 13% | 37 | 2.5 | +97% |
+| **AMD** | 46 | AI Chip Challenger + Data Center Growth | +38% | 13% | 38 | 2.5 | +104% |
 | | | Revenue +38% · Baja deuda | | | | | |
-| **POWL** | 46 | Electrical Infrastructure + AI Data Center Demand | +6% | 16% | 34 | 1.1 | +65% |
-| | | Baja deuda · ROE 30% | | | | | |
 
 
 ---
