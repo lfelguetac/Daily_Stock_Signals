@@ -1,28 +1,28 @@
-# Swing Signals — 2026-07-22 | 21:00 CLT (Hora Chile, UTC-04:00)
+# Swing Signals — 2026-07-22 | 15:01 CLT (Hora Chile, UTC-04:00)
 
-> 🌎 Hora local Santiago. Visitantes de otros países: 01:00 UTC.
+> 🌎 Hora local Santiago. Visitantes de otros países: 19:01 UTC.
 >
-> 18 acciones · 6 COMPRAR/ACUMULAR · 8 OBSERVAR · 4 ESPERAR/EVITAR · COMPRADOR — Varias oportunidades de entrada en pullbacks de calidad.
+> 18 acciones · 6 COMPRAR/ACUMULAR · 10 OBSERVAR · 2 ESPERAR/EVITAR · COMPRADOR — Varias oportunidades de entrada en pullbacks de calidad.
 
 
 ## 📰 Noticias del Mercado
 
-- [Nike cerrará miles de distribuidores online en China y reestructurará su huella digital](https://www.cnbc.com/2026/07/21/nike-to-cut-off-thousands-of-online-distributors-in-china.html)
-  _CNBC — Nike está racionalizando su negocio en línea en China mientras la compañía busca estabilizar los precios y la marca y volver al crecimiento._
-- [Buques cisterna con crudo saudita regresan mientras los hutíes abren un nuevo frente en la guerra entre Estados Unidos e Irán - Reuters](https://news.google.com/rss/articles/CBMitwFBVV95cUxQT0Jlc0k2UzBpUjR0R3ZWd2NKVzZVM2F6azd0VWk0WlYySWhpTU8zc2V2NTVWc3hWRzBYSUk2LXNTSzhoUnF1VUotZ1FhdTlMVE53TmtEUllYSThLU3hSU3hIRGRxZHFoaFZXM2VReGdxNGVVcGVOYXh4NTcwdHBpWkZqLWtCTHhOdjFIbWhJcExkcUo3amxFa0x3N3VadTVqbXh2LUxQYXV1Y05IM0N4QlVlUjNmWHM?oc=5)
-  _Reuters — Los petroleros con crudo saudí retroceden mientras los hutíes abren un nuevo frente en la guerra entre Estados Unidos e Irán Reuters_
-- [Los ministros de Arabia Saudita y los Emiratos Árabes Unidos utilizan las redes sociales para señalar unidad después de meses de tensión - Reuters](https://news.google.com/rss/articles/CBMiwgFBVV95cUxNbGZLNURqa3B4VG1TYkQtc3VrcXY1Q04tMjBRSl81LTd1bFI3SmRJeU5qd0lRYndOVTMxTzVoMHB1cUE2MkRwSWd3ZnVXYmI3b0FqZWNhR2p6ek5lRHlZUDZqc3Q1YWw2QmZQWEw4V3ZYSnExbElaMnB6ZWs4TkU5MUJCSC1pZ3REYU5JTVk3VE1GU3NjNkpzallHM2FjbG14ajhHOHFvYWpaUHFyYzNGRFpmemFvZ0ZZX3piaVVuYkp2Zw?oc=5)
-  _Reuters — Los ministros de Arabia Saudita y los Emiratos Árabes Unidos utilizan las redes sociales para señalar unidad después de meses de tensión Reuters_
-- [El ejército libanés entra en una ciudad del sur tras la retirada israelí, en la primera prueba del acuerdo mediado por Estados Unidos - Reuters](https://news.google.com/rss/articles/CBMixwFBVV95cUxNX2hGZ2YzcFQ1aXJWdnEyNUJYU1ZhdTlyWFY3ajVHWkpjNDRkZHRJSGhzYUtFQ2tJREpDM1BENm9SX2JQZlB4Y0lrUkp1Tnpvc00zRkV4TTBMdldZVm1RdW1sTHAzMUJwU212clU2LVhGMEx6aTRzbkw4NVJFUnFpc2t1dkVldThkRDVPSlEyNUNEc2sxRERieGlDazJqblliVU9NdnUzbXNLVWlMYnc0VUxXS0N6M1lyaXI3Q3UxNkJGNVk2R1FR?oc=5)
-  _Reuters — El ejército libanés entra en una ciudad del sur tras la retirada israelí, en la primera prueba del acuerdo mediado por Estados Unidos Reuters_
-- [La guerra en Irán ha costado a Estados Unidos 37.500 millones de dólares hasta ahora, dice el Pentágono - Reuters](https://news.google.com/rss/articles/CBMiqwFBVV95cUxQcGhIUDY1XzFtb1pDNmE1ME9sMjVXRXJPMXBxelpQZlJlcDd5eEIySWxObnlCY1BiR1lNRnVLWEt0M005NTRCcUtWRU5oZmROVmZJMW91aE9nVWNGUmF0V2J0dHZSci1mM2c4NFE4c01pblBucXJfSW5lVWJUeE95VGNjbl9OOFBVQnZsTFBmeDRvMGxIeEpfVWlUbE96SWxXSGNHM1o5aTNzV2c?oc=5)
-  _Reuters — La guerra en Irán ha costado a Estados Unidos 37.500 millones de dólares hasta ahora, dice el Pentágono  Reuters_
-- [Uno de los embalses más grandes de Arizona casi ha desaparecido - Reuters](https://news.google.com/rss/articles/CBMioAFBVV95cUxPNHgzWHBBeGRFZ3R3UWxqaDdwWlE0Xzd1Z05hV3ViQktnQ2dQdmxHaHZBTE42QVJSZWtCLVRyQ1Qxam9fMFpxTHU5RW0tSmJMWC1LOWpUUG5UaHRVWVpLUXNEdXhkT3VOY0tWb1RDcUZDdnV0ZUZwYWRWcnZDaTdzX3BVVm1rdVJ6Mzd6T3JxdkVjcDdWTWxncEdfbFhIWWtC?oc=5)
-  _Reuters — Uno de los embalses más grandes de Arizona casi ha desaparecido  Reuters_
-- [Wall Street cierra al alza por la recuperación de las acciones de chips; ](https://news.google.com/rss/articles/CBMiowFBVV95cUxOUDZOb0lyeDNtSHo4bVQ4MlJ3RnhPUUR2WmxYT2xqaWRVNFFVNkNUdHBNUUIxWm5kZGpVaVc0SFZicnBmN1F0RWI3RXpqNUpCbjQ3RHhPZEJkTmlaeGI3YXp3MUlSSXN2RGdBZ3dfekVaQzQxbFJzeHhuNU9veGtKMzdidFZ1N2QwbFE3Z3B1VmxoY1VuTUFtU3Rfa09XMlRMWl9B?oc=5)
-  _Reuters — Wall Street cierra al alza por la recuperación de las acciones de chips; _
-- [EXCLUSIVO: Pakistán busca 10 mil millones de dólares en un mecanismo de respaldo de Estados Unidos para aumentar las reservas, dice una fuente - Reuters](https://news.google.com/rss/articles/CBMixwFBVV95cUxPT190ZlgyOU0tU2VVdFRleldkdkdEZ0JiUEJGVlFiNUFQQ3RPLTdmSi15MTJ5V19tSXZOTWxlQWV3cHBkMU8wU3BxRDFfbVZNMFdpZnNPbmVHd09XZV85YTdCaTFBejFzYXd6WUpkVTI1MUdyLWJDRXNSZVhGWjMwajlEOEQtWlVqVFRyRklQQ0VkTk1pdzRIbjRjS3RQNjVkMGIxRHJEM21IMFdqUS1jWHJCUDUzY093bjg5ZENvU09PYTVTaGc4?oc=5)
-  _Reuters — EXCLUSIVO: Pakistán busca 10.000 millones de dólares en un mecanismo de respaldo de Estados Unidos para aumentar las reservas, dice una fuente  Reuters_
+- [Panel del Senado avanza proyecto de ley automotriz de China que podría excluir a Mercedes-Benz de EE.UU.](https://www.cnbc.com/2026/07/22/ted-cruz-china-auto-bill-mercedes-benz-gm.html)
+  _CNBC — El mayor accionista individual de Mercedes-Benz es la empresa estatal china BAIC. _
+- [Amazon elimina algunos puestos de trabajo en su unidad de inteligencia artificial general](https://www.cnbc.com/2026/07/22/amazon-lays-off-some-employees-in-its-agi-unit.html)
+  _CNBC — La unidad AGI de Amazon ha lanzado un conjunto de modelos de IA, llamado Nova, y también incluye grupos que trabajan en silicio y computación cuántica._
+- [Más barcos cambian de rumbo en el Mar Rojo tras las amenazas hutíes, según muestran los datos - Reuters](https://news.google.com/rss/articles/CBMixgFBVV95cUxQeVpnSVhMeHp3ZE5RTlFFUEF6OW5PaUZsWGtoM3J2eUh1eGczY0hsVkt5MzRLY2s5YnJqaUxmVU13bG5QYmVrZmZoYzFNbXpRbVhkSHpVWkQtOGJ2UnNNdHh4YnU0V3hvRS1WcTd4UGJ5V0M0c21CRG5CdS1ZenVKNkJ2V2pwSEt5NWNBOEg2UkZmOVJFd3JZSXZOV3hyeW9SQjE2dTZQbzBZOVRBcHVwZ3ZpTWdOeGJoX3JRTkpNTHc5eGhsbUE?oc=5)
+  _Reuters — Más barcos cambian de rumbo en el Mar Rojo tras las amenazas hutíes, según datos  Reuters_
+- [Trump asiste al regreso de los soldados estadounidenses muertos en la guerra de Irán - Reuters](https://news.google.com/rss/articles/CBMimAFBVV95cUxPeWFHb3VSWjdHU01kYXVMcFJGR3M3a1RpUmdkeE0tbXdRUjg5YTBCSmJEaS0yeEpDNjNsUDVZbjkwc2xHaVZXdVlqQXB3UkpiN01nb0lZaUhIeHFsY3NWTGZRMGg5ZUN5S0Z2NXpRS3NXNEtUWWRiOHBta2ZObmdTRUk0ZzNiejlRQ3FyMmVxa1hJaU1kdUR2eA?oc=5)
+  _Reuters — Trump asiste al regreso de los soldados estadounidenses muertos en la guerra con Irán Reuters_
+- [Ex reclutador de Google: la pregunta número uno que me hace querer contratar a alguien en el acto](https://www.cnbc.com/2026/07/22/ex-google-recruiter-the-no-1-question-that-makes-me-want-to-hire-someone-on-the-spot.html)
+  _CNBC — La ex reclutadora de Google Farah Sharghi revela la pregunta que hace que los candidatos a un puesto de trabajo se destaquen más para ella._
+- [Un nombre de bebida que pasa desapercibido capta la atención de los comerciantes](https://www.cnbc.com/2026/07/22/under-the-radar-beverage-name-captures-traders-attention.html)
+  _CNBC — Michael Khouw analiza cómo negocia estas acciones antes de las ganancias._
+- [Trump: Estados Unidos atacará el puente iraní y la central eléctrica de cada barco atacado en Ormuz - Reuters](https://news.google.com/rss/articles/CBMitwFBVV95cUxPZWlVdEVsdmI1TDRsamNjMzc3R1BFcERycV9lQVpZd0E3U08ya044Ql94TEJFMTI0eUIzUkstWU1ucmJhZWZ6bkZCUFlmb1NLVnRxT0M4U0FJN3gtNjhZWjhLSXVDcDVOTGpjNWdSYllSNlVyRWoxejJ5U2oyVnhRYVc4Z2JueDVudDRvYnZGMV9EcnJJakFFZDVlOVd0TG1BOWJoS1FRLWl4QmNQbVROZjZadkJjMEk?oc=5)
+  _Reuters — Trump: Estados Unidos atacará el puente iraní y la central eléctrica de cada barco atacado en Ormuz  Reuters_
+- [Las 10 cosas más importantes a tener en cuenta en el mercado de valores de Jim Cramer el miércoles](https://www.cnbc.com/2026/07/22/jim-cramers-top-10-things-to-watch-in-the-stock-market-wednesday.html)
+  _CNBC — Hoy no se puede ignorar el aumento de los precios del petróleo._
 
 ---
 
@@ -31,35 +31,35 @@
 
 ## 🔥 Mejores Setups de Swing
 
-### 🔵 **AMD** $544.43 (+8.1%) · Score 69
-Fund 32/40 · Mom 16/30 · Entry 21/30 · Pullback 7% · RSI 44
-Entrada $530.97 — $544.43 · Stop $440.60 · Target $584.73
-Revenue growth +38% (excelente) · Margen 13% (saludable) · Tendencia alcista fuerte (Precio > SMA20 > SMA50)
-
-### 🔵 **META** $643.81 (-0.3%) · Score 65
-Fund 40/40 · Mom 10/30 · Entry 15/30 · Pullback 6% · RSI 65
-Entrada $612.68 — $643.81 · Stop $525.02 · Target $686.08
+### 🔵 **META** $626.37 (-2.7%) · Score 69
+Fund 40/40 · Mom 7/30 · Entry 22/30 · Pullback 9% · RSI 53
+Entrada $615.89 — $626.37 · Stop $526.48 · Target $686.08
 Revenue growth +33% (excelente) · Margen 33% (premium) · Tendencia alcista (sobre SMA20)
 
-### 🔵 **VRT** $304.50 (+4.4%) · Score 63
-Fund 33/40 · Mom 0/30 · Entry 30/30 · Pullback 10% · RSI 39
-Entrada $309.83 — $304.50 · Stop $263.06 · Target $379.86
-Revenue growth +30% (excelente) · Margen 14% (saludable) · Tendencia bajista
+### 🔵 **PLTR** $123.97 (-6.5%) · Score 64
+Fund 38/40 · Mom 0/30 · Entry 26/30 · Pullback 11% · RSI 48
+Entrada $126.59 — $123.97 · Stop $102.94 · Target $163.70
+Revenue growth +85% (excelente) · Margen 44% (premium) · Tendencia bajista
 
-### 🔵 **AVGO** $386.50 (+2.2%) · Score 61
-Fund 39/40 · Mom 5/30 · Entry 17/30 · Pullback 5% · RSI 53
-Entrada $379.90 — $386.50 · Stop $348.51 · Target $494.22
-Revenue growth +48% (excelente) · Margen 39% (premium) · Tendencia lateral/indefinida
-
-### 🔵 **GEV** $1078.81 (-0.0%) · Score 60
-Fund 32/40 · Mom 3/30 · Entry 25/30 · Pullback 10% · RSI 36
-Entrada $1081.55 — $1078.81 · Stop $949.75 · Target $1195.94
-Revenue growth +16% (fuerte) · Margen 24% (saludable) · Tendencia lateral/indefinida
-
-### 🔵 **GOOGL** $347.15 (-1.4%) · Score 56
-Fund 35/40 · Mom 0/30 · Entry 21/30 · Pullback 8% · RSI 44
-Entrada $354.97 — $347.15 · Stop $324.93 · Target $408.37
+### 🔵 **GOOGL** $345.92 (-0.3%) · Score 60
+Fund 35/40 · Mom 0/30 · Entry 25/30 · Pullback 8% · RSI 40
+Entrada $354.96 — $345.92 · Stop $325.01 · Target $408.37
 Revenue growth +22% (fuerte) · Margen 38% (premium) · Tendencia bajista
+
+### 🔵 **AMD** $557.00 (+2.3%) · Score 59
+Fund 29/40 · Mom 21/30 · Entry 9/30 · Pullback 5% · RSI 53
+Entrada $532.83 — $557.00 · Stop $440.98 · Target $584.73
+Revenue growth +38% (excelente) · Margen 13% (saludable) · Tendencia alcista fuerte (Precio > SMA20 > SMA50)
+
+### 🔵 **AAPL** $324.40 (-1.0%) · Score 59
+Fund 33/40 · Mom 24/30 · Entry 2/30 · Pullback 3% · RSI 74
+Entrada $309.99 — $324.40 · Stop $269.69 · Target $334.99
+Revenue growth +17% (fuerte) · Margen 27% (premium) · Tendencia alcista fuerte (Precio > SMA20 > SMA50)
+
+### 🔵 **SOFI** $17.06 (-3.3%) · Score 57
+Fund 32/40 · Mom 0/30 · Entry 25/30 · Pullback 14% · RSI 39
+Entrada $17.88 — $17.06 · Stop $16.02 · Target $19.74
+Revenue growth +42% (excelente) · Margen 15% (saludable) · Tendencia bajista
 
 ---
 
@@ -67,24 +67,24 @@ Revenue growth +22% (fuerte) · Margen 38% (premium) · Tendencia bajista
 
 | Ticker | Precio | Cambio | Score | F|M|E | Pullback | RSI | Entrada | Stop | Target | Trend |
 |--------|--------|--------|-------|----|---|----------|-----|---------|------|--------|-------|
-| 🔵 AMD | $544.43 | +8.1% | 69 | 32|16|21 | -7% | 44 | $531 | $441 | $585 | ↑↑ |
-| 🔵 META | $643.81 | -0.3% | 65 | 40|10|15 | -6% | 65 | $613 | $525 | $686 | ↑ |
-| 🔵 VRT | $304.50 | +4.4% | 63 | 33|0|30 | -10% | 39 | $310 | $263 | $380 | ↓ |
-| 🔵 AVGO | $386.50 | +2.2% | 61 | 39|5|17 | -5% | 53 | $380 | $349 | $494 | → |
-| 🔵 GEV | $1078.81 | -0.0% | 60 | 32|3|25 | -10% | 36 | $1082 | $950 | $1196 | → |
-| 🔵 GOOGL | $347.15 | -1.4% | 56 | 35|0|21 | -8% | 44 | $355 | $325 | $408 | ↓ |
-| ⚪ NVDA | $207.29 | +2.0% | 54 | 40|5|9 | -3% | 57 | $202 | $183 | $236 | → |
-| ⚪ AAPL | $327.74 | +0.3% | 54 | 33|19|2 | -2% | 80 | $308 | $266 | $335 | ↑↑ |
-| ⚪ SOFI | $17.64 | +3.7% | 53 | 32|0|21 | -11% | 48 | $18 | $16 | $20 | → |
-| ⚪ MOD | $247.09 | +8.4% | 52 | 26|5|21 | -16% | 41 | $245 | $194 | $323 | → |
-| ⚪ PLTR | $132.66 | -1.6% | 50 | 38|5|7 | -4% | 70 | $126 | $99 | $164 | → |
-| ⚪ NOW | $102.06 | -2.5% | 49 | 32|0|17 | -10% | 54 | $103 | $84 | $139 | ↓ |
-| ⚪ MSFT | $397.75 | -1.1% | 47 | 35|5|7 | -2% | 66 | $384 | $338 | $466 | → |
-| ⚪ AMZN | $247.55 | -1.0% | 44 | 27|5|12 | -4% | 62 | $243 | $219 | $275 | → |
-| 🔴 CRM | $170.06 | -2.1% | 34 | 22|5|7 | -3% | 64 | — | — | — | → |
-| 🔴 POWL | $244.39 | +7.1% | 29 | 24|0|5 | -23% | 34 | — | — | — | ↓ |
-| 🔴 CCJ | $88.68 | +4.5% | 21 | 21|0|0 | -20% | 27 | — | — | — | ↓ |
-| 🔴 RKLB | $69.12 | +5.1% | 10 | 10|0|0 | -36% | 14 | — | — | — | ↓ |
+| 🔵 META | $626.37 | -2.7% | 69 | 40|7|22 | -9% | 53 | $616 | $526 | $686 | ↑ |
+| 🔵 PLTR | $123.97 | -6.5% | 64 | 38|0|26 | -11% | 48 | $127 | $103 | $164 | ↓ |
+| 🔵 GOOGL | $345.92 | -0.3% | 60 | 35|0|25 | -8% | 40 | $355 | $325 | $408 | ↓ |
+| 🔵 AMD | $557.00 | +2.3% | 59 | 29|21|9 | -5% | 53 | $533 | $441 | $585 | ↑↑ |
+| 🔵 AAPL | $324.40 | -1.0% | 59 | 33|24|2 | -3% | 74 | $310 | $270 | $335 | ↑↑ |
+| 🔵 SOFI | $17.06 | -3.3% | 57 | 32|0|25 | -14% | 39 | $18 | $16 | $20 | ↓ |
+| ⚪ VRT | $302.66 | -0.6% | 54 | 33|0|21 | -11% | 46 | $309 | $254 | $380 | ↓ |
+| ⚪ NOW | $95.52 | -6.4% | 52 | 32|0|20 | -16% | 34 | $103 | $84 | $139 | ↓ |
+| ⚪ GEV | $996.11 | -7.7% | 52 | 32|0|20 | -17% | 32 | $1080 | $915 | $1196 | ↓ |
+| ⚪ MSFT | $388.74 | -2.3% | 51 | 35|2|14 | -4% | 53 | $385 | $338 | $466 | → |
+| ⚪ AMZN | $243.87 | -1.5% | 51 | 27|2|22 | -6% | 53 | $244 | $219 | $275 | → |
+| ⚪ NVDA | $213.80 | +3.1% | 50 | 40|10|0 | -0% | 64 | $202 | $182 | $236 | → |
+| ⚪ MOD | $250.03 | +1.2% | 50 | 26|2|22 | -15% | 53 | $244 | $195 | $323 | → |
+| ⚪ AVGO | $397.74 | +2.9% | 48 | 39|2|7 | -2% | 61 | $381 | $340 | $494 | → |
+| ⚪ CRM | $163.08 | -4.1% | 43 | 22|0|21 | -7% | 50 | $164 | $142 | $211 | ↓ |
+| ⚪ CCJ | $90.77 | +2.4% | 41 | 21|0|20 | -16% | 37 | $95 | $79 | $122 | ↓ |
+| 🔴 POWL | $242.27 | -0.9% | 29 | 24|0|5 | -24% | 40 | — | — | — | ↓ |
+| 🔴 RKLB | $69.97 | +1.2% | 10 | 10|0|0 | -35% | 16 | — | — | — | ↓ |
 
 > **F**undamental / **M**omentum / **E**ntry (pullback). Score = F(40) + M(30) + E(30)
 
@@ -97,22 +97,22 @@ Holdings con mejor combinación de fundamentales, narrativa y momentum.
 
 | Ticker | Score | Narrativa | Rev | Margen | Fwd P/E | Beta | Mom 6m |
 |--------|-------|-----------|-----|--------|---------|------|--------|
-| **NVDA** | 59 | AI Infrastructure Dominance | +85% | 63% | 16 | 2.2 | +8% |
+| **NVDA** | 59 | AI Infrastructure Dominance | +85% | 63% | 17 | 2.2 | +11% |
 | | | Revenue +85% · Margen 63% | | | | | |
-| **AVGO** | 54 | AI Networking + VMware Synergy | +48% | 39% | 20 | 1.5 | +16% |
+| **AVGO** | 55 | AI Networking + VMware Synergy | +48% | 39% | 20 | 1.5 | +21% |
 | | | Revenue +48% · Margen 39% | | | | | |
-| **META** | 54 | AI Advertising + Open Source LLM | +33% | 33% | 18 | 1.2 | -4% |
+| **META** | 54 | AI Advertising + Open Source LLM | +33% | 33% | 17 | 1.2 | -15% |
 | | | Revenue +33% · Margen 33% | | | | | |
-| **AAPL** | 51 | AI iPhone Supercycle + Services | +17% | 27% | 34 | 1.1 | +28% |
+| **AAPL** | 51 | AI iPhone Supercycle + Services | +17% | 27% | 34 | 1.1 | +26% |
 | | | Revenue +17% · Margen 27% | | | | | |
-| **VRT** | 51 | Data Center Power & Cooling Infrastructure | +30% | 14% | 34 | 2.0 | +57% |
+| **VRT** | 51 | Data Center Power & Cooling Infrastructure | +30% | 14% | 34 | 2.0 | +55% |
 | | | Revenue +30% · ROE 45% | | | | | |
-| **GEV** | 48 | Energy Transition + Grid Modernization | +16% | 24% | 44 | 0.9 | +52% |
+| **GEV** | 48 | Energy Transition + Grid Modernization | +16% | 24% | 40 | 0.9 | +39% |
 | | | Revenue +16% · Baja deuda | | | | | |
-| **AMD** | 46 | AI Chip Challenger + Data Center Growth | +38% | 13% | 40 | 2.5 | +115% |
+| **AMD** | 46 | AI Chip Challenger + Data Center Growth | +38% | 13% | 41 | 2.5 | +121% |
 | | | Revenue +38% · Baja deuda | | | | | |
-| **GOOGL** | 46 | AI Search + Cloud + Waymo | +22% | 38% | 24 | 1.2 | +3% |
-| | | Revenue +22% · Margen 38% | | | | | |
+| **MSFT** | 46 | AI Cloud + Copilot Monetization | +18% | 39% | 20 | 1.1 | -10% |
+| | | Revenue +18% · Margen 39% | | | | | |
 
 
 ---
