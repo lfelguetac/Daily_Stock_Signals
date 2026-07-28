@@ -1,12 +1,18 @@
-# Swing Signals — 2026-07-28 | 21:00 CLT (Hora Chile, UTC-04:00)
+# Swing Signals — 2026-07-28 | 15:01 CLT (Hora Chile, UTC-04:00)
 
-> 🌎 Hora local Santiago. Visitantes de otros países: 01:00 UTC.
+> 🌎 Hora local Santiago. Visitantes de otros países: 19:01 UTC.
 >
-> 18 acciones · 5 COMPRAR/ACUMULAR · 10 OBSERVAR · 3 ESPERAR/EVITAR · COMPRADOR — Varias oportunidades de entrada en pullbacks de calidad.
+> 18 acciones · 6 COMPRAR/ACUMULAR · 6 OBSERVAR · 6 ESPERAR/EVITAR · COMPRADOR — Varias oportunidades de entrada en pullbacks de calidad.
 
 
 ## 📰 Noticias del Mercado
 
+- [Estamos comprando la caída de una de nuestras acciones por dos razones clave](https://www.cnbc.com/2026/07/28/were-buying-the-dip-on-one-of-our-stocks-for-two-key-reasons.html)
+  _CNBC — No vemos señales de una desaceleración en la industria de entrega de paquetes y creemos que FedEx le está robando participación a su rival UPS._
+- [Las 10 principales cosas a tener en cuenta en el mercado de valores de Jim Cramer el martes](https://www.cnbc.com/2026/07/28/jim-cramers-top-10-things-to-watch-in-the-stock-market-tuesday.html)
+  _CNBC — Continúa la caída del stock de chips. _
+- [Coca-Cola está a punto de informar sus resultados. ](https://www.cnbc.com/2026/07/28/coca-cola-ko-q2-2026-earnings.html)
+  _CNBC — Las acciones de Coca-Cola han subido un 19% este año, superando las ganancias del S&P 500._
 - [Apple termina su día como la empresa más valiosa del mundo, superando a Nvidia](https://www.cnbc.com/2026/07/27/apple-most-valuable-company-nvidia.html)
   _CNBC — Nvidia había ocupado el primer puesto como empresa más valiosa desde junio de 2025, cuando le arrebató la corona a Microsoft._
 - [El potencial respaldo de Nvidia de 250 mil millones de dólares para OpenAI es otro golpe contra el comercio de IA](https://www.cnbc.com/2026/07/27/nvidias-potential-250b-backstop-for-openai-is-another-strike-against-the-ai-trade.html)
@@ -17,12 +23,6 @@
   _CNBC — Todos los días de la semana, el Investing Club publica el Homestretch; _
 - [JetBlue renueva sus opciones de tarifas, desde la primera básica hasta la económica flexible. ](https://www.cnbc.com/2026/07/27/jetblue-new-fare-options-basic-economy-first-class.html)
   _CNBC — JetBlue está eliminando su producto "Core" y poniendo los boletos económicos con un nuevo nombre._
-- [Por qué Boeing y Corning se están moviendo en direcciones opuestas y qué esperar a continuación](https://www.cnbc.com/2026/07/27/why-boeing-corning-are-moving-in-opposite-directions-and-whats-next.html)
-  _CNBC — El Club de Inversiones celebra su "reunión matutina" todos los días laborables a las 10:20 a. m., hora del Este._
-- [Sam Altman se reunirá con los senadores de la administración Trump esta semana. ](https://www.cnbc.com/2026/07/27/altman-trump-china-open-weight-ai.html)
-  _CNBC — Altman ofrecerá una vista previa de las capacidades de la próxima familia de modelos de IA de la compañía y responderá preguntas sobre ciberseguridad y modelos de peso abierto._
-- [Estamos comprando más acciones industriales en caída y un fabricante de chips muy afectado](https://www.cnbc.com/2026/07/27/were-buying-more-of-a-slumping-industrial-stock-and-a-hard-hit-chipmaker.html)
-  _CNBC — Estamos poniendo dinero a trabajar en el mercado del lunes a medida que caen los precios del petróleo._
 
 ---
 
@@ -41,30 +41,35 @@
 
 ## 🔥 Mejores Setups de Swing
 
-### 🔵 **META** $593.87 (-0.2%) · Score 66
-Fund 40/40 · Mom 0/30 · Entry 26/30 · Pullback 13% · RSI 45
-Entrada $623.15 — $593.87 · Stop $538.26 · Target $686.08
+### 🔵 **META** $595.27 (+0.2%) · Score 66
+Fund 40/40 · Mom 0/30 · Entry 26/30 · Pullback 13% · RSI 48
+Entrada $624.78 — $595.27 · Stop $538.40 · Target $686.08
 Revenue growth +33% (excelente) · Margen 33% (premium) · Tendencia bajista
 
-### 🔵 **NVDA** $196.51 (-5.0%) · Score 61
-Fund 40/40 · Mom 0/30 · Entry 21/30 · Pullback 8% · RSI 50
-Entrada $203.53 — $196.51 · Stop $185.79 · Target $236.26
+### 🔵 **NVDA** $197.40 (+0.5%) · Score 61
+Fund 40/40 · Mom 0/30 · Entry 21/30 · Pullback 8% · RSI 44
+Entrada $203.65 — $197.40 · Stop $187.27 · Target $232.01
 Revenue growth +85% (excelente) · Margen 63% (premium) · Tendencia bajista
 
-### 🔵 **AVGO** $383.22 (+0.3%) · Score 61
-Fund 39/40 · Mom 5/30 · Entry 17/30 · Pullback 6% · RSI 55
-Entrada $382.31 — $383.22 · Stop $348.60 · Target $494.22
-Revenue growth +48% (excelente) · Margen 39% (premium) · Tendencia lateral/indefinida
+### 🔵 **AVGO** $382.26 (-0.2%) · Score 60
+Fund 39/40 · Mom 0/30 · Entry 21/30 · Pullback 6% · RSI 47
+Entrada $382.80 — $382.26 · Stop $348.96 · Target $494.22
+Revenue growth +48% (excelente) · Margen 39% (premium) · Tendencia bajista
 
-### 🔵 **GOOGL** $326.56 (+2.1%) · Score 60
-Fund 35/40 · Mom 0/30 · Entry 25/30 · Pullback 13% · RSI 31
-Entrada $351.65 — $326.56 · Stop $309.00 · Target $408.37
+### 🔵 **GOOGL** $335.28 (+2.7%) · Score 60
+Fund 35/40 · Mom 0/30 · Entry 25/30 · Pullback 11% · RSI 38
+Entrada $350.73 — $335.28 · Stop $308.94 · Target $408.37
 Revenue growth +24% (fuerte) · Margen 55% (premium) · Tendencia bajista
 
-### 🔵 **PLTR** $131.53 (+7.0%) · Score 59
-Fund 38/40 · Mom 0/30 · Entry 21/30 · Pullback 5% · RSI 46
-Entrada $128.83 — $131.53 · Stop $111.26 · Target $163.70
-Revenue growth +85% (excelente) · Margen 44% (premium) · Tendencia lateral/indefinida
+### 🔵 **PLTR** $123.59 (-6.0%) · Score 59
+Fund 38/40 · Mom 0/30 · Entry 21/30 · Pullback 11% · RSI 41
+Entrada $129.22 — $123.59 · Stop $111.05 · Target $163.70
+Revenue growth +85% (excelente) · Margen 44% (premium) · Tendencia bajista
+
+### 🔵 **AAPL** $339.45 (+0.8%) · Score 57
+Fund 33/40 · Mom 24/30 · Entry 0/30 · Pullback 1% · RSI 72
+Entrada $319.93 — $339.45 · Stop $276.75 · Target $342.89
+Revenue growth +17% (fuerte) · Margen 27% (premium) · Tendencia alcista fuerte (Precio > SMA20 > SMA50)
 
 ---
 
@@ -72,24 +77,24 @@ Revenue growth +85% (excelente) · Margen 44% (premium) · Tendencia lateral/ind
 
 | Ticker | Precio | Cambio | Score | F|M|E | Pullback | RSI | Entrada | Stop | Target | Trend |
 |--------|--------|--------|-------|----|---|----------|-----|---------|------|--------|-------|
-| 🔵 META | $593.87 | -0.2% | 66 | 40|0|26 | -13% | 45 | $623 | $538 | $686 | ↓ |
-| 🔵 NVDA | $196.51 | -5.0% | 61 | 40|0|21 | -8% | 50 | $204 | $186 | $236 | ↓ |
-| 🔵 AVGO | $383.22 | +0.3% | 61 | 39|5|17 | -6% | 55 | $382 | $349 | $494 | → |
-| 🔵 GOOGL | $326.56 | +2.1% | 60 | 35|0|25 | -13% | 31 | $352 | $309 | $408 | ↓ |
-| 🔵 PLTR | $131.53 | +7.0% | 59 | 38|0|21 | -5% | 46 | $129 | $111 | $164 | → |
-| ⚪ SOFI | $16.88 | +2.5% | 53 | 32|0|21 | -14% | 43 | $18 | $16 | $20 | ↓ |
-| ⚪ MSFT | $389.10 | +1.9% | 52 | 38|5|9 | -4% | 50 | $388 | $348 | $466 | → |
-| ⚪ AMZN | $231.39 | -0.3% | 52 | 27|0|25 | -10% | 34 | $244 | $224 | $275 | ↓ |
-| ⚪ AAPL | $336.91 | +1.2% | 52 | 33|19|0 | -1% | 72 | $317 | $272 | $340 | ↑↑ |
-| ⚪ GEV | $996.57 | -1.8% | 52 | 32|0|20 | -17% | 38 | $1072 | $881 | $1196 | ↓ |
-| ⚪ VRT | $287.60 | -0.9% | 49 | 33|0|16 | -15% | 40 | $306 | $256 | $380 | ↓ |
-| ⚪ NOW | $105.56 | +6.9% | 47 | 23|6|18 | -7% | 44 | $104 | $85 | $139 | → |
-| ⚪ MOD | $230.40 | -4.7% | 47 | 26|0|21 | -14% | 50 | $239 | $196 | $323 | ↓ |
-| ⚪ AMD | $494.95 | -5.2% | 46 | 29|1|16 | -15% | 46 | $532 | $424 | $585 | ↓ |
-| ⚪ CCJ | $89.35 | +1.7% | 46 | 21|0|25 | -15% | 39 | $93 | $80 | $122 | ↓ |
-| 🔴 CRM | $173.60 | +6.1% | 29 | 22|5|2 | -2% | 53 | — | — | — | → |
-| 🔴 POWL | $219.23 | -5.6% | 25 | 24|0|1 | -25% | 43 | — | — | — | ↓ |
-| 🔴 RKLB | $66.94 | +4.7% | 10 | 10|0|0 | -38% | 27 | — | — | — | ↓ |
+| 🔵 META | $595.27 | +0.2% | 66 | 40|0|26 | -13% | 48 | $625 | $538 | $686 | ↓ |
+| 🔵 NVDA | $197.40 | +0.5% | 61 | 40|0|21 | -8% | 44 | $204 | $187 | $232 | ↓ |
+| 🔵 AVGO | $382.26 | -0.2% | 60 | 39|0|21 | -6% | 47 | $383 | $349 | $494 | ↓ |
+| 🔵 GOOGL | $335.28 | +2.7% | 60 | 35|0|25 | -11% | 38 | $351 | $309 | $408 | ↓ |
+| 🔵 PLTR | $123.59 | -6.0% | 59 | 38|0|21 | -11% | 41 | $129 | $111 | $164 | ↓ |
+| 🔵 AAPL | $339.45 | +0.8% | 57 | 33|24|0 | -1% | 72 | $320 | $277 | $343 | ↑↑ |
+| ⚪ AMZN | $231.22 | -0.1% | 52 | 27|0|25 | -10% | 36 | $243 | $221 | $275 | ↓ |
+| ⚪ MSFT | $396.78 | +2.0% | 49 | 38|2|9 | -2% | 58 | $389 | $356 | $466 | → |
+| ⚪ SOFI | $16.64 | -1.4% | 48 | 32|0|16 | -16% | 41 | $18 | $15 | $20 | ↓ |
+| ⚪ NOW | $111.13 | +5.3% | 45 | 23|16|6 | -2% | 54 | $105 | $85 | $139 | → |
+| ⚪ CCJ | $86.33 | -3.4% | 41 | 21|0|20 | -17% | 35 | $92 | $80 | $122 | ↓ |
+| ⚪ AMD | $458.14 | -7.4% | 40 | 29|6|5 | -22% | 39 | $528 | $404 | $585 | ↓ |
+| 🔴 GEV | $936.05 | -6.1% | 37 | 32|0|5 | -22% | 33 | — | — | — | ↓ |
+| 🔴 VRT | $266.91 | -7.2% | 33 | 33|0|0 | -21% | 25 | — | — | — | ↓ |
+| 🔴 MOD | $209.93 | -8.9% | 31 | 26|0|5 | -22% | 37 | — | — | — | ↓ |
+| 🔴 POWL | $202.53 | -7.6% | 29 | 24|0|5 | -30% | 38 | — | — | — | ↓ |
+| 🔴 CRM | $183.23 | +5.5% | 27 | 22|5|0 | -1% | 62 | — | — | — | → |
+| 🔴 RKLB | $63.15 | -5.7% | 10 | 10|0|0 | -41% | 24 | — | — | — | ↓ |
 
 > **F**undamental / **M**omentum / **E**ntry (pullback). Score = F(40) + M(30) + E(30)
 
@@ -102,21 +107,21 @@ Holdings con mejor combinación de fundamentales, narrativa y momentum.
 
 | Ticker | Score | Narrativa | Rev | Margen | Fwd P/E | Beta | Mom 6m |
 |--------|-------|-----------|-----|--------|---------|------|--------|
-| **NVDA** | 59 | AI Infrastructure Dominance | +85% | 63% | 15 | 2.2 | +9% |
+| **NVDA** | 59 | AI Infrastructure Dominance | +85% | 63% | 15 | 2.2 | +14% |
 | | | Revenue +85% · Margen 63% | | | | | |
-| **AVGO** | 59 | AI Networking + VMware Synergy | +48% | 39% | 20 | 1.5 | +20% |
+| **AVGO** | 59 | AI Networking + VMware Synergy | +48% | 39% | 20 | 1.5 | +25% |
 | | | Revenue +48% · Margen 39% | | | | | |
-| **META** | 54 | AI Advertising + Open Source LLM | +33% | 33% | 16 | 1.2 | -14% |
+| **META** | 54 | AI Advertising + Open Source LLM | +33% | 33% | 16 | 1.2 | -11% |
 | | | Revenue +33% · Margen 33% | | | | | |
-| **AAPL** | 51 | AI iPhone Supercycle + Services | +17% | 27% | 35 | 1.1 | +25% |
-| | | Revenue +17% · Margen 27% | | | | | |
-| **VRT** | 51 | Data Center Power & Cooling Infrastructure | +30% | 14% | 33 | 2.0 | +51% |
+| **VRT** | 51 | Data Center Power & Cooling Infrastructure | +30% | 14% | 30 | 2.0 | +46% |
 | | | Revenue +30% · ROE 45% | | | | | |
-| **GEV** | 48 | Energy Transition + Grid Modernization | +22% | 23% | 40 | 0.9 | +28% |
-| | | Revenue +22% · Baja deuda | | | | | |
-| **AMD** | 46 | AI Chip Challenger + Data Center Growth | +38% | 13% | 36 | 2.5 | +104% |
+| **AMD** | 50 | AI Chip Challenger + Data Center Growth | +38% | 13% | 33 | 2.5 | +129% |
 | | | Revenue +38% · Baja deuda | | | | | |
-| **MSFT** | 46 | AI Cloud + Copilot Monetization | +18% | 39% | 20 | 1.1 | -5% |
+| **GEV** | 48 | Energy Transition + Grid Modernization | +22% | 23% | 38 | 0.9 | +26% |
+| | | Revenue +22% · Baja deuda | | | | | |
+| **AAPL** | 47 | AI iPhone Supercycle + Services | +17% | 27% | 35 | 1.1 | +23% |
+| | | Revenue +17% · Margen 27% | | | | | |
+| **MSFT** | 46 | AI Cloud + Copilot Monetization | +18% | 39% | 20 | 1.1 | -4% |
 | | | Revenue +18% · Margen 39% | | | | | |
 
 
