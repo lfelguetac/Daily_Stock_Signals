@@ -1,6 +1,6 @@
-# Señales — 2026-09-22 | 23:45 CLST (Hora Chile, UTC-03:00)
+# Señales — 2026-09-22 | 15:25 CLST (Hora Chile, UTC-03:00)
 
-> 🌎 Hora local Santiago. Resto del mundo: 02:45 UTC. Sesión: Daily Close.
+> 🌎 Hora local Santiago. Resto del mundo: 18:25 UTC. Sesión: Daily Close.
 >
 > 14 acciones · 1 COMPRAR/ACUMULAR · 🏷️ 1 en oferta · DEFENSIVO — sin entradas claras, efectivo o esperar.
 
@@ -9,249 +9,245 @@
 
 ## 🎯 Fichas por ticker (ordenadas por score)
 
-## 🔵 NOW $137.68 `+1.6%` — ACCUMULATE (63, -2) · convicción media
+## 🔵 NOW $136.74 `-0.7%` — ACCUMULATE (54, -3) · convicción media
 
 <details>
 <summary>Fundamentales · Técnico · Noticias · Síntesis</summary>
 
-**Fundamentales:** Rev +24% · Margen 11% · ROE 14% · Fwd P/E 28 · D/E 68
+**Fundamentales:** Rev +24% · Margen 11% · ROE 14% · Fwd P/E 27 · D/E 68
 
-**Técnico:** alcista fuerte ↑↑ · RSI 41 · SMA20 $137.16 · Mom3m +43.5% · Pullback -8%
-Entrada $137.16–$137.68 · Stop $118.77 · Target $149.60 (R:R 0.7)
+**Técnico:** lateral → · RSI 44 · SMA20 $137.59 · Mom3m +45.8% · Pullback -9%
+Entrada $137.59–$136.74 · Stop $118.74 · Target $149.60 (R:R 0.6)
 
-**Noticias 7d:** 🟡 -0.2 (8) — "SNX frente a NOW: ¿Qué acción es la opción de mejor valor?" / "AHORA se basa en una fuerte demanda de flujo de trabajo: ¿puede superar a CRM y MSFT?" / "¿Puede el fuerte crecimiento de la nube sostener el impulso de los ingresos de Atlassian?" / "Everbridge convocará a líderes empresariales europeos en Múnich para una cumbre sobre resiliencia operativa"
+**Noticias 7d:** 🔴 -0.4 (10) — "Las alianzas de IA y los objetivos elevados podrían cambiar las reglas del juego para ServiceNow (AHORA)" / "¿Puede Guidewire Software mantener su sólido impulso de crecimiento de ARR?" / "ClickHouse nombra a Mike Scarpelli, ex director financiero de Snowflake y ServiceNow, miembro de la junta dire" / "Descubra los principales impulsores del S&P500 en la sesión previa a la comercialización del martes."
 
-**Síntesis IA:** ✅ Revenue growth +24% (fuerte), PEG 1.0 (subvalorado), Tendencia alcista fuerte (Precio > SMA20 > SMA50), Momentum 3m +44% (muy fuerte), Pullback ideal 8% desde máx 20d · ⚠️ Avg sentiment -0.25, Critical 0 · 📌 Score -5, RSI -1.4, Momentum 3m -1.2
+**Síntesis IA:** ✅ Revenue growth +24% (fuerte), PEG 1.0 (subvalorado), Momentum 3m +46% (muy fuerte) · ⚠️ Tendencia lateral/indefinida, Pullback ideal 9% desde máx 20d · 📌 score -6, avg_sentiment -0.26
 
 </details>
 
 ---
 
-## ⚪ VRT $250.86 `+0.6%` — WATCH (53, -1) · convicción baja
+## ⚪ VRT $253.86 `+1.2%` — WATCH (49, -5) · convicción baja
 
 <details>
 <summary>Fundamentales · Técnico · Noticias · Síntesis</summary>
 
 **Fundamentales:** Rev +24% · Margen 15% · ROE 44% · Fwd P/E 28 · D/E 70
 
-**Técnico:** bajista ↓ · RSI 47 · SMA20 $256.64 · Mom3m -21.2% · Pullback -15%
-Entrada $256.64–$253.37 · Stop $212.50 · Target $317.10 (R:R 1.4)
+**Técnico:** bajista ↓ · RSI 49 · SMA20 $256.59 · Mom3m -19.8% · Pullback -14%
+Entrada $256.59–$256.40 · Stop $212.77 · Target $317.10 (R:R 1.4)
 
-**Noticias 7d:** 🟡 +0.0 (6) — "Tres acciones de infraestructura de IA a tener en cuenta a medida que el gasto en centros de datos remodela la" / "Qué significan las tasas de interés más altas para Caterpillar, GE Vernova y Vertiv" / "Vertiv Holdings Co-A (NYSE:VRT): un caso de crecimiento asequible respaldado por una sólida rentabilidad" / "2 acciones superiores de infraestructura de inteligencia artificial para comprar y mantener durante 10 años"
+**Noticias 7d:** 🔴 -0.6 (10) — "La capacidad de energía energizada está dando forma a la próxima fase de la infraestructura de IA" / "El blog de analistas de Zacks destaca a NVIDIA, Vertiv, Arista Networks, Broadcom y Hewlett Packard" / "Vertiv frente a Eaton: esta acción de infraestructura de IA es la mejor compra" / "Aceleración de empresa de centros de datos y patrocinador busca 720 millones de dólares en oferta pública inic"
 
-**Síntesis IA:** ✅ Revenue growth +24% (fuerte), Margen 15% (saludable) · ⚠️ Avg sentiment 0.0, Critical 0, Tendencia bajista, Momentum 3m -21% (débil), Pullback ideal 15% desde máx 20d · 📌 Score -1, RSI -0.7, Momentum 3m +5.7
-
-</details>
-
----
-
-## ⚪ VICR $223.90 `+0.5%` — WATCH (42) · convicción baja
-
-<details>
-<summary>Fundamentales · Técnico · Noticias · Síntesis</summary>
-
-**Fundamentales:** Rev +49% · Margen 31% · ROE 20% · Fwd P/E 40 · D/E 1
-
-**Técnico:** lateral → · RSI 65 · SMA20 $192.73 · Mom3m -33.4% · Pullback -4%
-Entrada $192.73–$226.14 · Stop $158.25 · Target $279.00 (R:R 2.5)
-
-**Noticias 7d:** 🟡 +0.0 (1) — "Vicor (VICR) ha subido un 12,5% después de licenciar su tecnología de energía de IA. ¿Está cambiando el caso B"
-
-**Síntesis IA:** ✅ Revenue growth +49% (excelente), Margen 31% (premium) · ⚠️ Avg sentiment 0.0, Critical 0, Tendencia lateral/indefinida, Momentum 3m -33% (débil), Pullback leve 4% · 📌 Score -1, RSI +1.0, Momentum 3m +0.1
+**Síntesis IA:** ✅ Revenue growth +24% (fuerte), Margen 15% (saludable) · ⚠️ Tendencia bajista, Momentum 3m -20% (débil) · 📌 score -1, avg_sentiment -0.4
 
 </details>
 
 ---
 
-## ⚪ POWL $187.56 `+2.0%` — WATCH (41) · convicción baja
-
-<details>
-<summary>Fundamentales · Técnico · Noticias · Síntesis</summary>
-
-**Fundamentales:** Rev +9% · Margen 16% · ROE 28% · Fwd P/E 27 · D/E 0
-
-**Técnico:** lateral → · RSI 56 · SMA20 $180.75 · Mom3m -35.6% · Pullback -6%
-Entrada $180.75–$189.44 · Stop $159.21 · Target $248.22 (R:R 3.1)
-
-**Noticias 7d:** sin noticias frescas
-
-**Síntesis IA:** ✅ Revenue growth +9%, Margen 16% (saludable) · ⚠️ Avg sentiment 0.0, Critical 0, Tendencia lateral/indefinida, Momentum 3m -36% (débil), Pullback ideal 6% desde máx 20d · 📌 Score +1, RSI +0.2, Momentum 3m +0.1
-
-</details>
-
----
-
-## ⚪ GEV $946.22 `+0.6%` — WATCH (40, -3) · convicción baja
-
-🏷️ **OFERTA T2 — recuperó SMA20, tendencia reparándose: segundo tramo**
-
-<details>
-<summary>Fundamentales · Técnico · Noticias · Síntesis</summary>
-
-**Fundamentales:** Rev +22% · Margen 23% · ROE 83% · Fwd P/E 37 · D/E 28
-
-**Técnico:** lateral → · RSI 58 · SMA20 $929.41 · Mom3m -8.6% · Pullback -4%
-Entrada $929.41–$955.68 · Stop $830.69 · Target $1140.99 (R:R 2.1)
-
-**Noticias 7d:** 🔴 -0.3 (10) — "GE Vernova frente a Oklo: ¿Qué acciones industriales son una mejor compra en 2026?" / "Wall Street no puede ponerse de acuerdo sobre GE Vernova. " / "SpaceX encuentra la manera de evitar la moratoria del centro de datos mientras más de 300 restricciones retras" / "Wall Street se volvió más optimista respecto a GE Vernova. "
-
-**Síntesis IA:** ✅ Revenue growth +22% (fuerte), Margen 23% (saludable) · ⚠️ Avg sentiment -0.3, Critical 1, Tendencia lateral/indefinida, Bajo SPY por -14% en 3m, Pullback leve 4% · 📌 Score 0, RSI +1.0, Momentum 3m +0.7
-
-</details>
-
----
-
-## ⚪ BE $272.89 `+2.7%` — WATCH (37, -3) · convicción baja
-
-<details>
-<summary>Fundamentales · Técnico · Noticias · Síntesis</summary>
-
-**Fundamentales:** Rev +166% · Margen 8% · ROE 22% · Fwd P/E 55 · D/E 172
-
-**Técnico:** alcista ↑ · RSI 69 · SMA20 $244.02 · Mom3m -15.2% · Pullback -5%
-Entrada $244.02–$275.62 · Stop $167.40 · Target $288.00 (R:R 0.6)
-
-**Noticias 7d:** 🔴 -0.4 (10) — "¿Por qué las existencias de Bloom Energy se triplicaron en un año?" / "Loren Finegold y Ed Comber se unen al crecimiento de la práctica, las finanzas y la infraestructura de Vinson " / "Bloom Energy (BE) aumenta a medida que los hiperescaladores de IA adoptan pilas de combustible de óxido sólido" / "SpaceX encuentra la manera de evitar la moratoria del centro de datos mientras más de 300 restricciones retras"
-
-**Síntesis IA:** ✅ Revenue growth +166% (excelente), ROE 22% (sólido), Tendencia alcista (sobre SMA20) · ⚠️ Avg sentiment -0.31, Critical 0, Momentum 3m -15% (débil), Pullback ideal 5% desde máx 20d · 📌 Score -1, RSI +3.3, Momentum 3m +0.6
-
-</details>
-
----
-
-## ⚪ MU $1043.96 `+2.8%` — WATCH (35, -15) · convicción baja
+## ⚪ MU $1087.91 `+4.2%` — WATCH (46, -7) · convicción baja
 
 <details>
 <summary>Fundamentales · Técnico · Noticias · Síntesis</summary>
 
 **Fundamentales:** Rev +346% · Margen 56% · ROE 67% · Fwd P/E 7 · D/E 6
 
-**Técnico:** alcista fuerte ↑↑ · RSI 61 · SMA20 $963.46 · Mom3m -0.7% · Pullback -2%
-Entrada $963.46–$1054.40 · Stop $843.24 · Target $1064.49 (R:R 0.8)
+**Técnico:** alcista fuerte ↑↑ · RSI 70 · SMA20 $972.33 · Mom3m +3.8% · Pullback -0%
+Entrada $972.33–$1098.79 · Stop $857.38 · Target $1089.07 (R:R 1.0)
 
-**Noticias 7d:** 🔴 -0.8 (10) — "El director ejecutivo de Intel acaba de dar una gran noticia a los inversores en tecnología de Micron" / "Mercado de valores hoy: Nasdaq ruge mientras Micron prueba su entrada; " / "AMD irrumpe en el club del billón de dólares a medida que las acciones de chips suben" / "AMD alcanza una capitalización de mercado de 1 billón de dólares: 3 razones por las que Nvidia se quedó fuera "
+**Noticias 7d:** 🔴 -0.7 (10) — "Futuros del Dow Jones: Caída de los precios del petróleo y rendimientos provocan un repunte del mercado; " / "Las acciones de Micron han vuelto a superar los 1.000 dólares. " / "NVIDIA o Micron: ¿a quién se le paga de forma más segura por la escasez de IA?" / "El director ejecutivo de Intel acaba de dar una gran noticia a los inversores en tecnología de Micron"
 
-**Síntesis IA:** ✅ Revenue growth +346% (excelente), Margen 56% (premium), Tendencia alcista fuerte (Precio > SMA20 > SMA50) · ⚠️ Avg sentiment -0.72, Critical 8, Bajo SPY por -6% en 3m · 📌 Score -1, RSI -0.5, Momentum 3m +0.4
+**Síntesis IA:** ✅ Revenue growth +346% (excelente), Margen 56% (premium), Tendencia alcista fuerte · ⚠️ Momentum 3m +3.8% (débil) · 📌 score -1, avg_sentiment -0.68
 
 </details>
 
 ---
 
-## 🟡 ALAB $340.74 `+12.4%` — WAIT (34, -3) · convicción baja
+## ⚪ GEV $953.70 `+0.8%` — WATCH (39, -4) · convicción baja
+
+🏷️ **OFERTA T2 — recuperó SMA20, tendencia reparándose: segundo tramo**
 
 <details>
 <summary>Fundamentales · Técnico · Noticias · Síntesis</summary>
 
-**Fundamentales:** Rev +104% · Margen 31% · ROE 26% · Fwd P/E 53 · D/E 3
+**Fundamentales:** Rev +22% · Margen 23% · ROE 83% · Fwd P/E 38 · D/E 28
 
-**Técnico:** lateral → · RSI 59 · SMA20 $288.49 · Mom3m -14.2% · Pullback -1%
+**Técnico:** lateral → · RSI 59 · SMA20 $929.99 · Mom3m -9.8% · Pullback -3%
+Entrada $929.99–$963.24 · Stop $830.59 · Target $1140.99 (R:R 2.1)
 
-**Noticias 7d:** 🔴 -1.0 (4) — "CRDO cae un 20,3% en un mes: ¿Es la debilidad una oportunidad?" / "La tecnología Marvell cayó con fuerza durante 3 meses: tiene impulso y la confianza de un profesional de Wall " / "La tecnología Credo colapsó durante 3 meses: este profesional de Wall Street dice que está a punto de duplicar" / "Astera Labs frente a Qualcomm: ¿Qué acción de semiconductores es una mejor compra en 2026?"
+**Noticias 7d:** 🔴 -0.5 (10) — "GE Vernova es el jugador que produce cuellos de botella en la energía de la IA y que no dejaré de comprar" / "Esta semana en transición energética: desafíos y oportunidades del auge de la energía eólica en el futuro" / "Después de un retraso de 176.000 millones de dólares, GE Vernova envía una llamada de atención a los inversore" / "¿Debería olvidarse de Nvidia y comprar estas tres acciones de infraestructura de inteligencia artificial de fa"
 
-**Síntesis IA:** ✅ Revenue growth +104% (excelente), Margen 31% (premium) · ⚠️ Avg sentiment -1.0, Critical 0, Tendencia lateral/indefinida, Momentum 3m -14% (débil), RSI 59 (neutral) · 📌 Score +5, RSI +0.4, Momentum 3m +0.1
+**Síntesis IA:** ✅ Revenue growth +22% (fuerte), Margen 23% (saludable) · ⚠️ Tendencia lateral/indefinida, Momentum 3m -9.8% (débil) · 📌 score -1, avg_sentiment -0.33
 
 </details>
 
 ---
 
-## 🟡 IONQ $40.51 `+3.5%` — WAIT (33) · convicción baja
+## 🟡 CRDO $191.80 `+2.4%` — WAIT (34, -5) · convicción baja
+
+<details>
+<summary>Fundamentales · Técnico · Noticias · Síntesis</summary>
+
+**Fundamentales:** Rev +115% · Margen 34% · ROE 31% · Fwd P/E 20 · D/E 1
+
+**Técnico:** lateral → · RSI 44 · SMA20 $185.14 · Mom3m -28.7% · Pullback -22%
+
+**Noticias 7d:** 🔴 -0.4 (10) — "Jim Cramer sobre Credo (CRDO): "Creo que puedes comprar acciones"" / "Por qué la nueva óptica 1.6T de Credo es importante para su impulso óptico de $600 millones" / "¿Vale la pena comprar acciones de CRDO ya que el crecimiento supera la valoración de sus primas?" / "CRDO cae un 20,3% en un mes: ¿Es la debilidad una oportunidad?"
+
+**Síntesis IA:** ✅ Revenue growth +115% (excelente), Margen 34% (premium) · ⚠️ Tendencia lateral/indefinida, Momentum 3m -29% (débil) · 📌 score -1, avg_sentiment -0.45
+
+</details>
+
+---
+
+## 🟡 ALAB $362.69 `+6.4%` — WAIT (31, -6) · convicción baja
+
+<details>
+<summary>Fundamentales · Técnico · Noticias · Síntesis</summary>
+
+**Fundamentales:** Rev +104% · Margen 31% · ROE 26% · Fwd P/E 57 · D/E 3
+
+**Técnico:** lateral → · RSI 67 · SMA20 $292.74 · Mom3m -9.3% · Pullback -2%
+
+**Noticias 7d:** 🔴 -0.6 (7) — "Las acciones de Astera Labs subieron un 12% ayer. " / "Las acciones tecnológicas se disparan: la próxima etapa del mercado alcista" / "CRDO cae un 20,3% en un mes: ¿Es la debilidad una oportunidad?" / "Las acciones de semiconductores en general cotizan al alza en medio de posibles preocupaciones por la escasez "
+
+**Síntesis IA:** ✅ Revenue growth +104% (excelente), Margen 31% (premium) · ⚠️ Tendencia lateral/indefinida, Momentum 3m -9.3% (débil) · 📌 score -1, avg_sentiment -0.57
+
+</details>
+
+---
+
+## 🟡 POWL $190.38 `+1.5%` — WAIT (31) · convicción baja
+
+<details>
+<summary>Fundamentales · Técnico · Noticias · Síntesis</summary>
+
+**Fundamentales:** Rev +9% · Margen 16% · ROE 28% · Fwd P/E 27 · D/E 0
+
+**Técnico:** lateral → · RSI 66 · SMA20 $180.82 · Mom3m -35.3% · Pullback -4%
+
+**Noticias 7d:** 🟡 +0.0 (1) — "Dos acciones industriales a considerar ahora mismo y una que decepciona"
+
+**Síntesis IA:** ✅ Revenue growth +9%, Margen 16% (saludable) · ⚠️ Tendencia lateral/indefinida, Momentum 3m -35% (débil) · 📌 score -1, avg_sentiment 0.0
+
+</details>
+
+---
+
+## 🟡 VICR $266.05 `+18.8%` — WAIT (30, -5) · convicción baja
+
+<details>
+<summary>Fundamentales · Técnico · Noticias · Síntesis</summary>
+
+**Fundamentales:** Rev +49% · Margen 31% · ROE 20% · Fwd P/E 47 · D/E 1
+
+**Técnico:** lateral → · RSI 79 · SMA20 $196.53 · Mom3m -17.4% · Pullback -0%
+
+**Noticias 7d:** 🔴 -0.3 (10) — "Sandisk, GameStop, Viking Therapeutics, Vicor, On Holding y más acciones que explican el mercado actual" / "¿Cuánta ventaja le queda a Vicor (VICR)? " / "¿Por qué las acciones de Vicor subieron antes de aumentar sus perspectivas?" / "Las acciones de este fabricante de piezas eléctricas han ganado un 316% en 2026. Hoy están aumentando nuevamen"
+
+**Síntesis IA:** ✅ Revenue growth +49% (excelente), Margen 31% (premium) · ⚠️ Tendencia lateral/indefinida, Momentum 3m -17% (débil) · 📌 score -1, avg_sentiment -0.35
+
+</details>
+
+---
+
+## 🟡 IONQ $40.42 `-0.2%` — WAIT (30, -3) · convicción baja
 
 <details>
 <summary>Fundamentales · Técnico · Noticias · Síntesis</summary>
 
 **Fundamentales:** Rev +287% · Margen — · ROE -60% · Fwd P/E -31 · D/E 2
 
-**Técnico:** lateral → · RSI 54 · SMA20 $39.08 · Mom3m -30.0% · Pullback -9%
+**Técnico:** lateral → · RSI 59 · SMA20 $39.05 · Mom3m -24.6% · Pullback -9%
 
-**Noticias 7d:** 🟡 +0.0 (4) — "3 cosas que necesita saber antes de comprar acciones de IonQ" / "Las opciones de IonQ son las más baratas de todo el año. " / "¿Podrían los circuitos cuánticos escritos con IA IonQ (IONQ) desbloquear más cargas de trabajo del mundo real?" / "Lo que movió a los mercados esta semana"
+**Noticias 7d:** 🔴 -0.3 (10) — "Wedbush reitera su rendimiento superior en IonQ y mantiene el precio objetivo de 75 dólares" / "IonQ acaba de recaudar la orientación de ingresos para 2026. " / "Las acciones de IONQ suben fuera de horario: IonQ se asocia con SDT, Inc., con sede en Corea del Sur, para imp" / "IonQ y SDT anuncian la primera asociación estratégica para llevar la computación cuántica avanzada y las redes"
 
-**Síntesis IA:** ✅ Revenue growth +287% (excelente), Balance sano (baja deuda) · ⚠️ Avg sentiment 0.0, Critical 0, Tendencia lateral/indefinida, Momentum 3m -30% (débil), Pullback ideal 9% desde máx 20d · 📌 Score -3, RSI +4.4, Momentum 3m +0.3
-
-</details>
-
----
-
-## ⚪ CRDO $187.27 `+6.5%` — WATCH (28, -15) · convicción baja
-
-<details>
-<summary>Fundamentales · Técnico · Noticias · Síntesis</summary>
-
-**Fundamentales:** Rev +115% · Margen 34% · ROE 31% · Fwd P/E 19 · D/E 1
-
-**Técnico:** lateral → · RSI 35 · SMA20 $186.68 · Mom3m -31.2% · Pullback -23%
-Entrada $186.68–$189.14 · Stop $136.42 · Target $286.24 (R:R 2.0)
-
-**Noticias 7d:** 🔴 -1.0 (4) — "El blog de analistas de Zacks destaca la tecnología Credo y NVIDIA" / "La tecnología Credo colapsó durante 3 meses: este profesional de Wall Street dice que está a punto de duplicar" / "¿Microsoft alcanzará más del 23%? " / "Mizuho mantiene un rendimiento superior en Credo Technology Group y reduce el precio objetivo a 245 dólares"
-
-**Síntesis IA:** ✅ Revenue growth +115% (excelente), Margen 34% (premium) · ⚠️ Avg sentiment -1.0, Critical 1, Tendencia lateral/indefinida, Momentum 3m -31% (débil), Caída fuerte 23% — posible cambio de tendencia · 📌 Score -3, RSI -0.1, Momentum 3m +0.1
+**Síntesis IA:** ✅ Revenue growth +287% (excelente), Balance sano (baja deuda) · ⚠️ Tendencia lateral/indefinida, Momentum 3m -25% (débil) · 📌 score -1, avg_sentiment -0.27
 
 </details>
 
 ---
 
-## 🟡 ELMD $27.00 `+1.8%` — WAIT (28) · convicción baja
+## 🟡 BE $277.27 `+1.6%` — WAIT (28, -4) · convicción baja
 
 <details>
 <summary>Fundamentales · Técnico · Noticias · Síntesis</summary>
 
-**Fundamentales:** Rev +12% · Margen 15% · ROE 23% · Fwd P/E 44 · D/E 0
+**Fundamentales:** Rev +166% · Margen 8% · ROE 22% · Fwd P/E 56 · D/E 172
 
-**Técnico:** bajista ↓ · RSI 43 · SMA20 $28.86 · Mom3m -29.9% · Pullback -35%
+**Técnico:** alcista ↑ · RSI 69 · SMA20 $247.68 · Mom3m -15.0% · Pullback -4%
+
+**Noticias 7d:** 🔴 -0.7 (10) — "BE frente a BLDP: ¿Qué stock de energía limpia tiene un mayor potencial de crecimiento?" / "1 acción de Momentum a la que apuntar esta semana y 2 que decepcionan" / "Por qué Bloom Energy (BE) superó al mercado de valores hoy" / "Pruebe sus conocimientos sobre ETF en nuestra prueba de coeficiente intelectual"
+
+**Síntesis IA:** ✅ Revenue growth +166% (excelente), ROE 22% (sólido), Tendencia alcista · ⚠️ Momentum 3m -15% (débil) · 📌 score -1, avg_sentiment -0.37
+
+</details>
+
+---
+
+## 🟡 ELMD $27.62 `+2.3%` — WAIT (27) · convicción baja
+
+<details>
+<summary>Fundamentales · Técnico · Noticias · Síntesis</summary>
+
+**Fundamentales:** Rev +12% · Margen 15% · ROE 23% · Fwd P/E 45 · D/E 0
+
+**Técnico:** bajista ↓ · RSI 54 · SMA20 $28.23 · Mom3m -29.4% · Pullback -32%
 
 **Noticias 7d:** sin noticias frescas
 
-**Síntesis IA:** ✅ Revenue growth +12%, Margen 15% (saludable) · ⚠️ Avg sentiment 0.0, Critical 0, Tendencia bajista, Momentum 3m -30% (débil), Caída fuerte 35% — posible cambio de tendencia · 📌 Score -3, RSI +2.4, Momentum 3m +0.8
+**Síntesis IA:** ✅ Revenue growth +12%, Margen 15% (saludable) · ⚠️ Tendencia bajista, Momentum 3m -29% (débil) · 📌 score -1, avg_sentiment 0.0
 
 </details>
 
 ---
 
-## 🔴 OKLO $40.18 `+5.7%` — AVOID (18, -4) · convicción baja
+## 🔴 OKLO $40.84 `+1.6%` — AVOID (15, -3) · convicción baja
 
 <details>
 <summary>Fundamentales · Técnico · Noticias · Síntesis</summary>
 
-**Fundamentales:** Rev — · Margen — · ROE -8% · Fwd P/E -40 · D/E 0
+**Fundamentales:** Rev — · Margen — · ROE -8% · Fwd P/E -41 · D/E 0
 
-**Técnico:** lateral → · RSI 49 · SMA20 $39.78 · Mom3m -29.7% · Pullback -13%
+**Técnico:** lateral → · RSI 56 · SMA20 $39.84 · Mom3m -24.5% · Pullback -12%
 
-**Noticias 7d:** 🔴 -0.7 (3) — "Los cortos prevalecen mientras las acciones de Oklo y NuScale caen a medida que aumentan los riesgos de SMR" / "Las acciones de Oklo (OKLO) ven un recorte en su valor razonable mientras los analistas comparan el crecimient" / "¿Tienes $1,000? "
+**Noticias 7d:** 🟡 -0.2 (8) — "¿Debería olvidarse de Nvidia y comprar estas tres acciones de infraestructura de inteligencia artificial de fa" / "Esta acción energética tiene un potencial de mejora del 130%" / "Las existencias de uranio se están recuperando. " / "GE Vernova frente a Oklo: ¿Qué acciones industriales son una mejor compra en 2026?"
 
-**Síntesis IA:** ✅ Balance sano (baja deuda) · ⚠️ Avg sentiment -0.67, Critical 2, Tendencia lateral/indefinida, Momentum 3m -30% (débil), Pullback ideal 13% desde máx 20d, RSI 49 (zona baja) · 📌 Score +8, RSI +0.1, Momentum 3m +0.2
+**Síntesis IA:** ✅ Balance sano (baja deuda) · ⚠️ Tendencia lateral/indefinida, Momentum 3m -24% (débil) · 📌 score -1, avg_sentiment -0.25
 
 </details>
 
 ---
 
-## 🔴 USAR $16.78 `+9.2%` — AVOID (16, -1) · convicción baja
+## 🔴 USAR $16.81 `+0.2%` — AVOID (13, -4) · convicción baja
 
 <details>
 <summary>Fundamentales · Técnico · Noticias · Síntesis</summary>
 
-**Fundamentales:** Rev — · Margen — · ROE -24% · Fwd P/E 559 · D/E 0
+**Fundamentales:** Rev — · Margen — · ROE -24% · Fwd P/E 560 · D/E 0
 
-**Técnico:** bajista ↓ · RSI 42 · SMA20 $17.12 · Mom3m -26.7% · Pullback -18%
+**Técnico:** bajista ↓ · RSI 46 · SMA20 $17.05 · Mom3m -21.5% · Pullback -18%
 
-**Noticias 7d:** 🔴 -0.5 (2) — "Las tierras raras de EE. UU. participan en el mitin de Groenlandia, pero no poseen nada allí" / "Como se informó anteriormente, 'los envíos chinos de tierras raras a EE. UU. caen antes de la cumbre Trump-Xi'"
+**Noticias 7d:** 🔴 -0.3 (9) — "Critical Metals Corp.: en el nexo de la diplomacia de tierras raras de Estados Unidos (pero aún sin trofeo)" / "Alerta de acciones USAR: Las tierras raras de EE. UU. saltan tras el anuncio de Trump sobre el acuerdo con Gro" / "Acciones de tierras raras con apalancamiento en la cadena de suministro que los inversores deben tener en cuen" / "El acuerdo con Groenlandia impulsa los metales críticos; "
 
-**Síntesis IA:** ✅ Balance sano (baja deuda) · ⚠️ Avg sentiment -0.5, Critical 0, Tendencia bajista, Momentum 3m -27% (débil), Pullback profundo 18% (oportunidad si fundamentals sólidos), RSI 42 (zona baja) · 📌 Score +10, RSI +0.7, Momentum 3m +0.4
+**Síntesis IA:** ✅ Balance sano (baja deuda) · ⚠️ Tendencia bajista, Momentum 3m -22% (débil) · 📌 score -1, avg_sentiment -0.33
 
 </details>
 
 ---
 
-## 🔴 RKLB $69.89 `+8.2%` — AVOID (0, -10) · convicción baja
+## 🔴 RKLB $72.09 `+3.1%` — AVOID (5, -5) · convicción baja
 
 <details>
 <summary>Fundamentales · Técnico · Noticias · Síntesis</summary>
 
-**Fundamentales:** Rev +62% · Margen -22% · ROE -8% · Fwd P/E 1534 · D/E 4
+**Fundamentales:** Rev +62% · Margen -22% · ROE -8% · Fwd P/E 1581 · D/E 4
 
-**Técnico:** lateral → · RSI 62 · SMA20 $64.84 · Mom3m -26.5% · Pullback -2%
+**Técnico:** lateral → · RSI 69 · SMA20 $65.03 · Mom3m -15.6% · Pullback -0%
 
-**Noticias 7d:** 🔴 -0.9 (10) — "AST SpaceMobile está construyendo algo que el mundo nunca ha tenido. " / "Rocket Lab sube un 7 % mientras Cantor reitera el objetivo de 122 dólares en el récord de lanzamiento; " / "Acciones de RKLB en foco: Cantor se mantiene optimista a medida que la financiación de la adquisición de Iridi" / "Cantor apuesta más alto por el laboratorio de cohetes Reprice de neutrones e iridio"
+**Noticias 7d:** 🟡 +0.2 (10) — "Un analista de Rocket Lab considera que el lanzamiento de Neutron es el "catalizador más material"" / "Rocket Lab vendió 1.900 millones de dólares en nuevas acciones para pagar Iridium. " / "Las acciones de RKLB extienden su repunte de la noche a la mañana: el director ejecutivo dice que el acuerdo c" / "¿Por qué las acciones de Rocket Lab (RKLB) se disparan hoy?"
 
-**Síntesis IA:** ✅ Revenue growth +62% (excelente), Balance sano (baja deuda) · ⚠️ Avg sentiment -0.93, Critical 0, Sin rentabilidad neta, Tendencia lateral/indefinida, Momentum 3m -26% (débil) · 📌 Score +8, RSI +11.2, Momentum 3m +0.2
+**Síntesis IA:** ✅ Revenue growth +62% (excelente), Balance sano (baja deuda) · ⚠️ Sin rentabilidad neta, Momentum 3m -16% (débil) · 📌 score -1, avg_sentiment -0.44
 
 </details>
 
