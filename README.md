@@ -23,7 +23,7 @@ Comprar entre $137.61 y $137.00 · Si baja de $118.74 arrancar · Meta $149.60 �
 
 **Noticias 7d:** 🔴 -0.3 (10) — "La historia del software de IA que Wall Street está subestimando" / "Las alianzas de IA y los objetivos elevados podrían cambiar las reglas del juego para ServiceNow (AHORA)" / "¿Puede Guidewire Software mantener su sólido impulso de crecimiento de ARR?" / "ClickHouse nombra a Mike Scarpelli, ex director financiero de Snowflake y ServiceNow, miembro de la junta dire"
 
-**Síntesis IA:** ✅ Revenue growth +24%, PEG 1.0, Momentum 3m +46%, Pullback ideal 8% · ⚠️ Change_pct -0.49, Trend neutral, Rs_3m 40.4 · 📌 Score increased by 1
+**Síntesis IA:** ✅ Revenue growth +24%, PEG 1.0, Momentum 3m +46%, Pullback ideal 8% · ⚠️ Change pct -0.49, Trend neutral · 📌 Score increased from 55 to 57
 
 </details>
 
@@ -43,7 +43,7 @@ Comprar entre $256.57 y $255.99 · Si baja de $212.77 arrancar · Meta $317.10 �
 
 **Noticias 7d:** 🔴 -0.5 (10) — "Eaton vs. Vertiv: ¿Qué stock de energía para centros de datos tiene ventaja?" / "La capacidad de energía energizada está dando forma a la próxima fase de la infraestructura de IA" / "El blog de analistas de Zacks destaca a NVIDIA, Vertiv, Arista Networks, Broadcom y Hewlett Packard" / "Vertiv frente a Eaton: esta acción de infraestructura de IA es la mejor compra"
 
-**Síntesis IA:** ✅ Revenue growth +24%, Margen 15%, Pullback ideal 14% · ⚠️ Change_pct 1.04, Trend bearish, Momentum 3m -20%, Rs_3m -25.6 · 📌 Score increased by 2
+**Síntesis IA:** ✅ Revenue growth +24%, Margen 15%, Pullback ideal 14% · ⚠️ Change pct 1.04, Trend bearish, Momentum 3m -20% · 📌 Score decreased from 55 to 54
 
 </details>
 
@@ -63,7 +63,7 @@ Comprar entre $972.75 y $1107.12 · Si baja de $856.79 arrancar · Meta $1097.25
 
 **Noticias 7d:** 🔴 -0.7 (10) — "Futuros del Dow Jones: Caída de los precios del petróleo y rendimientos provocan un repunte del mercado; " / "Las acciones de Micron han vuelto a superar los 1.000 dólares. " / "NVIDIA o Micron: ¿a quién se le paga de forma más segura por la escasez de IA?" / "El director ejecutivo de Intel acaba de dar una gran noticia a los inversores en tecnología de Micron"
 
-**Síntesis IA:** ✅ Revenue growth +346%, Margen 56%, Trend strong_bullish · ⚠️ Change_pct 5.0, Rsi 70.1 (sobrecomprado), Rs_3m -1.1 · 📌 Score increased by 3
+**Síntesis IA:** ✅ Revenue growth +346%, Margen 56%, Trend strong_bullish · ⚠️ Change pct 5.0, RSI 70 (sobrecomprado), Momentum 3m +4.6% · 📌 Score decreased from 54 to 53
 
 </details>
 
@@ -85,7 +85,7 @@ Comprar entre $929.82 y $959.78 · Si baja de $830.59 arrancar · Meta $1140.99 
 
 **Noticias 7d:** 🔴 -0.5 (10) — "GE Vernova es el jugador que produce cuellos de botella en la energía de la IA y que no dejaré de comprar" / "Esta semana en transición energética: desafíos y oportunidades del auge de la energía eólica en el futuro" / "Después de un retraso de 176.000 millones de dólares, GE Vernova envía una llamada de atención a los inversore" / "¿Debería olvidarse de Nvidia y comprar estas tres acciones de infraestructura de inteligencia artificial de fa"
 
-**Síntesis IA:** ✅ Revenue growth +22%, Margen 23%, Pullback leve 3% · ⚠️ Change_pct 0.43, Momentum 3m -10%, Rs_3m -15.9 · 📌 Score increased by 1
+**Síntesis IA:** ✅ Revenue growth +22%, Margen 23%, Pullback leve 3% · ⚠️ Change pct 0.43, Trend neutral, Momentum 3m -10% · 📌 Score decreased from 42 to 41
 
 </details>
 
@@ -104,7 +104,7 @@ Comprar entre $929.82 y $959.78 · Si baja de $830.59 arrancar · Meta $1140.99 
 
 **Noticias 7d:** 🔴 -0.4 (10) — "Jim Cramer sobre Credo (CRDO): "Creo que puedes comprar acciones"" / "Por qué la nueva óptica 1.6T de Credo es importante para su impulso óptico de $600 millones" / "¿Vale la pena comprar acciones de CRDO ya que el crecimiento supera la valoración de sus primas?" / "CRDO cae un 20,3% en un mes: ¿Es la debilidad una oportunidad?"
 
-**Síntesis IA:** ✅ Revenue growth +115%, Margen 34% · ⚠️ Change_pct 2.82, Momentum 3m -28%, Rs_3m -34.1, Caída fuerte 21% · 📌 Score increased by 1
+**Síntesis IA:** ✅ Revenue growth +115%, Margen 34% · ⚠️ Change pct 2.82, Trend neutral, Momentum 3m -28% · 📌 Score decreased from 40 to 39
 
 </details>
 
@@ -123,7 +123,7 @@ Comprar entre $929.82 y $959.78 · Si baja de $830.59 arrancar · Meta $1140.99 
 
 **Noticias 7d:** 🔴 -0.4 (8) — "Por qué Astera Labs, clasificado número 1 de Zacks, está preparado para el crecimiento" / "Las acciones de Astera Labs subieron un 12% ayer. " / "Las acciones tecnológicas se disparan: la próxima etapa del mercado alcista" / "CRDO cae un 20,3% en un mes: ¿Es la debilidad una oportunidad?"
 
-**Síntesis IA:** ✅ Revenue growth +104%, Margen 31% · ⚠️ Change_pct 6.67, Momentum 3m -9%, Rs_3m -14.8, Bajo SPY por -15% en 3m · 📌 Score increased by 5
+**Síntesis IA:** ✅ Revenue growth +104%, Margen 31% · ⚠️ Change pct 6.67, Trend neutral, Momentum 3m -9% · 📌 Score decreased from 38 to 37
 
 </details>
 
@@ -142,7 +142,7 @@ Comprar entre $929.82 y $959.78 · Si baja de $830.59 arrancar · Meta $1140.99 
 
 **Noticias 7d:** 🔴 -0.3 (10) — "Las estimaciones de ganancias aumentan para Vicor (VICR): ¿Ganará?" / "Sandisk, GameStop, Viking Therapeutics, Vicor, On Holding y más acciones que explican el mercado actual" / "¿Cuánta ventaja le queda a Vicor (VICR)? " / "¿Por qué las acciones de Vicor subieron antes de aumentar sus perspectivas?"
 
-**Síntesis IA:** ✅ Revenue growth +49%, Margen 31% · ⚠️ Change_pct 19.85, Momentum 3m -17%, Rs_3m -22.4, Rsi 80 (sobrecomprado) · 📌 Score increased by 3
+**Síntesis IA:** ✅ Revenue growth +49%, Margen 31% · ⚠️ Change pct 19.85, Trend neutral, Momentum 3m -17% · 📌 Score decreased from 36 to 35
 
 </details>
 
@@ -161,7 +161,7 @@ Comprar entre $929.82 y $959.78 · Si baja de $830.59 arrancar · Meta $1140.99 
 
 **Noticias 7d:** 🟡 +0.0 (1) — "Dos acciones industriales a considerar ahora mismo y una que decepciona"
 
-**Síntesis IA:** ✅ Revenue growth +9%, Margen 16%, Pullback leve 4% · ⚠️ Change_pct 2.31, Momentum 3m -35%, Rs_3m -40.5 · 📌 Score increased by 0
+**Síntesis IA:** ✅ Revenue growth +9%, Margen 16% · ⚠️ Change pct 2.31, Trend neutral, Momentum 3m -35% · 📌 Score remained at 31
 
 </details>
 
@@ -180,7 +180,7 @@ Comprar entre $929.82 y $959.78 · Si baja de $830.59 arrancar · Meta $1140.99 
 
 **Noticias 7d:** 🔴 -0.3 (10) — "Bloom Energy frente a Plug Power: ¿Qué stock de pilas de combustible es una mejor compra en 2026?" / "Bloom Energy acaba de aumentar un 38% en un mes: ¿obtener ganancias o comprar más?" / "BE frente a BLDP: ¿Qué stock de energía limpia tiene un mayor potencial de crecimiento?" / "No duermas con semiconductores analógicos"
 
-**Síntesis IA:** ✅ Revenue growth +166%, ROE 22%, Trend bullish · ⚠️ Change_pct 1.33, Momentum 3m -15%, Rs_3m -20.9, Pullback leve 4% · 📌 Score increased by 1
+**Síntesis IA:** ✅ Revenue growth +166%, ROE 22% · ⚠️ Change pct 1.33, Trend bullish, Momentum 3m -15% · 📌 Score decreased from 27 to 32
 
 </details>
 
@@ -199,7 +199,7 @@ Comprar entre $929.82 y $959.78 · Si baja de $830.59 arrancar · Meta $1140.99 
 
 **Noticias 7d:** 🔴 -0.3 (10) — "Wedbush reitera su rendimiento superior en IonQ y mantiene el precio objetivo de 75 dólares" / "IonQ acaba de recaudar la orientación de ingresos para 2026. " / "Las acciones de IONQ suben fuera de horario: IonQ se asocia con SDT, Inc., con sede en Corea del Sur, para imp" / "IonQ y SDT anuncian la primera asociación estratégica para llevar la computación cuántica avanzada y las redes"
 
-**Síntesis IA:** ✅ Revenue growth +287%, Balance sano (baja deuda), Pullback ideal 8% · ⚠️ Change_pct 0.57, Momentum 3m -24%, Rs_3m -29.7 · 📌 Score increased by 0
+**Síntesis IA:** ✅ Revenue growth +287%, Balance sano · ⚠️ Change pct 0.57, Trend neutral, Momentum 3m -24% · 📌 Score decreased from 32 to 31
 
 </details>
 
@@ -218,7 +218,7 @@ Comprar entre $929.82 y $959.78 · Si baja de $830.59 arrancar · Meta $1140.99 
 
 **Noticias 7d:** sin noticias frescas
 
-**Síntesis IA:** ✅ Revenue growth +12%, Margen 15% · ⚠️ Change_pct 2.11, Trend bearish, Momentum 3m -30%, Caída fuerte 32% · 📌 Score increased by 0
+**Síntesis IA:** ✅ Revenue growth +12%, Margen 15% · ⚠️ Change pct 2.11, Trend bearish, Momentum 3m -30% · 📌 Score remained at 27
 
 </details>
 
@@ -237,7 +237,7 @@ Comprar entre $929.82 y $959.78 · Si baja de $830.59 arrancar · Meta $1140.99 
 
 **Noticias 7d:** 🟡 -0.2 (8) — "¿Debería olvidarse de Nvidia y comprar estas tres acciones de infraestructura de inteligencia artificial de fa" / "Esta acción energética tiene un potencial de mejora del 130%" / "Las existencias de uranio se están recuperando. " / "GE Vernova frente a Oklo: ¿Qué acciones industriales son una mejor compra en 2026?"
 
-**Síntesis IA:** ✅ Balance sano (baja deuda), Pullback ideal 12% · ⚠️ Change_pct 0.67, Momentum 3m -25%, Rs_3m -30.9, Rsi 55 (neutral) · 📌 Score increased by 1
+**Síntesis IA:** ✅ Balance sano · ⚠️ Change pct 0.67, Trend neutral, Momentum 3m -25% · 📌 Score decreased from 18 to 18
 
 </details>
 
@@ -256,7 +256,7 @@ Comprar entre $929.82 y $959.78 · Si baja de $830.59 arrancar · Meta $1140.99 
 
 **Noticias 7d:** 🔴 -0.3 (9) — "Critical Metals Corp.: en el nexo de la diplomacia de tierras raras de Estados Unidos (pero aún sin trofeo)" / "Alerta de acciones USAR: Las tierras raras de EE. UU. saltan tras el anuncio de Trump sobre el acuerdo con Gro" / "Acciones de tierras raras con apalancamiento en la cadena de suministro que los inversores deben tener en cuen" / "El acuerdo con Groenlandia impulsa los metales críticos; "
 
-**Síntesis IA:** ✅ Balance sano (baja deuda), Pullback profundo 17% (oportunidad si fundamentals sólidos) · ⚠️ Change_pct 1.25, Momentum 3m -21%, Rs_3m -26.4, Rsi 48 (zona baja) · 📌 Score increased by 0
+**Síntesis IA:** ✅ Balance sano · ⚠️ Change pct 1.25, Trend neutral, Momentum 3m -21% · 📌 Score decreased from 17 to 17
 
 </details>
 
@@ -275,7 +275,7 @@ Comprar entre $929.82 y $959.78 · Si baja de $830.59 arrancar · Meta $1140.99 
 
 **Noticias 7d:** 🟡 -0.1 (10) — "Wall Street cree que Rocket Lab es una compra. " / "Redwire versus Rocket Lab: ¿Qué acción espacial es una mejor compra en 2026?" / "Las acciones de Rocket Lab superan la línea de tendencia clave" / "Tres razones por las que somos fanáticos de Rocket Lab (RKLB)"
 
-**Síntesis IA:** ✅ Revenue growth +62%, Balance sano (baja deuda) · ⚠️ Change_pct 2.99, Sin rentabilidad neta, Momentum 3m -16% · 📌 Score increased by 2
+**Síntesis IA:** ✅ Revenue growth +62%, Balance sano · ⚠️ Change pct 2.99, Trend neutral, Momentum 3m -16% · 📌 Score decreased from 11 to 10
 
 </details>
 
