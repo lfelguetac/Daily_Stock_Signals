@@ -1,14 +1,14 @@
-# Señales — 2026-09-26 | 21:55 CLST (Hora Chile, UTC-03:00)
+# Señales — 2026-09-28 | 09:00 CLST (Hora Chile, UTC-03:00)
 
-> 🌎 Hora local Santiago. Resto del mundo: 00:55 UTC. Sesión: Daily Close.
+> 🌎 Hora local Santiago. Resto del mundo: 12:00 UTC. Sesión: Daily Close.
 >
-> 14 acciones · 1 COMPRAR/ACUMULAR · DEFENSIVO — sin entradas claras, efectivo o esperar.
+> 14 acciones · 3 COMPRAR/ACUMULAR · SELECTIVO — pocas entradas claras, elegir solo las mejores.
 
 ## 🧭 Resumen del día
 
-**Para comprar:** **MU** (58). La mejor opción del día es **MU** con score 58 y convicción alta.
+**Para comprar:** **VRT** (56), **MU** (55), **NOW** (54). La mejor opción del día es **VRT** con score 56 y convicción media.
 
-**Para vigilar:** 6 acciones a la espera de su momento (BE, NOW, VRT, ALAB…).
+**Para vigilar:** 4 acciones a la espera de su momento (ELMD, CRDO, ALAB, GEV…).
 
 **Para evitar:** 7 acciones con momento negativo; no tocarlas aunque bajen 'baratas'.
 
@@ -21,7 +21,27 @@
 
 Cada acción tiene una nota (score 0-100) y una frase que dice qué hacer. Si quieres el porqué, abre el desplegable.
 
-## 🔵 MU $1080.53 `+0.8%` — ACCUMULATE (58, -2) · convicción alta
+## 🔵 VRT $253.28 `+3.2%` — ACCUMULATE (56, -2) · convicción media
+
+*Para comprar de a poco en la zona indicada.*
+
+<details>
+<summary>Fundamentales · Técnico · Noticias · Síntesis</summary>
+
+**Fundamentales:** Ventas +24% (fuerte) · Margen 15% (sano) · ROE 44% (extraordinario) · P/E 28 (razonable) · Deuda 70 (deuda manejable)
+
+**Técnico:** Tendencia: viento en contra · RSI 39 (frío = zona de compra) · Precio -0% bajo su promedio (pequeño descuento) · Momentum 3m -18% (congelado) · Caída -14% (descuento ideal)
+Comprar entre $254.50 y $253.28 · Si baja de $220.27 arrancar · Meta $313.53 · Premio 1.7 (buen premio) por cada $1 en riesgo
+
+**Noticias 7d:** 🟢 +0.4 (10) — "Vertiv y 6 acciones industriales de IA más para comprar ahora" / "Las acciones de Vertiv Holdings Co (VRT) caen en la investigación de valores después del fracaso del segundo t" / "Por qué Vertiv Holdings Co (VRT) vuelve a ser el centro de atención" / "¿Se pregunta qué está pasando en la sesión previa a la comercialización del S&P500 de hoy?"
+
+**Síntesis IA:** ✅ Revenue growth +24% (fuerte), Margen 15% (saludable), Pullback ideal 14% desde máx 20d · ⚠️ Tendencia bajista, Momentum 3m -18% (débil) · 📌 score +8
+
+</details>
+
+---
+
+## 🔵 MU $1082.28 `+0.2%` — ACCUMULATE (55, -4) · convicción media
 
 *Para comprar de a poco en la zona indicada.*
 
@@ -30,118 +50,58 @@ Cada acción tiene una nota (score 0-100) y una frase que dice qué hacer. Si qu
 
 **Fundamentales:** Ventas +346% (a toda máquina) · Margen 56% (premium) · ROE 67% (extraordinario) · P/E 7 (barato) · Deuda 6 (poca deuda)
 
-**Técnico:** Tendencia: viento muy a favor · RSI 65 (caliente = subiendo fuerte) · Precio +9% sobre su promedio (estirado) · Momentum 3m -5% (plano) · Caída -2% (casi en máximos)
-Comprar entre $986.80 y $1080.53 · Si baja de $879.46 arrancar · Meta $1105.50 · Premio 1.1 (premio justo) por cada $1 en riesgo
+**Técnico:** Tendencia: viento muy a favor · RSI 59 (tibio = normal) · Precio +9% sobre su promedio (estirado) · Momentum 3m -6% (frío) · Caída -2% (casi en máximos)
+Comprar entre $994.14 y $1082.28 · Si baja de $880.32 arrancar · Meta $1108.72 · Premio 1.0 (premio justo) por cada $1 en riesgo
 
 **Noticias 7d:** 🔴 -0.7 (10) — "Futuros del Dow Jones: Caída de los precios del petróleo y rendimientos provocan un repunte del mercado; " / "Las acciones de Micron han vuelto a superar los 1.000 dólares. " / "NVIDIA o Micron: ¿a quién se le paga de forma más segura por la escasez de IA?" / "El director ejecutivo de Intel acaba de dar una gran noticia a los inversores en tecnología de Micron"
 
-**Síntesis IA:** ✅ Revenue growth +346% (excelente), Margen 56% (premium), Tendencia alcista fuerte (Precio > SMA20 > SMA50), MACD positivo, Pullback leve 2% · ⚠️ Sentimiento negativo en noticias recientes, Momentum 3m -4.6% · 📌 AUMENTO
+**Síntesis IA:** ✅ Revenue growth +346% (excelente), Margen 56% (premium), Tendencia alcista fuerte (Precio > SMA20 > SMA50) · ⚠️ Bajo SPY por -10% en 3m, Pullback leve 2% · 📌 score +1
 
 </details>
 
 ---
 
-## ⚪ BE $266.65 `-3.1%` — WATCH (52, -1) · convicción media
+## 🔵 NOW $135.62 `-1.6%` — ACCUMULATE (54, -3) · convicción media
 
-*Mirar nomás, todavía no comprar.*
-
-<details>
-<summary>Fundamentales · Técnico · Noticias · Síntesis</summary>
-
-**Fundamentales:** Ventas +166% (a toda máquina) · Margen 8% (fino) · ROE 22% (extraordinario) · P/E 59 (caro) · Deuda 172 (deuda manejable)
-
-**Técnico:** Tendencia: viento a favor · RSI 60 (tibio = normal) · Precio +5% sobre su promedio (estirado) · Momentum 3m +6% (fuerte) · Caída -7% (descuento ideal)
-Comprar entre $252.95 y $269.32 · Si baja de $179.31 arrancar · Meta $288.00 · Premio 0.5 (premio flojo) por cada $1 en riesgo
-
-**Noticias 7d:** 🟡 -0.2 (10) — "Predicción: estas 4 acciones se multiplicarán por 4 en los próximos 10 años" / "Bloom Energy aumenta un 8 % mientras Oracle reafirma el contrato de pila de combustible de 2,4 GW tras un avis" / "Los futuros del Dow Jones señalan un repunte para un mercado resiliente; " / "3 acciones industriales a considerar ahora mismo"
-
-**Síntesis IA:** ✅ Revenue growth +166% (excelente), ROE 22% (sólido), Tendencia alcista (sobre SMA20), MACD positivo, Pullback ideal 7% desde máx 20d · ⚠️ Sentimiento negativo en noticias recientes, Momentum 3m 5.8% · 📌 DISMINUCION
-
-</details>
-
----
-
-## ⚪ NOW $137.78 `-2.1%` — WATCH (52) · convicción media
-
-*Mirar nomás, todavía no comprar.*
+*Para comprar de a poco en la zona indicada.*
 
 <details>
 <summary>Fundamentales · Técnico · Noticias · Síntesis</summary>
 
 **Fundamentales:** Ventas +24% (fuerte) · Margen 11% (fino) · ROE 14% (normal) · P/E 27 (razonable) · Deuda 68 (deuda manejable)
 
-**Técnico:** Tendencia: sin dirección clara · RSI 41 (frío = zona de compra) · Precio -1% bajo su promedio (pequeño descuento) · Momentum 3m +40% (volando) · Caída -8% (descuento ideal)
-Comprar entre $138.89 y $139.16 · Si baja de $124.53 arrancar · Meta $149.60 · Premio 0.7 (premio flojo) por cada $1 en riesgo
+**Técnico:** Tendencia: sin dirección clara · RSI 43 (frío = zona de compra) · Precio -2% bajo su promedio (pequeño descuento) · Momentum 3m +36% (volando) · Caída -9% (descuento ideal)
+Comprar entre $138.75 y $135.62 · Si baja de $124.13 arrancar · Meta $149.60 · Premio 0.7 (premio flojo) por cada $1 en riesgo
 
 **Noticias 7d:** 🟡 +0.0 (10) — "Esta es la razón real por la que sigo comprando Salesforce una y otra vez" / "Tres ETF de software para comprar a medida que SaaSpocalypse toca fondo" / "La valoración de Palantir es enorme. " / "ServiceNow, Quanta Services y más en las 'operaciones finales' de CNBC"
 
-**Síntesis IA:** ✅ Revenue growth +24% (fuerte), PEG 1.0 (subvalorado), Momentum 3m +40% (muy fuerte), Pullback ideal 8% desde máx 20d · ⚠️ Sentimiento levemente negativo en noticias recientes, RSI 40.8% · 📌 DISMINUCION
+**Síntesis IA:** ✅ Revenue growth +24% (fuerte), PEG 1.0 (subvalorado), Pullback ideal 9% desde máx 20d · ⚠️ Tendencia lateral/indefinida · 📌 score -3
 
 </details>
 
 ---
 
-## ⚪ VRT $245.30 `-1.4%` — WATCH (50, +1) · convicción baja
+## ⚪ ELMD $27.88 `+0.1%` — WATCH (48) · convicción baja
 
 *Mirar nomás, todavía no comprar.*
 
 <details>
 <summary>Fundamentales · Técnico · Noticias · Síntesis</summary>
 
-**Fundamentales:** Ventas +24% (fuerte) · Margen 15% (sano) · ROE 44% (extraordinario) · P/E 28 (razonable) · Deuda 70 (deuda manejable)
+**Fundamentales:** Ventas +12% (crece) · Margen 15% (sano) · ROE 23% (extraordinario) · P/E 46 (caro) · Deuda 0 (poca deuda)
 
-**Técnico:** Tendencia: viento en contra · RSI 40 (frío = zona de compra) · Precio -4% bajo su promedio (pequeño descuento) · Momentum 3m -19% (congelado) · Caída -17% (muy barato, solo si la empresa es buena)
-Comprar entre $255.30 y $247.75 · Si baja de $213.39 arrancar · Meta $313.53 · Premio 1.4 (premio justo) por cada $1 en riesgo
+**Técnico:** Tendencia: sin dirección clara · RSI 49 (tibio = normal) · Precio +2% sobre su promedio (sano) · Momentum 3m -34% (congelado) · Caída -9% (descuento ideal)
+Comprar entre $27.33 y $28.16 · Si baja de $24.87 arrancar · Meta $43.74 · Premio 6.7 (premio excelente) por cada $1 en riesgo
 
-**Noticias 7d:** 🟢 +0.4 (10) — "Vertiv y 6 acciones industriales de IA más para comprar ahora" / "Las acciones de Vertiv Holdings Co (VRT) caen en la investigación de valores después del fracaso del segundo t" / "Por qué Vertiv Holdings Co (VRT) vuelve a ser el centro de atención" / "¿Se pregunta qué está pasando en la sesión previa a la comercialización del S&P500 de hoy?"
+**Noticias 7d:** sin noticias frescas
 
-**Síntesis IA:** ✅ Revenue growth +24% (fuerte), Margen 15% (saludable), Pullback profundo 17% (oportunidad si fundamentals sólidos) · ⚠️ Tendencia bajista, Momentum 3m -19.3% · 📌 DISMINUCION
-
-</details>
-
----
-
-## ⚪ ALAB $360.51 `+0.0%` — WATCH (46, -1) · convicción baja
-
-*Mirar nomás, todavía no comprar.*
-
-<details>
-<summary>Fundamentales · Técnico · Noticias · Síntesis</summary>
-
-**Fundamentales:** Ventas +104% (a toda máquina) · Margen 31% (premium) · ROE 26% (extraordinario) · P/E 57 (caro) · Deuda 3 (poca deuda)
-
-**Técnico:** Tendencia: sin dirección clara · RSI 66 (caliente = subiendo fuerte) · Precio +20% sobre su promedio (estirado) · Momentum 3m -8% (frío) · Caída -2% (casi en máximos)
-Comprar entre $300.18 y $364.12 · Si baja de $227.92 arrancar · Meta $369.15 · Premio 1.0 (premio justo) por cada $1 en riesgo
-
-**Noticias 7d:** 🟡 +0.0 (10) — "Estas son las acciones que Meta's Muse está impulsando" / "Astera Labs frente a Marvell Technology: ¿Qué acción tecnológica es una mejor compra en 2026?" / "Astera Labs (ALAB), ¿Por qué ahora se está generando nueva atención?" / "Características destacadas de Zacks Investment Ideas: Astera Labs, SpaceX, Cloudflare, NVIDIA y Meta Platforms"
-
-**Síntesis IA:** ✅ Revenue growth +104% (excelente), Margen 31% (premium), MACD positivo, Pullback leve 2% · ⚠️ Sentimiento levemente negativo en noticias recientes, Momentum 3m -8.0% · 📌 AUMENTO
+**Síntesis IA:** ✅ Revenue growth +12%, Margen 15% (saludable), Pullback ideal 9% desde máx 20d · ⚠️ Tendencia lateral/indefinida, Momentum 3m -34% (débil) · 📌 score 0
 
 </details>
 
 ---
 
-## ⚪ GEV $955.04 `+0.3%` — WATCH (45, -1) · convicción baja
-
-*Mirar nomás, todavía no comprar.*
-
-<details>
-<summary>Fundamentales · Técnico · Noticias · Síntesis</summary>
-
-**Fundamentales:** Ventas +22% (fuerte) · Margen 23% (sano) · ROE 83% (extraordinario) · P/E 38 (caro) · Deuda 28 (poca deuda)
-
-**Técnico:** Tendencia: sin dirección clara · RSI 52 (tibio = normal) · Precio +3% sobre su promedio (sano) · Momentum 3m -9% (frío) · Caída -3% (casi en máximos)
-Comprar entre $931.17 y $964.59 · Si baja de $832.47 arrancar · Meta $1140.99 · Premio 2.1 (premio excelente) por cada $1 en riesgo
-
-**Noticias 7d:** 🟡 -0.1 (10) — "Las ganancias principales de las acciones solares enmascaran una división cada vez mayor entre las megacaps y " / "1 acción rentable que merece su atención y 2 que rechazamos" / "El mercado de mantenimiento predictivo pronostica un crecimiento de $ 13,89 mil millones (2026) a $ 23,79 mil " / "GE Vernova seguirá teniendo un rendimiento inferior incluso si el crecimiento impresiona"
-
-**Síntesis IA:** ✅ Revenue growth +22% (fuerte), Margen 23% (saludable), MACD positivo, Pullback leve 3% · ⚠️ Sentimiento levemente negativo en noticias recientes, Momentum 3m -8.6% · 📌 AUMENTO
-
-</details>
-
----
-
-## ⚪ CRDO $195.97 `+1.1%` — WATCH (42, -1) · convicción baja
+## ⚪ CRDO $210.97 `+7.7%` — WATCH (46, -2) · convicción baja
 
 *Mirar nomás, todavía no comprar.*
 
@@ -150,37 +110,58 @@ Comprar entre $931.17 y $964.59 · Si baja de $832.47 arrancar · Meta $1140.99 
 
 **Fundamentales:** Ventas +115% (a toda máquina) · Margen 34% (premium) · ROE 31% (extraordinario) · P/E 22 (razonable) · Deuda 1 (poca deuda)
 
-**Técnico:** Tendencia: sin dirección clara · RSI 70 (hirviendo = caro, mejor esperar) · Precio +8% sobre su promedio (estirado) · Momentum 3m -18% (congelado) · Caída -20% (muy barato, solo si la empresa es buena)
-Comprar entre $182.02 y $197.93 · Si baja de $139.61 arrancar · Meta $286.24 · Premio 2.5 (premio excelente) por cada $1 en riesgo
+**Técnico:** Tendencia: sin dirección clara · RSI 73 (hirviendo = caro, mejor esperar) · Precio +17% sobre su promedio (estirado) · Momentum 3m -14% (frío) · Caída -12% (descuento ideal)
+Comprar entre $180.56 y $213.08 · Si baja de $139.07 arrancar · Meta $286.24 · Premio 2.5 (premio excelente) por cada $1 en riesgo
 
 **Noticias 7d:** 🟡 +0.0 (10) — "Credo: El ascenso de Muse valida el comercio de la IA" / "La fotónica y la óptica escasean, compre Credo" / "Una acción que pasa desapercibida con un 100% de potencial de crecimiento" / "Credo Technology (CRDO) acaba de superar un hito clave de PCIe 6.0. "
 
-**Síntesis IA:** ✅ Revenue growth +115% (excelente), Margen 34% (premium), Pullback profundo 20% (oportunidad si fundamentals sólidos) · ⚠️ Momentum 3m -17.7% · 📌 AUMENTO
+**Síntesis IA:** ✅ Revenue growth +115% (excelente), Margen 34% (premium), Pullback ideal 12% desde máx 20d · ⚠️ Tendencia lateral/indefinida, Momentum 3m -14% (débil) · 📌 score +8
 
 </details>
 
 ---
 
-## 🟡 ELMD $27.86 `+1.1%` — WAIT (39) · convicción baja
+## ⚪ ALAB $364.62 `+1.1%` — WATCH (39, -3) · convicción baja
 
-*Esperar, el momento está malo.*
+*Mirar nomás, todavía no comprar.*
 
 <details>
 <summary>Fundamentales · Técnico · Noticias · Síntesis</summary>
 
-**Fundamentales:** Ventas +12% (crece) · Margen 15% (sano) · ROE 23% (extraordinario) · P/E 46 (caro) · Deuda 0 (poca deuda)
+**Fundamentales:** Ventas +104% (a toda máquina) · Margen 31% (premium) · ROE 26% (extraordinario) · P/E 57 (caro) · Deuda 3 (poca deuda)
 
-**Técnico:** Tendencia: sin dirección clara · RSI 52 (tibio = normal) · Precio +2% sobre su promedio (sano) · Momentum 3m -33% (congelado) · Caída -15% (muy barato, solo si la empresa es buena)
+**Técnico:** Tendencia: sin dirección clara · RSI 63 (caliente = subiendo fuerte) · Precio +20% sobre su promedio (estirado) · Momentum 3m -20% (congelado) · Caída -4% (casi en máximos)
+Comprar entre $303.21 y $368.27 · Si baja de $229.14 arrancar · Meta $377.87 · Premio 1.0 (premio justo) por cada $1 en riesgo
 
-**Noticias 7d:** sin noticias frescas
+**Noticias 7d:** 🟡 +0.0 (10) — "Estas son las acciones que Meta's Muse está impulsando" / "Astera Labs frente a Marvell Technology: ¿Qué acción tecnológica es una mejor compra en 2026?" / "Astera Labs (ALAB), ¿Por qué ahora se está generando nueva atención?" / "Características destacadas de Zacks Investment Ideas: Astera Labs, SpaceX, Cloudflare, NVIDIA y Meta Platforms"
 
-**Síntesis IA:** ✅ Revenue growth +12%, Margen 15% (saludable), Pullback profundo 15% (oportunidad si fundamentals sólidos) · ⚠️ Momentum 3m -32.8% · 📌 AUMENTO
+**Síntesis IA:** ✅ Revenue growth +104% (excelente), Margen 31% (premium), Pullback leve 4% · ⚠️ Tendencia lateral/indefinida, Momentum 3m -20% (débil) · 📌 score +7
 
 </details>
 
 ---
 
-## 🟡 VICR $276.06 `-2.5%` — WAIT (34, -1) · convicción baja
+## ⚪ GEV $957.63 `+0.3%` — WATCH (36, -5) · convicción baja
+
+*Mirar nomás, todavía no comprar.*
+
+<details>
+<summary>Fundamentales · Técnico · Noticias · Síntesis</summary>
+
+**Fundamentales:** Ventas +22% (fuerte) · Margen 23% (sano) · ROE 83% (extraordinario) · P/E 38 (caro) · Deuda 28 (poca deuda)
+
+**Técnico:** Tendencia: sin dirección clara · RSI 53 (tibio = normal) · Precio +3% sobre su promedio (sano) · Momentum 3m -13% (frío) · Caída -3% (casi en máximos)
+Comprar entre $931.36 y $967.21 · Si baja de $832.30 arrancar · Meta $1140.99 · Premio 2.1 (premio excelente) por cada $1 en riesgo
+
+**Noticias 7d:** 🟡 -0.1 (10) — "Las ganancias principales de las acciones solares enmascaran una división cada vez mayor entre las megacaps y " / "1 acción rentable que merece su atención y 2 que rechazamos" / "El mercado de mantenimiento predictivo pronostica un crecimiento de $ 13,89 mil millones (2026) a $ 23,79 mil " / "GE Vernova seguirá teniendo un rendimiento inferior incluso si el crecimiento impresiona"
+
+**Síntesis IA:** ✅ Revenue growth +22% (fuerte), Margen 23% (saludable), Pullback leve 3% · ⚠️ Tendencia lateral/indefinida, Momentum 3m -13% (débil) · 📌 score +1
+
+</details>
+
+---
+
+## 🟡 VICR $281.96 `+2.1%` — WAIT (33, -4) · convicción baja
 
 *Esperar, el momento está malo.*
 
@@ -189,17 +170,17 @@ Comprar entre $182.02 y $197.93 · Si baja de $139.61 arrancar · Meta $286.24 �
 
 **Fundamentales:** Ventas +49% (a toda máquina) · Margen 31% (premium) · ROE 20% (extraordinario) · P/E 50 (caro) · Deuda 1 (poca deuda)
 
-**Técnico:** Tendencia: sin dirección clara · RSI 79 (hirviendo = caro, mejor esperar) · Precio +35% sobre su promedio (estirado) · Momentum 3m -16% (congelado) · Caída -3% (casi en máximos)
+**Técnico:** Tendencia: sin dirección clara · RSI 78 (hirviendo = caro, mejor esperar) · Precio +35% sobre su promedio (estirado) · Momentum 3m -23% (congelado) · Caída -3% (casi en máximos)
 
 **Noticias 7d:** 🟡 -0.2 (10) — "Por qué las acciones de Vicor lo estaban aplastando esta semana" / "Vicor (VICR) subió, pero ¿qué hay ahora detrás de la atención?" / "Las acciones de Vicor subieron un 20% un día después de un aumento orientativo. " / "Noticias de la empresa del 23 de septiembre de 2026"
 
-**Síntesis IA:** ✅ Revenue growth +49% (excelente), Margen 31% (premium), Pullback leve 3% · ⚠️ Momentum 3m -15.6% · 📌 DISMINUCION
+**Síntesis IA:** ✅ Revenue growth +49% (excelente), Margen 31% (premium), Pullback leve 3% · ⚠️ Tendencia lateral/indefinida, Momentum 3m -23% (débil) · 📌 score +3
 
 </details>
 
 ---
 
-## 🟡 POWL $191.62 `-0.5%` — WAIT (31) · convicción baja
+## 🟡 POWL $189.53 `-1.1%` — WAIT (33) · convicción baja
 
 *Esperar, el momento está malo.*
 
@@ -208,36 +189,55 @@ Comprar entre $182.02 y $197.93 · Si baja de $139.61 arrancar · Meta $286.24 �
 
 **Fundamentales:** Ventas +9% (crece) · Margen 16% (sano) · ROE 28% (extraordinario) · P/E 27 (razonable) · Deuda 0 (poca deuda)
 
-**Técnico:** Tendencia: sin dirección clara · RSI 65 (caliente = subiendo fuerte) · Precio +6% sobre su promedio (estirado) · Momentum 3m -32% (congelado) · Caída -4% (casi en máximos)
+**Técnico:** Tendencia: sin dirección clara · RSI 58 (tibio = normal) · Precio +5% sobre su promedio (sano) · Momentum 3m -32% (congelado) · Caída -2% (casi en máximos)
 
 **Noticias 7d:** 🟡 +0.0 (3) — "Una mirada retrospectiva a las ganancias del segundo trimestre de las acciones de sistemas eléctricos: Powell " / "Powell Industries, Inc. (POWL) es una acción de tendencia: datos que debe saber antes de apostar por ella" / "Dos acciones industriales a considerar ahora mismo y una que decepciona"
 
-**Síntesis IA:** ✅ Revenue growth +9%, Margen 16% (saludable), Pullback leve 4% · ⚠️ Momentum 3m -31.5% · 📌 DISMINUCION
+**Síntesis IA:** ✅ Revenue growth +9%, Margen 16% (saludable), Pullback leve 2% · ⚠️ Tendencia lateral/indefinida, Momentum 3m -32% (débil) · 📌 score -2
 
 </details>
 
 ---
 
-## 🟡 IONQ $44.98 `+5.7%` — WAIT (30, +2) · convicción media
+## 🟡 BE $288.70 `+8.3%` — WAIT (32, -6) · convicción baja
 
 *Esperar, el momento está malo.*
 
 <details>
 <summary>Fundamentales · Técnico · Noticias · Síntesis</summary>
 
-**Fundamentales:** Ventas +287% (a toda máquina) · Margen s/d · ROE -60% (débil) · P/E -35 (barato) · Deuda 2 (poca deuda)
+**Fundamentales:** Ventas +166% (a toda máquina) · Margen 8% (fino) · ROE 22% (extraordinario) · P/E 59 (caro) · Deuda 172 (deuda manejable)
 
-**Técnico:** Tendencia: sin dirección clara · RSI 67 (caliente = subiendo fuerte) · Precio +14% sobre su promedio (estirado) · Momentum 3m -9% (frío) · Caída -2% (casi en máximos)
+**Técnico:** Tendencia: viento a favor · RSI 61 (caliente = subiendo fuerte) · Precio +13% sobre su promedio (estirado) · Momentum 3m +5% (plano) · Caída -1% (casi en máximos)
 
-**Noticias 7d:** 🟢 +0.3 (10) — "Todo el mundo habla de IonQ. " / "IonQ superó uno de los mayores obstáculos de la computación cuántica. " / "El muro del 5%: los rendimientos de los bonos del Tesoro le quitan aire al rally Muse de Wall Street" / "BigBear.ai vs. IONQ: Comparación de las tendencias de ingresos entre una empresa emergente de inteligencia art"
+**Noticias 7d:** 🟡 -0.2 (10) — "Predicción: estas 4 acciones se multiplicarán por 4 en los próximos 10 años" / "Bloom Energy aumenta un 8 % mientras Oracle reafirma el contrato de pila de combustible de 2,4 GW tras un avis" / "Los futuros del Dow Jones señalan un repunte para un mercado resiliente; " / "3 acciones industriales a considerar ahora mismo"
 
-**Síntesis IA:** ✅ Revenue growth +287% (excelente), Balance sano (baja deuda), MACD positivo, Pullback leve 2% · ⚠️ Momentum 3m -8.8% · 📌 AUMENTO
+**Síntesis IA:** ✅ Revenue growth +166% (excelente), ROE 22% (sólido), Tendencia alcista (sobre SMA20) · ⚠️ MACD positivo · 📌 score +14
 
 </details>
 
 ---
 
-## 🔴 OKLO $38.29 `-1.4%` — AVOID (20, -2) · convicción baja
+## 🔴 IONQ $45.48 `+1.1%` — AVOID (26, +3) · convicción baja
+
+*Evitar por ahora.*
+
+<details>
+<summary>Fundamentales · Técnico · Noticias · Síntesis</summary>
+
+**Fundamentales:** Ventas +287% (a toda máquina) · Margen s/d · ROE -60% (débil) · P/E -35 (barato) · Deuda 2 (poca deuda)
+
+**Técnico:** Tendencia: sin dirección clara · RSI 67 (caliente = subiendo fuerte) · Precio +15% sobre su promedio (estirado) · Momentum 3m -16% (congelado) · Caída -2% (casi en máximos)
+
+**Noticias 7d:** 🟢 +0.3 (10) — "Todo el mundo habla de IonQ. " / "IonQ superó uno de los mayores obstáculos de la computación cuántica. " / "El muro del 5%: los rendimientos de los bonos del Tesoro le quitan aire al rally Muse de Wall Street" / "BigBear.ai vs. IONQ: Comparación de las tendencias de ingresos entre una empresa emergente de inteligencia art"
+
+**Síntesis IA:** ✅ Revenue growth +287% (excelente), Balance sano (baja deuda), Pullback leve 2% · ⚠️ Tendencia lateral/indefinida, Momentum 3m -16% (débil) · 📌 score +1
+
+</details>
+
+---
+
+## 🔴 OKLO $38.04 `-0.7%` — AVOID (15, -2) · convicción baja
 
 *Evitar por ahora.*
 
@@ -246,17 +246,17 @@ Comprar entre $182.02 y $197.93 · Si baja de $139.61 arrancar · Meta $286.24 �
 
 **Fundamentales:** Ventas s/d · Margen s/d · ROE -8% (débil) · P/E -37 (barato) · Deuda 0 (poca deuda)
 
-**Técnico:** Tendencia: viento en contra · RSI 46 (tibio = normal) · Precio -3% bajo su promedio (pequeño descuento) · Momentum 3m -23% (congelado) · Caída -14% (descuento ideal)
+**Técnico:** Tendencia: viento en contra · RSI 42 (frío = zona de compra) · Precio -3% bajo su promedio (pequeño descuento) · Momentum 3m -28% (congelado) · Caída -15% (muy barato, solo si la empresa es buena)
 
 **Noticias 7d:** 🟡 -0.2 (10) — "Oklo acaba de demostrar que puede construir, ahora viene la parte difícil" / "Oklo: Las acciones se han desplomado, pero sigo siendo bajista" / "Las matemáticas no mienten: lo que realmente cuestan a los inversores las ventas de acciones de Oklo" / "Las acciones de NuScale Power son solo una de las 3 principales acciones nucleares"
 
-**Síntesis IA:** ✅ Balance sano (baja deuda), Pullback ideal 14% desde máx 20d · ⚠️ Tendencia bajista, Momentum 3m -23.4%, RSI 46 (zona baja) · 📌 DISMINUCION
+**Síntesis IA:** ✅ Balance sano (baja deuda) · ⚠️ Tendencia bajista, Momentum 3m -28% (débil), Pullback profundo 15% (oportunidad si fundamentals sólidos), RSI 42 (zona baja) · 📌 score +3
 
 </details>
 
 ---
 
-## 🔴 RKLB $73.61 `+4.7%` — AVOID (14, -3) · convicción baja
+## 🔴 RKLB $73.95 `+0.5%` — AVOID (13, -4) · convicción baja
 
 *Evitar por ahora.*
 
@@ -265,17 +265,17 @@ Comprar entre $182.02 y $197.93 · Si baja de $139.61 arrancar · Meta $286.24 �
 
 **Fundamentales:** Ventas +62% (a toda máquina) · Margen -22% (en rojo) · ROE -8% (débil) · P/E 1623 (muy caro) · Deuda 4 (poca deuda)
 
-**Técnico:** Tendencia: sin dirección clara · RSI 67 (caliente = subiendo fuerte) · Precio +12% sobre su promedio (estirado) · Momentum 3m -13% (frío) · Caída -2% (casi en máximos)
+**Técnico:** Tendencia: sin dirección clara · RSI 67 (caliente = subiendo fuerte) · Precio +12% sobre su promedio (estirado) · Momentum 3m -24% (congelado) · Caída -2% (casi en máximos)
 
 **Noticias 7d:** 🔴 -0.7 (10) — "Cathie Wood compra 25 millones de dólares en acciones tecnológicas en caída" / "Los accionistas de Iridium aprueban la adquisición por parte de Rocket Lab" / "Las acciones espaciales se recuperan a medida que las compras se extienden en los sectores puros: Rocket Lab y" / "Spire Global seleccionado por el SPC precursor para proporcionar perfiles de ocultación de radio GNSS en apoyo"
 
-**Síntesis IA:** ✅ Revenue growth +62% (excelente), Balance sano (baja deuda) · ⚠️ Sin rentabilidad neta, Momentum 3m -12.9% · 📌 AUMENTO
+**Síntesis IA:** ✅ Revenue growth +62% (excelente), Balance sano (baja deuda) · ⚠️ Sin rentabilidad neta, Tendencia lateral/indefinida, Momentum 3m -24% (débil) · 📌 score +4
 
 </details>
 
 ---
 
-## 🔴 USAR $15.38 `-2.8%` — AVOID (5, -1) · convicción baja
+## 🔴 USAR $15.18 `-1.3%` — AVOID (5, -1) · convicción baja
 
 *Evitar por ahora.*
 
@@ -284,11 +284,11 @@ Comprar entre $182.02 y $197.93 · Si baja de $139.61 arrancar · Meta $286.24 �
 
 **Fundamentales:** Ventas s/d · Margen s/d · ROE -24% (débil) · P/E 506 (muy caro) · Deuda 0 (poca deuda)
 
-**Técnico:** Tendencia: viento en contra · RSI 34 (frío = zona de compra) · Precio -8% bajo su promedio (castigado) · Momentum 3m -25% (congelado) · Caída -22% (derrumbe = esperar)
+**Técnico:** Tendencia: viento en contra · RSI 33 (frío = zona de compra) · Precio -8% bajo su promedio (castigado) · Momentum 3m -28% (congelado) · Caída -23% (derrumbe = esperar)
 
 **Noticias 7d:** 🟡 -0.1 (10) — "Metales críticos y dos acciones de tierras raras a tener en cuenta" / "Los metales críticos aumentan un 9% mientras que el grupo de tierras raras se estanca; " / "¿Puede la instalación de Blacksburg impulsar el crecimiento a largo plazo de las tierras raras de EE. UU.?" / "USA Rare Earth está iniciando la construcción de su instalación de 1.200 millones de dólares en Carolina del S"
 
-**Síntesis IA:** ✅ Balance sano (baja deuda) · ⚠️ Tendencia bajista, Momentum 3m -24.9%, Caída fuerte 22% — posible cambio de tendencia, RSI 34 (sobrevendido — zona de compra) · 📌 DISMINUCION
+**Síntesis IA:** ✅ Balance sano (baja deuda) · ⚠️ Tendencia bajista, Momentum 3m -28% (débil), Caída fuerte 23% — posible cambio de tendencia, RSI 33 (sobrevendido — zona de compra) · 📌 score +5
 
 </details>
 
@@ -298,9 +298,9 @@ Comprar entre $182.02 y $197.93 · Si baja de $139.61 arrancar · Meta $286.24 �
 
 ## 🎓 Aprende algo hoy
 
-### Convicción: no todas las señales nacen iguales
+### ¿Qué es un 'gap' y por qué el stop a veces no salva?
 
-Una señal de convicción ALTA tiene fundamentales, tendencia, momento y noticias apuntando al mismo lado. Una de BAJA tiene señales cruzadas (ej: empresa buenísima pero precio desplomándose). Con baja convicción, o esperas, o compras solo la mitad de lo pensado.
+Si una empresa anuncia pésimas noticias después del cierre, la acción puede abrir mañana directamente -20% bajo tu stop: eso es un gap. El stop te vende al precio que exista, no al que soñaste. Es la razón de no concentrar todo en una sola acción ni en un solo sector.
 
 ---
 
