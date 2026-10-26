@@ -1,20 +1,20 @@
-# Señales — 2026-10-23 | 09:00 CLST (Hora Chile, UTC-03:00)
+# Señales — 2026-10-26 | 09:00 CLST (Hora Chile, UTC-03:00)
 
 > 🌎 Hora local Santiago. Resto del mundo: 12:00 UTC. Sesión: Daily Close.
 >
-> 14 acciones · 1 COMPRAR/ACUMULAR · 🏷️ 6 en oferta · DEFENSIVO — sin entradas claras, efectivo o esperar.
+> 14 acciones · 0 COMPRAR/ACUMULAR · 🏷️ 7 en oferta · DEFENSIVO — sin entradas claras, efectivo o esperar.
 
 ## 🧭 Resumen del día
 
-**Para comprar:** **ELMD** (57). La mejor opción del día es **ELMD** con score 57 y convicción media.
+**Sin señales de compra hoy** — mejor día para observar y mantener efectivo. No pasar nada también es una decisión.
 
-**🏷️ Calidad en oferta:** **MU** (T1), **VICR** (T1), **CRDO** (T1), **VRT** (T1), **GEV** (T1), **ALAB** (T1) — empresas buenas castigadas por el precio, para entrar de a poco (ver su ficha).
+**🏷️ Calidad en oferta:** **MU** (T1), **BE** (T1), **VICR** (T1), **CRDO** (T1), **VRT** (T1), **GEV** (T1), **ALAB** (T1) — empresas buenas castigadas por el precio, para entrar de a poco (ver su ficha).
 
-**Para vigilar:** 2 acciones a la espera de su momento (NOW, MU…).
+**Para vigilar:** 3 acciones a la espera de su momento (ELMD, NOW, MU…).
 
 **Para evitar:** 11 acciones con momento negativo; no tocarlas aunque bajen 'baratas'.
 
-**Ánimo general:** templado — hay señales pero ninguna para apostar fuerte.
+**Ánimo general:** defensivo — el mercado no regala nada hoy.
 
 
 ---
@@ -23,47 +23,47 @@
 
 Cada acción tiene una nota (score 0-100) y una frase que dice qué hacer. Si quieres el porqué, abre el desplegable.
 
-## 🔵 ELMD $26.87 `-1.6%` — ACCUMULATE (57) · convicción media
-
-*Para comprar de a poco en la zona indicada.*
-
-<details>
-<summary>Fundamentales · Técnico · Noticias · Síntesis</summary>
-
-**Fundamentales:** Ventas +12% (crece) · Margen 15% (sano) · ROE 23% (extraordinario) · P/E 44 (caro) · Deuda 0 (poca deuda)
-
-**Técnico:** Tendencia: viento en contra · RSI 33 (frío = zona de compra) · Precio -4% bajo su promedio (pequeño descuento) · Momentum 3m -33% (congelado) · Caída -7% (descuento ideal)
-Comprar entre $27.86 y $26.87 · Si baja de $26.32 arrancar · Meta $43.74 · Premio 10.3 (premio excelente) por cada $1 en riesgo
-
-**Noticias 7d:** sin noticias frescas
-
-**Síntesis IA:** ✅ Revenue growth +12%, Margen 15% (saludable), Pullback ideal 7% desde máx 20d · ⚠️ Tendencia bajista, Momentum 3m -33% (débil) · 📌 Sin cambios significativos
-
-</details>
-
----
-
-## ⚪ NOW $157.00 `+2.5%` — WATCH (49) · convicción media
+## ⚪ ELMD $26.37 `-1.9%` — WATCH (51) · convicción baja
 
 *Mirar nomás, todavía no comprar.*
 
 <details>
 <summary>Fundamentales · Técnico · Noticias · Síntesis</summary>
 
-**Fundamentales:** Ventas +24% (fuerte) · Margen 11% (fino) · ROE 14% (normal) · P/E 31 (razonable) · Deuda 68 (deuda manejable)
+**Fundamentales:** Ventas +12% (crece) · Margen 15% (sano) · ROE 23% (extraordinario) · P/E 43 (caro) · Deuda 0 (poca deuda)
 
-**Técnico:** Tendencia: viento muy a favor · RSI 78 (hirviendo = caro, mejor esperar) · Precio +12% sobre su promedio (estirado) · Momentum 3m +49% (volando) · Caída -0% (casi en máximos)
-Comprar entre $140.51 y $158.57 · Si baja de $120.69 arrancar · Meta $157.60 · Premio 0.9 (premio flojo) por cada $1 en riesgo
+**Técnico:** Tendencia: viento en contra · RSI 25 (muy frío = posible oferta) · Precio -5% bajo su promedio (castigado) · Momentum 3m -33% (congelado) · Caída -9% (descuento ideal)
+Comprar entre $27.79 y $26.63 · Si baja de $25.52 arrancar · Meta $43.22 · Premio 6.8 (premio excelente) por cada $1 en riesgo
 
 **Noticias 7d:** sin noticias frescas
 
-**Síntesis IA:** ✅ Revenue growth +24% (fuerte), PEG 1.1 (subvalorado), Tendencia alcista fuerte (Precio > SMA20 > SMA50) · ⚠️ Momentum 3m +49% (muy fuerte), RSI 78 (sobrecomprado — esperar) · 📌 Sin cambios significativos
+**Síntesis IA:** ✅ Revenue growth +12%, Margen 15% (saludable) · ⚠️ Tendencia bajista, Momentum 3m -33% (débil) · 📌 -1.86%
 
 </details>
 
 ---
 
-## ⚪ MU $856.49 `-6.3%` — WATCH (35, -5) · convicción baja
+## ⚪ NOW $158.96 `+1.2%` — WATCH (49) · convicción baja
+
+*Mirar nomás, todavía no comprar.*
+
+<details>
+<summary>Fundamentales · Técnico · Noticias · Síntesis</summary>
+
+**Fundamentales:** Ventas +24% (fuerte) · Margen 11% (fino) · ROE 14% (normal) · P/E 32 (razonable) · Deuda 68 (deuda manejable)
+
+**Técnico:** Tendencia: viento muy a favor · RSI 78 (hirviendo = caro, mejor esperar) · Precio +12% sobre su promedio (estirado) · Momentum 3m +44% (volando) · Caída -0% (casi en máximos)
+Comprar entre $141.68 y $160.55 · Si baja de $120.54 arrancar · Meta $159.50 · Premio 0.8 (premio flojo) por cada $1 en riesgo
+
+**Noticias 7d:** sin noticias frescas
+
+**Síntesis IA:** ✅ Revenue growth +24% (fuerte), PEG 1.1 (subvalorado) · ⚠️ Tendencia alcista fuerte (Precio > SMA20 > SMA50), Momentum 3m +44% (muy fuerte), RSI 78 (sobrecomprado — esperar) · 📌 +1.25%
+
+</details>
+
+---
+
+## ⚪ MU $877.55 `+2.5%` — WATCH (40) · convicción baja
 
 *Oportunidad en pánico: empresa buena muy castigada, para entrar de a poco.*
 
@@ -74,39 +74,18 @@ Comprar entre $140.51 y $158.57 · Si baja de $120.69 arrancar · Meta $157.60 �
 
 **Fundamentales:** Ventas +379% (a toda máquina) · Margen 64% (premium) · ROE 88% (extraordinario) · P/E 4 (barato) · Deuda 4 (poca deuda)
 
-**Técnico:** Tendencia: viento en contra · RSI 24 (muy frío = posible oferta) · Precio -14% bajo su promedio (castigado) · Momentum 3m -5% (plano) · Caída -23% (derrumbe = esperar)
-Comprar entre $996.83 y $865.05 · Si baja de $800.08 arrancar · Meta $1108.55 · Premio 0.6 (premio flojo) por cada $1 en riesgo
-
-**Noticias 7d:** 🔴 -1.0 (1) — "Live On CNBC, Josh Brown Hosts Segment Titled "Josh's Best Stocks In The Market: KLA Corp""
-
-**Síntesis IA:** ✅ Revenue growth +379% (excelente), Margen 64% (premium) · ⚠️ Tendencia bajista, Bajo SPY por -8% en 3m, Caída fuerte 23% — posible cambio de tendencia · 📌 Caída del 6.26%
-
-</details>
-
----
-
-## 🟡 VICR $179.99 `-15.7%` — WAIT (35) · convicción baja
-
-*Oportunidad en pánico: empresa buena muy castigada, para entrar de a poco.*
-
-🏷️ **OFERTA T1 — pánico con calidad (RSI<30, fund élite): primer tramo**
-
-<details>
-<summary>Fundamentales · Técnico · Noticias · Síntesis</summary>
-
-**Fundamentales:** Ventas +78% (a toda máquina) · Margen 32% (premium) · ROE 24% (extraordinario) · P/E 30 (razonable) · Deuda 1 (poca deuda)
-
-**Técnico:** Tendencia: viento en contra · RSI 17 (muy frío = posible oferta) · Precio -30% bajo su promedio (castigado) · Momentum 3m -13% (frío) · Caída -46% (derrumbe = esperar)
+**Técnico:** Tendencia: viento en contra · RSI 29 (muy frío = posible oferta) · Precio -11% bajo su promedio (castigado) · Momentum 3m +7% (fuerte) · Caída -21% (derrumbe = esperar)
+Comprar entre $986.60 y $886.33 · Si baja de $798.93 arrancar · Meta $1108.55 · Premio 0.6 (premio flojo) por cada $1 en riesgo
 
 **Noticias 7d:** sin noticias frescas
 
-**Síntesis IA:** ✅ Revenue growth +78% (excelente), Margen 32% (premium) · ⚠️ Tendencia bajista, Momentum 3m -13% (débil), Caída fuerte 46% — posible cambio de tendencia · 📌 Caída del 15.66%
+**Síntesis IA:** ✅ Revenue growth +379% (excelente), Margen 64% (premium) · ⚠️ Tendencia bajista, Caída fuerte 21% — posible cambio de tendencia, RSI 29 (muy sobrevendido — cautela) · 📌 +2.46%
 
 </details>
 
 ---
 
-## 🟡 CRDO $162.77 `-10.7%` — WAIT (33, -5) · convicción baja
+## 🟡 BE $193.30 `-11.2%` — WAIT (37) · convicción baja
 
 *Oportunidad en pánico: empresa buena muy castigada, para entrar de a poco.*
 
@@ -115,19 +94,61 @@ Comprar entre $996.83 y $865.05 · Si baja de $800.08 arrancar · Meta $1108.55 
 <details>
 <summary>Fundamentales · Técnico · Noticias · Síntesis</summary>
 
-**Fundamentales:** Ventas +115% (a toda máquina) · Margen 34% (premium) · ROE 31% (extraordinario) · P/E 17 (barato) · Deuda 1 (poca deuda)
+**Fundamentales:** Ventas +138% (a toda máquina) · Margen 14% (sano) · ROE 40% (extraordinario) · P/E 36 (caro) · Deuda 142 (deuda manejable)
 
-**Técnico:** Tendencia: viento en contra · RSI 24 (muy frío = posible oferta) · Precio -17% bajo su promedio (castigado) · Momentum 3m -22% (congelado) · Caída -30% (derrumbe = esperar)
+**Técnico:** Tendencia: viento en contra · RSI 23 (muy frío = posible oferta) · Precio -25% bajo su promedio (castigado) · Momentum 3m +16% (volando) · Caída -36% (derrumbe = esperar)
 
-**Noticias 7d:** 🔴 -1.0 (1) — "Qnity Electronics shares are trading higher after RBC Capital maintained its Outperform rating on the stock an"
+**Noticias 7d:** sin noticias frescas
 
-**Síntesis IA:** ✅ Revenue growth +115% (excelente), Margen 34% (premium) · ⚠️ Tendencia bajista, Momentum 3m -22% (débil), Caída fuerte 30% — posible cambio de tendencia · 📌 Caída del 10.7%
+**Síntesis IA:** ✅ Revenue growth +138% (excelente), Margen 14% (saludable) · ⚠️ Tendencia bajista, Caída fuerte 36% — posible cambio de tendencia · 📌 -11.24%
 
 </details>
 
 ---
 
-## 🟡 VRT $195.59 `-7.8%` — WAIT (33) · convicción baja
+## 🟡 VICR $176.04 `-2.2%` — WAIT (35) · convicción baja
+
+*Oportunidad en pánico: empresa buena muy castigada, para entrar de a poco.*
+
+🏷️ **OFERTA T1 — pánico con calidad (RSI<30, fund élite): primer tramo**
+
+<details>
+<summary>Fundamentales · Técnico · Noticias · Síntesis</summary>
+
+**Fundamentales:** Ventas +78% (a toda máquina) · Margen 32% (premium) · ROE 24% (extraordinario) · P/E 29 (razonable) · Deuda 1 (poca deuda)
+
+**Técnico:** Tendencia: viento en contra · RSI 17 (muy frío = posible oferta) · Precio -30% bajo su promedio (castigado) · Momentum 3m -8% (frío) · Caída -47% (derrumbe = esperar)
+
+**Noticias 7d:** sin noticias frescas
+
+**Síntesis IA:** ✅ Revenue growth +78% (excelente), Margen 32% (premium) · ⚠️ Tendencia bajista, Bajo SPY por -11% en 3m, Caída fuerte 47% — posible cambio de tendencia · 📌 -2.19%
+
+</details>
+
+---
+
+## 🟡 CRDO $147.29 `-9.5%` — WAIT (33, -5) · convicción baja
+
+*Oportunidad en pánico: empresa buena muy castigada, para entrar de a poco.*
+
+🏷️ **OFERTA T1 — pánico con calidad (RSI<30, fund élite): primer tramo**
+
+<details>
+<summary>Fundamentales · Técnico · Noticias · Síntesis</summary>
+
+**Fundamentales:** Ventas +115% (a toda máquina) · Margen 34% (premium) · ROE 31% (extraordinario) · P/E 15 (barato) · Deuda 1 (poca deuda)
+
+**Técnico:** Tendencia: viento en contra · RSI 23 (muy frío = posible oferta) · Precio -24% bajo su promedio (castigado) · Momentum 3m -23% (congelado) · Caída -36% (derrumbe = esperar)
+
+**Noticias 7d:** 🔴 -1.0 (1) — "Las acciones de Cohu cotizan a la baja después de que la compañía informara resultados de EPS ajustados del cu"
+
+**Síntesis IA:** ✅ Revenue growth +115% (excelente), Margen 34% (premium) · ⚠️ Tendencia bajista, Momentum 3m -23% (débil), Caída fuerte 36% — posible cambio de tendencia · 📌 -9.51%
+
+</details>
+
+---
+
+## 🟡 VRT $194.32 `-0.7%` — WAIT (33) · convicción baja
 
 *Oportunidad en pánico: empresa buena muy castigada, para entrar de a poco.*
 
@@ -138,17 +159,17 @@ Comprar entre $996.83 y $865.05 · Si baja de $800.08 arrancar · Meta $1108.55 
 
 **Fundamentales:** Ventas +24% (fuerte) · Margen 15% (sano) · ROE 44% (extraordinario) · P/E 21 (razonable) · Deuda 70 (deuda manejable)
 
-**Técnico:** Tendencia: viento en contra · RSI 13 (muy frío = posible oferta) · Precio -16% bajo su promedio (castigado) · Momentum 3m -32% (congelado) · Caída -24% (derrumbe = esperar)
+**Técnico:** Tendencia: viento en contra · RSI 11 (muy frío = posible oferta) · Precio -16% bajo su promedio (castigado) · Momentum 3m -28% (congelado) · Caída -25% (derrumbe = esperar)
 
 **Noticias 7d:** sin noticias frescas
 
-**Síntesis IA:** ✅ Revenue growth +24% (fuerte), Margen 15% (saludable) · ⚠️ Tendencia bajista, Momentum 3m -32% (débil), Caída fuerte 24% — posible cambio de tendencia · 📌 Caída del 7.81%
+**Síntesis IA:** ✅ Revenue growth +24% (fuerte), Margen 15% (saludable) · ⚠️ Tendencia bajista, Momentum 3m -28% (débil), Caída fuerte 25% — posible cambio de tendencia · 📌 -0.65%
 
 </details>
 
 ---
 
-## 🟡 GEV $827.42 `-10.6%` — WAIT (32) · convicción baja
+## 🟡 GEV $815.00 `-1.5%` — WAIT (32) · convicción baja
 
 *Oportunidad en pánico: empresa buena muy castigada, para entrar de a poco.*
 
@@ -157,19 +178,19 @@ Comprar entre $996.83 y $865.05 · Si baja de $800.08 arrancar · Meta $1108.55 
 <details>
 <summary>Fundamentales · Técnico · Noticias · Síntesis</summary>
 
-**Fundamentales:** Ventas +22% (fuerte) · Margen 23% (sano) · ROE 83% (extraordinario) · P/E 33 (razonable) · Deuda 28 (poca deuda)
+**Fundamentales:** Ventas +22% (fuerte) · Margen 23% (sano) · ROE 83% (extraordinario) · P/E 32 (razonable) · Deuda 28 (poca deuda)
 
-**Técnico:** Tendencia: viento en contra · RSI 26 (muy frío = posible oferta) · Precio -14% bajo su promedio (castigado) · Momentum 3m -17% (congelado) · Caída -21% (derrumbe = esperar)
+**Técnico:** Tendencia: viento en contra · RSI 25 (muy frío = posible oferta) · Precio -14% bajo su promedio (castigado) · Momentum 3m -14% (frío) · Caída -23% (derrumbe = esperar)
 
 **Noticias 7d:** sin noticias frescas
 
-**Síntesis IA:** ✅ Revenue growth +22% (fuerte), Margen 23% (saludable) · ⚠️ Tendencia bajista, Momentum 3m -17% (débil), Caída fuerte 21% — posible cambio de tendencia · 📌 Caída del 10.64%
+**Síntesis IA:** ✅ Revenue growth +22% (fuerte), Margen 23% (saludable) · ⚠️ Tendencia bajista, Momentum 3m -14% (débil), Caída fuerte 23% — posible cambio de tendencia · 📌 -1.5%
 
 </details>
 
 ---
 
-## 🟡 ALAB $257.82 `-11.1%` — WAIT (30, -5) · convicción baja
+## 🟡 ALAB $257.16 `-0.3%` — WAIT (30, -5) · convicción baja
 
 *Oportunidad en pánico: empresa buena muy castigada, para entrar de a poco.*
 
@@ -180,36 +201,17 @@ Comprar entre $996.83 y $865.05 · Si baja de $800.08 arrancar · Meta $1108.55 
 
 **Fundamentales:** Ventas +104% (a toda máquina) · Margen 31% (premium) · ROE 26% (extraordinario) · P/E 40 (caro) · Deuda 3 (poca deuda)
 
-**Técnico:** Tendencia: viento en contra · RSI 26 (muy frío = posible oferta) · Precio -22% bajo su promedio (castigado) · Momentum 3m -9% (frío) · Caída -36% (derrumbe = esperar)
+**Técnico:** Tendencia: viento en contra · RSI 20 (muy frío = posible oferta) · Precio -21% bajo su promedio (castigado) · Momentum 3m -1% (plano) · Caída -36% (derrumbe = esperar)
 
-**Noticias 7d:** 🔴 -1.0 (1) — "Qnity Electronics shares are trading higher after RBC Capital maintained its Outperform rating on the stock an"
+**Noticias 7d:** 🔴 -1.0 (1) — "Las acciones de Cohu cotizan a la baja después de que la compañía informara resultados de EPS ajustados del cu"
 
-**Síntesis IA:** ✅ Revenue growth +104% (excelente), Margen 31% (premium) · ⚠️ Tendencia bajista, Bajo SPY por -12% en 3m, Caída fuerte 36% — posible cambio de tendencia · 📌 Caída del 11.11%
-
-</details>
-
----
-
-## 🟡 BE $217.77 `-8.7%` — WAIT (30) · convicción baja
-
-*Esperar, el momento está malo.*
-
-<details>
-<summary>Fundamentales · Técnico · Noticias · Síntesis</summary>
-
-**Fundamentales:** Ventas +166% (a toda máquina) · Margen 8% (fino) · ROE 22% (extraordinario) · P/E 44 (caro) · Deuda 172 (deuda manejable)
-
-**Técnico:** Tendencia: viento en contra · RSI 26 (muy frío = posible oferta) · Precio -17% bajo su promedio (castigado) · Momentum 3m +16% (volando) · Caída -28% (derrumbe = esperar)
-
-**Noticias 7d:** sin noticias frescas
-
-**Síntesis IA:** ✅ Revenue growth +166% (excelente), ROE 22% (sólido), Momentum 3m +16% · ⚠️ Tendencia bajista, Caída fuerte 28% — posible cambio de tendencia · 📌 Caída del 8.7%
+**Síntesis IA:** ✅ Revenue growth +104% (excelente), Margen 31% (premium) · ⚠️ Tendencia bajista, Caída fuerte 36% — posible cambio de tendencia, RSI 20 (muy sobrevendido — cautela) · 📌 -0.26%
 
 </details>
 
 ---
 
-## 🔴 POWL $150.71 `-11.5%` — AVOID (19, -5) · convicción baja
+## 🔴 POWL $150.95 `+0.2%` — AVOID (19, -5) · convicción baja
 
 *Evitar por ahora.*
 
@@ -218,17 +220,17 @@ Comprar entre $996.83 y $865.05 · Si baja de $800.08 arrancar · Meta $1108.55 
 
 **Fundamentales:** Ventas +9% (crece) · Margen 16% (sano) · ROE 28% (extraordinario) · P/E 22 (razonable) · Deuda 0 (poca deuda)
 
-**Técnico:** Tendencia: viento en contra · RSI 22 (muy frío = posible oferta) · Precio -17% bajo su promedio (castigado) · Momentum 3m -31% (congelado) · Caída -27% (derrumbe = esperar)
+**Técnico:** Tendencia: viento en contra · RSI 21 (muy frío = posible oferta) · Precio -16% bajo su promedio (castigado) · Momentum 3m -25% (congelado) · Caída -27% (derrumbe = esperar)
 
-**Noticias 7d:** 🔴 -0.5 (2) — "Powell Industries, Inc. (POWL) Is a Trending Stock: Facts to Know Before Betting on It" / "3 Stocks Riding The AI Data Center And Power Buildout"
+**Noticias 7d:** 🔴 -0.5 (2) — "Powell Industries (POWL) cae más que el mercado en general: lo que debe saber" / "Powell Industries, Inc. (POWL) es una acción de tendencia: datos que debe saber antes de apostar por ella"
 
-**Síntesis IA:** ✅ Revenue growth +9%, Margen 16% (saludable) · ⚠️ Tendencia bajista, Momentum 3m -31% (débil), Caída fuerte 27% — posible cambio de tendencia · 📌 Caída del 11.51%
+**Síntesis IA:** ✅ Revenue growth +9%, Margen 16% (saludable) · ⚠️ Tendencia bajista, Momentum 3m -25% (débil), Caída fuerte 27% — posible cambio de tendencia · 📌 +0.16%
 
 </details>
 
 ---
 
-## 🔴 IONQ $31.16 `-3.5%` — AVOID (16) · convicción baja
+## 🔴 IONQ $31.27 `+0.3%` — AVOID (11, -5) · convicción baja
 
 *Evitar por ahora.*
 
@@ -237,68 +239,68 @@ Comprar entre $996.83 y $865.05 · Si baja de $800.08 arrancar · Meta $1108.55 
 
 **Fundamentales:** Ventas +287% (a toda máquina) · Margen s/d · ROE -60% (débil) · P/E -23 (barato) · Deuda 2 (poca deuda)
 
-**Técnico:** Tendencia: viento en contra · RSI 23 (muy frío = posible oferta) · Precio -19% bajo su promedio (castigado) · Momentum 3m -13% (frío) · Caída -35% (derrumbe = esperar)
+**Técnico:** Tendencia: viento en contra · RSI 24 (muy frío = posible oferta) · Precio -17% bajo su promedio (castigado) · Momentum 3m -8% (frío) · Caída -35% (derrumbe = esperar)
 
-**Noticias 7d:** sin noticias frescas
+**Noticias 7d:** 🔴 -1.0 (1) — "Las acciones de Cohu cotizan a la baja después de que la compañía informara resultados de EPS ajustados del cu"
 
-**Síntesis IA:** ✅ Revenue growth +287% (excelente), Balance sano (baja deuda) · ⚠️ Tendencia bajista, Momentum 3m -13% (débil), Caída fuerte 35% — posible cambio de tendencia · 📌 Caída del 3.47%
+**Síntesis IA:** ✅ Revenue growth +287% (excelente), Balance sano (baja deuda) · ⚠️ Tendencia bajista, Bajo SPY por -10% en 3m, Caída fuerte 35% — posible cambio de tendencia · 📌 +0.35%
 
 </details>
 
 ---
 
-## 🔴 RKLB $51.22 `-4.6%` — AVOID (10) · convicción baja
+## 🔴 RKLB $52.60 `+2.7%` — AVOID (5, -5) · convicción baja
 
 *Evitar por ahora.*
 
 <details>
 <summary>Fundamentales · Técnico · Noticias · Síntesis</summary>
 
-**Fundamentales:** Ventas +62% (a toda máquina) · Margen -22% (en rojo) · ROE -8% (débil) · P/E 891 (muy caro) · Deuda 4 (poca deuda)
+**Fundamentales:** Ventas +62% (a toda máquina) · Margen -22% (en rojo) · ROE -8% (débil) · P/E 915 (muy caro) · Deuda 4 (poca deuda)
 
-**Técnico:** Tendencia: viento en contra · RSI 16 (muy frío = posible oferta) · Precio -21% bajo su promedio (castigado) · Momentum 3m -24% (congelado) · Caída -35% (derrumbe = esperar)
+**Técnico:** Tendencia: viento en contra · RSI 20 (muy frío = posible oferta) · Precio -17% bajo su promedio (castigado) · Momentum 3m -18% (congelado) · Caída -33% (derrumbe = esperar)
 
-**Noticias 7d:** sin noticias frescas
+**Noticias 7d:** 🔴 -1.0 (1) — "La oferta pública inicial de Arxis se abre a 38 dólares por acción; "
 
-**Síntesis IA:** ✅ Revenue growth +62% (excelente), Balance sano (baja deuda) · ⚠️ Sin rentabilidad neta, Tendencia bajista, Momentum 3m -24% (débil) · 📌 Caída del 4.56%
+**Síntesis IA:** ✅ Revenue growth +62% (excelente), Balance sano (baja deuda) · ⚠️ Sin rentabilidad neta, Tendencia bajista, Momentum 3m -18% (débil) · 📌 +2.69%
 
 </details>
 
 ---
 
-## 🔴 OKLO $27.01 `-2.6%` — AVOID (1) · convicción baja
+## 🔴 OKLO $26.35 `-2.4%` — AVOID (1) · convicción baja
 
 *Evitar por ahora.*
 
 <details>
 <summary>Fundamentales · Técnico · Noticias · Síntesis</summary>
 
-**Fundamentales:** Ventas s/d · Margen s/d · ROE -8% (débil) · P/E -25 (barato) · Deuda 0 (poca deuda)
+**Fundamentales:** Ventas s/d · Margen s/d · ROE -8% (débil) · P/E -24 (barato) · Deuda 0 (poca deuda)
 
-**Técnico:** Tendencia: viento en contra · RSI 24 (muy frío = posible oferta) · Precio -18% bajo su promedio (castigado) · Momentum 3m -35% (congelado) · Caída -31% (derrumbe = esperar)
+**Técnico:** Tendencia: viento en contra · RSI 23 (muy frío = posible oferta) · Precio -19% bajo su promedio (castigado) · Momentum 3m -33% (congelado) · Caída -33% (derrumbe = esperar)
 
 **Noticias 7d:** sin noticias frescas
 
-**Síntesis IA:** ✅ Balance sano (baja deuda) · ⚠️ Tendencia bajista, Momentum 3m -35% (débil), Caída fuerte 31% — posible cambio de tendencia, RSI 24 (muy sobrevendido — cautela) · 📌 Caída del 2.6%
+**Síntesis IA:** ✅ Balance sano (baja deuda) · ⚠️ Tendencia bajista, Momentum 3m -33% (débil), Caída fuerte 33% — posible cambio de tendencia, RSI 23 (muy sobrevendido — cautela) · 📌 -2.44%
 
 </details>
 
 ---
 
-## 🔴 USAR $9.63 `-5.9%` — AVOID (0, -1) · convicción baja
+## 🔴 USAR $9.33 `-3.1%` — AVOID (0, -1) · convicción baja
 
 *Evitar por ahora.*
 
 <details>
 <summary>Fundamentales · Técnico · Noticias · Síntesis</summary>
 
-**Fundamentales:** Ventas s/d · Margen s/d · ROE -24% (débil) · P/E 321 (muy caro) · Deuda 0 (poca deuda)
+**Fundamentales:** Ventas s/d · Margen s/d · ROE -24% (débil) · P/E 311 (muy caro) · Deuda 0 (poca deuda)
 
-**Técnico:** Tendencia: viento en contra · RSI 18 (muy frío = posible oferta) · Precio -22% bajo su promedio (castigado) · Momentum 3m -36% (congelado) · Caída -38% (derrumbe = esperar)
+**Técnico:** Tendencia: viento en contra · RSI 16 (muy frío = posible oferta) · Precio -22% bajo su promedio (castigado) · Momentum 3m -34% (congelado) · Caída -38% (derrumbe = esperar)
 
-**Noticias 7d:** 🟡 -0.1 (8) — "Japan is Just “Months” Away From Running Out of a Critical Rare Earth Mineral. Here’s Why Rare Earths are Beco" / "Netflix downgraded, Zoom upgraded: Wall Street's top analyst calls" / "United States Antimony Soars 11% While Rare Earth Peers Retreat; USA Rare Earth Drops 3%, Critical Metals Fall" / "USA Rare Earth: Millionaire Maker or Market Hype? The Honest Truth."
+**Noticias 7d:** 🟡 -0.1 (8) — "Los metales críticos se hunden un 7% a pesar de la aprobación de los accionistas del acuerdo europeo sobre el " / "Las acciones de las empresas de cobre cotizan a la baja en medio de una caída en los precios del cobre, impuls" / "Metales críticos y dos acciones de tierras raras a tener en cuenta" / "¿Es el stock de tierras raras de EE. UU. una oportunidad de relocalización única en una generación?"
 
-**Síntesis IA:** ✅ Balance sano (baja deuda) · ⚠️ Tendencia bajista, Momentum 3m -36% (débil), Caída fuerte 38% — posible cambio de tendencia, RSI 18 (muy sobrevendido — cautela) · 📌 Caída del 5.87%
+**Síntesis IA:** ✅ Balance sano (baja deuda) · ⚠️ Tendencia bajista, Momentum 3m -34% (débil), Caída fuerte 38% — posible cambio de tendencia, RSI 16 (muy sobrevendido — cautela) · 📌 -3.12%
 
 </details>
 
@@ -308,9 +310,9 @@ Comprar entre $996.83 y $865.05 · Si baja de $800.08 arrancar · Meta $1108.55 
 
 ## 🎓 Aprende algo hoy
 
-### ¿Por qué compramos en caídas y no en máximos?
+### Fundamentales vs técnico: ¿pelea o equipo?
 
-Suena raro, pero el mejor momento de comprar una acción buena es cuando baja un poco (5-15%), no cuando todos los diarios hablan maravillas de ella. En máximos, pagas el entusiasmo de todos; en un pullback, pagas el miedo de algunos. El score del sistema baja a propósito cuando algo está 'hirviendo' (RSI > 70).
+Los fundamentales responden QUÉ comprar (¿la empresa gana plata, crece, tiene poca deuda?); el técnico responde CUÁNDO (¿el precio está en zona?). Comprar solo por fundamentales te hace comprar barato y verlo caer más; solo por técnico te hace comprar fuegos artificiales. El score mezcla ambos a propósito.
 
 ---
 
