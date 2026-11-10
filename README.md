@@ -1,18 +1,16 @@
-# Señales — 2026-11-09 | 09:00 CLST (Hora Chile, UTC-03:00)
+# Señales — 2026-11-10 | 09:00 CLST (Hora Chile, UTC-03:00)
 
 > 🌎 Hora local Santiago. Resto del mundo: 12:00 UTC. Sesión: Daily Close.
 >
-> 14 acciones · 0 COMPRAR/ACUMULAR · 🏷️ 2 en oferta · DEFENSIVO — sin entradas claras, efectivo o esperar.
+> 14 acciones · 0 COMPRAR/ACUMULAR · DEFENSIVO — sin entradas claras, efectivo o esperar.
 
 ## 🧭 Resumen del día
 
 **Sin señales de compra hoy** — mejor día para observar y mantener efectivo. No pasar nada también es una decisión.
 
-**🏷️ Calidad en oferta:** **IONQ** (T2), **ALAB** (T1) — empresas buenas castigadas por el precio, para entrar de a poco (ver su ficha).
+**Para vigilar:** 5 acciones a la espera de su momento (GEV, CRDO, MU, IONQ…).
 
-**Para vigilar:** 6 acciones a la espera de su momento (IONQ, MU, GEV, CRDO…).
-
-**Para evitar:** 8 acciones con momento negativo; no tocarlas aunque bajen 'baratas'.
+**Para evitar:** 9 acciones con momento negativo; no tocarlas aunque bajen 'baratas'.
 
 **Ánimo general:** defensivo — el mercado no regala nada hoy.
 
@@ -23,109 +21,87 @@
 
 Cada acción tiene una nota (score 0-100) y una frase que dice qué hacer. Si quieres el porqué, abre el desplegable.
 
-## ⚪ IONQ $32.62 `+23.4%` — WATCH (44) · convicción baja
-
-*Se está recuperando: momento del segundo tramo.*
-
-🏷️ **OFERTA T2 — recuperó SMA20, tendencia reparándose: segundo tramo**
-
-<details>
-<summary>Fundamentales · Técnico · Noticias · Síntesis</summary>
-
-**Fundamentales:** Ventas +336% (a toda máquina) · Margen 67% (premium) · ROE 7% (normal) · P/E -24 (barato) · Deuda 3 (poca deuda)
-
-**Técnico:** Tendencia: sin dirección clara · RSI 54 (tibio = normal) · Precio +4% sobre su promedio (sano) · Momentum 3m -25% (congelado) · Caída -16% (muy barato, solo si la empresa es buena)
-Comprar entre $31.47 y $32.95 · Si baja de $22.45 arrancar · Meta $47.91 · Premio 1.8 (buen premio) por cada $1 en riesgo
-
-**Noticias 7d:** 🟡 +0.0 (1) — "Las acciones de las empresas de semiconductores cotizan al alza en medio de la fortaleza general del mercado d"
-
-**Síntesis IA:** ✅ Revenue growth +336% (excelente), Margen 67% (premium) · ⚠️ Tendencia lateral/indefinida, Momentum 3m -25% (débil) · 📌 score +26
-
-</details>
-
----
-
-## ⚪ MU $690.00 `+5.1%` — WATCH (42, -3) · convicción baja
+## ⚪ GEV $829.34 `+7.1%` — WATCH (54, +3) · convicción media
 
 *Mirar nomás, todavía no comprar.*
 
 <details>
 <summary>Fundamentales · Técnico · Noticias · Síntesis</summary>
 
-**Fundamentales:** Ventas +379% (a toda máquina) · Margen 64% (premium) · ROE 88% (extraordinario) · P/E 3 (barato) · Deuda 4 (poca deuda)
+**Fundamentales:** Ventas +27% (a toda máquina) · Margen 24% (sano) · ROE 93% (extraordinario) · P/E 32 (razonable) · Deuda 30 (poca deuda)
 
-**Técnico:** Tendencia: viento en contra · RSI 32 (frío = zona de compra) · Precio -22% bajo su promedio (castigado) · Momentum 3m -20% (congelado) · Caída -31% (derrumbe = esperar)
-Comprar entre $878.99 y $696.90 · Si baja de $591.15 arrancar · Meta $1108.55 · Premio 0.8 (premio flojo) por cada $1 en riesgo
-
-**Noticias 7d:** 🔴 -1.0 (1) — "Las acciones de Semtech cotizan a la baja. "
-
-**Síntesis IA:** ✅ Revenue growth +379% (excelente), Margen 64% (premium) · ⚠️ Tendencia bajista, Momentum 3m -20% (débil), Caída fuerte 31% — posible cambio de tendencia · 📌 score -2
-
-</details>
-
----
-
-## ⚪ GEV $774.11 `+0.5%` — WATCH (42, +2) · convicción baja
-
-*Mirar nomás, todavía no comprar.*
-
-<details>
-<summary>Fundamentales · Técnico · Noticias · Síntesis</summary>
-
-**Fundamentales:** Ventas +27% (a toda máquina) · Margen 24% (sano) · ROE 93% (extraordinario) · P/E 30 (razonable) · Deuda 30 (poca deuda)
-
-**Técnico:** Tendencia: viento en contra · RSI 37 (frío = zona de compra) · Precio -12% bajo su promedio (castigado) · Momentum 3m -24% (congelado) · Caída -23% (derrumbe = esperar)
-Comprar entre $884.17 y $781.85 · Si baja de $688.94 arrancar · Meta $1052.16 · Premio 0.9 (premio flojo) por cada $1 en riesgo
+**Técnico:** Tendencia: viento en contra · RSI 44 (frío = zona de compra) · Precio -5% bajo su promedio (castigado) · Momentum 3m -20% (congelado) · Caída -18% (muy barato, solo si la empresa es buena)
+Comprar entre $875.82 y $837.63 · Si baja de $687.28 arrancar · Meta $1052.16 · Premio 0.9 (premio flojo) por cada $1 en riesgo
 
 **Noticias 7d:** 🟢 +0.5 (2) — "Las acciones de varias empresas del sector industrial más amplio cotizan al alza en medio de la fortaleza gene" / "Las acciones de Primoris Services cotizan al alza después de que Guggenheim mantuviera una calificación de Com"
 
-**Síntesis IA:** ✅ Revenue growth +27% (excelente), Margen 24% (saludable) · ⚠️ Tendencia bajista, Momentum 3m -24% (débil), Caída fuerte 23% — posible cambio de tendencia · 📌 score -1
+**Síntesis IA:** ✅ Revenue growth +27% (excelente), Margen 24% (saludable) · ⚠️ Tendencia bajista, Momentum 3m -20% (débil) · 📌 Incremento de 9 puntos en el score
 
 </details>
 
 ---
 
-## ⚪ CRDO $120.51 `+7.3%` — WATCH (41, -2) · convicción baja
+## ⚪ CRDO $132.89 `+10.3%` — WATCH (43) · convicción baja
 
 *Mirar nomás, todavía no comprar.*
 
 <details>
 <summary>Fundamentales · Técnico · Noticias · Síntesis</summary>
 
-**Fundamentales:** Ventas +115% (a toda máquina) · Margen 34% (premium) · ROE 31% (extraordinario) · P/E 12 (barato) · Deuda 1 (poca deuda)
+**Fundamentales:** Ventas +115% (a toda máquina) · Margen 34% (premium) · ROE 31% (extraordinario) · P/E 14 (barato) · Deuda 1 (poca deuda)
 
-**Técnico:** Tendencia: viento en contra · RSI 34 (frío = zona de compra) · Precio -25% bajo su promedio (castigado) · Momentum 3m -51% (congelado) · Caída -43% (derrumbe = esperar)
-Comprar entre $161.60 y $121.72 · Si baja de $94.15 arrancar · Meta $240.49 · Premio 1.2 (premio justo) por cada $1 en riesgo
+**Técnico:** Tendencia: viento en contra · RSI 39 (frío = zona de compra) · Precio -16% bajo su promedio (castigado) · Momentum 3m -50% (congelado) · Caída -34% (derrumbe = esperar)
+Comprar entre $158.21 y $134.22 · Si baja de $94.14 arrancar · Meta $238.40 · Premio 1.3 (premio justo) por cada $1 en riesgo
 
 **Noticias 7d:** sin noticias frescas
 
-**Síntesis IA:** ✅ Revenue growth +115% (excelente), Margen 34% (premium) · ⚠️ Tendencia bajista, Momentum 3m -51% (débil), Caída fuerte 43% — posible cambio de tendencia · 📌 score -4
+**Síntesis IA:** ✅ Revenue growth +115% (excelente), Margen 34% (premium) · ⚠️ Tendencia bajista, Momentum 3m -50% (débil) · 📌 Incremento de 2 puntos en el score
 
 </details>
 
 ---
 
-## ⚪ VICR $146.88 `+8.7%` — WATCH (40) · convicción baja
+## ⚪ MU $733.15 `+6.2%` — WATCH (42, -3) · convicción baja
 
 *Mirar nomás, todavía no comprar.*
 
 <details>
 <summary>Fundamentales · Técnico · Noticias · Síntesis</summary>
 
-**Fundamentales:** Ventas +78% (a toda máquina) · Margen 32% (premium) · ROE 24% (extraordinario) · P/E 24 (razonable) · Deuda 1 (poca deuda)
+**Fundamentales:** Ventas +379% (a toda máquina) · Margen 64% (premium) · ROE 88% (extraordinario) · P/E 4 (barato) · Deuda 4 (poca deuda)
 
-**Técnico:** Tendencia: viento en contra · RSI 39 (frío = zona de compra) · Precio -26% bajo su promedio (castigado) · Momentum 3m -30% (congelado) · Caída -47% (derrumbe = esperar)
-Comprar entre $198.19 y $148.35 · Si baja de $108.84 arrancar · Meta $331.00 · Premio 1.5 (buen premio) por cada $1 en riesgo
+**Técnico:** Tendencia: viento en contra · RSI 37 (frío = zona de compra) · Precio -15% bajo su promedio (castigado) · Momentum 3m -20% (congelado) · Caída -26% (derrumbe = esperar)
+Comprar entre $866.20 y $740.48 · Si baja de $589.88 arrancar · Meta $1108.55 · Premio 0.9 (premio flojo) por cada $1 en riesgo
 
-**Noticias 7d:** 🟡 +0.0 (1) — "Las acciones de Primoris Services cotizan al alza después de que Guggenheim mantuviera una calificación de Com"
+**Noticias 7d:** 🔴 -1.0 (1) — "Las acciones de Semtech cotizan a la baja. "
 
-**Síntesis IA:** ✅ Revenue growth +78% (excelente), Margen 32% (premium) · ⚠️ Tendencia bajista, Momentum 3m -30% (débil), Caída fuerte 47% — posible cambio de tendencia · 📌 score 0
+**Síntesis IA:** ✅ Revenue growth +379% (excelente), Margen 64% (premium) · ⚠️ Tendencia bajista, Momentum 3m -20% (débil) · 📌 Incremento de 3 puntos en el score
 
 </details>
 
 ---
 
-## ⚪ ELMD $27.17 `+1.5%` — WATCH (39, -1) · convicción baja
+## ⚪ IONQ $35.34 `+8.3%` — WATCH (41) · convicción baja
+
+*Mirar nomás, todavía no comprar.*
+
+<details>
+<summary>Fundamentales · Técnico · Noticias · Síntesis</summary>
+
+**Fundamentales:** Ventas +336% (a toda máquina) · Margen 67% (premium) · ROE 7% (normal) · P/E -25 (barato) · Deuda 3 (poca deuda)
+
+**Técnico:** Tendencia: sin dirección clara · RSI 58 (tibio = normal) · Precio +12% sobre su promedio (estirado) · Momentum 3m -22% (congelado) · Caída -3% (casi en máximos)
+Comprar entre $31.43 y $35.69 · Si baja de $22.28 arrancar · Meta $47.91 · Premio 1.8 (buen premio) por cada $1 en riesgo
+
+**Noticias 7d:** 🟡 +0.0 (1) — "Las acciones de las empresas de semiconductores cotizan al alza en medio de la fortaleza general del mercado d"
+
+**Síntesis IA:** ✅ Revenue growth +336% (excelente), Margen 67% (premium) · ⚠️ Tendencia lateral/indefinida, Momentum 3m -22% (débil) · 📌 Incremento de 3 puntos en el score
+
+</details>
+
+---
+
+## ⚪ ELMD $27.06 `-0.4%` — WATCH (40) · convicción baja
 
 *Mirar nomás, todavía no comprar.*
 
@@ -134,96 +110,132 @@ Comprar entre $198.19 y $148.35 · Si baja de $108.84 arrancar · Meta $331.00 �
 
 **Fundamentales:** Ventas +12% (crece) · Margen 15% (sano) · ROE 23% (extraordinario) · P/E 44 (caro) · Deuda 0 (poca deuda)
 
-**Técnico:** Tendencia: viento en contra · RSI 48 (tibio = normal) · Precio -0% bajo su promedio (pequeño descuento) · Momentum 3m -36% (congelado) · Caída -4% (casi en máximos)
-Comprar entre $27.24 y $27.44 · Si baja de $25.27 arrancar · Meta $30.66 · Premio 1.7 (buen premio) por cada $1 en riesgo
+**Técnico:** Tendencia: viento en contra · RSI 47 (tibio = normal) · Precio -0% bajo su promedio (pequeño descuento) · Momentum 3m -36% (congelado) · Caída -4% (casi en máximos)
+Comprar entre $27.19 y $27.33 · Si baja de $25.25 arrancar · Meta $29.90 · Premio 1.4 (premio justo) por cada $1 en riesgo
 
 **Noticias 7d:** sin noticias frescas
 
-**Síntesis IA:** ✅ Revenue growth +12%, Margen 15% (saludable) · ⚠️ Tendencia bajista, Momentum 3m -36% (débil), Pullback leve 4% · 📌 score -3
+**Síntesis IA:** ✅ Revenue growth +12%, Margen 15% (saludable) · ⚠️ Tendencia bajista, Momentum 3m -36% (débil) · 📌 Decremento de 1 punto en el score
 
 </details>
 
 ---
 
-## 🟡 BE $173.24 `+3.4%` — WAIT (37, -1) · convicción baja
+## 🟡 VICR $163.51 `+11.3%` — WAIT (36) · convicción baja
 
 *Esperar, el momento está malo.*
 
 <details>
 <summary>Fundamentales · Técnico · Noticias · Síntesis</summary>
 
-**Fundamentales:** Ventas +138% (a toda máquina) · Margen 14% (sano) · ROE 40% (extraordinario) · P/E 32 (razonable) · Deuda 142 (deuda manejable)
+**Fundamentales:** Ventas +78% (a toda máquina) · Margen 32% (premium) · ROE 24% (extraordinario) · P/E 27 (razonable) · Deuda 1 (poca deuda)
 
-**Técnico:** Tendencia: viento en contra · RSI 37 (frío = zona de compra) · Precio -20% bajo su promedio (castigado) · Momentum 3m -18% (congelado) · Caída -37% (derrumbe = esperar)
+**Técnico:** Tendencia: viento en contra · RSI 40 (frío = zona de compra) · Precio -15% bajo su promedio (castigado) · Momentum 3m -28% (congelado) · Caída -39% (derrumbe = esperar)
 
 **Noticias 7d:** 🟡 +0.0 (1) — "Las acciones de Primoris Services cotizan al alza después de que Guggenheim mantuviera una calificación de Com"
 
-**Síntesis IA:** ✅ Revenue growth +138% (excelente), Margen 14% (saludable) · ⚠️ Tendencia bajista, Momentum 3m -18% (débil), Caída fuerte 37% — posible cambio de tendencia · 📌 score -10
+**Síntesis IA:** ✅ Revenue growth +78% (excelente), Margen 32% (premium) · ⚠️ Tendencia bajista, Momentum 3m -28% (débil) · 📌 Incremento de 4 puntos en el score
 
 </details>
 
 ---
 
-## 🟡 VRT $182.86 `+3.5%` — WAIT (34, -3) · convicción baja
+## 🟡 VRT $200.47 `+9.6%` — WAIT (35, -2) · convicción baja
 
 *Esperar, el momento está malo.*
 
 <details>
 <summary>Fundamentales · Técnico · Noticias · Síntesis</summary>
 
-**Fundamentales:** Ventas +61% (a toda máquina) · Margen 16% (sano) · ROE 47% (extraordinario) · P/E 19 (barato) · Deuda 61 (deuda manejable)
+**Fundamentales:** Ventas +61% (a toda máquina) · Margen 16% (sano) · ROE 47% (extraordinario) · P/E 20 (razonable) · Deuda 61 (deuda manejable)
 
-**Técnico:** Tendencia: viento en contra · RSI 44 (frío = zona de compra) · Precio -15% bajo su promedio (castigado) · Momentum 3m -35% (congelado) · Caída -28% (derrumbe = esperar)
+**Técnico:** Tendencia: viento en contra · RSI 49 (tibio = normal) · Precio -6% bajo su promedio (castigado) · Momentum 3m -30% (congelado) · Caída -21% (derrumbe = esperar)
 
 **Noticias 7d:** 🔴 -0.5 (2) — "Las acciones de Primoris Services cotizan al alza después de que Guggenheim mantuviera una calificación de Com" / "Exane BNP Paribas actualiza Infineon Technologies para superarlo"
 
-**Síntesis IA:** ✅ Revenue growth +61% (excelente), Margen 16% (saludable) · ⚠️ Tendencia bajista, Momentum 3m -35% (débil), Caída fuerte 28% — posible cambio de tendencia · 📌 score -1
+**Síntesis IA:** ✅ Revenue growth +61% (excelente), Margen 16% (saludable) · ⚠️ Tendencia bajista, Momentum 3m -30% (débil) · 📌 Incremento de 3 puntos en el score
 
 </details>
 
 ---
 
-## 🟡 POWL $133.12 `+6.4%` — WAIT (31, +2) · convicción baja
+## 🟡 BE $193.88 `+11.9%` — WAIT (34) · convicción baja
 
 *Esperar, el momento está malo.*
 
 <details>
 <summary>Fundamentales · Técnico · Noticias · Síntesis</summary>
 
-**Fundamentales:** Ventas +9% (crece) · Margen 16% (sano) · ROE 28% (extraordinario) · P/E 19 (barato) · Deuda 0 (poca deuda)
+**Fundamentales:** Ventas +138% (a toda máquina) · Margen 14% (sano) · ROE 40% (extraordinario) · P/E 36 (caro) · Deuda 142 (deuda manejable)
 
-**Técnico:** Tendencia: viento en contra · RSI 36 (frío = zona de compra) · Precio -17% bajo su promedio (castigado) · Momentum 3m -36% (congelado) · Caída -31% (derrumbe = esperar)
+**Técnico:** Tendencia: viento en contra · RSI 43 (frío = zona de compra) · Precio -9% bajo su promedio (castigado) · Momentum 3m -18% (congelado) · Caída -27% (derrumbe = esperar)
 
-**Noticias 7d:** 🟡 +0.1 (9) — "Hyster-Yale (HY) informa pérdidas en el tercer trimestre, retrasa las estimaciones de ingresos" / "Powell Industries (POWL) sufre una caída mayor que el mercado general: ideas clave" / "Las acciones de varias empresas del sector industrial más amplio cotizan al alza en medio de la fortaleza gene" / "Tres acciones de equipos de red de EE. UU. que los inversores minoristas observan a medida que aumenta la dema"
+**Noticias 7d:** 🟡 +0.0 (1) — "Las acciones de Primoris Services cotizan al alza después de que Guggenheim mantuviera una calificación de Com"
 
-**Síntesis IA:** ✅ Revenue growth +9%, Margen 16% (saludable) · ⚠️ Tendencia bajista, Momentum 3m -36% (débil), Caída fuerte 31% — posible cambio de tendencia · 📌 score +1
+**Síntesis IA:** ✅ Revenue growth +138% (excelente), Margen 14% (saludable) · ⚠️ Tendencia bajista, Momentum 3m -18% (débil) · 📌 Incremento de 3 puntos en el score
 
 </details>
 
 ---
 
-## 🟡 ALAB $190.71 `+6.3%` — WAIT (30, -5) · convicción baja
+## 🟡 ALAB $216.87 `+13.7%` — WAIT (33, -4) · convicción baja
 
-*Oportunidad en pánico: empresa buena muy castigada, para entrar de a poco.*
-
-🏷️ **OFERTA T1 — pánico con calidad (RSI<30, fund élite): primer tramo**
+*Esperar, el momento está malo.*
 
 <details>
 <summary>Fundamentales · Técnico · Noticias · Síntesis</summary>
 
-**Fundamentales:** Ventas +154% (a toda máquina) · Margen 30% (premium) · ROE 28% (extraordinario) · P/E 27 (razonable) · Deuda 2 (poca deuda)
+**Fundamentales:** Ventas +154% (a toda máquina) · Margen 30% (premium) · ROE 28% (extraordinario) · P/E 31 (razonable) · Deuda 2 (poca deuda)
 
-**Técnico:** Tendencia: viento en contra · RSI 28 (muy frío = posible oferta) · Precio -29% bajo su promedio (castigado) · Momentum 3m -39% (congelado) · Caída -43% (derrumbe = esperar)
+**Técnico:** Tendencia: viento en contra · RSI 36 (frío = zona de compra) · Precio -17% bajo su promedio (castigado) · Momentum 3m -32% (congelado) · Caída -34% (derrumbe = esperar)
 
 **Noticias 7d:** 🔴 -0.7 (3) — "La primera energía solar se actualiza, la temperatura Celsius se rebaja: los principales analistas de Wall Str" / "Rebaja de calificación de Norwegian Cruise, mejora de Duolingo: llamadas de los principales analistas de Wall " / "Las acciones de las empresas de semiconductores cotizan al alza en medio de la fortaleza general del mercado d"
 
-**Síntesis IA:** ✅ Revenue growth +154% (excelente), Margen 30% (premium) · ⚠️ Tendencia bajista, Momentum 3m -39% (débil), Caída fuerte 43% — posible cambio de tendencia · 📌 score -2
+**Síntesis IA:** ✅ Revenue growth +154% (excelente), Margen 30% (premium) · ⚠️ Tendencia bajista, Momentum 3m -32% (débil) · 📌 Incremento de 7 puntos en el score
 
 </details>
 
 ---
 
-## 🔴 NOW $101.97 `-0.4%` — AVOID (20, -3) · convicción baja
+## 🟡 POWL $141.65 `+6.4%` — WAIT (27, +2) · convicción baja
+
+*Esperar, el momento está malo.*
+
+<details>
+<summary>Fundamentales · Técnico · Noticias · Síntesis</summary>
+
+**Fundamentales:** Ventas +9% (crece) · Margen 16% (sano) · ROE 28% (extraordinario) · P/E 20 (razonable) · Deuda 0 (poca deuda)
+
+**Técnico:** Tendencia: viento en contra · RSI 40 (frío = zona de compra) · Precio -10% bajo su promedio (castigado) · Momentum 3m -32% (congelado) · Caída -24% (derrumbe = esperar)
+
+**Noticias 7d:** 🟡 +0.1 (10) — "CECO Environmental se muda a Y'All Street, las acciones se desploman y yo estoy comprando" / "Las acciones de Powell Industries han cambiado el caso alcista después de pedidos récord" / "Powell Industries (POWL) reafirma su dividendo, ¿es creíble la visión infravalorada en un 60%?" / "Las acciones de Powell Industries (POWL) pueden estar un 20% infravaloradas después de pedidos récord de centr"
+
+**Síntesis IA:** ✅ Revenue growth +9%, Margen 16% (saludable) · ⚠️ Tendencia bajista, Momentum 3m -32% (débil) · 📌 Incremento de 6 puntos en el score
+
+</details>
+
+---
+
+## 🟡 RKLB $58.86 `+10.9%` — WAIT (24, -3) · convicción baja
+
+*Esperar, el momento está malo.*
+
+<details>
+<summary>Fundamentales · Técnico · Noticias · Síntesis</summary>
+
+**Fundamentales:** Ventas +73% (a toda máquina) · Margen -26% (en rojo) · ROE -6% (débil) · P/E 1374 (muy caro) · Deuda 2 (poca deuda)
+
+**Técnico:** Tendencia: sin dirección clara · RSI 59 (tibio = normal) · Precio +8% sobre su promedio (estirado) · Momentum 3m -28% (congelado) · Caída -9% (descuento ideal)
+
+**Noticias 7d:** 🔴 -1.0 (1) — "Las acciones de VisionWave Holdings cotizan a la baja después de que la compañía anunciara que invertirá hasta"
+
+**Síntesis IA:** ✅ Revenue growth +73% (excelente), Balance sano (baja deuda) · ⚠️ Sin rentabilidad neta, Tendencia lateral/indefinida, Momentum 3m -28% (débil) · 📌 Incremento de 4 puntos en el score
+
+</details>
+
+---
+
+## 🔴 NOW $102.76 `+0.8%` — AVOID (20, -3) · convicción baja
 
 *Evitar por ahora.*
 
@@ -232,68 +244,49 @@ Comprar entre $27.24 y $27.44 · Si baja de $25.27 arrancar · Meta $30.66 · Pr
 
 **Fundamentales:** Ventas +20% (fuerte) · Margen 9% (fino) · ROE 12% (normal) · P/E 21 (razonable) · Deuda 64 (deuda manejable)
 
-**Técnico:** Tendencia: viento en contra · RSI 22 (muy frío = posible oferta) · Precio -24% bajo su promedio (castigado) · Momentum 3m -20% (congelado) · Caída -36% (derrumbe = esperar)
+**Técnico:** Tendencia: viento en contra · RSI 19 (muy frío = posible oferta) · Precio -22% bajo su promedio (castigado) · Momentum 3m -18% (congelado) · Caída -36% (derrumbe = esperar)
 
 **Noticias 7d:** 🔴 -1.0 (1) — "Las acciones de Snowflake cotizan a la baja. "
 
-**Síntesis IA:** ✅ Revenue growth +20% (fuerte), PEG 0.8 (subvalorado) · ⚠️ Tendencia bajista, Momentum 3m -20% (débil), Caída fuerte 36% — posible cambio de tendencia · 📌 score -1
+**Síntesis IA:** ✅ Revenue growth +20% (fuerte), PEG 0.8 (subvalorado) · ⚠️ Tendencia bajista, Momentum 3m -18% (débil) · 📌 Incremento de 2 puntos en el score
 
 </details>
 
 ---
 
-## 🔴 USAR $8.23 `+10.9%` — AVOID (9, +3) · convicción baja
+## 🔴 OKLO $26.84 `+14.0%` — AVOID (14) · convicción baja
 
 *Evitar por ahora.*
 
 <details>
 <summary>Fundamentales · Técnico · Noticias · Síntesis</summary>
 
-**Fundamentales:** Ventas s/d · Margen s/d · ROE -24% (débil) · P/E 274 (muy caro) · Deuda 0 (poca deuda)
+**Fundamentales:** Ventas s/d · Margen s/d · ROE -7% (débil) · P/E -24 (barato) · Deuda 0 (poca deuda)
 
-**Técnico:** Tendencia: viento en contra · RSI 37 (frío = zona de compra) · Precio -16% bajo su promedio (castigado) · Momentum 3m -56% (congelado) · Caída -34% (derrumbe = esperar)
-
-**Noticias 7d:** 🟢 +1.0 (1) — "Constellium suministrará a Airbus extrusiones de aleación de aluminio y equipos aéreos de aluminio y litio en "
-
-**Síntesis IA:** ✅ Balance sano (baja deuda) · ⚠️ Tendencia bajista, Momentum 3m -56% (débil), Caída fuerte 34% — posible cambio de tendencia, RSI 37 (sobrevendido — zona de compra) · 📌 score +5
-
-</details>
-
----
-
-## 🔴 RKLB $53.07 `+15.4%` — AVOID (7, -3) · convicción baja
-
-*Evitar por ahora.*
-
-<details>
-<summary>Fundamentales · Técnico · Noticias · Síntesis</summary>
-
-**Fundamentales:** Ventas +62% (a toda máquina) · Margen -22% (en rojo) · ROE -8% (débil) · P/E 923 (muy caro) · Deuda 4 (poca deuda)
-
-**Técnico:** Tendencia: viento en contra · RSI 52 (tibio = normal) · Precio -3% bajo su promedio (pequeño descuento) · Momentum 3m -34% (congelado) · Caída -22% (derrumbe = esperar)
-
-**Noticias 7d:** 🔴 -1.0 (1) — "Las acciones de VisionWave Holdings cotizan a la baja después de que la compañía anunciara que invertirá hasta"
-
-**Síntesis IA:** ✅ Revenue growth +62% (excelente), Balance sano (baja deuda) · ⚠️ Sin rentabilidad neta, Tendencia bajista, Momentum 3m -34% (débil) · 📌 score +9
-
-</details>
-
----
-
-## 🔴 OKLO $23.55 `+22.7%` — AVOID (6) · convicción baja
-
-*Evitar por ahora.*
-
-<details>
-<summary>Fundamentales · Técnico · Noticias · Síntesis</summary>
-
-**Fundamentales:** Ventas s/d · Margen s/d · ROE -7% (débil) · P/E -22 (barato) · Deuda 0 (poca deuda)
-
-**Técnico:** Tendencia: viento en contra · RSI 39 (frío = zona de compra) · Precio -11% bajo su promedio (castigado) · Momentum 3m -50% (congelado) · Caída -31% (derrumbe = esperar)
+**Técnico:** Tendencia: sin dirección clara · RSI 48 (tibio = normal) · Precio +2% sobre su promedio (sano) · Momentum 3m -40% (congelado) · Caída -16% (muy barato, solo si la empresa es buena)
 
 **Noticias 7d:** sin noticias frescas
 
-**Síntesis IA:** ✅ Balance sano (baja deuda) · ⚠️ Tendencia bajista, Momentum 3m -50% (débil), Caída fuerte 31% — posible cambio de tendencia, RSI 39 (sobrevendido — zona de compra) · 📌 score +21
+**Síntesis IA:** ✅ Balance sano (baja deuda) · ⚠️ Tendencia lateral/indefinida, Momentum 3m -40% (débil) · 📌 Incremento de 13 puntos en el score
+
+</details>
+
+---
+
+## 🔴 USAR $8.76 `+6.4%` — AVOID (5, +3) · convicción baja
+
+*Evitar por ahora.*
+
+<details>
+<summary>Fundamentales · Técnico · Noticias · Síntesis</summary>
+
+**Fundamentales:** Ventas s/d · Margen s/d · ROE -5% (débil) · P/E 292 (muy caro) · Deuda 6 (poca deuda)
+
+**Técnico:** Tendencia: viento en contra · RSI 41 (frío = zona de compra) · Precio -9% bajo su promedio (castigado) · Momentum 3m -52% (congelado) · Caída -25% (derrumbe = esperar)
+
+**Noticias 7d:** 🟢 +1.0 (1) — "Constellium suministrará a Airbus extrusiones de aleación de aluminio y equipos aéreos de aluminio y litio en "
+
+**Síntesis IA:** ✅ Balance sano (baja deuda) · ⚠️ Tendencia bajista, Momentum 3m -52% (débil) · 📌 Incremento de 7 puntos en el score
 
 </details>
 
@@ -303,9 +296,9 @@ Comprar entre $27.24 y $27.44 · Si baja de $25.27 arrancar · Meta $30.66 · Pr
 
 ## 🎓 Aprende algo hoy
 
-### ¿Qué es el RSI en 10 segundos?
+### Stop loss: el seguro de tu billetera
 
-Un termómetro de 0 a 100 que mide si una acción subió 'demasiado rápido' (>70, caliente) o cayó 'demasiado rápido' (<30, congelado). No adivina el futuro: solo avisa cuando el péndulo está estirado. Frío + empresa buena = oportunidad; frío + empresa mala = trampa.
+Es el precio al cual te rindes y vendes para no perder más. Duele, pero un stop de -8% se recupera; una caída de -50% necesita +100% para volver. Por eso cada ficha con señal de compra trae su 'si baja de X, arrancar'.
 
 ---
 
