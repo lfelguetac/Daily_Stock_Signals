@@ -1,18 +1,16 @@
-# Señales — 2026-11-13 | 09:00 CLST (Hora Chile, UTC-03:00)
+# Señales — 2026-11-16 | 09:00 CLST (Hora Chile, UTC-03:00)
 
 > 🌎 Hora local Santiago. Resto del mundo: 12:00 UTC. Sesión: Daily Close.
 >
-> 14 acciones · 1 COMPRAR/ACUMULAR · 🏷️ 1 en oferta · DEFENSIVO — sin entradas claras, efectivo o esperar.
+> 14 acciones · 1 COMPRAR/ACUMULAR · DEFENSIVO — sin entradas claras, efectivo o esperar.
 
 ## 🧭 Resumen del día
 
-**Para comprar:** **MU** (56). La mejor opción del día es **MU** con score 56 y convicción media.
+**Para comprar:** **GEV** (54). La mejor opción del día es **GEV** con score 54 y convicción media.
 
-**🏷️ Calidad en oferta:** **VRT** (T2) — empresas buenas castigadas por el precio, para entrar de a poco (ver su ficha).
+**Para vigilar:** 4 acciones a la espera de su momento (ELMD, MU, VICR, POWL…).
 
-**Para vigilar:** 7 acciones a la espera de su momento (GEV, IONQ, VRT, BE…).
-
-**Para evitar:** 6 acciones con momento negativo; no tocarlas aunque bajen 'baratas'.
+**Para evitar:** 9 acciones con momento negativo; no tocarlas aunque bajen 'baratas'.
 
 **Ánimo general:** templado — hay señales pero ninguna para apostar fuerte.
 
@@ -23,149 +21,87 @@
 
 Cada acción tiene una nota (score 0-100) y una frase que dice qué hacer. Si quieres el porqué, abre el desplegable.
 
-## 🔵 MU $798.44 `-1.6%` — ACCUMULATE (56) · convicción media
+## 🔵 GEV $803.13 `-1.9%` — ACCUMULATE (54, -2) · convicción media
 
 *Para comprar de a poco en la zona indicada.*
 
 <details>
 <summary>Fundamentales · Técnico · Noticias · Síntesis</summary>
 
-**Fundamentales:** Ventas +379% (a toda máquina) · Margen 64% (premium) · ROE 88% (extraordinario) · P/E 4 (barato) · Deuda 4 (poca deuda)
-
-**Técnico:** Tendencia: viento en contra · RSI 44 (frío = zona de compra) · Precio -5% bajo su promedio (castigado) · Momentum 3m -21% (congelado) · Caída -19% (muy barato, solo si la empresa es buena)
-Comprar entre $843.03 y $798.44 · Si baja de $617.92 arrancar · Meta $1108.55 · Premio 1.2 (premio justo) por cada $1 en riesgo
-
-**Noticias 7d:** 🟡 +0.0 (1) — "CORRECCIÓN: La oferta de notas sénior convertibles de T1 Energy se informó el 15 de abril"
-
-**Síntesis IA:** ✅ Revenue growth +379% (excelente), Margen 64% (premium) · ⚠️ Tendencia bajista, Momentum 3m -21% (débil), Pullback profundo 19% (oportunidad si fundamentals sólidos) · 📌 -1.59%
-
-</details>
-
----
-
-## ⚪ GEV $818.49 `+1.3%` — WATCH (52) · convicción media
-
-*Mirar nomás, todavía no comprar.*
-
-<details>
-<summary>Fundamentales · Técnico · Noticias · Síntesis</summary>
-
 **Fundamentales:** Ventas +27% (a toda máquina) · Margen 24% (sano) · ROE 93% (extraordinario) · P/E 31 (razonable) · Deuda 30 (poca deuda)
 
-**Técnico:** Tendencia: viento en contra · RSI 50 (tibio = normal) · Precio -4% bajo su promedio (pequeño descuento) · Momentum 3m -24% (congelado) · Caída -14% (descuento ideal)
-Comprar entre $853.48 y $826.67 · Si baja de $684.62 arrancar · Meta $1052.16 · Premio 1.2 (premio justo) por cada $1 en riesgo
+**Técnico:** Tendencia: viento en contra · RSI 44 (frío = zona de compra) · Precio -5% bajo su promedio (castigado) · Momentum 3m -20% (congelado) · Caída -14% (descuento ideal)
+Comprar entre $847.61 y $803.13 · Si baja de $715.64 arrancar · Meta $1052.16 · Premio 1.5 (buen premio) por cada $1 en riesgo
 
 **Noticias 7d:** 🟡 +0.0 (1) — "Stem adquiere activos de software de raicoon para la detección automatizada de fallas y la gestión del flujo d"
 
-**Síntesis IA:** ✅ Revenue growth +27% (excelente), Margen 24% (saludable) · ⚠️ Tendencia bajista, Momentum 3m -24% (débil), Pullback ideal 14% desde máx 20d · 📌 1.27%
+**Síntesis IA:** ✅ Revenue growth +27% (excelente), Margen 24% (saludable) · ⚠️ Tendencia bajista, Momentum 3m -20% (débil) · 📌 -4
 
 </details>
 
 ---
 
-## ⚪ IONQ $30.86 `-9.4%` — WATCH (48) · convicción media
+## ⚪ ELMD $24.32 `-2.6%` — WATCH (46, -3) · convicción baja
 
 *Mirar nomás, todavía no comprar.*
 
 <details>
 <summary>Fundamentales · Técnico · Noticias · Síntesis</summary>
 
-**Fundamentales:** Ventas +336% (a toda máquina) · Margen 67% (premium) · ROE 7% (normal) · P/E -22 (barato) · Deuda 3 (poca deuda)
+**Fundamentales:** Ventas +11% (crece) · Margen 16% (sano) · ROE 24% (extraordinario) · P/E 40 (caro) · Deuda 0 (poca deuda)
 
-**Técnico:** Tendencia: viento en contra · RSI 49 (tibio = normal) · Precio -2% bajo su promedio (pequeño descuento) · Momentum 3m -34% (congelado) · Caída -15% (muy barato, solo si la empresa es buena)
-Comprar entre $31.40 y $31.17 · Si baja de $22.07 arrancar · Meta $47.91 · Premio 1.8 (buen premio) por cada $1 en riesgo
+**Técnico:** Tendencia: viento en contra · RSI 36 (frío = zona de compra) · Precio -9% bajo su promedio (castigado) · Momentum 3m -41% (congelado) · Caída -14% (descuento ideal)
+Comprar entre $26.73 y $24.56 · Si baja de $22.40 arrancar · Meta $28.95 · Premio 0.5 (premio flojo) por cada $1 en riesgo
 
-**Noticias 7d:** 🟡 +0.0 (1) — "Disney, Gardner Denver, Intel: selecciones de dinero rápido para el 3 de octubre"
+**Noticias 7d:** 🟡 +0.0 (7) — "Resumen de la llamada de resultados del primer trimestre de 2027 de Electromed, Inc." / "Electromed Inc (ELMD) (primer trimestre de 2027) Aspectos destacados de las llamadas de resultados: Los ingres" / "Transcripción de la llamada de resultados del primer trimestre de 2027 de Electromed (ELMD)" / "Transcripción de la llamada de resultados de Electromed, Inc. (ELMD) del primer trimestre de 2027"
 
-**Síntesis IA:** ✅ Revenue growth +336% (excelente), Margen 67% (premium) · ⚠️ Tendencia bajista, Momentum 3m -34% (débil), Pullback profundo 15% (oportunidad si fundamentals sólidos) · 📌 -9.4%
-
-</details>
-
----
-
-## ⚪ VRT $209.64 `+1.5%` — WATCH (48) · convicción media
-
-*Se está recuperando: momento del segundo tramo.*
-
-🏷️ **OFERTA T2 — recuperó SMA20, tendencia reparándose: segundo tramo**
-
-<details>
-<summary>Fundamentales · Técnico · Noticias · Síntesis</summary>
-
-**Fundamentales:** Ventas +61% (a toda máquina) · Margen 16% (sano) · ROE 47% (extraordinario) · P/E 21 (razonable) · Deuda 61 (deuda manejable)
-
-**Técnico:** Tendencia: sin dirección clara · RSI 54 (tibio = normal) · Precio +0% sobre su promedio (sano) · Momentum 3m -28% (congelado) · Caída -18% (muy barato, solo si la empresa es buena)
-Comprar entre $209.20 y $211.74 · Si baja de $150.95 arrancar · Meta $295.27 · Premio 1.5 (buen premio) por cada $1 en riesgo
-
-**Noticias 7d:** 🟡 +0.0 (2) — "Stem adquiere activos de software de raicoon para la detección automatizada de fallas y la gestión del flujo d" / "Las acciones de TIC Solutions cotizan a la baja después de que la compañía informara resultados financieros de"
-
-**Síntesis IA:** ✅ Revenue growth +61% (excelente), Margen 16% (saludable) · ⚠️ Tendencia lateral/indefinida, Momentum 3m -28% (débil), Pullback profundo 18% (oportunidad si fundamentals sólidos) · 📌 1.52%
+**Síntesis IA:** ✅ Revenue growth +11%, Margen 16% (saludable) · ⚠️ Tendencia bajista, Momentum 3m -41% (débil) · 📌 -3
 
 </details>
 
 ---
 
-## ⚪ BE $201.93 `-3.6%` — WATCH (45) · convicción media
+## ⚪ MU $778.31 `-2.5%` — WATCH (42, +1) · convicción media
 
 *Mirar nomás, todavía no comprar.*
 
 <details>
 <summary>Fundamentales · Técnico · Noticias · Síntesis</summary>
 
-**Fundamentales:** Ventas +138% (a toda máquina) · Margen 14% (sano) · ROE 40% (extraordinario) · P/E 38 (caro) · Deuda 142 (deuda manejable)
+**Fundamentales:** Ventas +379% (a toda máquina) · Margen 64% (premium) · ROE 88% (extraordinario) · P/E 4 (barato) · Deuda 4 (poca deuda)
 
-**Técnico:** Tendencia: viento en contra · RSI 52 (tibio = normal) · Precio -2% bajo su promedio (pequeño descuento) · Momentum 3m -13% (frío) · Caída -16% (muy barato, solo si la empresa es buena)
-Comprar entre $206.89 y $203.95 · Si baja de $134.13 arrancar · Meta $302.35 · Premio 1.3 (premio justo) por cada $1 en riesgo
+**Técnico:** Tendencia: viento en contra · RSI 40 (frío = zona de compra) · Precio -7% bajo su promedio (castigado) · Momentum 3m -17% (congelado) · Caída -21% (derrumbe = esperar)
+Comprar entre $838.00 y $786.09 · Si baja de $585.14 arrancar · Meta $1108.55 · Premio 1.1 (premio justo) por cada $1 en riesgo
 
-**Noticias 7d:** 🟡 +0.0 (1) — "Stem adquiere activos de software de raicoon para la detección automatizada de fallas y la gestión del flujo d"
+**Noticias 7d:** 🟢 +0.5 (2) — "Las acciones de Moody's cotizan al alza después de que la compañía informara los resultados financieros del pr" / "CORRECCIÓN: La oferta de notas sénior convertibles de T1 Energy se informó el 15 de abril"
 
-**Síntesis IA:** ✅ Revenue growth +138% (excelente), Margen 14% (saludable) · ⚠️ Tendencia bajista, Momentum 3m -13% (débil), Pullback profundo 16% (oportunidad si fundamentals sólidos) · 📌 -3.6%
+**Síntesis IA:** ✅ Revenue growth +379% (excelente), Margen 64% (premium) · ⚠️ Tendencia bajista, Momentum 3m -17% (débil) · 📌 -15
 
 </details>
 
 ---
 
-## ⚪ ELMD $24.97 `+0.0%` — WATCH (45) · convicción media
+## ⚪ VICR $159.05 `-3.4%` — WATCH (41, -4) · convicción baja
 
 *Mirar nomás, todavía no comprar.*
 
 <details>
 <summary>Fundamentales · Técnico · Noticias · Síntesis</summary>
 
-**Fundamentales:** Ventas +11% (crece) · Margen 16% (sano) · ROE 24% (extraordinario) · P/E 41 (caro) · Deuda 0 (poca deuda)
+**Fundamentales:** Ventas +78% (a toda máquina) · Margen 32% (premium) · ROE 24% (extraordinario) · P/E 26 (razonable) · Deuda 1 (poca deuda)
 
-**Técnico:** Tendencia: viento en contra · RSI 41 (frío = zona de compra) · Precio -7% bajo su promedio (castigado) · Momentum 3m -38% (congelado) · Caída -12% (descuento ideal)
-Comprar entre $26.89 y $25.22 · Si baja de $22.41 arrancar · Meta $28.95 · Premio 0.5 (premio flojo) por cada $1 en riesgo
-
-**Noticias 7d:** 🟡 +0.0 (6) — "Electromed Inc (ELMD) (primer trimestre de 2027) Aspectos destacados de las llamadas de resultados: Los ingres" / "Transcripción de la llamada de resultados del primer trimestre de 2027 de Electromed (ELMD)" / "Transcripción de la llamada de resultados de Electromed, Inc. (ELMD) del primer trimestre de 2027" / "Electromed, Inc. ofrece un crecimiento continuo en el primer trimestre del año fiscal 2027"
-
-**Síntesis IA:** ✅ Revenue growth +11%, Margen 16% (saludable) · ⚠️ Tendencia bajista, Momentum 3m -38% (débil), Pullback ideal 12% desde máx 20d · 📌 0.04%
-
-</details>
-
----
-
-## ⚪ VICR $164.69 `-2.0%` — WATCH (41) · convicción baja
-
-*Mirar nomás, todavía no comprar.*
-
-<details>
-<summary>Fundamentales · Técnico · Noticias · Síntesis</summary>
-
-**Fundamentales:** Ventas +78% (a toda máquina) · Margen 32% (premium) · ROE 24% (extraordinario) · P/E 27 (razonable) · Deuda 1 (poca deuda)
-
-**Técnico:** Tendencia: viento en contra · RSI 47 (tibio = normal) · Precio -9% bajo su promedio (castigado) · Momentum 3m -35% (congelado) · Caída -27% (derrumbe = esperar)
-Comprar entre $181.50 y $166.34 · Si baja de $110.98 arrancar · Meta $331.00 · Premio 2.1 (premio excelente) por cada $1 en riesgo
+**Técnico:** Tendencia: viento en contra · RSI 39 (frío = zona de compra) · Precio -12% bajo su promedio (castigado) · Momentum 3m -34% (congelado) · Caída -29% (derrumbe = esperar)
+Comprar entre $179.87 y $160.64 · Si baja de $111.61 arrancar · Meta $331.00 · Premio 2.2 (premio excelente) por cada $1 en riesgo
 
 **Noticias 7d:** 🟡 +0.0 (1) — "Las acciones de TIC Solutions cotizan a la baja después de que la compañía informara resultados financieros de"
 
-**Síntesis IA:** ✅ Revenue growth +78% (excelente), Margen 32% (premium) · ⚠️ Tendencia bajista, Momentum 3m -35% (débil), Caída fuerte 27% — posible cambio de tendencia · 📌 -2.03%
+**Síntesis IA:** ✅ Revenue growth +78% (excelente), Margen 32% (premium) · ⚠️ Tendencia bajista, Momentum 3m -34% (débil) · 📌 -1
 
 </details>
 
 ---
 
-## ⚪ POWL $141.77 `-2.8%` — WATCH (40) · convicción baja
+## ⚪ POWL $142.72 `+0.7%` — WATCH (37, -3) · convicción baja
 
 *Mirar nomás, todavía no comprar.*
 
@@ -174,18 +110,18 @@ Comprar entre $181.50 y $166.34 · Si baja de $110.98 arrancar · Meta $331.00 �
 
 **Fundamentales:** Ventas +9% (crece) · Margen 16% (sano) · ROE 28% (extraordinario) · P/E 20 (razonable) · Deuda 0 (poca deuda)
 
-**Técnico:** Tendencia: viento en contra · RSI 46 (tibio = normal) · Precio -7% bajo su promedio (castigado) · Momentum 3m -35% (congelado) · Caída -18% (muy barato, solo si la empresa es buena)
-Comprar entre $153.26 y $143.19 · Si baja de $109.91 arrancar · Meta $207.52 · Premio 1.3 (premio justo) por cada $1 en riesgo
+**Técnico:** Tendencia: viento en contra · RSI 43 (frío = zona de compra) · Precio -6% bajo su promedio (castigado) · Momentum 3m -30% (congelado) · Caída -17% (muy barato, solo si la empresa es buena)
+Comprar entre $152.14 y $144.15 · Si baja de $109.89 arrancar · Meta $207.52 · Premio 1.3 (premio justo) por cada $1 en riesgo
 
-**Noticias 7d:** 🟡 +0.0 (6) — "4 acciones de tecnología industrial que aprovechan el auge de la inteligencia artificial y pagan dividendos a " / "Las acciones de TIC Solutions cotizan a la baja después de que la compañía informara resultados financieros de" / "CECO Environmental se muda a Y'All Street, las acciones se desploman y yo estoy comprando" / "Las acciones de Powell Industries han cambiado el caso alcista después de pedidos récord"
+**Noticias 7d:** 🟡 +0.0 (5) — "He aquí por qué Powell Industries (POWL) cayó más que el mercado en general" / "Powell Industries se prepara para publicar las ganancias del cuarto trimestre: ¿Qué hay a la vista?" / "Broadwind Energy, Inc. (BWEN) informa pérdidas en el tercer trimestre, retrasa las estimaciones de ingresos" / "4 acciones de tecnología industrial que aprovechan el auge de la inteligencia artificial y pagan dividendos a "
 
-**Síntesis IA:** ✅ Revenue growth +9%, Margen 16% (saludable) · ⚠️ Tendencia bajista, Momentum 3m -35% (débil), Pullback profundo 18% (oportunidad si fundamentals sólidos) · 📌 -2.83%
+**Síntesis IA:** ✅ Revenue growth +9%, Margen 16% (saludable) · ⚠️ Tendencia bajista, Momentum 3m -30% (débil) · 📌 0
 
 </details>
 
 ---
 
-## 🟡 CRDO $139.81 `-1.1%` — WAIT (38, -1) · convicción baja
+## 🟡 CRDO $131.51 `-5.9%` — WAIT (35, -4) · convicción baja
 
 *Esperar, el momento está malo.*
 
@@ -194,74 +130,131 @@ Comprar entre $153.26 y $143.19 · Si baja de $109.91 arrancar · Meta $207.52 �
 
 **Fundamentales:** Ventas +115% (a toda máquina) · Margen 34% (premium) · ROE 31% (extraordinario) · P/E 14 (barato) · Deuda 1 (poca deuda)
 
-**Técnico:** Tendencia: viento en contra · RSI 47 (tibio = normal) · Precio -7% bajo su promedio (castigado) · Momentum 3m -51% (congelado) · Caída -26% (derrumbe = esperar)
+**Técnico:** Tendencia: viento en contra · RSI 44 (frío = zona de compra) · Precio -12% bajo su promedio (castigado) · Momentum 3m -46% (congelado) · Caída -31% (derrumbe = esperar)
 
 **Noticias 7d:** 🔴 -1.0 (1) — "Disney, Gardner Denver, Intel: selecciones de dinero rápido para el 3 de octubre"
 
-**Síntesis IA:** ✅ Revenue growth +115% (excelente), Margen 34% (premium) · ⚠️ Tendencia bajista, Momentum 3m -51% (débil), Caída fuerte 26% — posible cambio de tendencia · 📌 -1.13%
+**Síntesis IA:** ✅ Revenue growth +115% (excelente), Margen 34% (premium) · ⚠️ Tendencia bajista, Momentum 3m -46% (débil) · 📌 -2
 
 </details>
 
 ---
 
-## 🟡 ALAB $227.79 `-1.4%` — WAIT (35, -1) · convicción baja
+## 🟡 VRT $202.07 `-3.6%` — WAIT (33, -3) · convicción baja
 
 *Esperar, el momento está malo.*
 
 <details>
 <summary>Fundamentales · Técnico · Noticias · Síntesis</summary>
 
-**Fundamentales:** Ventas +154% (a toda máquina) · Margen 30% (premium) · ROE 28% (extraordinario) · P/E 32 (razonable) · Deuda 2 (poca deuda)
+**Fundamentales:** Ventas +61% (a toda máquina) · Margen 16% (sano) · ROE 47% (extraordinario) · P/E 20 (razonable) · Deuda 61 (deuda manejable)
 
-**Técnico:** Tendencia: viento en contra · RSI 43 (frío = zona de compra) · Precio -9% bajo su promedio (castigado) · Momentum 3m -29% (congelado) · Caída -24% (derrumbe = esperar)
+**Técnico:** Tendencia: viento en contra · RSI 51 (tibio = normal) · Precio -3% bajo su promedio (pequeño descuento) · Momentum 3m -26% (congelado) · Caída -21% (derrumbe = esperar)
 
-**Noticias 7d:** 🔴 -1.0 (1) — "Disney, Gardner Denver, Intel: selecciones de dinero rápido para el 3 de octubre"
+**Noticias 7d:** 🟡 +0.0 (2) — "Stem adquiere activos de software de raicoon para la detección automatizada de fallas y la gestión del flujo d" / "Las acciones de TIC Solutions cotizan a la baja después de que la compañía informara resultados financieros de"
 
-**Síntesis IA:** ✅ Revenue growth +154% (excelente), Margen 30% (premium) · ⚠️ Tendencia bajista, Momentum 3m -29% (débil), Caída fuerte 24% — posible cambio de tendencia · 📌 -1.35%
+**Síntesis IA:** ✅ Revenue growth +61% (excelente), Margen 16% (saludable) · ⚠️ Tendencia bajista, Momentum 3m -26% (débil) · 📌 -12
 
 </details>
 
 ---
 
-## 🟡 RKLB $64.07 `-3.1%` — WAIT (24, -1) · convicción baja
+## 🟡 ALAB $221.83 `-2.6%` — WAIT (32, -4) · convicción baja
 
 *Esperar, el momento está malo.*
 
 <details>
 <summary>Fundamentales · Técnico · Noticias · Síntesis</summary>
 
-**Fundamentales:** Ventas +73% (a toda máquina) · Margen -26% (en rojo) · ROE -6% (débil) · P/E 895 (muy caro) · Deuda 2 (poca deuda)
+**Fundamentales:** Ventas +154% (a toda máquina) · Margen 30% (premium) · ROE 28% (extraordinario) · P/E 31 (razonable) · Deuda 2 (poca deuda)
 
-**Técnico:** Tendencia: sin dirección clara · RSI 62 (caliente = subiendo fuerte) · Precio +16% sobre su promedio (estirado) · Momentum 3m -22% (congelado) · Caída -6% (descuento ideal)
+**Técnico:** Tendencia: viento en contra · RSI 42 (frío = zona de compra) · Precio -10% bajo su promedio (castigado) · Momentum 3m -27% (congelado) · Caída -26% (derrumbe = esperar)
 
-**Noticias 7d:** 🔴 -0.5 (2) — "Las acciones de Virgin Galactic Holdings cotizan al alza después de que la compañía informara resultados de EP" / "Kroger, Northrop Grumman y más selecciones del 'Informe de medio tiempo de dinero rápido' del 7 de agosto"
+**Noticias 7d:** 🔴 -1.0 (1) — "Disney, Gardner Denver, Intel: selecciones de dinero rápido para el 3 de octubre"
 
-**Síntesis IA:** ✅ Revenue growth +73% (excelente), Balance sano (baja deuda) · ⚠️ Sin rentabilidad neta, Tendencia lateral/indefinida, Momentum 3m -22% (débil) · 📌 -3.14%
+**Síntesis IA:** ✅ Revenue growth +154% (excelente), Margen 30% (premium) · ⚠️ Tendencia bajista, Momentum 3m -27% (débil) · 📌 -1
 
 </details>
 
 ---
 
-## 🔴 NOW $100.66 `-2.0%` — AVOID (23) · convicción baja
+## 🟡 BE $191.99 `-4.9%` — WAIT (31, -3) · convicción baja
 
-*Evitar por ahora.*
+*Esperar, el momento está malo.*
+
+<details>
+<summary>Fundamentales · Técnico · Noticias · Síntesis</summary>
+
+**Fundamentales:** Ventas +138% (a toda máquina) · Margen 14% (sano) · ROE 40% (extraordinario) · P/E 36 (caro) · Deuda 142 (deuda manejable)
+
+**Técnico:** Tendencia: viento en contra · RSI 47 (tibio = normal) · Precio -7% bajo su promedio (castigado) · Momentum 3m -8% (frío) · Caída -20% (derrumbe = esperar)
+
+**Noticias 7d:** 🟡 +0.0 (1) — "Stem adquiere activos de software de raicoon para la detección automatizada de fallas y la gestión del flujo d"
+
+**Síntesis IA:** ✅ Revenue growth +138% (excelente), Margen 14% (saludable) · ⚠️ Tendencia bajista, Bajo SPY por -7% en 3m · 📌 -11
+
+</details>
+
+---
+
+## 🟡 IONQ $28.88 `-6.4%` — WAIT (29, -4) · convicción baja
+
+*Esperar, el momento está malo.*
+
+<details>
+<summary>Fundamentales · Técnico · Noticias · Síntesis</summary>
+
+**Fundamentales:** Ventas +336% (a toda máquina) · Margen 67% (premium) · ROE 7% (normal) · P/E -20 (barato) · Deuda 3 (poca deuda)
+
+**Técnico:** Tendencia: viento en contra · RSI 47 (tibio = normal) · Precio -8% bajo su promedio (castigado) · Momentum 3m -34% (congelado) · Caída -21% (derrumbe = esperar)
+
+**Noticias 7d:** 🟡 +0.0 (1) — "Disney, Gardner Denver, Intel: selecciones de dinero rápido para el 3 de octubre"
+
+**Síntesis IA:** ✅ Revenue growth +336% (excelente), Margen 67% (premium) · ⚠️ Tendencia bajista, Momentum 3m -34% (débil) · 📌 -1
+
+</details>
+
+---
+
+## 🟡 NOW $102.25 `+1.6%` — WAIT (24, -3) · convicción baja
+
+*Esperar, el momento está malo.*
 
 <details>
 <summary>Fundamentales · Técnico · Noticias · Síntesis</summary>
 
 **Fundamentales:** Ventas +20% (fuerte) · Margen 9% (fino) · ROE 12% (normal) · P/E 21 (razonable) · Deuda 64 (deuda manejable)
 
-**Técnico:** Tendencia: viento en contra · RSI 11 (muy frío = posible oferta) · Precio -20% bajo su promedio (castigado) · Momentum 3m -14% (frío) · Caída -37% (derrumbe = esperar)
+**Técnico:** Tendencia: viento en contra · RSI 13 (muy frío = posible oferta) · Precio -17% bajo su promedio (castigado) · Momentum 3m -14% (frío) · Caída -36% (derrumbe = esperar)
 
 **Noticias 7d:** sin noticias frescas
 
-**Síntesis IA:** ✅ Revenue growth +20% (fuerte), PEG 0.8 (subvalorado) · ⚠️ Tendencia bajista, Momentum 3m -14% (débil), Caída fuerte 37% — posible cambio de tendencia · 📌 -2.04%
+**Síntesis IA:** ✅ Revenue growth +20% (fuerte), PEG 0.8 (subvalorado) · ⚠️ Tendencia bajista, Momentum 3m -14% (débil) · 📌 34
 
 </details>
 
 ---
 
-## 🔴 OKLO $24.45 `-5.5%` — AVOID (18, +1) · convicción baja
+## 🟡 RKLB $61.53 `-4.0%` — WAIT (22, -5) · convicción baja
+
+*Esperar, el momento está malo.*
+
+<details>
+<summary>Fundamentales · Técnico · Noticias · Síntesis</summary>
+
+**Fundamentales:** Ventas +73% (a toda máquina) · Margen -26% (en rojo) · ROE -6% (débil) · P/E 860 (muy caro) · Deuda 2 (poca deuda)
+
+**Técnico:** Tendencia: sin dirección clara · RSI 58 (tibio = normal) · Precio +10% sobre su promedio (estirado) · Momentum 3m -22% (congelado) · Caída -10% (descuento ideal)
+
+**Noticias 7d:** 🔴 -0.5 (2) — "Las acciones de Virgin Galactic Holdings cotizan al alza después de que la compañía informara resultados de EP" / "Kroger, Northrop Grumman y más selecciones del 'Informe de medio tiempo de dinero rápido' del 7 de agosto"
+
+**Síntesis IA:** ✅ Revenue growth +73% (excelente), Balance sano (baja deuda) · ⚠️ Sin rentabilidad neta, Tendencia lateral/indefinida · 📌 -1
+
+</details>
+
+---
+
+## 🔴 OKLO $23.92 `-2.2%` — AVOID (18, +1) · convicción baja
 
 *Evitar por ahora.*
 
@@ -270,30 +263,30 @@ Comprar entre $153.26 y $143.19 · Si baja de $109.91 arrancar · Meta $207.52 �
 
 **Fundamentales:** Ventas s/d · Margen s/d · ROE -7% (débil) · P/E -21 (barato) · Deuda 0 (poca deuda)
 
-**Técnico:** Tendencia: viento en contra · RSI 46 (tibio = normal) · Precio -4% bajo su promedio (pequeño descuento) · Momentum 3m -44% (congelado) · Caída -19% (muy barato, solo si la empresa es buena)
+**Técnico:** Tendencia: viento en contra · RSI 45 (tibio = normal) · Precio -6% bajo su promedio (castigado) · Momentum 3m -42% (congelado) · Caída -17% (muy barato, solo si la empresa es buena)
 
 **Noticias 7d:** 🟢 +1.0 (1) — "Las acciones de las reservas de uranio cotizan al alza. "
 
-**Síntesis IA:** ✅ Balance sano (baja deuda) · ⚠️ Tendencia bajista, Momentum 3m -44% (débil), Pullback profundo 19% (oportunidad si fundamentals sólidos), RSI 46 (zona baja) · 📌 -5.45%
+**Síntesis IA:** ✅ Balance sano (baja deuda) · ⚠️ Tendencia bajista, Momentum 3m -42% (débil) · 📌 0
 
 </details>
 
 ---
 
-## 🔴 USAR $8.07 `-2.4%` — AVOID (1, -1) · convicción baja
+## 🔴 USAR $8.16 `+1.1%` — AVOID (0, -2) · convicción baja
 
 *Evitar por ahora.*
 
 <details>
 <summary>Fundamentales · Técnico · Noticias · Síntesis</summary>
 
-**Fundamentales:** Ventas s/d · Margen s/d · ROE -5% (débil) · P/E -12 (barato) · Deuda 6 (poca deuda)
+**Fundamentales:** Ventas s/d · Margen s/d · ROE -5% (débil) · P/E -12 (barato) · Deuda 14 (poca deuda)
 
-**Técnico:** Tendencia: viento en contra · RSI 42 (frío = zona de compra) · Precio -12% bajo su promedio (castigado) · Momentum 3m -58% (congelado) · Caída -28% (derrumbe = esperar)
+**Técnico:** Tendencia: viento en contra · RSI 45 (frío = zona de compra) · Precio -10% bajo su promedio (castigado) · Momentum 3m -56% (congelado) · Caída -25% (derrumbe = esperar)
 
 **Noticias 7d:** 🔴 -1.0 (1) — "Suspensión comercial: estado de suspensión actualizado a las 8:25:00 a. m. ET: reanudación de la cotización: n"
 
-**Síntesis IA:** ✅ Balance sano (baja deuda) · ⚠️ Tendencia bajista, Momentum 3m -58% (débil), Caída fuerte 28% — posible cambio de tendencia, RSI 42 (zona baja) · 📌 -2.42%
+**Síntesis IA:** ✅ Balance sano (baja deuda) · ⚠️ Tendencia bajista, Momentum 3m -56% (débil) · 📌 0
 
 </details>
 
@@ -303,9 +296,9 @@ Comprar entre $153.26 y $143.19 · Si baja de $109.91 arrancar · Meta $207.52 �
 
 ## 🎓 Aprende algo hoy
 
-### Convicción: no todas las señales nacen iguales
+### ¿Por qué compramos en caídas y no en máximos?
 
-Una señal de convicción ALTA tiene fundamentales, tendencia, momento y noticias apuntando al mismo lado. Una de BAJA tiene señales cruzadas (ej: empresa buenísima pero precio desplomándose). Con baja convicción, o esperas, o compras solo la mitad de lo pensado.
+Suena raro, pero el mejor momento de comprar una acción buena es cuando baja un poco (5-15%), no cuando todos los diarios hablan maravillas de ella. En máximos, pagas el entusiasmo de todos; en un pullback, pagas el miedo de algunos. El score del sistema baja a propósito cuando algo está 'hirviendo' (RSI > 70).
 
 ---
 
