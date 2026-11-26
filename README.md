@@ -1,18 +1,16 @@
-# Señales — 2026-11-25 | 09:00 CLST (Hora Chile, UTC-03:00)
+# Señales — 2026-11-26 | 09:00 CLST (Hora Chile, UTC-03:00)
 
 > 🌎 Hora local Santiago. Resto del mundo: 12:00 UTC. Sesión: Daily Close.
 >
-> 14 acciones · 0 COMPRAR/ACUMULAR · 🏷️ 1 en oferta · DEFENSIVO — sin entradas claras, efectivo o esperar.
+> 14 acciones · 0 COMPRAR/ACUMULAR · DEFENSIVO — sin entradas claras, efectivo o esperar.
 
 ## 🧭 Resumen del día
 
 **Sin señales de compra hoy** — mejor día para observar y mantener efectivo. No pasar nada también es una decisión.
 
-**🏷️ Calidad en oferta:** **POWL** (T2) — empresas buenas castigadas por el precio, para entrar de a poco (ver su ficha).
+**Para vigilar:** 4 acciones a la espera de su momento (ELMD, POWL, MU, CRDO…).
 
-**Para vigilar:** 6 acciones a la espera de su momento (ELMD, POWL, CRDO, MU…).
-
-**Para evitar:** 8 acciones con momento negativo; no tocarlas aunque bajen 'baratas'.
+**Para evitar:** 10 acciones con momento negativo; no tocarlas aunque bajen 'baratas'.
 
 **Ánimo general:** defensivo — el mercado no regala nada hoy.
 
@@ -23,7 +21,7 @@
 
 Cada acción tiene una nota (score 0-100) y una frase que dice qué hacer. Si quieres el porqué, abre el desplegable.
 
-## ⚪ ELMD $24.76 `+5.1%` — WATCH (50, -2) · convicción baja
+## ⚪ ELMD $24.97 `+0.8%` — WATCH (52) · convicción baja
 
 *Mirar nomás, todavía no comprar.*
 
@@ -32,60 +30,38 @@ Cada acción tiene una nota (score 0-100) y una frase que dice qué hacer. Si qu
 
 **Fundamentales:** Ventas +11% (crece) · Margen 16% (sano) · ROE 24% (extraordinario) · P/E 41 (caro) · Deuda 0 (poca deuda)
 
-**Técnico:** Tendencia: viento en contra · RSI 31 (frío = zona de compra) · Precio -3% bajo su promedio (pequeño descuento) · Momentum 3m -18% (congelado) · Caída -12% (descuento ideal)
-Comprar entre $25.50 y $25.01 · Si baja de $21.33 arrancar · Meta $28.95 · Premio 0.8 (premio flojo) por cada $1 en riesgo
-
-**Noticias 7d:** 🟡 +0.0 (1) — "Actualización de la revista BetterInvesting™ sobre Electromed Inc. y Five Below Inc."
-
-**Síntesis IA:** ✅ Revenue growth +11%, Margen 16% (saludable) · ⚠️ Tendencia bajista, Momentum 3m -18% (débil) · 📌 score +5, direction sin cambios
-
-</details>
-
----
-
-## ⚪ POWL $153.88 `-5.0%` — WATCH (49, -3) · convicción baja
-
-*Se está recuperando: momento del segundo tramo.*
-
-🏷️ **OFERTA T2 — recuperó SMA20, tendencia reparándose: segundo tramo**
-
-<details>
-<summary>Fundamentales · Técnico · Noticias · Síntesis</summary>
-
-**Fundamentales:** Ventas +33% (a toda máquina) · Margen 18% (sano) · ROE 30% (extraordinario) · P/E 16 (barato) · Deuda 0 (poca deuda)
-
-**Técnico:** Tendencia: sin dirección clara · RSI 55 (tibio = normal) · Precio +3% sobre su promedio (sano) · Momentum 3m -20% (congelado) · Caída -10% (descuento ideal)
-Comprar entre $150.01 y $155.42 · Si baja de $109.00 arrancar · Meta $207.40 · Premio 1.4 (premio justo) por cada $1 en riesgo
+**Técnico:** Tendencia: viento en contra · RSI 38 (frío = zona de compra) · Precio -2% bajo su promedio (pequeño descuento) · Momentum 3m -16% (congelado) · Caída -12% (descuento ideal)
+Comprar entre $25.39 y $25.22 · Si baja de $21.40 arrancar · Meta $28.95 · Premio 0.9 (premio flojo) por cada $1 en riesgo
 
 **Noticias 7d:** sin noticias frescas
 
-**Síntesis IA:** ✅ Revenue growth +33% (excelente), Margen 18% (saludable) · ⚠️ Tendencia lateral/indefinida, Momentum 3m -20% (débil) · 📌 score 0, direction sin cambios
+**Síntesis IA:** ✅ Revenue growth +11%, Margen 16% (saludable) · ⚠️ Tendencia bajista, Momentum 3m -16% (débil) · 📌 Incremento de 2 puntos
 
 </details>
 
 ---
 
-## ⚪ CRDO $106.46 `-13.1%` — WATCH (41, -4) · convicción baja
+## ⚪ POWL $155.04 `+0.8%` — WATCH (50) · convicción baja
 
 *Mirar nomás, todavía no comprar.*
 
 <details>
 <summary>Fundamentales · Técnico · Noticias · Síntesis</summary>
 
-**Fundamentales:** Ventas +115% (a toda máquina) · Margen 34% (premium) · ROE 31% (extraordinario) · P/E 11 (barato) · Deuda 1 (poca deuda)
+**Fundamentales:** Ventas +33% (a toda máquina) · Margen 18% (sano) · ROE 30% (extraordinario) · P/E 16 (barato) · Deuda 0 (poca deuda)
 
-**Técnico:** Tendencia: viento en contra · RSI 40 (frío = zona de compra) · Precio -19% bajo su promedio (castigado) · Momentum 3m -56% (congelado) · Caída -39% (derrumbe = esperar)
-Comprar entre $131.99 y $107.52 · Si baja de $82.05 arrancar · Meta $231.59 · Premio 2.0 (premio excelente) por cada $1 en riesgo
+**Técnico:** Tendencia: sin dirección clara · RSI 68 (caliente = subiendo fuerte) · Precio +4% sobre su promedio (sano) · Momentum 3m -15% (congelado) · Caída -9% (descuento ideal)
+Comprar entre $149.36 y $156.59 · Si baja de $109.62 arrancar · Meta $207.40 · Premio 1.5 (buen premio) por cada $1 en riesgo
 
-**Noticias 7d:** 🔴 -1.0 (1) — "Las acciones de Datavault AI cotizan al alza después de que la compañía anunciara que los primeros sitios de s"
+**Noticias 7d:** sin noticias frescas
 
-**Síntesis IA:** ✅ Revenue growth +115% (excelente), Margen 34% (premium) · ⚠️ Tendencia bajista, Momentum 3m -56% (débil) · 📌 score +5, direction sin cambios
+**Síntesis IA:** ✅ Revenue growth +33% (excelente), Margen 18% (saludable) · ⚠️ Tendencia lateral/indefinida, Momentum 3m -15% (débil) · 📌 Incremento de 1 punto
 
 </details>
 
 ---
 
-## ⚪ MU $629.79 `-11.0%` — WATCH (41, -4) · convicción baja
+## ⚪ MU $601.25 `-4.5%` — WATCH (41) · convicción baja
 
 *Mirar nomás, todavía no comprar.*
 
@@ -94,58 +70,18 @@ Comprar entre $131.99 y $107.52 · Si baja de $82.05 arrancar · Meta $231.59 ·
 
 **Fundamentales:** Ventas +379% (a toda máquina) · Margen 64% (premium) · ROE 88% (extraordinario) · P/E 3 (barato) · Deuda 4 (poca deuda)
 
-**Técnico:** Tendencia: viento en contra · RSI 38 (frío = zona de compra) · Precio -17% bajo su promedio (castigado) · Momentum 3m -33% (congelado) · Caída -36% (derrumbe = esperar)
-Comprar entre $761.90 y $636.09 · Si baja de $509.72 arrancar · Meta $1108.55 · Premio 1.4 (premio justo) por cada $1 en riesgo
+**Técnico:** Tendencia: viento en contra · RSI 46 (tibio = normal) · Precio -19% bajo su promedio (castigado) · Momentum 3m -36% (congelado) · Caída -38% (derrumbe = esperar)
+Comprar entre $742.80 y $607.26 · Si baja de $477.14 arrancar · Meta $1108.55 · Premio 1.4 (premio justo) por cada $1 en riesgo
 
 **Noticias 7d:** sin noticias frescas
 
-**Síntesis IA:** ✅ Revenue growth +379% (excelente), Margen 64% (premium) · ⚠️ Tendencia bajista, Momentum 3m -33% (débil) · 📌 score 0, direction sin cambios
+**Síntesis IA:** ✅ Revenue growth +379% (excelente), Margen 64% (premium) · ⚠️ Tendencia bajista, Momentum 3m -36% (débil) · 📌 Sin cambio
 
 </details>
 
 ---
 
-## ⚪ GEV $720.65 `-4.8%` — WATCH (40, -3) · convicción baja
-
-*Mirar nomás, todavía no comprar.*
-
-<details>
-<summary>Fundamentales · Técnico · Noticias · Síntesis</summary>
-
-**Fundamentales:** Ventas +27% (a toda máquina) · Margen 24% (sano) · ROE 93% (extraordinario) · P/E 28 (razonable) · Deuda 30 (poca deuda)
-
-**Técnico:** Tendencia: viento en contra · RSI 37 (frío = zona de compra) · Precio -10% bajo su promedio (castigado) · Momentum 3m -24% (congelado) · Caída -22% (derrumbe = esperar)
-Comprar entre $804.33 y $727.86 · Si baja de $633.23 arrancar · Meta $1052.16 · Premio 1.4 (premio justo) por cada $1 en riesgo
-
-**Noticias 7d:** 🔴 -1.0 (1) — "DCP Midstream dice que despedirá al 10% de la fuerza laboral, 300 roles operativos/corporativos en 17 estados "
-
-**Síntesis IA:** ✅ Revenue growth +27% (excelente), Margen 24% (saludable) · ⚠️ Tendencia bajista, Momentum 3m -24% (débil) · 📌 score -12, direction sin cambios
-
-</details>
-
----
-
-## ⚪ VICR $125.55 `-11.6%` — WATCH (36, -4) · convicción baja
-
-*Mirar nomás, todavía no comprar.*
-
-<details>
-<summary>Fundamentales · Técnico · Noticias · Síntesis</summary>
-
-**Fundamentales:** Ventas +78% (a toda máquina) · Margen 32% (premium) · ROE 24% (extraordinario) · P/E 21 (razonable) · Deuda 1 (poca deuda)
-
-**Técnico:** Tendencia: viento en contra · RSI 38 (frío = zona de compra) · Precio -21% bajo su promedio (castigado) · Momentum 3m -38% (congelado) · Caída -43% (derrumbe = esperar)
-Comprar entre $159.88 y $126.81 · Si baja de $105.06 arrancar · Meta $331.00 · Premio 3.1 (premio excelente) por cada $1 en riesgo
-
-**Noticias 7d:** sin noticias frescas
-
-**Síntesis IA:** ✅ Revenue growth +78% (excelente), Margen 32% (premium) · ⚠️ Tendencia bajista, Momentum 3m -38% (débil) · 📌 score 0, direction sin cambios
-
-</details>
-
----
-
-## 🟡 ALAB $191.30 `-13.9%` — WAIT (35, -4) · convicción baja
+## 🟡 ALAB $190.34 `-0.5%` — WAIT (38) · convicción baja
 
 *Esperar, el momento está malo.*
 
@@ -154,17 +90,75 @@ Comprar entre $159.88 y $126.81 · Si baja de $105.06 arrancar · Meta $331.00 �
 
 **Fundamentales:** Ventas +154% (a toda máquina) · Margen 30% (premium) · ROE 28% (extraordinario) · P/E 26 (razonable) · Deuda 2 (poca deuda)
 
-**Técnico:** Tendencia: viento en contra · RSI 44 (frío = zona de compra) · Precio -14% bajo su promedio (castigado) · Momentum 3m -37% (congelado) · Caída -36% (derrumbe = esperar)
+**Técnico:** Tendencia: viento en contra · RSI 53 (tibio = normal) · Precio -12% bajo su promedio (castigado) · Momentum 3m -34% (congelado) · Caída -36% (derrumbe = esperar)
 
 **Noticias 7d:** sin noticias frescas
 
-**Síntesis IA:** ✅ Revenue growth +154% (excelente), Margen 30% (premium) · ⚠️ Tendencia bajista, Momentum 3m -37% (débil) · 📌 score -1, direction sin cambios
+**Síntesis IA:** ✅ Revenue growth +154% (excelente), Margen 30% (premium) · ⚠️ Tendencia bajista, Momentum 3m -34% (débil) · 📌 Decremento de 1 punto
 
 </details>
 
 ---
 
-## 🟡 BE $156.41 `-7.0%` — WAIT (34, -4) · convicción baja
+## ⚪ CRDO $106.79 `+0.3%` — WATCH (36, -5) · convicción baja
+
+*Mirar nomás, todavía no comprar.*
+
+<details>
+<summary>Fundamentales · Técnico · Noticias · Síntesis</summary>
+
+**Fundamentales:** Ventas +115% (a toda máquina) · Margen 34% (premium) · ROE 31% (extraordinario) · P/E 11 (barato) · Deuda 1 (poca deuda)
+
+**Técnico:** Tendencia: viento en contra · RSI 48 (tibio = normal) · Precio -17% bajo su promedio (castigado) · Momentum 3m -54% (congelado) · Caída -37% (derrumbe = esperar)
+Comprar entre $128.65 y $107.86 · Si baja de $78.28 arrancar · Meta $231.59 · Premio 2.0 (premio excelente) por cada $1 en riesgo
+
+**Noticias 7d:** 🔴 -1.0 (1) — "Las acciones de Datavault AI cotizan al alza después de que la compañía anunciara que los primeros sitios de s"
+
+**Síntesis IA:** ✅ Revenue growth +115% (excelente), Margen 34% (premium) · ⚠️ Tendencia bajista, Momentum 3m -54% (débil) · 📌 Decremento de 0 puntos
+
+</details>
+
+---
+
+## 🟡 VICR $125.45 `-0.1%` — WAIT (36) · convicción baja
+
+*Esperar, el momento está malo.*
+
+<details>
+<summary>Fundamentales · Técnico · Noticias · Síntesis</summary>
+
+**Fundamentales:** Ventas +78% (a toda máquina) · Margen 32% (premium) · ROE 24% (extraordinario) · P/E 21 (razonable) · Deuda 1 (poca deuda)
+
+**Técnico:** Tendencia: viento en contra · RSI 46 (tibio = normal) · Precio -19% bajo su promedio (castigado) · Momentum 3m -33% (congelado) · Caída -41% (derrumbe = esperar)
+
+**Noticias 7d:** sin noticias frescas
+
+**Síntesis IA:** ✅ Revenue growth +78% (excelente), Margen 32% (premium) · ⚠️ Tendencia bajista, Momentum 3m -33% (débil) · 📌 Decremento de 1 punto
+
+</details>
+
+---
+
+## 🟡 GEV $715.00 `-0.8%` — WAIT (34, -5) · convicción baja
+
+*Esperar, el momento está malo.*
+
+<details>
+<summary>Fundamentales · Técnico · Noticias · Síntesis</summary>
+
+**Fundamentales:** Ventas +27% (a toda máquina) · Margen 24% (sano) · ROE 93% (extraordinario) · P/E 27 (razonable) · Deuda 30 (poca deuda)
+
+**Técnico:** Tendencia: viento en contra · RSI 42 (frío = zona de compra) · Precio -10% bajo su promedio (castigado) · Momentum 3m -22% (congelado) · Caída -23% (derrumbe = esperar)
+
+**Noticias 7d:** 🔴 -1.0 (1) — "DCP Midstream dice que despedirá al 10% de la fuerza laboral, 300 roles operativos/corporativos en 17 estados "
+
+**Síntesis IA:** ✅ Revenue growth +27% (excelente), Margen 24% (saludable) · ⚠️ Tendencia bajista, Momentum 3m -22% (débil) · 📌 Decremento de 1 punto
+
+</details>
+
+---
+
+## 🟡 BE $152.89 `-2.2%` — WAIT (34) · convicción baja
 
 *Esperar, el momento está malo.*
 
@@ -173,36 +167,17 @@ Comprar entre $159.88 y $126.81 · Si baja de $105.06 arrancar · Meta $331.00 �
 
 **Fundamentales:** Ventas +138% (a toda máquina) · Margen 14% (sano) · ROE 40% (extraordinario) · P/E 29 (razonable) · Deuda 142 (deuda manejable)
 
-**Técnico:** Tendencia: viento en contra · RSI 39 (frío = zona de compra) · Precio -16% bajo su promedio (castigado) · Momentum 3m -28% (congelado) · Caída -32% (derrumbe = esperar)
+**Técnico:** Tendencia: viento en contra · RSI 46 (tibio = normal) · Precio -17% bajo su promedio (castigado) · Momentum 3m -28% (congelado) · Caída -33% (derrumbe = esperar)
 
 **Noticias 7d:** sin noticias frescas
 
-**Síntesis IA:** ✅ Revenue growth +138% (excelente), Margen 14% (saludable) · ⚠️ Tendencia bajista, Momentum 3m -28% (débil) · 📌 score 0, direction sin cambios
+**Síntesis IA:** ✅ Revenue growth +138% (excelente), Margen 14% (saludable) · ⚠️ Tendencia bajista, Momentum 3m -28% (débil) · 📌 Decremento de 1 punto
 
 </details>
 
 ---
 
-## 🟡 IONQ $22.40 `-4.0%` — WAIT (33, -4) · convicción baja
-
-*Esperar, el momento está malo.*
-
-<details>
-<summary>Fundamentales · Técnico · Noticias · Síntesis</summary>
-
-**Fundamentales:** Ventas +336% (a toda máquina) · Margen 67% (premium) · ROE 7% (normal) · P/E -16 (barato) · Deuda 3 (poca deuda)
-
-**Técnico:** Tendencia: viento en contra · RSI 38 (frío = zona de compra) · Precio -21% bajo su promedio (castigado) · Momentum 3m -47% (congelado) · Caída -38% (derrumbe = esperar)
-
-**Noticias 7d:** 🔴 -1.0 (1) — "Las acciones de Boxlight cotizan al alza después de que la compañía anunciara que recuperó el cumplimiento del"
-
-**Síntesis IA:** ✅ Revenue growth +336% (excelente), Margen 67% (premium) · ⚠️ Tendencia bajista, Momentum 3m -47% (débil) · 📌 score 0, direction sin cambios
-
-</details>
-
----
-
-## 🟡 VRT $173.82 `-6.7%` — WAIT (32, -5) · convicción baja
+## 🟡 VRT $173.37 `-0.3%` — WAIT (32, -5) · convicción baja
 
 *Esperar, el momento está malo.*
 
@@ -211,74 +186,74 @@ Comprar entre $159.88 y $126.81 · Si baja de $105.06 arrancar · Meta $331.00 �
 
 **Fundamentales:** Ventas +61% (a toda máquina) · Margen 16% (sano) · ROE 47% (extraordinario) · P/E 18 (barato) · Deuda 61 (deuda manejable)
 
-**Técnico:** Tendencia: viento en contra · RSI 40 (frío = zona de compra) · Precio -14% bajo su promedio (castigado) · Momentum 3m -35% (congelado) · Caída -32% (derrumbe = esperar)
+**Técnico:** Tendencia: viento en contra · RSI 49 (tibio = normal) · Precio -13% bajo su promedio (castigado) · Momentum 3m -32% (congelado) · Caída -32% (derrumbe = esperar)
 
 **Noticias 7d:** 🔴 -1.0 (2) — "Apple subió de categoría, Qualcomm bajó de categoría: los principales analistas de Wall Street llaman" / "DCP Midstream dice que despedirá al 10% de la fuerza laboral, 300 roles operativos/corporativos en 17 estados "
 
-**Síntesis IA:** ✅ Revenue growth +61% (excelente), Margen 16% (saludable) · ⚠️ Tendencia bajista, Momentum 3m -35% (débil) · 📌 score 0, direction sin cambios
+**Síntesis IA:** ✅ Revenue growth +61% (excelente), Margen 16% (saludable) · ⚠️ Tendencia bajista, Momentum 3m -32% (débil) · 📌 Decremento de 5 puntos
 
 </details>
 
 ---
 
-## 🔴 NOW $91.74 `+0.0%` — AVOID (15, -5) · convicción baja
+## 🟡 IONQ $23.54 `+5.1%` — WAIT (28, -5) · convicción baja
 
-*Evitar por ahora.*
+*Esperar, el momento está malo.*
+
+<details>
+<summary>Fundamentales · Técnico · Noticias · Síntesis</summary>
+
+**Fundamentales:** Ventas +336% (a toda máquina) · Margen 67% (premium) · ROE 7% (normal) · P/E -17 (barato) · Deuda 3 (poca deuda)
+
+**Técnico:** Tendencia: viento en contra · RSI 45 (frío = zona de compra) · Precio -16% bajo su promedio (castigado) · Momentum 3m -40% (congelado) · Caída -35% (derrumbe = esperar)
+
+**Noticias 7d:** 🔴 -0.5 (2) — "CORRECCIÓN: La oferta de notas sénior convertibles de T1 Energy se informó el 15 de abril" / "Las acciones de Boxlight cotizan al alza después de que la compañía anunciara que recuperó el cumplimiento del"
+
+**Síntesis IA:** ✅ Revenue growth +336% (excelente), Margen 67% (premium) · ⚠️ Tendencia bajista, Momentum 3m -40% (débil) · 📌 Incremento de 8 puntos
+
+</details>
+
+---
+
+## 🟡 NOW $92.16 `+0.5%` — WAIT (25) · convicción baja
+
+*Esperar, el momento está malo.*
 
 <details>
 <summary>Fundamentales · Técnico · Noticias · Síntesis</summary>
 
 **Fundamentales:** Ventas +20% (fuerte) · Margen 9% (fino) · ROE 12% (normal) · P/E 19 (barato) · Deuda 64 (deuda manejable)
 
-**Técnico:** Tendencia: viento en contra · RSI 26 (muy frío = posible oferta) · Precio -10% bajo su promedio (castigado) · Momentum 3m -34% (congelado) · Caída -41% (derrumbe = esperar)
+**Técnico:** Tendencia: viento en contra · RSI 33 (frío = zona de compra) · Precio -7% bajo su promedio (castigado) · Momentum 3m -36% (congelado) · Caída -24% (derrumbe = esperar)
 
 **Noticias 7d:** sin noticias frescas
 
-**Síntesis IA:** ✅ Revenue growth +20% (fuerte) · ⚠️ Tendencia bajista, Momentum 3m -34% (débil) · 📌 score +1, direction sin cambios
+**Síntesis IA:** ✅ Revenue growth +20% (fuerte), RSI 33 (sobrevendido — zona de compra) · ⚠️ Tendencia bajista, Momentum 3m -36% (débil) · 📌 Incremento de 1 punto
 
 </details>
 
 ---
 
-## 🔴 RKLB $45.98 `-7.3%` — AVOID (6, -5) · convicción baja
+## 🔴 RKLB $47.02 `+2.3%` — AVOID (10) · convicción baja
 
 *Evitar por ahora.*
 
 <details>
 <summary>Fundamentales · Técnico · Noticias · Síntesis</summary>
 
-**Fundamentales:** Ventas +73% (a toda máquina) · Margen -26% (en rojo) · ROE -6% (débil) · P/E 642 (muy caro) · Deuda 2 (poca deuda)
+**Fundamentales:** Ventas +73% (a toda máquina) · Margen -26% (en rojo) · ROE -6% (débil) · P/E 657 (muy caro) · Deuda 2 (poca deuda)
 
-**Técnico:** Tendencia: viento en contra · RSI 44 (frío = zona de compra) · Precio -16% bajo su promedio (castigado) · Momentum 3m -32% (congelado) · Caída -33% (derrumbe = esperar)
+**Técnico:** Tendencia: viento en contra · RSI 51 (tibio = normal) · Precio -14% bajo su promedio (castigado) · Momentum 3m -27% (congelado) · Caída -31% (derrumbe = esperar)
 
 **Noticias 7d:** 🟡 +0.0 (1) — "SpaceX presenta la enmienda S-1 y divulga el acuerdo de servicio en la nube de junio de 2026 para proporcionar"
 
-**Síntesis IA:** ✅ Revenue growth +73% (excelente), Balance sano (baja deuda) · ⚠️ Sin rentabilidad neta, Tendencia bajista, Momentum 3m -32% (débil) · 📌 score 0, direction sin cambios
+**Síntesis IA:** ✅ Revenue growth +73% (excelente), Balance sano (baja deuda) · ⚠️ Sin rentabilidad neta, Tendencia bajista, Momentum 3m -27% (débil) · 📌 Incremento de 9 puntos
 
 </details>
 
 ---
 
-## 🔴 USAR $6.68 `-4.8%` — AVOID (1, -5) · convicción baja
-
-*Evitar por ahora.*
-
-<details>
-<summary>Fundamentales · Técnico · Noticias · Síntesis</summary>
-
-**Fundamentales:** Ventas s/d · Margen s/d · ROE -5% (débil) · P/E 28 (razonable) · Deuda 14 (poca deuda)
-
-**Técnico:** Tendencia: viento en contra · RSI 39 (frío = zona de compra) · Precio -17% bajo su promedio (castigado) · Momentum 3m -65% (congelado) · Caída -39% (derrumbe = esperar)
-
-**Noticias 7d:** 🔴 -1.0 (1) — "Viamet Reports recibió la designación de medicamento huérfano para VT-1598 para el tratamiento de la coccidioi"
-
-**Síntesis IA:** ✅ Balance sano (baja deuda) · ⚠️ Tendencia bajista, Momentum 3m -65% (débil) · 📌 score 0, direction sin cambios
-
-</details>
-
----
-
-## 🔴 OKLO $19.20 `-7.6%` — AVOID (0, -2) · convicción baja
+## 🔴 OKLO $19.47 `+1.4%` — AVOID (1) · convicción baja
 
 *Evitar por ahora.*
 
@@ -287,11 +262,30 @@ Comprar entre $159.88 y $126.81 · Si baja de $105.06 arrancar · Meta $331.00 �
 
 **Fundamentales:** Ventas s/d · Margen s/d · ROE -7% (débil) · P/E -17 (barato) · Deuda 0 (poca deuda)
 
-**Técnico:** Tendencia: viento en contra · RSI 43 (frío = zona de compra) · Precio -17% bajo su promedio (castigado) · Momentum 3m -55% (congelado) · Caída -31% (derrumbe = esperar)
+**Técnico:** Tendencia: viento en contra · RSI 51 (tibio = normal) · Precio -15% bajo su promedio (castigado) · Momentum 3m -52% (congelado) · Caída -30% (derrumbe = esperar)
 
 **Noticias 7d:** sin noticias frescas
 
-**Síntesis IA:** ✅ Balance sano (baja deuda) · ⚠️ Tendencia bajista, Momentum 3m -55% (débil) · 📌 score 0, direction sin cambios
+**Síntesis IA:** ✅ Balance sano (baja deuda) · ⚠️ Tendencia bajista, Momentum 3m -52% (débil) · 📌 Incremento de 1 punto
+
+</details>
+
+---
+
+## 🔴 USAR $6.59 `-1.4%` — AVOID (0, -2) · convicción baja
+
+*Evitar por ahora.*
+
+<details>
+<summary>Fundamentales · Técnico · Noticias · Síntesis</summary>
+
+**Fundamentales:** Ventas s/d · Margen s/d · ROE -5% (débil) · P/E 28 (razonable) · Deuda 14 (poca deuda)
+
+**Técnico:** Tendencia: viento en contra · RSI 44 (frío = zona de compra) · Precio -16% bajo su promedio (castigado) · Momentum 3m -63% (congelado) · Caída -40% (derrumbe = esperar)
+
+**Noticias 7d:** 🔴 -1.0 (1) — "Viamet Reports recibió la designación de medicamento huérfano para VT-1598 para el tratamiento de la coccidioi"
+
+**Síntesis IA:** ✅ Balance sano (baja deuda) · ⚠️ Tendencia bajista, Momentum 3m -63% (débil) · 📌 Decremento de 1 punto
 
 </details>
 
@@ -301,9 +295,9 @@ Comprar entre $159.88 y $126.81 · Si baja de $105.06 arrancar · Meta $331.00 �
 
 ## 🎓 Aprende algo hoy
 
-### ¿Qué es el RSI en 10 segundos?
+### Stop loss: el seguro de tu billetera
 
-Un termómetro de 0 a 100 que mide si una acción subió 'demasiado rápido' (>70, caliente) o cayó 'demasiado rápido' (<30, congelado). No adivina el futuro: solo avisa cuando el péndulo está estirado. Frío + empresa buena = oportunidad; frío + empresa mala = trampa.
+Es el precio al cual te rindes y vendes para no perder más. Duele, pero un stop de -8% se recupera; una caída de -50% necesita +100% para volver. Por eso cada ficha con señal de compra trae su 'si baja de X, arrancar'.
 
 ---
 
